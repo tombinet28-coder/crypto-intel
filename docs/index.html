@@ -1,0 +1,506 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="dark">
+<title>Crypto Daily</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:wght@500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root, :root[data-theme="dark"], :root[data-theme="light"] {
+  --bg: #000000;
+  --surface: #0c0c0c;
+  --surface-2: #141414;
+  --line: #1e1e1e;
+  --line-strong: #2c2c2c;
+  --text: #f1f1f1;
+  --muted: #9a9a9a;
+  --faint: #5c5c5c;
+  --pos: #34d399;
+  --neu: #e9c46a;
+  --warn: #f4a259;
+  --neg: #f87171;
+  --radius-lg: 14px;
+  --radius-sm: 8px;
+  --sans: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --cond: "IBM Plex Sans Condensed", "IBM Plex Sans", system-ui, sans-serif;
+  color-scheme: dark;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --bg: #000000; } }
+:root { box-sizing: border-box; padding-top: env(safe-area-inset-top, 0px); padding-bottom: env(safe-area-inset-bottom, 0px); }
+*, *::before, *::after { box-sizing: inherit; }
+html { scroll-padding-top: calc(env(safe-area-inset-top, 0px) + 64px); background: var(--bg); }
+body { margin: 0; background: var(--bg); color: var(--text); font-family: var(--sans); font-size: 15px; line-height: 1.5; -webkit-font-smoothing: antialiased; font-feature-settings: "tnum" 1; }
+img { max-width: 100%; }
+a { color: var(--text); text-decoration-color: var(--faint); text-underline-offset: 3px; }
+a:focus-visible, button:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px solid var(--text); outline-offset: 2px; border-radius: 4px; }
+.wrap { max-width: 640px; margin: 0 auto; padding: 0 18px 48px; }
+
+/* Masthead */
+.mast { display: flex; align-items: flex-end; justify-content: space-between; gap: 12px; padding: 22px 0 16px; }
+.mast h1 { margin: 0; font-family: var(--cond); font-weight: 600; font-size: 44px; line-height: .95; letter-spacing: -0.01em; }
+.mast .when { margin-top: 6px; color: var(--muted); font-size: 14px; }
+.mast .when strong { color: var(--text); font-weight: 500; }
+.archive { background: var(--surface); color: var(--text); border: 1px solid var(--line-strong); border-radius: var(--radius-sm); padding: 8px 10px; font: 500 13px var(--sans); max-width: 150px; }
+
+/* Section index */
+.index { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg); border-bottom: 1px solid var(--line); margin: 0 -18px; padding: 10px 18px; display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none; }
+.index::-webkit-scrollbar { display: none; }
+.index a { flex: none; text-decoration: none; color: var(--muted); font-size: 13px; padding: 6px 11px; border: 1px solid var(--line); border-radius: 999px; }
+.index a:hover { color: var(--text); border-color: var(--line-strong); }
+
+/* TL;DR — the one bold element */
+.tldr { margin: 22px 0 8px; }
+.tldr h2 { font-family: var(--cond); font-size: 15px; font-weight: 600; color: var(--muted); margin: 0 0 12px; }
+.tldr ol { list-style: none; margin: 0; padding: 0; display: grid; gap: 12px; }
+.tldr li { display: grid; grid-template-columns: 4px 1fr; gap: 14px; font-size: 17px; line-height: 1.42; }
+.tldr li::before { content: ""; border-radius: 2px; background: var(--c, var(--faint)); }
+
+/* Ticker strip */
+.strip { display: flex; gap: 8px; overflow-x: auto; margin: 22px -18px 0; padding: 0 18px 4px; scrollbar-width: none; }
+.strip::-webkit-scrollbar { display: none; }
+.tick { flex: none; min-width: 104px; border: 1px solid var(--line); border-radius: var(--radius-sm); padding: 9px 11px; background: var(--surface); }
+.tick .s { font-size: 12px; color: var(--muted); font-weight: 500; }
+.tick .p { font-family: var(--cond); font-size: 19px; font-weight: 600; margin-top: 2px; }
+.tick .d { font-size: 12.5px; font-weight: 500; }
+
+/* Sections */
+section { margin-top: 40px; }
+section > h2 { display: flex; align-items: baseline; gap: 10px; font-family: var(--cond); font-weight: 600; font-size: 24px; margin: 0 0 14px; letter-spacing: -0.005em; }
+section > h2 .n { font-family: var(--sans); font-size: 13px; color: var(--faint); font-weight: 500; }
+.empty-line { color: var(--muted); font-size: 14px; border: 1px dashed var(--line-strong); border-radius: var(--radius-sm); padding: 12px 14px; }
+
+/* Cards */
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius-lg); padding: 16px; }
+.stack { display: grid; gap: 10px; }
+.card h3 { margin: 0; font-size: 16.5px; line-height: 1.35; font-weight: 600; }
+.badges { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+.badge { display: inline-flex; align-items: center; gap: 6px; font-size: 12px; font-weight: 500; color: var(--text); background: var(--surface-2); border: 1px solid var(--line); border-radius: 999px; padding: 3px 9px 3px 7px; white-space: nowrap; }
+.badge::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: var(--c, var(--faint)); }
+.badge.plain::before { display: none; }
+.badge.plain { padding-left: 9px; color: var(--muted); }
+.lead { margin: 10px 0 0; color: #d6d6d6; }
+details.more { margin-top: 10px; border-top: 1px solid var(--line); }
+details.more > summary { list-style: none; cursor: pointer; padding: 10px 0 0; color: var(--muted); font-size: 13.5px; font-weight: 500; display: flex; align-items: center; gap: 8px; }
+details.more > summary::-webkit-details-marker { display: none; }
+details.more > summary::after { content: "+"; font-size: 16px; line-height: 1; color: var(--faint); }
+details.more[open] > summary::after { content: "−"; }
+details.more[open] > summary { color: var(--text); }
+dl.kv { display: grid; grid-template-columns: 1fr; gap: 10px; margin: 12px 0 0; }
+dl.kv div { display: grid; gap: 2px; }
+dl.kv dt { font-size: 12.5px; color: var(--muted); }
+dl.kv dd { margin: 0; font-size: 14.5px; }
+.sources { margin-top: 12px; display: grid; gap: 4px; font-size: 13px; color: var(--muted); }
+.sources a { color: var(--muted); }
+.single { color: var(--warn); font-size: 12.5px; margin-top: 8px; }
+
+/* Market */
+.grid2 { display: grid; grid-template-columns: 1fr; gap: 10px; }
+@media (min-width: 560px) { .grid2 { grid-template-columns: 1fr 1fr; } }
+.coin { padding: 14px; }
+.coin .top { display: flex; justify-content: space-between; align-items: baseline; gap: 6px; }
+.coin .sym { font-weight: 600; font-size: 14px; }
+.coin .nm { color: var(--muted); font-size: 12px; }
+.coin .price { font-family: var(--cond); font-weight: 600; font-size: 28px; line-height: 1.05; }
+.coin .price.na { font-family: var(--sans); font-size: 14px; color: var(--warn); font-weight: 500; }
+.coin .row { display: flex; align-items: flex-end; justify-content: space-between; gap: 12px; margin-top: 6px; }
+.coin .chg { display: grid; justify-items: end; gap: 1px; font-size: 13px; white-space: nowrap; }
+.coin .chg span b { font-weight: 500; }
+.coin .meta { color: var(--faint); font-size: 11.5px; margin-top: 6px; }
+.coin .drv { font-size: 13.5px; margin-top: 10px; color: #d6d6d6; }
+.coin ul { margin: 8px 0 0; padding-left: 16px; font-size: 13.5px; color: #d6d6d6; }
+.coin ul li { margin: 3px 0; }
+.coin h4 { margin: 12px 0 0; font-size: 12.5px; color: var(--muted); font-weight: 500; }
+.coin.span2 { grid-column: 1 / -1; }
+
+/* Lists (unlocks, on-chain) */
+.rows { list-style: none; margin: 0; padding: 0; border: 1px solid var(--line); border-radius: var(--radius-lg); background: var(--surface); }
+.rows > li { display: grid; grid-template-columns: 58px 1fr; gap: 12px; padding: 13px 14px; border-bottom: 1px solid var(--line); }
+.rows > li:last-child { border-bottom: 0; }
+.rows > li.prio { background: #15120a; }
+.rows .dt { font-family: var(--cond); font-weight: 600; font-size: 15px; line-height: 1.3; color: var(--muted); }
+.rows .tt { font-weight: 600; font-size: 15px; }
+.rows .sub { font-size: 13.5px; color: #d6d6d6; margin-top: 2px; }
+.rows .who2 { font-size: 12.5px; color: var(--muted); margin-top: 6px; }
+.rows .badges { margin-top: 8px; }
+.rows.metrics > li { grid-template-columns: 1fr auto; align-items: baseline; }
+.rows.metrics .val { font-family: var(--cond); font-weight: 600; font-size: 19px; white-space: nowrap; }
+/* Tables */
+.tablewrap { overflow-x: auto; border: 1px solid var(--line); border-radius: var(--radius-lg); background: var(--surface); }
+table { border-collapse: collapse; width: 100%; min-width: 520px; font-size: 13.5px; }
+th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { color: var(--muted); font-weight: 500; font-size: 12.5px; }
+tr:last-child td { border-bottom: 0; }
+tr.prio td { background: #16130a; }
+td .tok { font-weight: 600; }
+
+/* X posts */
+.post .who { display: flex; justify-content: space-between; gap: 10px; font-size: 13px; color: var(--muted); }
+.post .who b { color: var(--text); font-weight: 600; font-size: 14.5px; }
+.post p { margin: 8px 0 0; }
+.post .why { color: var(--muted); font-size: 13.5px; margin-top: 6px; }
+
+/* Watchlist */
+.watch { list-style: none; margin: 0; padding: 0; display: grid; gap: 0; border: 1px solid var(--line); border-radius: var(--radius-lg); background: var(--surface); }
+.watch li { display: grid; grid-template-columns: 22px 1fr; gap: 10px; padding: 13px 14px; border-bottom: 1px solid var(--line); font-size: 15px; }
+.watch li:last-child { border-bottom: 0; }
+.watch .k { font-family: var(--cond); font-weight: 600; color: var(--c, var(--faint)); font-size: 17px; line-height: 1.3; }
+
+/* Breaking */
+.breaking .card { border-color: #3a1616; background: #0f0808; }
+.breaking .t { font-size: 12.5px; color: var(--neg); font-weight: 500; }
+
+/* Legend + footer */
+.legend { margin-top: 40px; color: var(--muted); font-size: 13px; }
+.legend summary { cursor: pointer; }
+.legend .row { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+footer { margin-top: 28px; color: var(--faint); font-size: 12.5px; line-height: 1.6; }
+.state { margin-top: 60px; text-align: left; }
+.state h2 { font-family: var(--cond); font-size: 26px; margin: 0 0 8px; }
+.state p { color: var(--muted); max-width: 46ch; }
+.note { color: var(--muted); font-size: 13px; margin-top: 14px; }
+@media (prefers-reduced-motion: no-preference) {
+  .tldr li { animation: rise .5s ease both; }
+  .tldr li:nth-child(2){animation-delay:.04s} .tldr li:nth-child(3){animation-delay:.08s} .tldr li:nth-child(4){animation-delay:.12s}
+  .tldr li:nth-child(5){animation-delay:.16s} .tldr li:nth-child(6){animation-delay:.2s} .tldr li:nth-child(7){animation-delay:.24s} .tldr li:nth-child(8){animation-delay:.28s}
+  @keyframes rise { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+}
+</style>
+</head>
+<body>
+<div class="wrap" id="app">
+  <div class="state" id="boot">
+    <h2>Crypto Daily</h2>
+    <p>Chargement du briefing…</p>
+  </div>
+</div>
+<script>
+(function () {
+  "use strict";
+  var COLORS = { pos: "var(--pos)", neu: "var(--neu)", neg: "var(--neg)", warn: "var(--warn)" };
+  var IMPACT = { pos: ["Positif", COLORS.pos], neu: ["Neutre", COLORS.neu], neg: ["Négatif", COLORS.neg] };
+  var CONF = { confirmed: ["Confirmé", COLORS.pos], likely: ["Probable", COLORS.neu], unconfirmed: ["Non confirmé", COLORS.warn], rumor: ["Rumeur", COLORS.neg] };
+  var CONV = { high: ["Sérieux", COLORS.pos], watch: ["À surveiller", COLORS.neu], spec: ["Spéculatif", COLORS.warn], risk: ["Risque élevé", COLORS.neg] };
+  var KIND = { official: "Déclaration officielle", person: "Personnalité du secteur", media: "Média", data: "Donnée on-chain", opinion: "Opinion", rumor: "Rumeur", fake: "Fake / arnaque" };
+  var RISK = { low: ["Faible", COLORS.pos], med: ["Moyenne", COLORS.neu], high: ["Élevée", COLORS.neg] };
+
+  var state = { list: [], current: null };
+
+  function h(tag, attrs, kids) {
+    var el = document.createElement(tag);
+    if (attrs) for (var k in attrs) {
+      var v = attrs[k];
+      if (v == null || v === false) continue;
+      if (k === "class") el.className = v;
+      else if (k === "text") el.textContent = v;
+      else if (k === "style") el.setAttribute("style", v);
+      else if (k.slice(0, 2) === "on") el.addEventListener(k.slice(2), v);
+      else el.setAttribute(k, v);
+    }
+    (kids || []).forEach(function (c) {
+      if (c == null || c === false) return;
+      el.appendChild(typeof c === "string" ? document.createTextNode(c) : c);
+    });
+    return el;
+  }
+  function safeUrl(u) { return (typeof u === "string" && /^https?:\/\//i.test(u)) ? u : null; }
+  function badge(map, key, prefix) {
+    var m = map[key]; if (!m) return null;
+    return h("span", { class: "badge", style: "--c:" + m[1] }, [(prefix ? prefix + " : " : "") + m[0]]);
+  }
+  function plain(text) { return h("span", { class: "badge plain" }, [text]); }
+  function fmtPrice(p) {
+    if (p == null || isNaN(p)) return null;
+    var opts = p >= 1000 ? { maximumFractionDigits: 0 } : p >= 1 ? { maximumFractionDigits: 2 } : { maximumSignificantDigits: 4 };
+    return new Intl.NumberFormat("fr-FR", opts).format(p) + " $";
+  }
+  function fmtPct(v) {
+    if (v == null || isNaN(v)) return null;
+    return (v > 0 ? "+" : v < 0 ? "−" : "") + new Intl.NumberFormat("fr-FR", { maximumFractionDigits: 1 }).format(Math.abs(v)) + " %";
+  }
+  function pctColor(v) { return v == null ? "var(--muted)" : v > 0 ? COLORS.pos : v < 0 ? COLORS.neg : "var(--muted)"; }
+  function fmtVol(v) {
+    if (v == null || isNaN(v)) return null;
+    if (v >= 1e9) return new Intl.NumberFormat("fr-FR", { maximumFractionDigits: 2 }).format(v / 1e9) + " Md$";
+    return new Intl.NumberFormat("fr-FR", { maximumFractionDigits: 0 }).format(v / 1e6) + " M$";
+  }
+  function fmtDate(iso) {
+    try {
+      var d = new Date(iso + "T12:00:00Z");
+      var s = new Intl.DateTimeFormat("fr-FR", { weekday: "long", day: "numeric", month: "long", year: "numeric" }).format(d);
+      return s.charAt(0).toUpperCase() + s.slice(1);
+    } catch (e) { return iso; }
+  }
+  function shortDate(iso) {
+    try { return new Intl.DateTimeFormat("fr-FR", { day: "numeric", month: "short" }).format(new Date(iso + "T12:00:00Z")); } catch (e) { return iso; }
+  }
+  function sourcesEl(list, single) {
+    if (!list || !list.length) return null;
+    var box = h("div", { class: "sources" });
+    list.forEach(function (s) {
+      var url = safeUrl(s.url);
+      var label = s.name + (s.publishedAt ? " (" + s.publishedAt + ")" : "");
+      box.appendChild(h("div", null, ["Source : ", url ? h("a", { href: url, target: "_blank", rel: "noopener noreferrer" }, [label]) : label]));
+    });
+    if (single || list.length === 1) box.appendChild(h("div", { class: "single" }, ["Une seule source : à recouper."]));
+    return box;
+  }
+  function kv(pairs) {
+    var dl = h("dl", { class: "kv" });
+    pairs.forEach(function (p) { if (p[1]) dl.appendChild(h("div", null, [h("dt", null, [p[0]]), h("dd", null, [p[1]])])); });
+    return dl;
+  }
+  function section(id, icon, title, count, body) {
+    return h("section", { id: id }, [h("h2", null, [icon + " " + title, count != null ? h("span", { class: "n" }, [String(count)]) : null])].concat(body));
+  }
+  function emptyLine(t) { return h("div", { class: "empty-line" }, [t]); }
+
+  function render() {
+    var b = state.current; var app = document.getElementById("app");
+    app.textContent = "";
+    if (!b) return;
+
+    // Masthead
+    var sel = null;
+    if (state.list.length > 1) {
+      sel = h("select", { class: "archive", "aria-label": "Choisir une édition", onchange: function (e) { pick(e.target.value); } });
+      state.list.forEach(function (x) { var o = h("option", { value: x.date }, [shortDate(x.date)]); if (x.date === b.date) o.selected = true; sel.appendChild(o); });
+    }
+    var upd = b.updatedAt && b.updatedAt !== b.generatedAt ? " — mis à jour " + new Intl.DateTimeFormat("fr-FR", { hour: "2-digit", minute: "2-digit", timeZone: "Europe/Paris" }).format(new Date(b.updatedAt)) : "";
+    app.appendChild(h("header", { class: "mast" }, [
+      h("div", null, [h("h1", null, ["Crypto Daily"]), h("div", { class: "when" }, [h("strong", null, [b.edition || "06:30"]), " — " + fmtDate(b.date) + upd])]),
+      sel
+    ]));
+
+    // Index
+    var idx = [["tldr", "TL;DR"], ["breaking", "Breaking"], ["news", "News"], ["market", "Market"], ["x", "X"], ["projects", "Projets"], ["smart", "Smart money"], ["unlocks", "Unlocks"], ["regulation", "Régulation"], ["macro", "Macro"], ["onchain", "On-chain"], ["watchlist", "Watchlist"]];
+    app.appendChild(h("nav", { class: "index", "aria-label": "Sections" }, idx.filter(function (i) { return i[0] !== "breaking" || (b.breaking && b.breaking.length); }).map(function (i) { return h("a", { href: "#" + i[0] }, [i[1]]); })));
+
+    // TL;DR
+    var tl = h("ol");
+    (b.tldr || []).forEach(function (t) { tl.appendChild(h("li", { style: "--c:" + (COLORS[t.impact] || "var(--faint)") }, [h("span", null, [t.text])])); });
+    app.appendChild(h("div", { class: "tldr", id: "tldr" }, [h("h2", null, ["⚡ TL;DR"]), tl]));
+
+    // Ticker strip
+    if (b.market && b.market.length) {
+      var strip = h("div", { class: "strip", "aria-label": "Prix des cryptos prioritaires" });
+      b.market.forEach(function (m) {
+        strip.appendChild(h("a", { class: "tick", href: "#coin-" + m.symbol, style: "text-decoration:none" }, [
+          h("div", { class: "s" }, [m.symbol]),
+          h("div", { class: "p" }, [fmtPrice(m.price) || "n/d"]),
+          h("div", { class: "d", style: "color:" + pctColor(m.change24h) }, [fmtPct(m.change24h) ? fmtPct(m.change24h) + " 24 h" : "24 h n/d"])
+        ]));
+      });
+      app.appendChild(strip);
+    }
+    if (b.note) app.appendChild(h("p", { class: "note" }, [b.note]));
+
+    // Breaking
+    if (b.breaking && b.breaking.length) {
+      var bk = h("div", { class: "stack breaking" });
+      b.breaking.forEach(function (x) {
+        bk.appendChild(h("article", { class: "card" }, [
+          h("div", { class: "t" }, [(x.level === "critical" ? "🚨 Critique" : "🔔 Important") + " — " + (x.time || "")]),
+          h("h3", { style: "margin-top:6px" }, [x.title]),
+          h("div", { class: "badges" }, [badge(CONF, x.confidence)]),
+          x.summary ? h("p", { class: "lead" }, [x.summary]) : null,
+          sourcesEl(x.sources)
+        ]));
+      });
+      app.appendChild(section("breaking", "🚨", "Breaking", b.breaking.length, [bk]));
+    }
+
+    // News
+    var news = h("div", { class: "stack" });
+    (b.news || []).forEach(function (n, i) {
+      news.appendChild(h("article", { class: "card" }, [
+        h("h3", null, [n.title]),
+        h("div", { class: "badges" }, [badge(IMPACT, n.impact, "Impact"), badge(CONF, n.confidence)].concat((n.assets || []).map(plain))),
+        h("p", { class: "lead" }, [n.what]),
+        h("details", { class: "more" }, [h("summary", null, ["Pourquoi c'est important"]),
+          kv([["Pourquoi", n.why], ["Court terme", n.shortTerm], ["Moyen / long terme", n.longTerm]]),
+          sourcesEl(n.sources, n.singleSource)])
+      ]));
+    });
+    app.appendChild(section("news", "🔴", "Biggest news", (b.news || []).length, [news.childNodes.length ? news : emptyLine("Rien de majeur sur les dernières 24 h.")]));
+
+    // Market
+    var grid = h("div", { class: "grid2" });
+    (b.market || []).forEach(function (m) {
+      var price = fmtPrice(m.price);
+      var chg = h("div", { class: "chg" }, [
+        h("span", { style: "color:" + pctColor(m.change24h) }, [h("b", null, [fmtPct(m.change24h) || "n/d"]), " 24 h"]),
+        h("span", { style: "color:" + pctColor(m.change7d) }, [h("b", null, [fmtPct(m.change7d) || "n/d"]), " 7 j"])
+      ]);
+      var card = h("article", { class: "card coin", id: "coin-" + m.symbol }, [
+        h("div", { class: "top" }, [h("span", { class: "sym" }, [m.symbol]), h("span", { class: "nm" }, [m.name])]),
+        h("div", { class: "row" }, [price ? h("div", { class: "price" }, [price]) : h("div", { class: "price na" }, ["Prix non disponible"]), chg]),
+        h("div", { class: "meta" }, [(fmtVol(m.volume) ? "Vol. 24 h " + fmtVol(m.volume) + " — " : "") + (m.asOf || "") + (m.source ? " — " + m.source : "")]),
+        m.driver ? h("div", { class: "drv" }, [h("span", { style: "color:var(--muted)" }, ["Ce qui peut la faire bouger : "]), m.driver]) : null,
+        h("div", { class: "badges" }, [badge(IMPACT, m.sentiment, "Sentiment")]),
+        h("details", { class: "more" }, [h("summary", null, ["Événements et points à surveiller"]),
+          m.events && m.events.length ? h("h4", null, ["Événements"]) : null,
+          m.events && m.events.length ? h("ul", null, m.events.map(function (e) { return h("li", null, [e]); })) : null,
+          m.watch && m.watch.length ? h("h4", null, ["À surveiller"]) : null,
+          m.watch && m.watch.length ? h("ul", null, m.watch.map(function (e) { return h("li", null, [e]); })) : null])
+      ]);
+      grid.appendChild(card);
+    });
+    app.appendChild(section("market", "📊", "Market", null, [grid]));
+
+    // X
+    var xs = h("div", { class: "stack" });
+    (b.x || []).forEach(function (p) {
+      xs.appendChild(h("article", { class: "card post" }, [
+        h("div", { class: "who" }, [h("span", null, [h("b", null, [p.author]), p.handle ? " " + p.handle : ""]), h("span", null, [p.time || ""])]),
+        h("div", { class: "badges" }, [plain(KIND[p.kind] || p.kind), badge(IMPACT, p.sentiment, "Sentiment"), p.asset ? plain(p.asset) : null]),
+        h("p", null, [p.summary]),
+        p.why ? h("div", { class: "why" }, [p.why]) : null
+      ]));
+    });
+    app.appendChild(section("x", "🐦", "X / Twitter", (b.x || []).length, [xs.childNodes.length ? xs : emptyLine("Aucune publication importante repérée.")]));
+
+    // Projects
+    var pj = h("div", { class: "stack" });
+    (b.projects || []).forEach(function (p) {
+      pj.appendChild(h("article", { class: "card" }, [
+        h("h3", null, [p.name]),
+        h("div", { class: "badges" }, [badge(CONV, p.conviction, "Confiance")]),
+        h("p", { class: "lead" }, [p.why]),
+        h("p", { class: "lead", style: "color:var(--muted)" }, ["Principal risque : " + p.risk]),
+        h("details", { class: "more" }, [h("summary", null, ["Fiche complète"]),
+          kv([["Financement", p.funding], ["Investisseurs", p.investors], ["Équipe", p.team], ["Technologie", p.tech], ["Tokenomics", p.tokenomics], ["Catalyseurs", p.catalysts]])])
+      ]));
+    });
+    app.appendChild(section("projects", "🚀", "Projects to watch", (b.projects || []).length, [pj.childNodes.length ? pj : emptyLine("Aucun nouveau projet ne passe les critères aujourd'hui.")]));
+
+    // Smart money
+    var sm = h("div", { class: "stack" });
+    (b.smartMoney || []).forEach(function (s) {
+      sm.appendChild(h("article", { class: "card" }, [
+        h("h3", null, [s.title]),
+        h("div", { class: "badges" }, [badge(CONF, s.confidence), plain(s.token), plain(s.amount)]),
+        kv([["Source des fonds", s.from], ["Destination", s.to], ["Lecture prudente", s.interpretation]]),
+        sourcesEl(s.sources)
+      ]));
+    });
+    app.appendChild(section("smart", "🐋", "Smart money", (b.smartMoney || []).length, [sm.childNodes.length ? sm : emptyLine("Aucun mouvement notable.")]));
+
+    // Unlocks
+    var ul = b.unlocks || [];
+    if (ul.length) {
+      var list = h("ol", { class: "rows" });
+      ul.forEach(function (u) {
+        var amt = u.amount && u.amount !== "—" ? u.amount : null;
+        list.appendChild(h("li", { class: u.priority ? "prio" : null }, [
+          h("div", { class: "dt" }, [shortDate(u.date)]),
+          h("div", null, [
+            h("div", { class: "tt" }, [u.token + (u.priority ? " ★" : "")]),
+            h("div", { class: "sub" }, [u.value + " — " + u.pct]),
+            h("div", { class: "badges" }, [badge(RISK, u.risk, "Pression vendeuse"), badge(CONF, u.confidence)]),
+            (u.who && u.who !== "Non précisé") || amt ? h("div", { class: "who2" }, [(u.who && u.who !== "Non précisé" ? "Concerne : " + u.who + ". " : "") + (amt ? "Quantité : " + amt + "." : "")]) : null
+          ])
+        ]));
+      });
+      var src = b.unlocksSource ? sourcesEl([b.unlocksSource]) : null;
+      app.appendChild(section("unlocks", "🔓", "Token unlocks", ul.length, [list, h("p", { class: "note" }, ["★ = une de tes cryptos prioritaires. Les dates peuvent varier d'un jour selon le fuseau."]), src]));
+    }
+
+    // Regulation
+    var rg = h("div", { class: "stack" });
+    (b.regulation || []).forEach(function (r) {
+      rg.appendChild(h("article", { class: "card" }, [
+        h("h3", null, [r.title]),
+        h("div", { class: "badges" }, [plain(r.region), badge(IMPACT, r.impact, "Impact"), badge(CONF, r.confidence)]),
+        h("p", { class: "lead" }, [r.summary]),
+        sourcesEl(r.sources)
+      ]));
+    });
+    app.appendChild(section("regulation", "⚖️", "Regulation", (b.regulation || []).length, [rg.childNodes.length ? rg : emptyLine("Rien de significatif.")]));
+
+    // Macro
+    var mc = h("div", { class: "stack" });
+    (b.macro || []).forEach(function (r) {
+      mc.appendChild(h("article", { class: "card" }, [
+        h("h3", null, [r.title]),
+        h("div", { class: "badges" }, [r.date ? plain(r.date) : null, badge(IMPACT, r.impact, "Impact"), badge(CONF, r.confidence)]),
+        h("p", { class: "lead" }, [r.summary]),
+        sourcesEl(r.sources)
+      ]));
+    });
+    app.appendChild(section("macro", "🌎", "Macro", (b.macro || []).length, [mc]));
+
+    // On-chain
+    if (b.onchain && b.onchain.length) {
+      var ol = h("ul", { class: "rows metrics" });
+      b.onchain.forEach(function (o) {
+        ol.appendChild(h("li", null, [
+          h("div", null, [h("div", { class: "tt" }, [o.metric]), h("div", { class: "who2" }, [o.note + " Source : " + o.source])]),
+          h("div", { class: "val" }, [o.value])
+        ]));
+      });
+      app.appendChild(section("onchain", "⛓️", "On-chain", null, [ol]));
+    }
+
+    // Watchlist
+    var wl = h("ol", { class: "watch" });
+    (b.watchlist || []).slice(0, 5).forEach(function (w, i) {
+      wl.appendChild(h("li", { style: "--c:" + (COLORS[w.impact] || "var(--faint)") }, [h("span", { class: "k" }, [String(i + 1)]), h("span", null, [w.text])]));
+    });
+    app.appendChild(section("watchlist", "👀", "Today's watchlist", null, [wl]));
+
+    // Legend + footer
+    var lg = h("details", { class: "legend" }, [h("summary", null, ["Légende des badges"]),
+      h("div", { class: "row" }, Object.keys(CONF).map(function (k) { return badge(CONF, k); })),
+      h("div", { class: "row" }, Object.keys(IMPACT).map(function (k) { return badge(IMPACT, k, "Impact"); })),
+      h("div", { class: "row" }, Object.keys(CONV).map(function (k) { return badge(CONV, k); })),
+      h("p", null, ["Confirmé = source officielle ou au moins deux sources indépendantes et fiables. Probable = une source fiable. Non confirmé = source faible ou unique non vérifiée. Rumeur = réseaux sociaux uniquement."])
+    ]);
+    app.appendChild(lg);
+    app.appendChild(h("footer", null, [
+      h("div", null, ["Système d'information, pas de conseil en investissement. Aucune recommandation d'achat ou de vente."]),
+      h("div", null, ["Mise à jour : écris « Briefing » ou « Mise à jour » à Claude, ou laisse tourner l'automatisation."])
+    ]));
+  }
+
+  function pick(date) {
+    var found = state.list.filter(function (x) { return x.date === date; })[0];
+    if (found) { state.current = found; render(); window.scrollTo(0, 0); }
+  }
+  function setList(list) {
+    list.sort(function (a, b) { return a.date < b.date ? 1 : -1; });
+    var keep = state.current && list.filter(function (x) { return x.date === state.current.date; })[0];
+    state.list = list; state.current = keep || list[0] || null;
+    if (state.current) render(); else showState("Aucun briefing pour l'instant", "Écris « Briefing » à Claude pour générer la première édition.");
+  }
+  function showState(title, text) {
+    var app = document.getElementById("app"); app.textContent = "";
+    app.appendChild(h("div", { class: "state" }, [h("h2", null, [title]), h("p", null, [text])]));
+  }
+
+  function bootStatic() {
+    fetch("data/index.json", { cache: "no-store" }).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(function (idx) {
+        var dates = (idx.dates || []).slice(0, 30);
+        return Promise.all(dates.map(function (d) { return fetch("data/briefings/" + d + ".json", { cache: "no-store" }).then(function (r) { return r.ok ? r.json() : null; }).catch(function () { return null; }); }));
+      })
+      .then(function (arr) { setList(arr.filter(Boolean)); })
+      .catch(function () { showState("Briefing introuvable", "Le fichier data/index.json n'a pas pu être lu. Vérifie que l'automatisation a bien tourné."); });
+  }
+
+  function bootClaude() {
+    window.claude.use("db").then(function (db) {
+      if (!db) { showState("Ouvre ce tableau de bord dans Claude", "Les briefings sont stockés dans Claude et s'affichent quand la page est ouverte depuis ton compte."); return; }
+      db.collection("briefings").orderBy("date", "desc").limit(60).onSnapshot(function (snap) {
+        setList(snap.docs.map(function (d) { return d.data(); }).filter(function (x) { return x && x.date; }));
+      }, function () { showState("Connexion interrompue", "Recharge la page pour retrouver ton briefing."); });
+    });
+  }
+
+  if (window.claude && typeof window.claude.use === "function") bootClaude(); else bootStatic();
+})();
+</script>
+</body>
+</html>

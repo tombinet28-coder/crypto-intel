@@ -1,0 +1,121 @@
+# ─────────────────────────────────────────────────────────────
+#  Crypto Intel — configuration
+#  Tout ce que tu peux régler sans toucher au code est ici.
+# ─────────────────────────────────────────────────────────────
+
+timezone: Europe/Paris
+language: fr
+
+# Adresse publique de ton tableau de bord (GitHub Pages), ajoutée aux messages Telegram.
+# Exemple : https://ton-pseudo.github.io/crypto-intel/
+dashboard_url: ""
+
+models:
+  briefing: claude-sonnet-5              # rédaction du briefing de 6h30
+  monitor: claude-haiku-4-5-20251001     # tri rapide des nouvelles toutes les 30 min
+  max_web_searches: 15                   # recherches web autorisées par briefing (≈ 0,01 $ chacune)
+
+# ── Tes cryptos prioritaires ─────────────────────────────────
+# coingecko_id : identifiant sur coingecko.com (visible dans l'URL de la page de la crypto)
+# defillama_* : pour les données on-chain (TVL, frais). Laisser vide si inconnu.
+priority_assets:
+  - { symbol: BTC,  name: Bitcoin,     coingecko_id: bitcoin,     defillama_chain: Bitcoin }
+  - { symbol: ETH,  name: Ethereum,    coingecko_id: ethereum,    defillama_chain: Ethereum }
+  - { symbol: SOL,  name: Solana,      coingecko_id: solana,      defillama_chain: Solana }
+  - { symbol: HYPE, name: Hyperliquid, coingecko_id: hyperliquid, defillama_protocol: hyperliquid }
+  - { symbol: AAVE, name: Aave,        coingecko_id: aave,        defillama_protocol: aave }
+  - { symbol: PUMP, name: Pump.fun,    coingecko_id: pump-fun,    defillama_protocol: pump.fun }   # vérifier l'id CoinGecko
+
+# ── Alertes ──────────────────────────────────────────────────
+alerts:
+  priority_move_1h_important: 5      # % de variation en 1 h sur une crypto prioritaire → 🔔 IMPORTANT
+  priority_move_1h_critical: 10      # % en 1 h → 🚨 CRITICAL
+  top100_move_24h_important: 25      # % en 24 h sur le reste du top 100 → 🔔 IMPORTANT
+  max_critical_per_day: 6            # plafond de notifications immédiates par jour
+  digest_times: ["12:30", "18:30"]   # les 🔔 IMPORTANT sont regroupés et envoyés à ces heures
+  quiet_hours: { start: "23:00", end: "06:30" }   # la nuit : seules les 🚨 CRITICAL passent
+
+# ── Fiabilité des sources ────────────────────────────────────
+# tier 1 = officiel (régulateurs, sites officiels des projets)
+# tier 2 = médias reconnus
+# tier 3 = agrégateurs / sites secondaires
+# sponsored = jamais utilisé seul comme preuve (communiqués payés)
+source_tiers:
+  tier1:
+    - sec.gov
+    - cftc.gov
+    - federalreserve.gov
+    - treasury.gov
+    - amf-france.org
+    - esma.europa.eu
+    - ecb.europa.eu
+    - bis.org
+    - solana.com
+    - ethereum.org
+    - blog.ethereum.org
+    - hyperliquid.xyz
+    - hyperfoundation.org
+    - aave.com
+    - governance.aave.com
+    - pump.fun
+    - coinbase.com/blog
+    - binance.com/en/support/announcement
+  tier2:
+    - reuters.com
+    - bloomberg.com
+    - ft.com
+    - wsj.com
+    - cnbc.com
+    - coindesk.com
+    - theblock.co
+    - decrypt.co
+    - blockworks.co
+    - dlnews.com
+    - thedefiant.io
+  sponsored:
+    - openpr.com
+    - chainwire.org
+    - globenewswire.com
+    - prnewswire.com
+    - accessnewswire.com
+    - newsbtc.com/press-releases
+
+# ── Flux RSS surveillés ──────────────────────────────────────
+# Les URL marquées « à vérifier » n'ont pas pu être testées : si un flux ne répond pas,
+# le système l'ignore et le signale dans les logs, sans planter.
+rss_feeds:
+  - { name: CoinDesk,           url: "https://www.coindesk.com/arc/outboundfeeds/rss/", tier: 2 }
+  - { name: The Block,          url: "https://www.theblock.co/rss.xml",                 tier: 2 }
+  - { name: Decrypt,            url: "https://decrypt.co/feed",                         tier: 2 }
+  - { name: Blockworks,         url: "https://blockworks.co/feed",                      tier: 2 }
+  - { name: Cointelegraph,      url: "https://cointelegraph.com/rss",                   tier: 3 }
+  - { name: SEC (communiqués),  url: "https://www.sec.gov/news/pressreleases.rss",      tier: 1 }
+  - { name: Ethereum Foundation, url: "https://blog.ethereum.org/feed.xml",             tier: 1 }
+  - { name: Aave gouvernance,   url: "https://governance.aave.com/latest.rss",          tier: 1 }
+  # - { name: CFTC, url: "…", tier: 1 }   # à ajouter : récupérer l'URL RSS sur cftc.gov
+  # - { name: AMF,  url: "…", tier: 1 }   # à ajouter : récupérer l'URL RSS sur amf-france.org
+
+# ── Comptes X surveillés (optionnel, API X payante) ──────────
+# IMPORTANT : on se fie à l'identifiant NUMÉRIQUE (id), pas au pseudo.
+# Un faux compte peut copier un pseudo, jamais l'id. Lance `python -m src.tools resolve-x`
+# une fois pour remplir les id, puis vérifie chaque compte à la main sur x.com.
+# role : official (compte officiel), founder, data (suivi on-chain), media
+x_accounts:
+  - { handle: solana,          id: null, role: official, asset: SOL }
+  - { handle: ethereum,        id: null, role: official, asset: ETH }
+  - { handle: HyperliquidX,    id: null, role: official, asset: HYPE }
+  - { handle: aave,            id: null, role: official, asset: AAVE }
+  - { handle: pumpdotfun,      id: null, role: official, asset: PUMP }
+  - { handle: SECGov,          id: null, role: official, asset: null }
+  - { handle: CFTC,            id: null, role: official, asset: null }
+  - { handle: binance,         id: null, role: official, asset: null }
+  - { handle: coinbase,        id: null, role: official, asset: null }
+  - { handle: VitalikButerin,  id: null, role: founder,  asset: ETH }
+  - { handle: aeyakovenko,     id: null, role: founder,  asset: SOL }
+  - { handle: StaniKulechov,   id: null, role: founder,  asset: AAVE }
+  - { handle: saylor,          id: null, role: founder,  asset: BTC }
+  - { handle: lookonchain,     id: null, role: data,     asset: null }
+  - { handle: whale_alert,     id: null, role: data,     asset: null }
+  - { handle: PeckShieldAlert, id: null, role: data,     asset: null }
+  - { handle: zachxbt,         id: null, role: data,     asset: null }
+  - { handle: WuBlockchain,    id: null, role: media,    asset: null }
