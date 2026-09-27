@@ -1,694 +1,492 @@
 {
   "date": "2026-09-27",
   "edition": "06:30",
-  "generatedAt": "2026-09-27T12:00:00Z",
-  "updatedAt": "2026-09-27T12:00:00Z",
-  "note": "Édition 0 construite à la main dans Claude (dimanche). Les prix sont les derniers relevés trouvés, avec leur heure et leur source.",
   "tldr": [
     {
-      "impact": "neg",
-      "text": "Bitget piraté (~387 M$) : retraits suspendus au dernier point connu, perte couverte selon la CEO."
+      "impact": "pos",
+      "text": "Marché en mode « Greed » (70/100, en léger repli vs 74 hier). BTC, ETH, SOL montent doucement ; SOL est le grand gagnant des 7 derniers jours (+11%)."
     },
     {
       "impact": "pos",
-      "text": "BTC vers 84 000 $ : environ +43 % sur le trimestre, sentiment « Greed » (74)."
-    },
-    {
-      "impact": "pos",
-      "text": "SOL vers 121 $ (+10 % en 7 jours) : Alpenglow avance, record de stablecoins sur Solana."
-    },
-    {
-      "impact": "pos",
-      "text": "HYPE vers 93 $, près de son record après le lancement du prêt natif. Prochain unlock mensuel estimé vers le 6/10."
-    },
-    {
-      "impact": "pos",
-      "text": "PUMP +14 % sur 24 h le 26/09, porté par des revenus élevés et les rachats de tokens."
-    },
-    {
-      "impact": "neu",
-      "text": "États-Unis : la loi CLARITY est bloquée au Sénat ; la SEC et la CFTC avancent par voie réglementaire."
+      "text": "La SEC clarifie que les rachats de tokens (buybacks) sur des réseaux déjà fonctionnels ne transforment pas automatiquement le token en security — bonne nouvelle pour HYPE, PUMP et AAVE qui pratiquent tous des rachats."
     },
     {
       "impact": "neg",
-      "text": "Macro : la Fed a remonté ses taux le 16/09 et prévoit encore une hausse cette année."
+      "text": "Le Clarity Act, la grande loi cadre crypto américaine, est officiellement enterré pour 2026 après son échec au Sénat mi-septembre : l'incertitude réglementaire US se prolonge."
+    },
+    {
+      "impact": "neg",
+      "text": "La Fed a relevé ses taux de 25 points de base à 3,75-4% le 16 septembre, sa première hausse depuis 2023 — un vent contraire pour les actifs risqués, avec une nouvelle réunion le 28 octobre."
+    },
+    {
+      "impact": "pos",
+      "text": "Vitalik Buterin dévoile une feuille de route Ethereum à horizon 2030 : le réseau deviendrait un « ordinateur cryptographique mondial », au-delà d'une simple blockchain."
     },
     {
       "impact": "neu",
-      "text": "Semaine d'unlocks : DoubleZero (2Z) libère l'équivalent de ~47 % de sa capitalisation le 2/10."
+      "text": "QNT (hors watchlist prioritaire) bondit de plus de 60% en 24h sur un partenariat bancaire majeur — exemple de mouvement spéculatif fort à ne pas suivre aveuglément."
+    },
+    {
+      "impact": "pos",
+      "text": "PUMP grimpe de 15% en 24h, porté par des rachats de tokens record et la clarification de la SEC."
+    },
+    {
+      "impact": "neu",
+      "text": "La recherche sur la résistance de Bitcoin aux ordinateurs quantiques progresse (coûts de défense en baisse) mais aucune menace immédiate n'existe."
     }
   ],
-  "breaking": [],
   "news": [
     {
-      "title": "Bitget piraté : environ 387 M$ sortis, retraits suspendus",
-      "impact": "neg",
+      "title": "La SEC clarifie : les rachats de tokens ne créent pas automatiquement une security",
+      "impact": "pos",
       "confidence": "confirmed",
-      "what": "Le 24/09 à 18h31 UTC, Bitget a détecté des transferts non autorisés depuis ses hot et warm wallets. L'estimation est passée de 351,6 M$ à 387,5 M$. Les retraits ont été suspendus.",
-      "why": "C'est le plus gros piratage d'exchange de 2026. Le fonds de protection (plus de 464 M$) couvrirait la perte, mais celle-ci représente environ les trois quarts du fonds. Des adresses IP liées à un groupe nord-coréen ont été identifiées.",
+      "what": "<cite index=\"20-1,20-4,20-5\">The U.S. Securities and Exchange Commission said Friday that token buybacks, network upgrades and marketing claims don't automatically turn a crypto asset into a security, and the Division of Corporation Finance said that announcing a buyback program for an already functioning crypto network would not, by itself, make the associated token subject to an investment contract.</cite> <cite index=\"19-11\">On a network that isn't yet functional, the staff warned, the same announcement could cross the line if the issuer presents the buyback as creating yield or return for token holders.</cite>",
+      "why": "<cite index=\"22-2,22-5\">Hyperliquid and Pump.fun account for nearly 90% of 2026 crypto buybacks</cite>, donc cette clarification réduit directement le risque juridique perçu sur HYPE et PUMP, et ouvre la voie à des programmes similaires chez d'autres protocoles comme AAVE.",
       "assets": [
-        "BGB",
+        "HYPE",
+        "PUMP",
+        "AAVE",
         "ETH"
       ],
-      "shortTerm": "BGB a perdu environ 3,3 % à l'annonce. Le pirate a converti environ 183 M$ en ETH : des reventes restent possibles.",
-      "longTerm": "Nouveau coup à la confiance dans les exchanges centralisés. Rappel : Bitget figure sur la liste noire de l'AMF.",
+      "shortTerm": "Peut soutenir le sentiment sur les tokens qui font des rachats (HYPE, PUMP), la nouvelle étant perçue comme positive par le marché.",
+      "longTerm": "Encourage plus de protocoles à adopter des mécanismes de rachat, mais la guidance reste non contraignante et pourrait être renversée par une future SEC.",
       "sources": [
         {
-          "name": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-24/bitget-says-351-million-affected-in-breach-halts-withdrawals",
-          "publishedAt": "2026-09-25 06:49 UTC"
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-09-25-sec-crypto-faq-addresses-token-buybacks-network-upgrades-promises-profit-416914",
+          "publishedAt": "2026-09-25 16:32 UTC"
         },
         {
-          "name": "Crypto Briefing",
-          "url": "https://cryptobriefing.com/bitget-pauses-withdrawals-351-million-hack/",
-          "publishedAt": "2026-09-25"
-        },
-        {
-          "name": "American Bazaar (Reuters)",
-          "url": "https://americanbazaaronline.com/2026/09/26/crypto-exchange-bitget-pauses-withdrawals-after-350-million-hack-488871/",
-          "publishedAt": "2026-09-26"
+          "name": "Unchained",
+          "url": "https://unchainedcrypto.com/sec-staff-clear-token-buybacks-on-working-networks-with-a-warning-for-unfinished-ones/",
+          "publishedAt": "2026-09-25 20:05 UTC"
         }
-      ]
-    },
-    {
-      "title": "États-Unis : la loi CLARITY bloquée, la SEC et la CFTC prennent le relais",
-      "impact": "neu",
-      "confidence": "confirmed",
-      "what": "Le 15/09, le vote de procédure au Sénat a échoué à 49 voix contre 50, alors qu'il en fallait 60. Depuis, la SEC a ouvert une voie temporaire pour échanger certaines actions tokenisées, et la CFTC a transmis un projet de règles à la Maison-Blanche.",
-      "why": "Sans loi, les règles passent par les agences. C'est plus rapide, mais une future administration pourra les défaire.",
-      "assets": [
-        "Marché entier",
-        "XRP",
-        "COIN"
       ],
-      "shortTerm": "Les actifs qui misaient sur une clarification rapide subissent une décote.",
-      "longTerm": "Sauf nouveau vote avant la pause du Congrès le 5/10, le texte glisse probablement à 2027.",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://www.cnbc.com/2026/09/22/clarity-act-crypto-rules-regulators.html",
-          "publishedAt": "2026-09-22"
-        },
-        {
-          "name": "Quartz",
-          "url": "https://qz.com/sec-cftc-crypto-rules-clarity-act-senate-092326",
-          "publishedAt": "2026-09-23"
-        },
-        {
-          "name": "Datawallet",
-          "url": "https://www.datawallet.com/crypto/clarity-act-explained",
-          "publishedAt": "2026-09"
-        }
-      ]
+      "singleSource": false
     },
     {
-      "title": "Hyperliquid lance le prêt natif, HYPE proche de son record",
-      "impact": "pos",
+      "title": "Le Clarity Act est mort pour 2026",
+      "impact": "neg",
       "confidence": "confirmed",
-      "what": "Depuis le 18/09, on peut déposer du HYPE ou du BTC en garantie pour emprunter de l'USDC ou de l'USDT. 269 M$ ont été empruntés le premier jour. HYPE a enchaîné des records autour de 95 $ la semaine du 21/09.",
-      "why": "C'est une nouvelle source de revenus, et une partie des revenus sert à racheter puis détruire du HYPE.",
+      "what": "<cite index=\"11-3,11-4\">Le Clarity Act a subi une défaite cinglante au Sénat mardi 15 septembre.</cite> <cite index=\"14-1,14-4,14-5\">Le cloture a échoué 49-50 le 15 septembre 2026, chaque démocrate présent votant non, laissant le texte onze voix en dessous des 60 requises.</cite> <cite index=\"15-4\">Avec le Congrès qui part en récession avant les midterms de novembre, le texte est de fait mis de côté.</cite>",
+      "why": "Ce texte devait clarifier la répartition des pouvoirs entre SEC et CFTC sur les cryptos ; son échec prolonge l'incertitude réglementaire et repousse une clarification structurelle à 2027 au plus tôt.",
       "assets": [
-        "HYPE"
-      ],
-      "shortTerm": "L'élan est positif, mais seulement ~26 % de l'offre circule : les mouvements peuvent être brutaux dans les deux sens.",
-      "longTerm": "Payward prévoit des contrats HYPE sur Bitnomial, une plateforme régulée par la CFTC : ce serait un premier accès régulé pour les traders américains.",
-      "sources": [
-        {
-          "name": "Cryptonews",
-          "url": "https://cryptonews.com/news/hyperliquid-news-hype-price-all-time-high/",
-          "publishedAt": "2026-09-19"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/why-hyperliquid-today-130207418.html",
-          "publishedAt": "2026-09-21"
-        }
-      ]
-    },
-    {
-      "title": "Solana : Alpenglow sur un deuxième testnet, record de stablecoins",
-      "impact": "pos",
-      "confidence": "confirmed",
-      "what": "La mise à jour Alpenglow, qui vise un règlement en ~150 ms, tourne désormais sur les deux testnets publics. Le 25/09, les stablecoins sur Solana ont atteint un record de 17,39 Md$ (DefiLlama).",
-      "why": "Alpenglow est le prochain grand upgrade du réseau. Le record de stablecoins indique plus de dollars numériques présents sur la chaîne, pas forcément plus d'activité.",
-      "assets": [
-        "SOL"
-      ],
-      "shortTerm": "SOL vers 121 $, +10 % sur 7 jours, au plus haut depuis janvier.",
-      "longTerm": "La date d'activation sur le réseau principal n'est pas annoncée. C'est le catalyseur à suivre.",
-      "sources": [
-        {
-          "name": "Decrypt (via Coinbase)",
-          "url": "https://www.coinbase.com/price/solana",
-          "publishedAt": "2026-09-26 05:00"
-        },
-        {
-          "name": "The Coin Republic",
-          "url": "https://www.thecoinrepublic.com/2026/09/26/solana-price-prediction-sol-crypto-hits-multi-month-highs-as-stablecoin-market-cap-sets-new-record/",
-          "publishedAt": "2026-09-26"
-        }
-      ]
-    },
-    {
-      "title": "Fed : premières règles pour les émetteurs de stablecoins",
-      "impact": "neu",
-      "confidence": "likely",
-      "what": "Le 24/09, la Fed a mis en consultation deux propositions liées au GENIUS Act. Les émetteurs devraient adosser leurs stablecoins entièrement à des actifs liquides de haute qualité, comme des bons du Trésor à court terme.",
-      "why": "Ce sont des règles concrètes pour les stablecoins en dollars aux États-Unis.",
-      "assets": [
-        "Stablecoins",
+        "BTC",
         "ETH",
         "SOL"
       ],
-      "shortTerm": "Peu d'effet immédiat sur les prix.",
-      "longTerm": "Plus de clarté pourrait faire venir des institutions, mais le coût augmente pour les émetteurs.",
+      "shortTerm": "Impact limité sur les prix à court terme, la nouvelle étant déjà connue depuis deux semaines ; l'article du jour analyse surtout les raisons de l'échec.",
+      "longTerm": "<cite index=\"15-8,15-9\">Le secteur devra probablement attendre l'an prochain pour une reprise du texte, la régulation continuant à se faire agence par agence, ce qui entretient l'incertitude que l'industrie cherchait justement à éviter.</cite>",
       "sources": [
         {
-          "name": "Investing News Network",
-          "url": "https://investingnews.com/cryptocurrency-market-recap/",
-          "publishedAt": "2026-09-25"
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/09/15/nx-s1-5968711/clarity-act-crypto-senate-vote",
+          "publishedAt": "2026-09-15 17:05 UTC"
+        },
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/news-analysis/2026/09/27/how-months-of-work-on-the-clarity-act-all-fell-apart",
+          "publishedAt": "2026-09-27 12:00 UTC"
         }
       ],
-      "singleSource": true
+      "singleSource": false
     },
     {
-      "title": "The Clearing House choisit Quant pour sa monnaie on-chain",
+      "title": "La Fed relève ses taux à 3,75-4%, première hausse depuis 2023",
+      "impact": "neg",
+      "confidence": "confirmed",
+      "what": "<cite index=\"54-3\">Le FOMC a approuvé par 12 voix contre 0 une hausse d'un quart de point du taux directeur, à une fourchette de 3,75% à 4%.</cite> <cite index=\"48-5,48-6\">Le dot-plot montre que 16 des 18 participants s'attendent à une nouvelle hausse d'ici la fin de l'année, dont quatre en envisagent deux, seuls deux s'attendant à ce que la Fed s'arrête là.</cite>",
+      "why": "Une remontée des taux, surtout après une pause prolongée, est généralement un vent contraire pour les actifs risqués comme les cryptos, car elle renforce le dollar et réduit la liquidité disponible.",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "shortTerm": "<cite index=\"49-8,49-9\">Le Congrès américain a par ailleurs avancé deux textes crypto le 16 septembre ; la réaction du prix du Bitcoin est restée mesurée jusqu'ici.</cite>",
+      "longTerm": "Si la Fed confirme une trajectoire de hausses supplémentaires en décembre et en 2027, la pression sur la liquidité mondiale pourrait peser durablement sur le marché crypto.",
+      "sources": [
+        {
+          "name": "Federal Reserve",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+          "publishedAt": "2026-09-16 18:00 UTC"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html",
+          "publishedAt": "2026-09-16 00:00 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "Vitalik Buterin dévoile la vision Ethereum 2030",
       "impact": "pos",
       "confidence": "confirmed",
-      "what": "Annoncé le 24/09 : Quant fournira l'infrastructure technique de l'initiative de monnaie on-chain de The Clearing House, une organisation détenue par de grandes banques américaines.",
-      "why": "C'est un signal d'adoption de la tokenisation par les banques.",
+      "what": "<cite index=\"89-2,89-3\">Vitalik Buterin a expliqué dimanche comment l'architecture d'Ethereum va changer d'ici 2030, décrivant un réseau combinant blockchain et cryptographie moderne ; le fork Hegota, prévu l'an prochain, serait le dernier fork « normal » avant que les preuves récursives, la vérification formelle et la sécurité post-quantique ne prennent le relais.</cite> <cite index=\"87-1\">Il fixe des objectifs concrets pour 2030 : un temps de bloc réduit de 12 secondes aujourd'hui à 4-8 secondes, et une finalité de plusieurs minutes à 8-32 secondes.</cite>",
+      "why": "C'est un changement de récit stratégique pour Ethereum, qui passe d'une course à la vitesse à une ambition d'infrastructure cryptographique globale, potentiellement rassurant pour les investisseurs long terme sur la feuille de route technique.",
+      "assets": [
+        "ETH"
+      ],
+      "shortTerm": "Impact prix incertain ; c'est une annonce de vision, pas une mise à jour technique immédiate.",
+      "longTerm": "Si exécutée, la transition pourrait renforcer la position d'Ethereum face à la concurrence (Solana, L2) en ramenant du scaling directement à la couche de base.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
+          "publishedAt": "2026-09-27 14:29 UTC"
+        },
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/ecosystems/2026-09-27-its-really-not-just-a-blockchain-anymore-vitalik-buterin-maps-ethereums-path-to-2030-416953",
+          "publishedAt": "2026-09-27 14:35 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "QNT bondit de plus de 60% sur un contrat bancaire majeur",
+      "impact": "pos",
+      "confidence": "confirmed",
+      "what": "<cite index=\"1-1,1-2\">Le token QNT a bondi d'environ 58% en intraday le 27 septembre après l'annonce que The Clearing House a choisi Quant pour fournir la technologie de sa On-Chain Money Initiative, un projet visant à permettre des transactions de dépôts tokenisés entre banques, avec un lancement du réseau prévu au premier semestre 2027.</cite> <cite index=\"6-7,6-8\">Quant s'associe à The Clearing House, qui traite plus de 2 000 milliards de dollars de volume de transactions quotidien, l'initiative impliquant 25 grandes institutions bancaires américaines.</cite>",
+      "why": "C'est un partenariat institutionnel concret et nommé, rare dans le secteur, ce qui explique l'ampleur du mouvement de prix ; QNT n'est pas dans la watchlist prioritaire mais illustre les mouvements anormaux à surveiller dans le top 100.",
       "assets": [
         "QNT"
       ],
-      "shortTerm": "QNT a fortement progressé après l'annonce.",
-      "longTerm": "Le projet est encore au stade « prévu » : pas de date de lancement connue.",
+      "shortTerm": "Forte volatilité déjà observée (de +27% à +75% selon les fenêtres de mesure), avec des liquidations de positions courtes qui amplifient le mouvement.",
+      "longTerm": "<cite index=\"8-11,8-12,8-13\">L'annonce concerne la société Quant et son logiciel ; que le token QNT en bénéficie économiquement est une question distincte, et traiter les deux comme identiques revient à acheter une anticipation plutôt qu'un lien direct.</cite>",
       "sources": [
         {
-          "name": "UseTheBitcoin",
-          "url": "https://usethebitcoin.com/eth/ethereum-price-september-27-2026/",
-          "publishedAt": "2026-09-27"
+          "name": "GuruFocus",
+          "url": "https://www.gurufocus.com/news/9099193/quant-qnt-surges-58-after-clearing-house-blockchain-partnership-announcement",
+          "publishedAt": "2026-09-27 00:00 UTC"
         },
         {
-          "name": "CryptoNews.net (Coinpedia)",
-          "url": "https://cryptonews.net/",
-          "publishedAt": "2026-09-25"
+          "name": "CoinMarketCap Top Stories",
+          "url": "https://coinmarketcap.com/top-stories/6ab7e2509b4b0f59736fc917/",
+          "publishedAt": "2026-09-26 15:18 UTC"
         }
-      ]
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "Bitcoin face au risque quantique : trois pistes de recherche",
+      "impact": "neu",
+      "confidence": "likely",
+      "what": "<cite index=\"94-3,94-6\">Un ordinateur quantique suffisamment puissant utilisant l'algorithme de Shor pourrait en théorie dériver une clé privée à partir d'une clé publique exposée et vider un wallet ; ce scénario hypothétique, appelé « Q-Day », n'existe pas encore aujourd'hui mais les estimations de délai se resserrent.</cite> <cite index=\"94-9\">StarkWare, qui a miné la première transaction Bitcoin quantum-safe sur le mainnet le mois dernier, a annoncé qu'une compétition ouverte a réduit le coût estimé de construction d'une telle défense d'environ 320$ à environ 6$.</cite>",
+      "why": "Le sujet revient régulièrement et reste à surveiller sur le long terme pour la sécurité des vieux wallets Bitcoin, même si le risque n'est pas immédiat.",
+      "assets": [
+        "BTC"
+      ],
+      "shortTerm": "Aucun impact prix attendu à court terme.",
+      "longTerm": "<cite index=\"94-14\">Rien de ce qui a été publié cette semaine ne rend Bitcoin quantum-safe à lui seul ; le secteur réduit progressivement le coût des défenses tout en mesurant la vitesse de rapprochement de la menace.</cite>",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/379400/bitcoins-quantum-problem-three-ways-researchers-are-trying-to-fix-it",
+          "publishedAt": "2026-09-27 15:01 UTC"
+        }
+      ],
+      "singleSource": true
     }
   ],
   "market": [
     {
       "symbol": "BTC",
-      "name": "Bitcoin",
-      "price": 84005.87,
-      "change24h": -0.1,
-      "change7d": 3.9,
-      "volume": null,
-      "asOf": "25/09 23:00 UTC",
-      "source": "Investing News Network",
       "sentiment": "pos",
-      "driver": "Les taux de la Fed et les flux des ETF.",
+      "driver": "Hausse des taux Fed déjà digérée, sentiment de marché en zone « Greed » ; risque de fond lié à la trajectoire de taux et au risque quantique de long terme.",
       "events": [
-        "Environ +43 % au 3e trimestre (≈58 500 → 84 000 $).",
-        "Repli après un pic au-dessus de 87 000 $ le 22/09.",
-        "Dominance : 56,5 %."
+        "Hausse de la Fed du 16/09 à 3,75-4%",
+        "Recherches continues sur la résistance quantique de Bitcoin (BIP-360, StarkWare)"
       ],
       "watch": [
-        "Clôture trimestrielle le 30/09.",
-        "Réunion de la Fed les 27-28/10."
-      ]
+        "Réunion Fed du 28 octobre",
+        "Zone des $85 000"
+      ],
+      "name": "Bitcoin",
+      "price": 84668,
+      "change24h": 0.67622,
+      "change7d": 4.1474,
+      "volume": 21701542324,
+      "asOf": "27/09 23:19",
+      "source": "CoinGecko"
     },
     {
       "symbol": "ETH",
-      "name": "Ethereum",
-      "price": 2686.89,
-      "change24h": 0.9,
-      "change7d": null,
-      "volume": 2160000000,
-      "asOf": "26/09 22:01 UTC",
-      "source": "CoinDesk",
-      "sentiment": "neu",
-      "driver": "Sa capacité à dépasser la zone des ~2 800 $.",
+      "sentiment": "pos",
+      "driver": "Vitalik Buterin fixe un nouveau cap technologique à horizon 2030, qui redonne un narratif de long terme au réseau.",
       "events": [
-        "Rejeté plusieurs fois entre 2 750 et 2 820 $.",
-        "Le pirate de Bitget détient environ 183 M$ d'ETH."
+        "Publication de la feuille de route « cryptographic world computer »",
+        "Fork Hegota annoncé comme dernier fork « normal » avant transition cryptographique"
       ],
       "watch": [
-        "Mouvements des ETH volés.",
-        "Zone des ~2 800 $."
-      ]
+        "Calendrier des tests Hegota/Glamsterdam",
+        "Flux des ETF ETH"
+      ],
+      "name": "Ethereum",
+      "price": 2689.69,
+      "change24h": 0.29911,
+      "change7d": 1.9816,
+      "volume": 8220020191,
+      "asOf": "27/09 23:19",
+      "source": "CoinGecko"
     },
     {
       "symbol": "SOL",
-      "name": "Solana",
-      "price": 121.51,
-      "change24h": 4.9,
-      "change7d": 10.34,
-      "volume": 4260000000,
-      "asOf": "27/09 00:35 UTC",
-      "source": "TradingKey (volume : Bybit, 25/09)",
       "sentiment": "pos",
-      "driver": "Le calendrier d'Alpenglow et la demande institutionnelle.",
+      "driver": "Rallye plus large des alts (NEAR, SUI également en forte hausse sur 7 jours) et forte activité de l'écosystème Solana via PUMP.",
       "events": [
-        "Alpenglow sur les deux testnets publics.",
-        "Record de stablecoins : 17,39 Md$.",
-        "Forward Industries lève 25 M$ pour sa trésorerie en SOL."
+        "+11% sur 7 jours",
+        "Rallye généralisé des alts du top 100 (NEAR +14,8%, SUI +11,5% sur 24h)"
       ],
       "watch": [
-        "Date d'activation d'Alpenglow sur le réseau principal.",
-        "Flux des ETF SOL."
-      ]
+        "Volume DEX sur Solana",
+        "Corrélation avec la dynamique de PUMP"
+      ],
+      "name": "Solana",
+      "price": 123.01,
+      "change24h": 1.72216,
+      "change7d": 11.0366,
+      "volume": 3798059539,
+      "asOf": "27/09 23:19",
+      "source": "CoinGecko"
     },
     {
       "symbol": "HYPE",
-      "name": "Hyperliquid",
-      "price": 93.31,
-      "change24h": null,
-      "change7d": -1.2,
-      "volume": 653000000,
-      "asOf": "27/09 (Coinbase), volume du 24/09 (CoinGecko)",
-      "source": "Coinbase, CoinGecko, TradingView",
       "sentiment": "pos",
-      "driver": "Les revenus du protocole et le calendrier d'unlocks.",
+      "driver": "<cite index=\"56-1\">Cotation spot activée sur Binance le 24 septembre, ce qui a fait bondir le prix vers 95$</cite>, combinée à la clarification SEC favorable aux buybacks.",
       "events": [
-        "Prêt natif : 269 M$ empruntés le premier jour.",
-        "ETF Bitwise BHYP : +4,77 M$ le 25/09, 513,66 M$ d'actifs nets.",
-        "Listing spot sur Binance le 24/09 (source unique, non confirmé)."
+        "Listing spot Binance (24/09)",
+        "Guidance SEC favorable aux programmes de rachat de tokens"
       ],
       "watch": [
-        "Unlock mensuel de l'équipe estimé vers le 6/10.",
-        "Open interest au-dessus de 8 Md$."
-      ]
+        "Résistance ATH proche de $96",
+        "Unlock linéaire mensuel d'environ 9,92M HYPE"
+      ],
+      "name": "Hyperliquid",
+      "price": 91.93,
+      "change24h": 0.13882,
+      "change7d": -1.8675,
+      "volume": 687019043,
+      "asOf": "27/09 23:19",
+      "source": "CoinGecko"
     },
     {
       "symbol": "AAVE",
-      "name": "Aave",
-      "price": null,
-      "change24h": null,
-      "change7d": null,
-      "volume": null,
-      "asOf": "Aucune donnée fiable trouvée pour aujourd'hui",
-      "source": "À vérifier",
       "sentiment": "neu",
-      "driver": "La gouvernance et la croissance des actifs réels (RWA).",
+      "driver": "Développement d'« Aavenomics 3.0 », un mécanisme de rachat automatique, mais débat en cours sur la réduction du budget annuel de rachat.",
       "events": [
-        "Dépôts de matières premières tokenisées : 133 M$.",
-        "Contrats perpétuels AAVE sur Kalshi (régulé CFTC) depuis le 4/09.",
-        "Fermeture proposée de 6 marchés V3 et de 50 actifs peu utilisés."
+        "<cite index=\"65-11,65-12\">Cadre de gouvernance approuvé en avril 2026 imposant que 100% des revenus des produits Aave reviennent à la DAO, appuyé par une subvention de 25M$ vestée sur 48 mois</cite>",
+        "<cite index=\"27-13,27-14\">Débat en cours pour réduire le budget annuel de rachat de 50M$ à 30M$, après une pause des achats le 19 avril suite à l'incident du pont rsETH</cite>"
       ],
       "watch": [
-        "Votes de gouvernance en cours."
-      ]
+        "Vote DAO sur le budget de rachat",
+        "Avancement du déploiement Aave V4"
+      ],
+      "name": "Aave",
+      "price": 154.79,
+      "change24h": -0.00127,
+      "change7d": 12.4914,
+      "volume": 259515438,
+      "asOf": "27/09 23:19",
+      "source": "CoinGecko"
     },
     {
       "symbol": "PUMP",
-      "name": "Pump.fun",
-      "price": 0.004476,
-      "change24h": 13.89,
-      "change7d": null,
-      "volume": null,
-      "asOf": "26/09 (Binance)",
-      "source": "Tokenpost via Pluang",
       "sentiment": "pos",
-      "driver": "Les revenus de la plateforme, dont la moitié finance les rachats.",
+      "driver": "Rachats de tokens massifs et clarification réglementaire favorable, mais concentration élevée des tokens chez les insiders et litige en cours.",
       "events": [
-        "Revenus de 322 M$ du 1/01 au 15/09, 2e plus gros parmi les projets hors stablecoins.",
-        "Capitalisation d'environ 2,03 Md$, rang ~51.",
-        "Application iOS de nouveau disponible aux États-Unis et en Inde."
+        "<cite index=\"22-8\">Hyperliquid a représenté environ 370 millions de dollars et Pump.fun environ 200 millions de dollars de rachats en 2026, ensemble près de 90% du total</cite>",
+        "<cite index=\"77-7\">Pump.fun fait face à une class action de 5,5 milliards de dollars alléguant l'exploitation d'un casino non autorisé, Solana Labs étant co-défendeur</cite>"
       ],
       "watch": [
-        "Revenus hebdomadaires, qui déterminent le volume des rachats.",
-        "Activité des memecoins sur Solana."
-      ]
+        "Suites du procès collectif",
+        "Évolution des revenus quotidiens et des rachats programmatiques"
+      ],
+      "name": "Pump.fun",
+      "price": 0.0050307,
+      "change24h": 15.31225,
+      "change7d": 17.9034,
+      "volume": 270960287,
+      "asOf": "27/09 23:19",
+      "source": "CoinGecko"
     }
   ],
   "x": [
     {
-      "author": "Gracy Chen",
-      "handle": "CEO de Bitget",
-      "time": "25/09, matin (Singapour)",
-      "asset": "BGB",
-      "sentiment": "neu",
+      "author": "Vitalik Buterin",
+      "handle": "@VitalikButerin",
+      "time": "2026-09-27",
+      "asset": "ETH",
+      "sentiment": "pos",
       "kind": "official",
-      "summary": "Affirme que les fonds des utilisateurs sont en sécurité et que le fonds de protection couvre toute la perte.",
-      "why": "C'est un engagement public, à comparer avec le rapport d'incident promis."
+      "summary": "Annonce de sa vision Ethereum 2030, décrivant le réseau comme un hybride entre blockchain et cryptographie moderne, avec la phrase « It's really not just a blockchain anymore. It's a hybrid… ».",
+      "why": "Source primaire de la principale actualité technique du jour pour Ethereum ; compte officiel du co-fondateur."
     },
     {
-      "author": "Wu Blockchain",
-      "handle": "@WuBlockchain",
-      "time": "18/09",
-      "asset": "HYPE",
-      "sentiment": "pos",
-      "kind": "media",
-      "summary": "Annonce le lancement du prêt natif sur Hyperliquid et 269 M$ empruntés le premier jour.",
-      "why": "Relayé ensuite par plusieurs médias."
-    },
-    {
-      "author": "OnchainLens",
-      "handle": "@OnchainLens",
-      "time": "20/09",
-      "asset": "HYPE",
-      "sentiment": "pos",
-      "kind": "data",
-      "summary": "26 310 HYPE (2,42 M$) rachetés puis détruits en 24 h ; 48,76 M détruits au total, soit 4,88 % de l'offre max.",
-      "why": "Données on-chain vérifiables, mais c'est un compte de suivi, pas le compte officiel."
-    },
-    {
-      "author": "Peter Brandt",
-      "handle": "@PeterLBrandt",
-      "time": "26/09",
-      "asset": "XRP",
+      "author": "Gabriel Shapiro",
+      "handle": "non précisé",
+      "time": "2026-09-25/26",
+      "asset": "Réglementation crypto (SEC)",
       "sentiment": "neg",
       "kind": "opinion",
-      "summary": "Commentaires très critiques d'un trader connu sur XRP.",
-      "why": "C'est une opinion, pas une information. Ça peut influencer le sentiment à court terme."
-    },
-    {
-      "author": "Faux site « MetaMask Foundation »",
-      "handle": "Arnaque",
-      "time": "En circulation",
-      "asset": "MASK",
-      "sentiment": "neg",
-      "kind": "fake",
-      "summary": "Promet un airdrop MASK et demande de connecter son wallet. MetaMask n'a lancé aucun token.",
-      "why": "Ne jamais connecter son wallet à un lien d'airdrop non officiel."
+      "summary": "<cite index=\"21-18,21-19,21-20\">L'avocat spécialisé en valeurs mobilières qualifie la nouvelle guidance de la SEC de « loophole » (faille), estimant qu'elle va loin et que les lois sur les valeurs mobilières commencent à ressembler à un système à opt-in pour la crypto.</cite>",
+      "why": "Contrepoint utile : montre que la clarification SEC sur les buybacks, bien que perçue comme positive par le marché, reste juridiquement contestée par des experts et n'a pas de force de loi."
     }
   ],
   "projects": [
     {
-      "name": "Atum",
-      "conviction": "high",
-      "funding": "13,5 M$ en seed (sortie de l'anonymat le 22/09).",
-      "investors": "Variant (leader), PayPal Ventures, Abstract Ventures, Road Capital, Mirana Ventures, First Commit, Credibly Neutral.",
-      "team": "Fondé par Pete Cooling, ancien responsable des produits crypto chez Visa.",
-      "tech": "Un réseau qui fait circuler les paiements entre stablecoins, blockchains et systèmes bancaires. Il ne détient pas les fonds, n'a pas sa propre blockchain et gère aussi les paiements faits par des agents IA.",
-      "tokenomics": "Pas de token.",
-      "catalysts": "Partenariats avec des émetteurs de cartes ou des prestataires de paiement.",
-      "why": "Équipe identifiable, investisseurs de premier plan, produit déjà utilisé.",
-      "risk": "Aucun moyen d'investir (pas de token), et beaucoup de concurrents établis dans les paiements en stablecoins."
-    },
-    {
-      "name": "HIFI",
+      "name": "Quant (QNT)",
       "conviction": "watch",
-      "funding": "37 M$ en Series A, la plus grosse levée de la semaine du 19 au 25/09.",
-      "investors": "Left Lane Capital (leader).",
-      "team": "Non vérifiée dans mes sources.",
-      "tech": "Infrastructure bancaire et de paiement en stablecoins sur plusieurs blockchains.",
-      "tokenomics": "Aucun token connu.",
-      "catalysts": "Annonces de clients bancaires.",
-      "why": "Une Series A signifie généralement qu'un produit est déjà utilisé.",
-      "risk": "Peu d'informations publiques vérifiées sur l'équipe et l'adoption."
-    },
-    {
-      "name": "Arcus (écosystème dYdX)",
-      "conviction": "spec",
-      "funding": "Non communiqué.",
-      "investors": "Lié à l'écosystème dYdX.",
-      "team": "Le token a été confirmé par Charles d'Haussy, CEO de la dYdX Foundation.",
-      "tech": "Trading spot sans frais, et perps en liste d'attente.",
-      "tokenomics": "Aucune répartition, aucune date, aucun vesting publiés.",
-      "catalysts": "Publication de la tokenomics.",
-      "why": "Un token confirmé par un acteur établi.",
-      "risk": "Sans tokenomics publiée, impossible d'évaluer la dilution ou la pression vendeuse."
+      "funding": "Société cotée (Quantinuum Inc.) ; pas de levée de fonds crypto classique identifiée dans les sources consultées.",
+      "investors": "<cite index=\"1-5\">Activité d'initiés notablement positive, avec des achats d'initiés pour 24,7 millions de dollars d'actions sur les 12 derniers mois et aucune vente d'initié rapportée.</cite>",
+      "team": "Dirigé par le CEO Gilbert Verdian ; société positionnée sur l'interopérabilité blockchain (Overledger).",
+      "tech": "<cite index=\"6-7,6-8\">Technologie Overledger utilisée comme cadre d'interopérabilité pour The Clearing House, avec un réseau impliquant 25 grandes banques américaines, lancement visé au premier semestre 2027.</cite>",
+      "tokenomics": "Non détaillé en profondeur dans les sources ; le token QNT reste classé autour du top 40-60 en capitalisation.",
+      "catalysts": "Lancement du réseau On-Chain Money Initiative prévu en 2027 ; pilotes déjà réalisés avec des banques britanniques sur les dépôts tokenisés.",
+      "why": "Partenariat institutionnel nommé et documenté avec un acteur majeur des paiements bancaires américains, signe d'adoption réelle plutôt que de simple spéculation.",
+      "risk": "<cite index=\"8-11,8-12,8-13\">L'annonce concerne la société Quant, pas directement le token ; que QNT en bénéficie économiquement reste une question séparée, et le déploiement bancaire s'étale sur plusieurs années avec un risque de retard.</cite>"
     }
   ],
   "smartMoney": [
     {
-      "title": "Le pirate de Bitget convertit environ 183 M$ en ETH",
-      "token": "ETH",
-      "amount": "≈183 M$",
-      "from": "Wallets de Bitget (fonds volés)",
-      "to": "ETH ; fonds aussi repérés sur Zcash et Tron",
-      "confidence": "confirmed",
-      "interpretation": "Ce sont des fonds volés, pas un signal d'achat. Il y a un risque de reventes ou de blanchiment.",
-      "sources": [
-        {
-          "name": "Lookonchain via Bloomberg / The Star",
-          "url": "https://www.thestar.com.my/business/business-news/2026/09/25/bitget-suspends-withdrawals-after-hackers-take-us352mil"
-        }
-      ]
-    },
-    {
-      "title": "Strategy aurait acheté 950 BTC",
-      "token": "BTC",
-      "amount": "≈75,7 M$ (846 000 BTC au total)",
-      "from": "Strategy (MSTR)",
-      "to": "Trésorerie",
-      "confidence": "unconfirmed",
-      "interpretation": "La seule source trouvée est un communiqué sponsorisé. À vérifier sur le dépôt officiel de Strategy auprès de la SEC (formulaire 8-K).",
-      "sources": [
-        {
-          "name": "openPR (communiqué sponsorisé)",
-          "url": "https://www.openpr.com/news/4644387/crypto-update-september-2026-bitcoin-gains-36-as-remittix-sets"
-        }
-      ]
-    },
-    {
-      "title": "Grosse position longue sur NEAR via Hyperliquid",
-      "token": "NEAR",
-      "amount": "≈29,7 M$ (≈16 M$ de gains latents)",
-      "from": "Wallet non identifié",
-      "to": "Position à effet de levier",
+      "title": "Programme de rachat de tokens AAVE par la DAO",
+      "token": "AAVE",
+      "amount": "<cite index=\"27-11\">Plus de 205 000 AAVE rachetés, soit environ 1,28% de l'offre, pour environ 42 millions de dollars sur les dix premiers mois du programme</cite>",
+      "from": "Revenus du protocole Aave (trésorerie DAO)",
+      "to": "Marché ouvert (rachat, non attribué à un wallet personnel)",
       "confidence": "likely",
-      "interpretation": "C'est un pari à levier qui peut être liquidé brutalement. Il ne dit rien des fondamentaux de NEAR.",
+      "interpretation": "<cite index=\"27-13,27-14\">La gouvernance a débattu de réduire le budget annuel de 50 millions à 30 millions de dollars alors que les revenus s'affaiblissaient, et la DAO a mis en pause les achats le 19 avril après l'incident du pont rsETH pour préserver sa flexibilité de bilan.</cite> Lecture prudente : le programme existe et réduit l'offre en circulation, mais son rythme dépend fortement des revenus du protocole et n'est pas garanti dans la durée.",
       "sources": [
         {
-          "name": "CoinMarketCap AI",
-          "url": "https://coinmarketcap.com/cmc-ai/hyperliquid/latest-updates/"
+          "name": "CryptoSlate",
+          "url": "https://cryptoslate.com/sec-clears-regulatory-hurdle-as-crypto-token-buybacks-hit-record-638-million/"
+        },
+        {
+          "name": "Cryptopond",
+          "url": "https://cryptopond.com/sec-clears-regulatory-hurdle-as-crypto-token-buybacks-hit-record-638-million/"
         }
       ]
     }
   ],
   "unlocks": [
     {
-      "date": "2026-09-29",
-      "token": "FF (Falcon Finance)",
-      "amount": "—",
-      "value": "32,3 M$",
-      "pct": "10,6 % de la cap.",
-      "who": "Non précisé",
-      "risk": "high",
-      "priority": false,
-      "confidence": "likely"
-    },
-    {
-      "date": "2026-10-01",
-      "token": "KITE",
-      "amount": "—",
-      "value": "16,0 M$",
-      "pct": "4,4 % de la cap.",
-      "who": "Non précisé",
-      "risk": "med",
-      "priority": false,
-      "confidence": "likely"
-    },
-    {
-      "date": "2026-10-01",
-      "token": "EIGEN (EigenCloud)",
-      "amount": "—",
-      "value": "10,0 M$",
-      "pct": "4,0 % de la cap.",
-      "who": "Non précisé",
-      "risk": "med",
-      "priority": false,
-      "confidence": "likely"
-    },
-    {
-      "date": "2026-10-02",
-      "token": "2Z (DoubleZero)",
-      "amount": "1,655 Md de tokens",
-      "value": "113,3 M$",
-      "pct": "46,8 % de la cap.",
-      "who": "Le projet ne publie pas de calendrier",
-      "risk": "high",
-      "priority": false,
-      "confidence": "likely"
-    },
-    {
-      "date": "2026-10-02",
-      "token": "BTW (Bitway)",
-      "amount": "—",
-      "value": "105,7 M$",
-      "pct": "3,6 % de la cap.",
-      "who": "Non précisé",
-      "risk": "med",
-      "priority": false,
-      "confidence": "likely"
-    },
-    {
-      "date": "2026-10-02",
-      "token": "ENA (Ethena)",
-      "amount": "—",
-      "value": "25,3 M$",
-      "pct": "0,9 % de la cap.",
-      "who": "Une autre source annonce un dernier unlock le 5/10",
+      "date": "2026-10-06",
+      "token": "HYPE",
+      "amount": "~9,92 millions HYPE",
+      "value": "estimation long terme non garantie",
+      "pct": "~2,37% de l'offre en circulation",
+      "who": "Émission programmée (vesting linéaire), pas un cliff d'investisseurs",
       "risk": "low",
       "priority": false,
-      "confidence": "unconfirmed"
-    },
-    {
-      "date": "2026-10-06",
-      "token": "HYPE (Hyperliquid)",
-      "amount": "≈9,9 M de tokens en septembre",
-      "value": "À recalculer",
-      "pct": "≈2,4 % de l'offre libérée (septembre)",
-      "who": "Contributeurs principaux (équipe)",
-      "risk": "med",
-      "priority": true,
       "confidence": "likely"
     }
   ],
   "unlocksSource": {
-    "name": "Bitcoin Sistemi (données Tokenomist), CryptoTicker, BeInCrypto",
-    "url": "https://en.bitcoinsistemi.com/watch-out-massive-token-unlocks-are-coming-for-18-altcoins-this-week-here-s-the-day-by-day-hour-by-h/"
+    "name": "Tokenomist / cryptoticker.io",
+    "url": "https://cryptoticker.io/en/hyperliquid-hype-unlock-dilution/"
   },
   "regulation": [
     {
       "region": "États-Unis",
-      "title": "La loi CLARITY échoue au Sénat (49-50)",
-      "impact": "neu",
+      "title": "La SEC clarifie le traitement des rachats de tokens",
+      "impact": "pos",
       "confidence": "confirmed",
-      "summary": "La SEC et la CFTC prennent le relais par voie réglementaire, avec notamment une voie temporaire pour les actions tokenisées.",
+      "summary": "<cite index=\"20-4,20-5\">La SEC a précisé le 25 septembre que les rachats de tokens, les mises à jour de réseau et les affirmations marketing ne transforment pas automatiquement un actif crypto en security, tant que le réseau est déjà fonctionnel.</cite>",
       "sources": [
         {
-          "name": "CNBC",
-          "url": "https://www.cnbc.com/2026/09/22/clarity-act-crypto-rules-regulators.html"
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-09-25-sec-crypto-faq-addresses-token-buybacks-network-upgrades-promises-profit-416914"
         }
       ]
     },
     {
       "region": "États-Unis",
-      "title": "La Fed consulte sur les réserves des stablecoins",
-      "impact": "neu",
-      "confidence": "likely",
-      "summary": "Deux propositions de règles de capital et de réserves pour les émetteurs, dans le cadre du GENIUS Act.",
-      "sources": [
-        {
-          "name": "Investing News Network",
-          "url": "https://investingnews.com/cryptocurrency-market-recap/"
-        }
-      ]
-    },
-    {
-      "region": "France",
-      "title": "Rappel : Bitget sur la liste noire de l'AMF",
+      "title": "Le Clarity Act est enterré pour 2026",
       "impact": "neg",
       "confidence": "confirmed",
-      "summary": "L'AMF signale que Bitget n'est pas autorisée à proposer ses services en France.",
+      "summary": "<cite index=\"15-1,15-4\">Le Sénat n'a pas réussi à faire avancer le Clarity Act le 15 septembre ; avec le Congrès en récession avant les midterms, le texte est de facto mis de côté.</cite>",
       "sources": [
         {
-          "name": "AMF",
-          "url": "https://www.amf-france.org/en/news-publications/news-releases/amf-news-releases/amf-reminds-public-cryptoasset-trading-platform-bitget-blacklisted"
-        }
-      ]
-    },
-    {
-      "region": "UE / Royaume-Uni",
-      "title": "HTX (ex-Huobi) sanctionné",
-      "impact": "neg",
-      "confidence": "likely",
-      "summary": "L'Union européenne et le Royaume-Uni ont sanctionné HTX en 2026.",
-      "sources": [
-        {
-          "name": "Wikipedia (à recouper)",
-          "url": "https://en.wikipedia.org/wiki/HTX_(cryptocurrency_exchange)"
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/09/15/nx-s1-5968711/clarity-act-crypto-senate-vote"
         }
       ]
     }
   ],
   "macro": [
     {
-      "title": "La Fed remonte ses taux à 3,75–4 %",
+      "title": "La Fed relève ses taux à 3,75%-4%",
       "impact": "neg",
       "confidence": "confirmed",
-      "date": "16/09",
-      "summary": "Première hausse depuis 2023, votée à l'unanimité. 16 membres sur 18 prévoient une autre hausse en 2026. Le BTC a peu réagi.",
+      "date": "2026-09-16",
+      "summary": "<cite index=\"54-3\">Le FOMC a voté 12 contre 0 pour relever le taux directeur d'un quart de point, à une fourchette de 3,75% à 4%.</cite> <cite index=\"46-3,46-4\">Le marché anticipe désormais une nouvelle hausse de 25 points de base en 2026, avec des projections de fin d'année entre 4,1% et 4,4%.</cite>",
       "sources": [
         {
-          "name": "KuCoin / CoinEdition",
-          "url": "https://kucoin.com/news/flash/bitcoin-slips-after-fed-s-first-rate-hike-since-2023"
-        }
-      ]
-    },
-    {
-      "title": "Prochaine réunion de la Fed les 27 et 28 octobre",
-      "impact": "neu",
-      "confidence": "confirmed",
-      "date": "27-28/10",
-      "summary": "En 2026, les décisions de la Fed ont souvent marqué des tournants de prix pour le BTC.",
-      "sources": [
+          "name": "Federal Reserve",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm"
+        },
         {
-          "name": "CryptoTicker",
-          "url": "https://cryptoticker.io/en/crypto-dates-fourth-quarter-2026/"
-        }
-      ]
-    },
-    {
-      "title": "Tensions au Moyen-Orient (Iran)",
-      "impact": "neg",
-      "confidence": "confirmed",
-      "date": "Septembre",
-      "summary": "Le conflit fait monter le pétrole et complique la lutte de la Fed contre l'inflation.",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-1-2026-crypto-prices-falling-as-inflation-concerns-persist-123554224.html"
+          "name": "Advisor Perspectives",
+          "url": "https://www.advisorperspectives.com/dshort/updates/2026/09/16/feds-interest-rate-decision-september-16-2026"
         }
       ]
     }
   ],
   "onchain": [
     {
-      "metric": "Stablecoins (total)",
-      "value": "292,5 Md$",
-      "note": "Stable sur 24 h (26/09).",
-      "source": "CoinGecko via CoinGabbar"
+      "metric": "Stablecoins (offre totale)",
+      "value": "$312,9 Mds",
+      "note": "Indicateur de liquidité disponible pour entrer sur le marché crypto.",
+      "source": "Données agrégées internes"
     },
     {
-      "metric": "DeFi (capitalisation)",
-      "value": "87,7 Md$",
-      "note": "+3 % sur 24 h (26/09).",
-      "source": "CoinGecko via CoinGabbar"
+      "metric": "Volume DEX (24h)",
+      "value": "$7,44 Mds",
+      "note": "Activité de trading décentralisé sur 24h, tous réseaux confondus.",
+      "source": "Données agrégées internes"
     },
     {
-      "metric": "Stablecoins sur Solana",
-      "value": "17,39 Md$",
-      "note": "Record historique (25/09).",
-      "source": "DefiLlama"
+      "metric": "TVL Aave",
+      "value": "$19,29 Mds",
+      "note": "Valeur totale verrouillée sur le protocole de prêt Aave.",
+      "source": "Données agrégées internes"
     },
     {
-      "metric": "Hyperliquid : open interest",
-      "value": "> 8 Md$",
-      "note": "Première fois (≈20/09) ; 64,3 M$ de revenus sur 30 jours.",
-      "source": "CoinGabbar"
+      "metric": "TVL Hyperliquid",
+      "value": "$7,55 Mds",
+      "note": "Valeur totale verrouillée sur le protocole Hyperliquid.",
+      "source": "Données agrégées internes"
     },
     {
-      "metric": "Aave : dépôts de matières premières (RWA)",
-      "value": "133 M$",
-      "note": "En hausse.",
-      "source": "AMBCrypto"
+      "metric": "Frais 24h Pump.fun",
+      "value": "$2,70M",
+      "note": "Frais quotidiens qui alimentent directement le mécanisme de rachat/burn de PUMP.",
+      "source": "Données agrégées internes"
     }
   ],
   "watchlist": [
     {
       "impact": "neg",
-      "text": "Bitget : reprise des retraits, rapport d'incident et mouvements de l'ETH volé."
+      "text": "Réunion de la Fed le 28 octobre : une nouvelle hausse de taux serait un vent contraire supplémentaire pour les cryptos."
     },
     {
       "impact": "neu",
-      "text": "DoubleZero (2Z) : unlock d'environ 47 % de la capitalisation le 2/10."
-    },
-    {
-      "impact": "neu",
-      "text": "HYPE : prochain unlock mensuel de l'équipe, estimé vers le 6/10."
+      "text": "Vague d'unlocks élevée fin septembre / début octobre sur plusieurs altcoins du top 100 (source Tokenomist) : risque de volatilité localisée."
     },
     {
       "impact": "pos",
-      "text": "Solana : date d'activation d'Alpenglow sur le réseau principal."
+      "text": "À surveiller si d'autres protocoles lancent des programmes de rachat de tokens suite à la clarification de la SEC."
     },
     {
       "impact": "neu",
-      "text": "Clôture trimestrielle le 30/09, et le Congrès américain part en pause le 5/10 (loi CLARITY)."
+      "text": "Vote de la DAO Aave sur la réduction du budget annuel de rachat de tokens (50M$ vers 30M$)."
+    },
+    {
+      "impact": "neu",
+      "text": "Suite de la procédure judiciaire de 5,5 milliards de dollars contre Pump.fun."
     }
-  ]
+  ],
+  "breaking": [],
+  "generatedAt": "2026-09-27T21:26:14Z",
+  "updatedAt": "2026-09-27T21:26:14Z"
 }
