@@ -1,1 +1,77 @@
-.github/workflows/crypto.yml
+name: Crypto Intel
+
+on:
+  schedule:
+    - cron: "20 4 * * *"     # briefing (heure d'été)
+    - cron: "20 5 * * *"     # briefing (heure d'hiver)
+    - cron: "7,37 * * * *"   # surveillance toutes les 30 min
+  workflow_dispatch:
+    inputs:
+      action:
+        description: "Que faire ?"
+        type: choice
+        default: installer
+        options: [installer, test-telegram, chat-id, briefing, surveillance, resolve-x]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: crypto-intel
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      COINGECKO_API_KEY: ${{ secrets.COINGECKO_API_KEY }}
+      X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+      CONTACT_EMAIL: ${{ secrets.CONTACT_EMAIL }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Choisir
+        id: pick
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then A="${{ inputs.action }}"
+          elif [ "${{ github.event.schedule }}" = "7,37 * * * *" ]; then A="surveillance"
+          else A="briefing"; fi
+          if [ "$A" != "installer" ] && [ ! -f requirements.txt ]; then A="attente"; echo "Pas encore installé."; fi
+          echo "action=$A" >> "$GITHUB_OUTPUT"
+      - name: Installer
+        if: steps.pick.outputs.action == 'installer'
+        run: |
+          ZIP=$(ls *.zip | head -n 1)
+          unzip -oq "$ZIP" -d /tmp/ci
+          SRC=/tmp/ci; [ -d /tmp/ci/crypto-intel ] && SRC=/tmp/ci/crypto-intel
+          rm -rf "$SRC/.github"
+          cp -a "$SRC"/. ./
+          rm -f "$ZIP"
+      - uses: actions/setup-python@v5
+        if: steps.pick.outputs.action != 'installer' && steps.pick.outputs.action != 'attente'
+        with:
+          python-version: "3.12"
+      - name: Lancer
+        if: steps.pick.outputs.action != 'installer' && steps.pick.outputs.action != 'attente'
+        run: |
+          pip install -q -r requirements.txt
+          case "${{ steps.pick.outputs.action }}" in
+            briefing)
+              if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then python -m src.briefing --force; else python -m src.briefing; fi ;;
+            surveillance) python -m src.monitor ;;
+            *) python -m src.tools "${{ steps.pick.outputs.action }}" ;;
+          esac
+      - name: Enregistrer
+        if: steps.pick.outputs.action != 'attente'
+        run: |
+          git config user.name "crypto-intel-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -q -m "Crypto Intel : ${{ steps.pick.outputs.action }}"
+            git pull -q --rebase
+            git push -q
+          fi
