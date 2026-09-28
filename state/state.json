@@ -1,7 +1,14 @@
 {
   "seen": {
     "rss:281314b1a4c3dcd8": 1790552782.0048435,
-    "move24:quant-network:20723": 1790552782.0049322
+    "move24:quant-network:20723": 1790552782.0049322,
+    "rss:d1d5ef529b331feb": 1790572373.9826617,
+    "rss:043a2bf5f6f78168": 1790572373.9826627,
+    "rss:d82b08a89bd5c2f7": 1790572373.982663,
+    "rss:d59b57bc127de9bc": 1790572373.9826632,
+    "rss:3dcd433ac9f6c4dc": 1790572373.9826636,
+    "rss:1b291f9501c459bc": 1790572373.9826636,
+    "move24:quant-network:20724": 1790572373.9827545
   },
   "x_since": {},
   "recent": [
@@ -15,6 +22,72 @@
       "xRole": null,
       "cluster": "pons-v2-rugpull",
       "ts": 1790546577
+    },
+    {
+      "id": "rss:d1d5ef529b331feb",
+      "kind": "news",
+      "title": "Bitcoin, Nasdaq futures decline as Trump won’t rule out more Iran strikes",
+      "url": "https://www.coindesk.com/markets/2026/09/28/bitcoin-and-nasdaq-futures-decline-as-trump-won-t-rule-out-more-iran-strikes",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "trump-iran-geopolitics",
+      "ts": 1790567932
+    },
+    {
+      "id": "rss:043a2bf5f6f78168",
+      "kind": "news",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "daily-digest",
+      "ts": 1790571420
+    },
+    {
+      "id": "rss:d82b08a89bd5c2f7",
+      "kind": "news",
+      "title": "Vitalik Buterin says Hegotá could be Ethereum’s last ‘normal’ fork",
+      "url": "https://cointelegraph.com/news/vitalik-hegota-ethereum-last-normal-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "ethereum-hegota-fork",
+      "ts": 1790570655
+    },
+    {
+      "id": "rss:d59b57bc127de9bc",
+      "kind": "news",
+      "title": "Newsom signs California ban on public officials issuing memecoins",
+      "url": "https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "california-memecoin-regulation",
+      "ts": 1790562222
+    },
+    {
+      "id": "rss:3dcd433ac9f6c4dc",
+      "kind": "news",
+      "title": "Zano rolls blockchain back a month after Gateway Address exploit",
+      "url": "https://cointelegraph.com/news/zano-rolls-blockchain-back-a-month-after-gateway-address-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "zano-gateway-exploit",
+      "ts": 1790557762
+    },
+    {
+      "id": "rss:1b291f9501c459bc",
+      "kind": "news",
+      "title": "THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest",
+      "url": "https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "thorchain-bitget-refusal",
+      "ts": 1790552598
     }
   ],
   "digest_queue": [
@@ -40,6 +113,99 @@
         }
       ],
       "digested": false
+    },
+    {
+      "id": "move24:quant-network:20724",
+      "kind": "price",
+      "level": "important",
+      "title": "QNT +30.2 % en 24 h (rang 33)",
+      "summary": "Mouvement inhabituel dans le top 100 : cause à vérifier.",
+      "url": "https://www.coingecko.com/en/coins/quant-network",
+      "source": "CoinGecko",
+      "tier": 1,
+      "assets": [
+        "QNT"
+      ],
+      "ts": 1790572373.9827137,
+      "time": "07:12",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "CoinGecko",
+          "url": "https://www.coingecko.com/en/coins/quant-network"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "ethereum-hegota-fork:2026-09-28",
+      "level": "important",
+      "time": "07:12",
+      "title": "Vitalik Buterin : Hegotá serait le dernier fork 'normal' d'Ethereum",
+      "summary": "Vitalik Buterin annonce que PeerDAS marque la transition d'Ethereum de 'simple blockchain' à 'quelque chose de plus puissant', Hegotá étant potentiellement le dernier fork traditionnel.",
+      "assets": [
+        "ETH"
+      ],
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/vitalik-hegota-ethereum-last-normal-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "california-memecoin-regulation:2026-09-28",
+      "level": "important",
+      "time": "07:12",
+      "title": "Californie : interdiction des memecoins émis par les élus",
+      "summary": "Le gouverneur californien signe une loi interdisant aux élus d'émettre des memecoins et restreignant les offres liées à des personnalités publiques, effective au 1er janvier 2027.",
+      "assets": [],
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "zano-gateway-exploit:2026-09-28",
+      "level": "important",
+      "time": "07:12",
+      "title": "Zano effectue un rollback d'un mois suite à un exploit Gateway Address",
+      "summary": "La blockchain Zano redémarre au bloc précédant le Hard Fork 6 qui avait introduit les Gateway Addresses, suite à un exploit détecté.",
+      "assets": [
+        "ZANO"
+      ],
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/zano-rolls-blockchain-back-a-month-after-gateway-address-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "thorchain-bitget-refusal:2026-09-28",
+      "level": "important",
+      "time": "07:12",
+      "title": "THORChain refuse de blacklister les adresses du hack Bitget",
+      "summary": "THORChain refuse de blacklister les adresses associées au piratage de Bitget, tandis que Vitalik Buterin décrit l'évolution d'Ethereum en 'ordinateur cryptographique mondial'.",
+      "assets": [
+        "RUNE"
+      ],
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "digested": false
     }
   ],
   "sent": {
@@ -48,5 +214,10 @@
       "digests": []
     }
   },
-  "alerted": {}
+  "alerted": {
+    "ethereum-hegota-fork": "important",
+    "california-memecoin-regulation": "important",
+    "zano-gateway-exploit": "important",
+    "thorchain-bitget-refusal": "important"
+  }
 }
