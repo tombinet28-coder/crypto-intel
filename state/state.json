@@ -49,21 +49,19 @@
     "rss:a3abe9a7c85699a6": 1790624195.6315737,
     "rss:f328c025d2aa3726": 1790624195.631574,
     "rss:8296001023c43b97": 1790624195.6315742,
-    "move24:hedera-hashgraph:20724": 1790624195.631665
+    "move24:hedera-hashgraph:20724": 1790624195.631665,
+    "rss:e4bf0c9733e483f1": 1790639710.0071757,
+    "rss:26c9a112aa50c5f4": 1790639710.0071766,
+    "rss:17339a1d6848e76f": 1790639710.007177,
+    "rss:48078d8f48e7f5b5": 1790639710.007177,
+    "rss:21d48810861d059f": 1790639710.0071774,
+    "rss:d3ec30622fd21bbf": 1790639710.0071778,
+    "rss:bbc809dc623ee095": 1790639710.007178,
+    "rss:9aab80fe6140a36f": 1790639710.007178,
+    "rss:69cce929fa79417c": 1790639710.0071783
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:281314b1a4c3dcd8",
-      "kind": "news",
-      "title": "Onchain analyst links $18.4 million in Robinhood Chain memecoin extractions to single rug-pull operation",
-      "url": "https://www.theblock.co/news/defi/2026-09-27-onchain-analyst-links-18-4-million-in-robinhood-chain-memecoin-extractions-to-single-rug-pull-operation-416960",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "pons-v2-rugpull",
-      "ts": 1790546577
-    },
     {
       "id": "rss:d1d5ef529b331feb",
       "kind": "news",
@@ -118,17 +116,6 @@
       "xRole": null,
       "cluster": "zano-gateway-exploit",
       "ts": 1790557762
-    },
-    {
-      "id": "rss:1b291f9501c459bc",
-      "kind": "news",
-      "title": "THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest",
-      "url": "https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "thorchain-bitget-refusal",
-      "ts": 1790552598
     },
     {
       "id": "rss:ab84bda45cbeb98b",
@@ -569,6 +556,105 @@
       "xRole": null,
       "cluster": "aave-risk-parameters-update",
       "ts": 1790609244
+    },
+    {
+      "id": "rss:e4bf0c9733e483f1",
+      "kind": "news",
+      "title": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
+      "url": "https://decrypt.co/379508/openai-ai-agents-target-us-government-sites",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "openai-agent-safeguards",
+      "ts": 1790631963
+    },
+    {
+      "id": "rss:26c9a112aa50c5f4",
+      "kind": "news",
+      "title": "A Clever RSA Attack Fooled a Hardware Vault—Here's What It Means for Crypto",
+      "url": "https://decrypt.co/379505/rsa-attack-without-stealing-key-what-it-means-crypto",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "rsa-hardware-vault-attack",
+      "ts": 1790630163
+    },
+    {
+      "id": "rss:17339a1d6848e76f",
+      "kind": "news",
+      "title": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto",
+      "url": "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "citi-coinbase-stablecoin-partnership",
+      "ts": 1790627763
+    },
+    {
+      "id": "rss:48078d8f48e7f5b5",
+      "kind": "news",
+      "title": "Anthropic's Claude Sonnet 5.5 Is Out, Beats Opus 5.5 at Coding for Half the Price",
+      "url": "https://decrypt.co/379482/anthropic-claude-sonnet-5-5-release",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "anthropic-claude-sonnet-release",
+      "ts": 1790625963
+    },
+    {
+      "id": "rss:21d48810861d059f",
+      "kind": "news",
+      "title": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
+      "url": "https://decrypt.co/379481/australia-sam-altman-dario-amodei-ai-hack",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "openai-agent-government-breach",
+      "ts": 1790624181
+    },
+    {
+      "id": "rss:d3ec30622fd21bbf",
+      "kind": "news",
+      "title": "Canadian ‘crypto king’ set to represent himself at fraud trial",
+      "url": "https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "pleterski-fraud-trial",
+      "ts": 1790628104
+    },
+    {
+      "id": "rss:bbc809dc623ee095",
+      "kind": "news",
+      "title": "Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report",
+      "url": "https://cointelegraph.com/news/blockchain-com-500m-ipo-bloomberg-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "blockchain-com-ipo-plans",
+      "ts": 1790627293
+    },
+    {
+      "id": "rss:9aab80fe6140a36f",
+      "kind": "news",
+      "title": "[Discussion] A risk framework for tokenized equities on Aave V3 X Layer, with wTCENTx as the worked example",
+      "url": "https://governance.aave.com/t/discussion-a-risk-framework-for-tokenized-equities-on-aave-v3-x-layer-with-wtcentx-as-the-worked-example/25724",
+      "source": "Aave gouvernance",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "aave-tokenized-equities-framework",
+      "ts": 1790632921
+    },
+    {
+      "id": "rss:69cce929fa79417c",
+      "kind": "news",
+      "title": "[ARFC] Sentora Externally Curated Hub & Spoke Framework on Aave V4",
+      "url": "https://governance.aave.com/t/arfc-sentora-externally-curated-hub-spoke-framework-on-aave-v4/25723",
+      "source": "Aave gouvernance",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "aave-sentora-hub-spoke",
+      "ts": 1790627190
     }
   ],
   "digest_queue": [
@@ -1033,11 +1119,31 @@
         }
       ],
       "digested": false
+    },
+    {
+      "id": "blockchain-com-ipo-plans:2026-09-29",
+      "level": "important",
+      "time": "01:55",
+      "title": "Blockchain.com envisage un IPO de 500 millions de dollars",
+      "summary": "Blockchain.com cherche une valorisation jusqu'à 6 milliards de dollars pour son introduction en bourse, bien en deçà de son pic de 2022.",
+      "assets": [],
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/blockchain-com-500m-ipo-bloomberg-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "digested": false
     }
   ],
   "sent": {
     "2026-09-28": {
       "critical": 1,
+      "digests": []
+    },
+    "2026-09-29": {
+      "critical": 0,
       "digests": []
     }
   },
@@ -1064,6 +1170,7 @@
     "sec-cftc-crypto-guidance": "important",
     "mica-supervision-focus": "important",
     "aave-monad-deployment": "important",
-    "aave-syrupusdc-onboarding": "important"
+    "aave-syrupusdc-onboarding": "important",
+    "blockchain-com-ipo-plans": "important"
   }
 }
