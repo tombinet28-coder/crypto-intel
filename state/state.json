@@ -25,7 +25,31 @@
     "rss:7cb6f4fcad779d2c": 1790596636.922154,
     "rss:f0122b29291cfb5f": 1790596636.922154,
     "rss:32861b754b923361": 1790596636.9221542,
-    "rss:a4741cf42cd552ba": 1790596636.9221542
+    "rss:a4741cf42cd552ba": 1790596636.9221542,
+    "rss:39d088f2b427f73f": 1790624195.631567,
+    "rss:acdf696f48f6223f": 1790624195.6315684,
+    "rss:027e71b5c6040836": 1790624195.6315687,
+    "rss:bd9265d374061c66": 1790624195.631569,
+    "rss:8ff1a4185191808c": 1790624195.6315691,
+    "rss:fdccb22fdde38970": 1790624195.6315691,
+    "rss:577697bf5e5aba71": 1790624195.6315694,
+    "rss:d296041ee56a1054": 1790624195.6315694,
+    "rss:8861cc772abc9224": 1790624195.6315696,
+    "rss:39788dde432a57d3": 1790624195.6315696,
+    "rss:6f309daa19044cec": 1790624195.6315699,
+    "rss:95bf8687fbd44ef4": 1790624195.6315699,
+    "rss:8fad08ea2cb3d8dc": 1790624195.63157,
+    "rss:c7e9c8526b5beeab": 1790624195.63157,
+    "rss:6a3b8763d7bc0245": 1790624195.6315703,
+    "rss:63b12a885eb0c1cb": 1790624195.6315703,
+    "rss:7d2258324310bb4f": 1790624195.6315706,
+    "rss:f8c8d65880be10ae": 1790624195.6315732,
+    "rss:ef9b7896d466ad03": 1790624195.6315734,
+    "rss:dce9afeee83bf1f8": 1790624195.6315737,
+    "rss:a3abe9a7c85699a6": 1790624195.6315737,
+    "rss:f328c025d2aa3726": 1790624195.631574,
+    "rss:8296001023c43b97": 1790624195.6315742,
+    "move24:hedera-hashgraph:20724": 1790624195.631665
   },
   "x_since": {},
   "recent": [
@@ -292,6 +316,259 @@
       "xRole": null,
       "cluster": "bitcoin-etf-inflows",
       "ts": 1790583880
+    },
+    {
+      "id": "rss:39d088f2b427f73f",
+      "kind": "news",
+      "title": "Goldman Sachs brings $100 billion Treasury fund into crypto’s institutional plumbing",
+      "url": "https://www.coindesk.com/markets/2026/09/28/goldman-sachs-brings-usd100-billion-treasury-fund-into-crypto-s-institutional-plumbing",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "goldman-sachs-treasury-crypto",
+      "ts": 1790618400
+    },
+    {
+      "id": "rss:acdf696f48f6223f",
+      "kind": "news",
+      "title": "The restaking gold rush is over, and top protocols are barely making a profit",
+      "url": "https://www.coindesk.com/business/2026/09/28/the-restaking-gold-rush-is-over-and-top-protocols-are-barely-making-a-profit",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "restaking-profitability-decline",
+      "ts": 1790612691
+    },
+    {
+      "id": "rss:bd9265d374061c66",
+      "kind": "news",
+      "title": "Tether’s USDT at center of Iran’s shadow banking network, new Senate Report says",
+      "url": "https://www.theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "tether-iran-sanctions",
+      "ts": 1790622642
+    },
+    {
+      "id": "rss:027e71b5c6040836",
+      "kind": "news",
+      "title": "Tether is a ‘lifeline’ for Iranian regime, Senate Dems say in new report",
+      "url": "https://www.coindesk.com/policy/2026/09/28/tether-is-a-lifeline-for-iranian-regime-senate-dems-say-in-new-report",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "tether-iran-sanctions",
+      "ts": 1790612200
+    },
+    {
+      "id": "rss:8ff1a4185191808c",
+      "kind": "news",
+      "title": "Citi expands Coinbase partnership to power stablecoin payments for businesses",
+      "url": "https://www.theblock.co/news/business/2026-09-28-citi-coinbase-stablecoin-payments-corporate-clients-417082",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "citi-coinbase-stablecoin-partnership",
+      "ts": 1790616126
+    },
+    {
+      "id": "rss:fdccb22fdde38970",
+      "kind": "news",
+      "title": "SEC Commissioner Hester Peirce reflects on her time at the agency, what she still wanted to get done: ‘There’s no good time to leave’",
+      "url": "https://www.theblock.co/news/regulation/2026-09-28-sec-commissioner-hester-peirce-reflects-what-she-wanted-get-done-no-good-time-to-leave-417075",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "hester-peirce-departure",
+      "ts": 1790613329
+    },
+    {
+      "id": "rss:577697bf5e5aba71",
+      "kind": "news",
+      "title": "Strive pushes bitcoin holdings above 27,400 BTC with latest $94.5 million purchase",
+      "url": "https://www.theblock.co/news/business/2026-09-28-strive-pushes-bitcoin-holdings-above-27400-btc-latest-94-5-million-purchase-417035",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "strive-bitcoin-purchases",
+      "ts": 1790611233
+    },
+    {
+      "id": "rss:d296041ee56a1054",
+      "kind": "news",
+      "title": "Bitget attacker tested risk controls with small transfers before $388 million theft, CEO says",
+      "url": "https://www.theblock.co/news/regulation/2026-09-28-bitget-attacker-tested-risk-controls-small-transfers-388-million-theft-ceo-says-417045",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "bitget-388m-exploit",
+      "ts": 1790609451
+    },
+    {
+      "id": "rss:8861cc772abc9224",
+      "kind": "news",
+      "title": "Tom Lee’s Bitmine tops 6 million ETH after buying another 17,362 ether",
+      "url": "https://www.theblock.co/news/business/2026-09-28-tom-lees-bitmine-tops-6-million-eth-after-buying-another-17362-ether-416989",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "tom-lee-ethereum-accumulation",
+      "ts": 1790602746
+    },
+    {
+      "id": "rss:39788dde432a57d3",
+      "kind": "news",
+      "title": "Nvidia Built a Kill Switch for AI Agents Because They Keep Getting Out",
+      "url": "https://decrypt.co/379468/nvidia-kill-switch-ai-agents",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ai-safety-mechanisms",
+      "ts": 1790621163
+    },
+    {
+      "id": "rss:6f309daa19044cec",
+      "kind": "news",
+      "title": "Strive Buys $94.5 Million in Bitcoin, Pushing Holdings Past 27,000 BTC",
+      "url": "https://decrypt.co/379465/strive-buys-94-5-million-in-bitcoin-pushing-holdings-past-27000-btc",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "strive-bitcoin-purchases",
+      "ts": 1790619362
+    },
+    {
+      "id": "rss:95bf8687fbd44ef4",
+      "kind": "news",
+      "title": "Months After the $292M Kelp Hack, Chainlink Lets Institutions Add Their Own Bridge Checks",
+      "url": "https://decrypt.co/379463/chainlink-institutions-add-bridge-checks-kelp-hack",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "chainlink-ccip-security-update",
+      "ts": 1790617874
+    },
+    {
+      "id": "rss:8fad08ea2cb3d8dc",
+      "kind": "news",
+      "title": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
+      "url": "https://decrypt.co/379461/vitalik-buterin-outlines-cryptographic-world-computer-plan-for-ethereum",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ethereum-hegota-fork",
+      "ts": 1790612982
+    },
+    {
+      "id": "rss:c7e9c8526b5beeab",
+      "kind": "news",
+      "title": "Bitcoin Falls Lower as Trump's Iran Snub Sends Oil, Yields Higher",
+      "url": "https://decrypt.co/379438/bitcoin-price-falls-trump-iran-oil-yields",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "trump-iran-geopolitics",
+      "ts": 1790609188
+    },
+    {
+      "id": "rss:6a3b8763d7bc0245",
+      "kind": "news",
+      "title": "US SEC follows CFTC in staff guidance for crypto",
+      "url": "https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "sec-cftc-crypto-guidance",
+      "ts": 1790620749
+    },
+    {
+      "id": "rss:63b12a885eb0c1cb",
+      "kind": "news",
+      "title": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
+      "url": "https://cointelegraph.com/news/bybit-accepts-franklin-templeton-tokenized-funds-trading-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "franklin-templeton-bybit",
+      "ts": 1790618574
+    },
+    {
+      "id": "rss:7d2258324310bb4f",
+      "kind": "news",
+      "title": "Crypto PAC spends $11M to oppose Sherrod Brown in Ohio",
+      "url": "https://cointelegraph.com/news/crypto-industry-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "crypto-political-spending",
+      "ts": 1790614080
+    },
+    {
+      "id": "rss:f8c8d65880be10ae",
+      "kind": "news",
+      "title": "Bitget CEO says $388M hack exploited third-party security vulnerability",
+      "url": "https://cointelegraph.com/news/bitget-388m-hack-third-party-security-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "bitget-388m-exploit",
+      "ts": 1790606781
+    },
+    {
+      "id": "rss:ef9b7896d466ad03",
+      "kind": "news",
+      "title": "MiCA focus shifts from rulemaking to supervision, ESMA chair says",
+      "url": "https://cointelegraph.com/news/mica-shift-rulemaking-to-supervision-esma-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "mica-supervision-focus",
+      "ts": 1790604165
+    },
+    {
+      "id": "rss:dce9afeee83bf1f8",
+      "kind": "news",
+      "title": "SEC Charges Registered Investment Adviser Zoe Financial for Failure to Disclose Conflict of Interest",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-94-sec-charges-registered-investment-adviser-zoe-financial-failure-disclose-conflict-interest",
+      "source": "SEC (communiqués)",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "sec-enforcement-zoe-financial",
+      "ts": 1790617590
+    },
+    {
+      "id": "rss:a3abe9a7c85699a6",
+      "kind": "news",
+      "title": "[ARFC] Deploy Aave V4 on the Monad Network",
+      "url": "https://governance.aave.com/t/arfc-deploy-aave-v4-on-the-monad-network/25722",
+      "source": "Aave gouvernance",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "aave-monad-deployment",
+      "ts": 1790612614
+    },
+    {
+      "id": "rss:f328c025d2aa3726",
+      "kind": "news",
+      "title": "[ARFC] Onboard syrupUSDC to Aave V4 on Arc",
+      "url": "https://governance.aave.com/t/arfc-onboard-syrupusdc-to-aave-v4-on-arc/25721",
+      "source": "Aave gouvernance",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "aave-syrupusdc-onboarding",
+      "ts": 1790612148
+    },
+    {
+      "id": "rss:8296001023c43b97",
+      "kind": "news",
+      "title": "Risk Stewards: Cap and IRM Changes on Aave V3 / 2026.09.28",
+      "url": "https://governance.aave.com/t/risk-stewards-cap-and-irm-changes-on-aave-v3-2026-09-28/25718",
+      "source": "Aave gouvernance",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "aave-risk-parameters-update",
+      "ts": 1790609244
     }
   ],
   "digest_queue": [
@@ -555,11 +832,212 @@
         }
       ],
       "digested": false
+    },
+    {
+      "id": "move24:hedera-hashgraph:20724",
+      "kind": "price",
+      "level": "important",
+      "title": "HBAR +33.3 % en 24 h (rang 23)",
+      "summary": "Mouvement inhabituel dans le top 100 : cause à vérifier.",
+      "url": "https://www.coingecko.com/en/coins/hedera-hashgraph",
+      "source": "CoinGecko",
+      "tier": 1,
+      "assets": [
+        "HBAR"
+      ],
+      "ts": 1790624195.6316152,
+      "time": "21:36",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "CoinGecko",
+          "url": "https://www.coingecko.com/en/coins/hedera-hashgraph"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "goldman-sachs-treasury-crypto:2026-09-28",
+      "level": "important",
+      "time": "21:36",
+      "title": "Goldman Sachs intègre un fonds de 100 milliards de dollars dans l'infrastructure crypto",
+      "summary": "Goldman Sachs apporte 100 milliards de dollars de fonds de trésorerie dans l'infrastructure institutionnelle de la crypto, marquant une expansion majeure de l'adoption institutionnelle.",
+      "assets": [],
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/09/28/goldman-sachs-brings-usd100-billion-treasury-fund-into-crypto-s-institutional-plumbing"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "tether-iran-sanctions:2026-09-28",
+      "level": "important",
+      "time": "21:36",
+      "title": "Tether au cœur du système bancaire parallèle iranien, selon un rapport du Sénat",
+      "summary": "Une enquête du Sénat américain révèle que Tether et son stablecoin USDT sont devenus centraux dans le système bancaire parallèle de l'Iran, mettant en avant des préoccupations de conformité réglementaire.",
+      "assets": [
+        "USDT"
+      ],
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094"
+        },
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/09/28/tether-is-a-lifeline-for-iranian-regime-senate-dems-say-in-new-report"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "citi-coinbase-stablecoin-partnership:2026-09-28",
+      "level": "important",
+      "time": "21:36",
+      "title": "Citi élargit son partenariat avec Coinbase pour les paiements en stablecoin",
+      "summary": "Coinbase et Citi étendent leur partenariat pour fournir aux entreprises une infrastructure reliant les paiements fiat traditionnels et les stablecoins.",
+      "assets": [],
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/business/2026-09-28-citi-coinbase-stablecoin-payments-corporate-clients-417082"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "strive-bitcoin-purchases:2026-09-28",
+      "level": "important",
+      "time": "21:36",
+      "title": "Strive dépasse 27 400 BTC avec un achat de 94,5 millions de dollars",
+      "summary": "Strive complète un achat de 1 107 BTC pour 94,5 millions de dollars, portant ses avoirs totaux à 27 462 BTC.",
+      "assets": [
+        "BTC"
+      ],
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/business/2026-09-28-strive-pushes-bitcoin-holdings-above-27400-btc-latest-94-5-million-purchase-417035"
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/379465/strive-buys-94-5-million-in-bitcoin-pushing-holdings-past-27000-btc"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "tom-lee-ethereum-accumulation:2026-09-28",
+      "level": "important",
+      "time": "21:36",
+      "title": "Bitmine de Tom Lee dépasse 6 millions d'ETH après un achat de 17 362 ethers",
+      "summary": "Bitmine de Tom Lee accumule massivement l'Ethereum et contrôle maintenant plus de 4,9% de l'offre en circulation.",
+      "assets": [
+        "ETH"
+      ],
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/business/2026-09-28-tom-lees-bitmine-tops-6-million-eth-after-buying-another-17362-ether-416989"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "chainlink-ccip-security-update:2026-09-28",
+      "level": "important",
+      "time": "21:36",
+      "title": "Après le hack de 292 millions de dollars de Kelp, Chainlink permet aux institutions de valider les transferts cross-chain",
+      "summary": "Chainlink CCIP 2.0 permet aux banques d'effectuer leurs propres vérifications de sécurité sur les transferts cross-chain, cinq mois après un exploit majeur.",
+      "assets": [],
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/379463/chainlink-institutions-add-bridge-checks-kelp-hack"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "sec-cftc-crypto-guidance:2026-09-28",
+      "level": "important",
+      "time": "21:36",
+      "title": "La SEC emboîte le pas à la CFTC dans ses orientations réglementaires pour la crypto",
+      "summary": "Suite à l'échec du vote sur la CLARITY Act, la SEC annonce des orientations sur l'application des lois fédérales sur les valeurs mobilières aux émetteurs de tokens.",
+      "assets": [],
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "mica-supervision-focus:2026-09-28",
+      "level": "important",
+      "time": "21:36",
+      "title": "L'accent réglementaire MiCA se déplace de la rédaction des règles vers la supervision",
+      "summary": "L'ESMA annonce un changement d'orientation vers la supervision de la résilience des CASP et l'harmonisation des rapports entre régulateurs nationaux.",
+      "assets": [],
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/mica-shift-rulemaking-to-supervision-esma-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "aave-monad-deployment:2026-09-28",
+      "level": "important",
+      "time": "21:36",
+      "title": "[Gouvernance Aave] Proposer le déploiement d'Aave V4 sur Monad Network",
+      "summary": "Une proposition recommande de déployer une instance Aave V4 sur Monad Network, initialement conçue pour supporter les actifs tokenisés et équivalents en trésorerie.",
+      "assets": [
+        "AAVE"
+      ],
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "Aave gouvernance",
+          "url": "https://governance.aave.com/t/arfc-deploy-aave-v4-on-the-monad-network/25722"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "aave-syrupusdc-onboarding:2026-09-28",
+      "level": "important",
+      "time": "21:36",
+      "title": "[Gouvernance Aave] Intégrer syrupUSDC à Aave V4 sur Arc",
+      "summary": "Une proposition vise à intégrer syrupUSDC (token de rendement de Maple Finance) à Aave V4 sur Arc, avec configuration finale déterminée par les Risk Service Providers.",
+      "assets": [
+        "AAVE"
+      ],
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "Aave gouvernance",
+          "url": "https://governance.aave.com/t/arfc-onboard-syrupusdc-to-aave-v4-on-arc/25721"
+        }
+      ],
+      "digested": false
     }
   ],
   "sent": {
     "2026-09-28": {
-      "critical": 0,
+      "critical": 1,
       "digests": []
     }
   },
@@ -575,6 +1053,17 @@
     "bitget-388m-exploit": "important",
     "hong-kong-crypto-regulation": "important",
     "giwa-network-scam": "important",
-    "bitcoin-etf-inflows": "important"
+    "bitcoin-etf-inflows": "important",
+    "goldman-sachs-treasury-crypto": "important",
+    "tether-iran-sanctions": "important",
+    "citi-coinbase-stablecoin-partnership": "important",
+    "strive-bitcoin-purchases": "important",
+    "tom-lee-ethereum-accumulation": "important",
+    "chainlink-ccip-security-update": "important",
+    "trump-iran-geopolitics": "critical",
+    "sec-cftc-crypto-guidance": "important",
+    "mica-supervision-focus": "important",
+    "aave-monad-deployment": "important",
+    "aave-syrupusdc-onboarding": "important"
   }
 }
