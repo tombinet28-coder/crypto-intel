@@ -8,7 +8,24 @@
     "rss:d59b57bc127de9bc": 1790572373.9826632,
     "rss:3dcd433ac9f6c4dc": 1790572373.9826636,
     "rss:1b291f9501c459bc": 1790572373.9826636,
-    "move24:quant-network:20724": 1790572373.9827545
+    "move24:quant-network:20724": 1790572373.9827545,
+    "rss:ab84bda45cbeb98b": 1790596636.9221492,
+    "rss:83ae96106782411b": 1790596636.9221504,
+    "rss:097b04c263472618": 1790596636.922151,
+    "rss:ae551a7069c5f7eb": 1790596636.9221513,
+    "rss:9d40043c3ecda4f5": 1790596636.922152,
+    "rss:387fbdfc82d22781": 1790596636.9221523,
+    "rss:b0a24874920842e4": 1790596636.9221523,
+    "rss:6846efac0ef9d6d7": 1790596636.9221525,
+    "rss:f1bdb401f072b845": 1790596636.9221528,
+    "rss:c724ec0a6ffaa4db": 1790596636.9221528,
+    "rss:53209a18463bb8a1": 1790596636.922153,
+    "rss:87b00022dce87d39": 1790596636.9221532,
+    "rss:fe3c7cb886ecb021": 1790596636.9221535,
+    "rss:7cb6f4fcad779d2c": 1790596636.922154,
+    "rss:f0122b29291cfb5f": 1790596636.922154,
+    "rss:32861b754b923361": 1790596636.9221542,
+    "rss:a4741cf42cd552ba": 1790596636.9221542
   },
   "x_since": {},
   "recent": [
@@ -88,6 +105,193 @@
       "xRole": null,
       "cluster": "thorchain-bitget-refusal",
       "ts": 1790552598
+    },
+    {
+      "id": "rss:ab84bda45cbeb98b",
+      "kind": "news",
+      "title": "Traders aren't panicking yet despite cooling crypto sentiment",
+      "url": "https://www.coindesk.com/daybook-us/2026/09/28/bitcoin-traders-aren-t-panicking-yet-despite-cooling-sentiment",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "market-sentiment-cooling",
+      "ts": 1790595153
+    },
+    {
+      "id": "rss:83ae96106782411b",
+      "kind": "news",
+      "title": "Crypto-friendly institution Franklin Templeton brings its tokenized collateral service to Bybit",
+      "url": "https://www.coindesk.com/business/2026/09/28/crypto-friendly-institution-franklin-templeton-brings-its-tokenized-collateral-service-to-bybit",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "franklin-templeton-bybit",
+      "ts": 1790593200
+    },
+    {
+      "id": "rss:097b04c263472618",
+      "kind": "news",
+      "title": "Bitcoin falls to $83,000 while altcoins unwind Friday's rally",
+      "url": "https://www.coindesk.com/markets/2026/09/28/bitcoin-falls-to-usd83-000-while-altcoins-unwind-friday-s-rally",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-price-decline",
+      "ts": 1790590504
+    },
+    {
+      "id": "rss:ae551a7069c5f7eb",
+      "kind": "news",
+      "title": "Live updates: Bitcoin sinks below $83,000 as Iran talks stall and oil climbs",
+      "url": "https://www.coindesk.com/business/2026/09/28/live-updates-bitcoin-sinks-below-usd83-000-as-iran-talks-stall-and-oil-climbs",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-iran-geopolitics",
+      "ts": 1790589757
+    },
+    {
+      "id": "rss:9d40043c3ecda4f5",
+      "kind": "news",
+      "title": "Eyes on key U.S. employment data as crypto bulls take a breather: Crypto Week Ahead",
+      "url": "https://www.coindesk.com/markets/2026/09/28/bitcoin-rally-takes-a-breather-ahead-of-key-u-s-employment-data-crypto-week-ahead",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "market-outlook-jobs-data",
+      "ts": 1790588755
+    },
+    {
+      "id": "rss:387fbdfc82d22781",
+      "kind": "news",
+      "title": "Bitcoin bears pay to bet on further declines as futures positions near yearly lows",
+      "url": "https://www.coindesk.com/markets/2026/09/28/bitcoin-bears-pay-to-bet-on-further-declines-as-futures-positions-near-yearly-lows",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "bitcoin-bearish-positioning",
+      "ts": 1790587774
+    },
+    {
+      "id": "rss:b0a24874920842e4",
+      "kind": "news",
+      "title": "RedotPay completes financial audit as it presses ahead with U.S. IPO plans",
+      "url": "https://www.coindesk.com/business/2026/09/28/redotpay-completes-financial-audit-as-it-presses-ahead-with-u-s-ipo-plans",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "redotpay-ipo",
+      "ts": 1790581800
+    },
+    {
+      "id": "rss:6846efac0ef9d6d7",
+      "kind": "news",
+      "title": "California's Newsom signs memecoin ban and calls it 'The Opposite of Trump'",
+      "url": "https://www.coindesk.com/markets/2026/09/28/california-s-newsom-signs-memecoin-ban-and-calls-it-the-opposite-of-trump",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "california-memecoin-regulation",
+      "ts": 1790576512
+    },
+    {
+      "id": "rss:f1bdb401f072b845",
+      "kind": "news",
+      "title": "Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows",
+      "url": "https://www.coindesk.com/markets/2026/09/28/solana-etfs-draw-record-usd188-million-in-a-week-as-bitwise-takes-two-thirds-of-inflows",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "solana-etf-inflows",
+      "ts": 1790576466
+    },
+    {
+      "id": "rss:c724ec0a6ffaa4db",
+      "kind": "news",
+      "title": "California Gov. Gavin Newsom bans public officials from launching memecoins, takes aim at Trump",
+      "url": "https://www.theblock.co/news/regulation/2026-09-28-california-gov-gavin-newsom-bans-public-officials-from-launching-memecoins-takes-aim-at-trump-416970",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "california-memecoin-regulation",
+      "ts": 1790587977
+    },
+    {
+      "id": "rss:53209a18463bb8a1",
+      "kind": "news",
+      "title": "Bitget starts phased withdrawal resumption following $388 million exploit",
+      "url": "https://www.theblock.co/news/business/2026-09-28-bitget-starts-phased-withdrawal-resumption-416965",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "bitget-388m-exploit",
+      "ts": 1790584278
+    },
+    {
+      "id": "rss:87b00022dce87d39",
+      "kind": "news",
+      "title": "California Bans Public Officials From Issuing Meme Coins Under New Newsom Law",
+      "url": "https://decrypt.co/379404/california-bans-public-officials-from-issuing-meme-coins-under-new-newsom-law",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "california-memecoin-regulation",
+      "ts": 1790590585
+    },
+    {
+      "id": "rss:fe3c7cb886ecb021",
+      "kind": "news",
+      "title": "Bitget resumes Bitcoin withdrawals as hacker swaps ETH via THORChain",
+      "url": "https://cointelegraph.com/news/bitget-btc-withdrawal-hacker-eth-swap-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "bitget-388m-exploit",
+      "ts": 1790593524
+    },
+    {
+      "id": "rss:7cb6f4fcad779d2c",
+      "kind": "news",
+      "title": "Hong Kong regulators expand financial reporting oversight to licensed crypto firms",
+      "url": "https://cointelegraph.com/news/hong-kong-sfc-afrc-crypto-financial-reporting-mou?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "hong-kong-crypto-regulation",
+      "ts": 1790589511
+    },
+    {
+      "id": "rss:f0122b29291cfb5f",
+      "kind": "news",
+      "title": "Scammers steal $2M in ETH as fake GIWA network fools DYORSWAP",
+      "url": "https://cointelegraph.com/news/fake-giwa-blockchain-scam-drains-2m-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "giwa-network-scam",
+      "ts": 1790587190
+    },
+    {
+      "id": "rss:32861b754b923361",
+      "kind": "news",
+      "title": "Bitcoin drops under $83K as liquidity hunting keeps bulls from targeting yearly open",
+      "url": "https://cointelegraph.com/markets/bitcoin-drops-under-83k-as-liquidity-hunting-keeps-bulls-from-targeting-yearly-open?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "btc-iran-geopolitics",
+      "ts": 1790586200
+    },
+    {
+      "id": "rss:a4741cf42cd552ba",
+      "kind": "news",
+      "title": "Bitcoin ETFs draw $2.4B in biggest inflow week since October 2025",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-billion-biggest-inflow-week-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "bitcoin-etf-inflows",
+      "ts": 1790583880
     }
   ],
   "digest_queue": [
@@ -206,6 +410,151 @@
         }
       ],
       "digested": false
+    },
+    {
+      "id": "franklin-templeton-bybit:2026-09-28",
+      "level": "important",
+      "time": "13:57",
+      "title": "Franklin Templeton étend son service de collatéral tokenisé à Bybit",
+      "summary": "L'institution crypto-friendly Franklin Templeton lance son service de collatéral tokenisé sur la plateforme Bybit, marquant une nouvelle intégration institutionnelle.",
+      "assets": [],
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/09/28/crypto-friendly-institution-franklin-templeton-brings-its-tokenized-collateral-service-to-bybit"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "btc-iran-geopolitics:2026-09-28",
+      "level": "important",
+      "time": "13:57",
+      "title": "Bitcoin chute sous $83,000 alors que les négociations avec l'Iran stagnent (en attente de confirmation)",
+      "summary": "Bitcoin baisse en réaction aux tensions géopolitiques avec l'Iran et aux mouvements sur le marché pétrolier.",
+      "assets": [
+        "BTC"
+      ],
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/09/28/live-updates-bitcoin-sinks-below-usd83-000-as-iran-talks-stall-and-oil-climbs"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/markets/bitcoin-drops-under-83k-as-liquidity-hunting-keeps-bulls-from-targeting-yearly-open?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "redotpay-ipo:2026-09-28",
+      "level": "important",
+      "time": "13:57",
+      "title": "RedotPay complète son audit financier pour son IPO américaine",
+      "summary": "RedotPay termine son audit financier et poursuit ses plans d'introduction en bourse aux États-Unis.",
+      "assets": [],
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/09/28/redotpay-completes-financial-audit-as-it-presses-ahead-with-u-s-ipo-plans"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "solana-etf-inflows:2026-09-28",
+      "level": "important",
+      "time": "13:57",
+      "title": "Les ETF Solana attirent $188 millions en une semaine",
+      "summary": "Les fonds négociés en bourse Solana enregistrent des afflux record, Bitwise captant deux tiers des entrées de capital.",
+      "assets": [
+        "SOL"
+      ],
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/09/28/solana-etfs-draw-record-usd188-million-in-a-week-as-bitwise-takes-two-thirds-of-inflows"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "bitget-388m-exploit:2026-09-28",
+      "level": "important",
+      "time": "13:57",
+      "title": "Bitget reprend les retraits après l'exploit de $388 millions (en attente de confirmation)",
+      "summary": "L'exchange Bitget restaure graduellement les retraits après le hack de $388 millions, ayant corrigé la vulnérabilité et déclarant couvrir les pertes.",
+      "assets": [],
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/business/2026-09-28-bitget-starts-phased-withdrawal-resumption-416965"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/bitget-btc-withdrawal-hacker-eth-swap-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "hong-kong-crypto-regulation:2026-09-28",
+      "level": "important",
+      "time": "13:57",
+      "title": "Hong Kong renforce la surveillance réglementaire des cryptoactifs",
+      "summary": "Les régulateurs hongkongais étendent leur contrôle des rapports financiers aux entreprises de services d'actifs virtuels agréées.",
+      "assets": [],
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/hong-kong-sfc-afrc-crypto-financial-reporting-mou?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "giwa-network-scam:2026-09-28",
+      "level": "important",
+      "time": "13:57",
+      "title": "Un réseau GIWA contrefait vole $2M en ETH sur DYORSWAP",
+      "summary": "Des escrocs imitent le réseau GIWA pour dérober plus de 200 ETH à DYORSWAP, dont l'opérateur a averti que le mainnet n'avait pas lancé.",
+      "assets": [
+        "ETH"
+      ],
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/fake-giwa-blockchain-scam-drains-2m-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "bitcoin-etf-inflows:2026-09-28",
+      "level": "important",
+      "time": "13:57",
+      "title": "Les ETF Bitcoin attirent $2,4B, plus gros afflux depuis octobre 2025",
+      "summary": "Les ETF Bitcoin, Ether et XRP enregistrent des entrées de capital significatives, avec les plus importants depuis plusieurs mois.",
+      "assets": [
+        "BTC",
+        "ETH"
+      ],
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/markets/bitcoin-etf-billion-biggest-inflow-week-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "digested": false
     }
   ],
   "sent": {
@@ -218,6 +567,14 @@
     "ethereum-hegota-fork": "important",
     "california-memecoin-regulation": "important",
     "zano-gateway-exploit": "important",
-    "thorchain-bitget-refusal": "important"
+    "thorchain-bitget-refusal": "important",
+    "franklin-templeton-bybit": "important",
+    "btc-iran-geopolitics": "important",
+    "redotpay-ipo": "important",
+    "solana-etf-inflows": "important",
+    "bitget-388m-exploit": "important",
+    "hong-kong-crypto-regulation": "important",
+    "giwa-network-scam": "important",
+    "bitcoin-etf-inflows": "important"
   }
 }
