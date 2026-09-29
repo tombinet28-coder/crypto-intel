@@ -1,0 +1,577 @@
+{
+  "date": "2026-09-29",
+  "edition": "06:30",
+  "tldr": [
+    {
+      "impact": "pos",
+      "text": "AAVE bondit d'environ 11 à 17% en une journée : Aave V4 sur Base accepte désormais des actions tokenisées (Apple, Nvidia, Tesla) en collatéral, et le fondateur Stani Kulechov évoque un possible mécanisme de burn pour Aavenomics 3.0 — rien n'est encore voté."
+    },
+    {
+      "impact": "neu",
+      "text": "Bitcoin oscille autour de 84 000$, entre flux ETF solides et hausse des taux obligataires américains."
+    },
+    {
+      "impact": "neg",
+      "text": "Bitget reprend progressivement les retraits après le vol de 388 millions de dollars du 24 septembre ; l'attaquant a exploité une faille d'un logiciel de sécurité tiers."
+    },
+    {
+      "impact": "pos",
+      "text": "Goldman Sachs ouvre son fonds monétaire de 100 milliards de dollars (FTIXX) aux entreprises crypto via le réseau Lynq, un signal d'adoption institutionnelle supplémentaire."
+    },
+    {
+      "impact": "pos",
+      "text": "Citi élargit son partenariat avec Coinbase pour proposer des paiements en stablecoins aux entreprises, sans qu'elles aient à manipuler de crypto directement."
+    },
+    {
+      "impact": "neg",
+      "text": "Un rapport de sénateurs américains démocrates affirme que l'USDT de Tether est devenu un pilier du système bancaire parallèle iranien."
+    },
+    {
+      "impact": "neu",
+      "text": "Le Clarity Act (loi de structure de marché crypto) reste bloqué depuis son échec au Sénat le 15 septembre ; la SEC et la CFTC avancent seules via des guidances internes."
+    },
+    {
+      "impact": "neg",
+      "text": "HYPE doit absorber un déblocage majeur d'environ 860 millions de dollars de tokens le 6 octobre, destiné aux contributeurs historiques."
+    },
+    {
+      "impact": "neu",
+      "text": "Indice Fear & Greed à 73 (Greed), en légère baisse par rapport à hier (74)."
+    }
+  ],
+  "news": [
+    {
+      "title": "Bitget reprend les retraits après le vol de 388 millions de dollars",
+      "impact": "neg",
+      "confidence": "confirmed",
+      "what": "<cite index=\"4-2,4-3\">Bitget a commencé une reprise progressive des retraits après un exploit qui a drainé environ 388 millions de dollars de la plateforme le 24 septembre.</cite> <cite index=\"5-3\">L'attaquant a exploité une faille zero-day dans un logiciel de sécurité tiers pour obtenir des identifiants admin valides, puis a supprimé ses traces après avoir injecté de fausses commandes de retrait dans les systèmes de portefeuille.</cite>",
+      "why": "<cite index=\"4-9\">Cette perte de 388 millions de dollars en fait le plus important vol crypto de l'année, devant les exploits de KelpDAO et Drift Protocol.</cite> <cite index=\"2-6\">Les fonds volés provenaient des portefeuilles chauds et tièdes de Bitget, ses portefeuilles froids n'ont pas été touchés.</cite>",
+      "assets": [
+        "BTC",
+        "ETH"
+      ],
+      "shortTerm": "Risque de pression vendeuse temporaire sur les actifs concernés le temps que les retraits se normalisent complètement (prévu jusqu'au 2 octobre pour tous les actifs).",
+      "longTerm": "Renforce le débat sur la sécurité des infrastructures d'échange centralisées ; Bitget affirme que <cite index=\"4-10\">les pertes seront intégralement couvertes par son fonds de protection utilisateur, qui détient 5 500 BTC</cite>.",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/business/2026-09-28-bitget-starts-phased-withdrawal-resumption-416965",
+          "publishedAt": "2026-09-28 00:00 UTC"
+        },
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-09-28-bitget-attacker-tested-risk-controls-small-transfers-388-million-theft-ceo-says-417045",
+          "publishedAt": "2026-09-28 15:30 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "AAVE bondit après l'arrivée d'actions tokenisées et une possible réduction d'offre",
+      "impact": "pos",
+      "confidence": "confirmed",
+      "what": "<cite index=\"78-2,78-4\">L'indice DeFi Select a gagné 5,0% grâce à la hausse de 11% d'AAVE, après que Stani Kulechov a annoncé qu'un burn de tokens pourrait faire partie de la future mise à jour Aavenomics.</cite> <cite index=\"91-2\">Aave V4 sur Base a lancé un Equities Hub acceptant sept actions américaines tokenisées par Coinbase comme collatéral.</cite>",
+      "why": "<cite index=\"92-2,92-3\">Un burn de tokens AAVE est à l'étude pour Aavenomics 3.0, mais aucune proposition de gouvernance ne définit encore sa taille, son financement ou son calendrier.</cite> <cite index=\"92-5\">Les rachats du DAO sont d'ailleurs suspendus depuis l'exploit du pont rsETH en avril.</cite> Il s'agit donc d'une annonce d'intention, pas d'une décision actée.",
+      "assets": [
+        "AAVE"
+      ],
+      "shortTerm": "Volatilité forte à la hausse tant que le marché price l'espoir d'un burn ; risque de retournement si aucune proposition concrète ne suit rapidement.",
+      "longTerm": "Si le burn est voté et exécuté, cela réduirait l'offre en circulation et renforcerait la thèse de capture de valeur pour AAVE ; sinon, effet d'annonce sans suite.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/09/29/aave-leads-defi-higher-as-crypto-shrugs-off-surging-treasury-yields",
+          "publishedAt": "2026-09-29 10:28 UTC"
+        },
+        {
+          "name": "ETHNews",
+          "url": "https://ethnews.com/aave-token-burn-could-finally-delete-the-aave-the-dao-keeps-buying/",
+          "publishedAt": "2026-09-29 00:00 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "Goldman Sachs ouvre son fonds Trésor de 100 milliards de dollars aux entreprises crypto",
+      "impact": "pos",
+      "confidence": "confirmed",
+      "what": "<cite index=\"57-2,57-3\">Goldman Sachs rend son fonds FTIXX d'environ 100 milliards de dollars accessible aux entreprises crypto institutionnelles via Lynq, sans en créer de version tokenisée, contrairement à BUIDL de BlackRock ou BENJI de Franklin Templeton.</cite>",
+      "why": "<cite index=\"59-5\">Lynq fonctionne sur une blockchain Avalanche privée et permissionnée regroupant plus de 30 institutions.</cite> Cela relie un fonds monétaire traditionnel de Wall Street à l'infrastructure de règlement déjà utilisée par les acteurs crypto.",
+      "assets": [
+        "BTC",
+        "ETH"
+      ],
+      "shortTerm": "Impact prix limité, mais signal de confiance institutionnelle supplémentaire.",
+      "longTerm": "Facilite la gestion de trésorerie des acteurs crypto et pourrait accélérer l'intégration de la finance traditionnelle dans l'écosystème.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/09/28/goldman-sachs-brings-usd100-billion-treasury-fund-into-crypto-s-institutional-plumbing",
+          "publishedAt": "2026-09-28 18:00 UTC"
+        },
+        {
+          "name": "CoinPaprika",
+          "url": "https://coinpaprika.com/news/goldman-sachs-brings-100b-treasury-fund/",
+          "publishedAt": "2026-09-29 00:00 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "Citi élargit son partenariat avec Coinbase pour les paiements en stablecoins",
+      "impact": "pos",
+      "confidence": "likely",
+      "what": "Citi et Coinbase étendent leur collaboration pour permettre aux entreprises clientes de Citi de recevoir des paiements en stablecoins sans manipuler directement de crypto, selon les titres agrégés de The Block et Decrypt.",
+      "why": "Cela pousse l'adoption des stablecoins comme rail de paiement pour les entreprises traditionnelles, un pas de plus vers l'intégration entre finance classique et crypto.",
+      "assets": [
+        "USDC",
+        "USDT"
+      ],
+      "shortTerm": "Peu d'impact prix direct, mais renforce la demande structurelle de stablecoins.",
+      "longTerm": "Si l'usage se généralise, cela pourrait accroître significativement le volume de stablecoins on-chain traités par des acteurs bancaires traditionnels.",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/business/2026-09-28-citi-coinbase-stablecoin-payments-corporate-clients-417082",
+          "publishedAt": "2026-09-28 17:22 UTC"
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto",
+          "publishedAt": "2026-09-28 20:36 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "Un rapport du Sénat américain pointe le rôle de Tether dans le contournement des sanctions iraniennes",
+      "impact": "neg",
+      "confidence": "confirmed",
+      "what": "Des sénateurs démocrates américains publient un rapport affirmant que l'USDT de Tether est devenu central dans le système bancaire parallèle utilisé par le régime iranien, selon les titres relayés par CoinDesk et The Block.",
+      "why": "Tether répond de son côté avoir contribué au gel de 550 millions de dollars d'USDT liés à l'Iran cette année (selon Cointelegraph), ce qui alimente le débat sur la conformité des stablecoins.",
+      "assets": [
+        "USDT"
+      ],
+      "shortTerm": "Pression réglementaire et médiatique accrue sur Tether, sans impact prix direct attendu sur USDT (adossé au dollar).",
+      "longTerm": "Pourrait alimenter de nouvelles exigences de conformité ou de reporting pour les émetteurs de stablecoins aux États-Unis.",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094",
+          "publishedAt": "2026-09-28 19:10 UTC"
+        },
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/09/28/tether-is-a-lifeline-for-iranian-regime-senate-dems-say-in-new-report",
+          "publishedAt": "2026-09-28 16:16 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "Le Clarity Act reste bloqué : la SEC et la CFTC avancent seules",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "what": "<cite index=\"10-1\">Le Digital Asset Market Clarity Act a échoué au Sénat américain avec un vote de 49 contre 50, loin des 60 voix nécessaires pour avancer.</cite> <cite index=\"14-4\">Les dirigeants du secteur ont indiqué que ce vote ne stopperait pas les travaux réglementaires de la SEC et de la CFTC ni l'adoption plus large d'infrastructures crypto régulées par les banques.</cite>",
+      "why": "En l'absence de loi de structure de marché, l'industrie reste dépendante de règles d'agences qu'une future administration pourrait inverser, un facteur d'incertitude prolongée pour les acteurs américains.",
+      "assets": [
+        "BTC",
+        "ETH"
+      ],
+      "shortTerm": "Pas d'effet immédiat sur les prix, ce vote datant du 15 septembre, mais le sujet reste discuté (opinion CoinDesk du jour).",
+      "longTerm": "<cite index=\"14-5\">L'incertitude prolongée pourrait pousser investissement et développement vers des juridictions comme l'UE, où MiCA offre un cadre plus clair.</cite>",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-flames-out-in-failed-u-s-senate-vote",
+          "publishedAt": "2026-09-15 19:05 UTC"
+        },
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/09/15/clarity-act-fails-in-senate-here-is-how-the-crypto-industry-is-reacting",
+          "publishedAt": "2026-09-15 17:23 UTC"
+        }
+      ],
+      "singleSource": false
+    }
+  ],
+  "market": [
+    {
+      "symbol": "BTC",
+      "sentiment": "neu",
+      "driver": "Bitcoin navigue entre flux ETF positifs et hausse des taux obligataires américains ; <cite index=\"78-6\">BTC se négocie autour de 84 170$, en hausse de 1,4% sur 24h</cite>.",
+      "events": [
+        "<cite index=\"38-1\">Certains analystes anticipent un rendement du Treasury à 10 ans atteignant 6%, un niveau plus vu depuis 2000, ce qui pourrait peser ou soutenir BTC selon la cause de la hausse</cite>."
+      ],
+      "watch": [
+        "Niveau $85 000 (résistance récente)",
+        "Trajectoire du rendement à 10 ans (Fed vs déficit budgétaire)"
+      ],
+      "name": "Bitcoin",
+      "price": null,
+      "change24h": null,
+      "change7d": null,
+      "volume": null,
+      "asOf": "Donnée indisponible",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "ETH",
+      "sentiment": "neu",
+      "driver": "Ethereum bénéficie de l'accumulation institutionnelle (BitMine) et de l'avancée de la mise à niveau Glamsterdam, mais reste sensible au climat de taux.",
+      "events": [
+        "Mise à niveau Glamsterdam programmée sur le testnet Sepolia le 6 octobre 2026, date du mainnet encore non fixée.",
+        "Relance du portefeuille de confidentialité zk.money sur Aztec (L2 Ethereum) après trois ans d'arrêt."
+      ],
+      "watch": [
+        "Date de déploiement mainnet de Glamsterdam",
+        "Seuil des 5% de l'offre ETH détenu par BitMine"
+      ],
+      "name": "Ethereum",
+      "price": null,
+      "change24h": null,
+      "change7d": null,
+      "volume": null,
+      "asOf": "Donnée indisponible",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "SOL",
+      "sentiment": "pos",
+      "driver": "<cite index=\"74-4\">Les ETF spot Solana américains ont enregistré 188 millions de dollars d'entrées la semaine du 21 au 25 septembre, leur plus forte semaine depuis leur lancement.</cite>",
+      "events": [
+        "<cite index=\"66-4\">Le temps de slot cible du réseau a été réduit de 300ms à 250ms le 18 septembre, dans le cadre du plan SIMD-0525.</cite>",
+        "<cite index=\"73-6\">Les programmes actifs mensuels sur Solana ont atteint 7 699, leur plus haut niveau depuis août 2025.</cite>"
+      ],
+      "watch": [
+        "Zone $120-125 comme résistance technique",
+        "Poursuite des flux ETF"
+      ],
+      "name": "Solana",
+      "price": null,
+      "change24h": null,
+      "change7d": null,
+      "volume": null,
+      "asOf": "Donnée indisponible",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "HYPE",
+      "sentiment": "neg",
+      "driver": "Hyperliquid affiche des frais solides (TVL protocole ~7,4 Md$, ~2,55 M$ de frais/24h) mais doit gérer un déblocage de tokens majeur début octobre.",
+      "events": [
+        "<cite index=\"20-1\">Un déblocage de 9,92 millions de HYPE (environ 860 millions de dollars, soit 3,9-4,5% de l'offre en circulation) est attendu le 6 octobre, destiné aux contributeurs historiques.</cite>"
+      ],
+      "watch": [
+        "Comportement du prix autour du 6 octobre",
+        "Part réellement réclamée par les contributeurs (lors du dernier déblocage, seulement une fraction avait été retirée)"
+      ],
+      "name": "Hyperliquid",
+      "price": null,
+      "change24h": null,
+      "change7d": null,
+      "volume": null,
+      "asOf": "Donnée indisponible",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "AAVE",
+      "sentiment": "pos",
+      "driver": "Catalyseur double : lancement de l'Equities Hub (actions tokenisées en collatéral) et annonce d'un possible burn de tokens sous Aavenomics 3.0.",
+      "events": [
+        "<cite index=\"91-6\">Les actions Apple, Amazon, Alphabet, Meta, Microsoft, Nvidia et Tesla tokenisées par Coinbase sont désormais utilisables comme collatéral sur Aave V4 (Base), réservé aux utilisateurs hors États-Unis.</cite>"
+      ],
+      "watch": [
+        "Publication ou non d'une proposition de gouvernance formalisant le burn",
+        "Niveau $155-175 comme zone de test technique"
+      ],
+      "name": "Aave",
+      "price": null,
+      "change24h": null,
+      "change7d": null,
+      "volume": null,
+      "asOf": "Donnée indisponible",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "PUMP",
+      "sentiment": "neu",
+      "driver": "Pump.fun continue de générer des frais significatifs (~2,23 M$/24h) mais approche d'un nouveau déblocage de tokens.",
+      "events": [
+        "<cite index=\"35-2\">Un déblocage de 9,17 milliards de PUMP (0,9% de l'offre totale, environ 1,3% de la capitalisation actuelle) est prévu le 12 octobre 2026.</cite>"
+      ],
+      "watch": [
+        "Capacité du programme de rachat/burn à absorber la nouvelle offre",
+        "Évolution du volume de trading sur la plateforme"
+      ],
+      "name": "Pump.fun",
+      "price": null,
+      "change24h": null,
+      "change7d": null,
+      "volume": null,
+      "asOf": "Donnée indisponible",
+      "source": "CoinGecko"
+    }
+  ],
+  "x": [
+    {
+      "author": "Stani Kulechov",
+      "handle": "@StaniKulechov",
+      "time": "2026-09-29",
+      "asset": "AAVE",
+      "sentiment": "pos",
+      "kind": "person",
+      "summary": "Le fondateur d'Aave a indiqué que l'équipe envisage d'ajouter un mécanisme de burn de tokens dans le cadre d'Aavenomics 3.0.",
+      "why": "Annonce directe du fondateur, donc fiable sur l'intention, mais <cite index=\"92-3\">aucune proposition de gouvernance ne définit encore la taille, le financement ou le calendrier d'un éventuel burn</cite> — ce n'est pas une décision actée."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Aztec (zk.money)",
+      "conviction": "watch",
+      "funding": "Non détaillé dans les sources consultées aujourd'hui.",
+      "investors": "Non vérifié indépendamment dans le cadre de cette édition.",
+      "team": "Aztec Labs, équipe connue dans l'écosystème de rollups zk sur Ethereum.",
+      "tech": "Relance du portefeuille de paiements privés zk.money sur son Layer 2 Ethereum, après une interruption de trois ans, selon CoinDesk et The Block.",
+      "tokenomics": "Non renseigné dans les sources disponibles.",
+      "catalysts": "Retour d'un produit de confidentialité pourrait relancer l'intérêt pour les solutions zk sur Ethereum, dans un contexte où la confidentialité redevient un sujet (cf. Zcash Tachyon).",
+      "why": "S'inscrit dans la tendance plus large de retour des technologies de confidentialité sur Ethereum, avec une équipe technique reconnue.",
+      "risk": "Les outils de confidentialité crypto font face à une attention réglementaire accrue (sanctions, lutte anti-blanchiment) qui peut limiter leur adoption par les acteurs régulés."
+    },
+    {
+      "name": "Ondo Perps",
+      "conviction": "spec",
+      "funding": "Non détaillé dans les sources consultées.",
+      "investors": "Non vérifié indépendamment.",
+      "team": "Ondo Finance, connu pour ses produits de Treasury tokenisés (OUSG).",
+      "tech": "Vise un marché de contrats perpétuels réglementé aux États-Unis, sous un modèle différent des perps offshore classiques.",
+      "tokenomics": "Non renseigné.",
+      "catalysts": "Le PDG évoque une 'énorme opportunité' pour les perps sur le marché américain, alors que les régulateurs testent actuellement les conditions d'entrée de ce type de produit.",
+      "why": "Positionnement précoce sur un segment (perps régulés US) qui pourrait s'ouvrir si la réglementation évolue favorablement.",
+      "risk": "Le produit dépend entièrement d'un feu vert réglementaire encore incertain ; concurrence forte de plateformes offshore déjà établies comme Hyperliquid."
+    }
+  ],
+  "smartMoney": [
+    {
+      "title": "Strive dépasse 27 400 BTC avec un nouvel achat",
+      "token": "BTC",
+      "amount": "1 107 BTC (~94,5 M$)",
+      "from": "Trésorerie propre de Strive",
+      "to": "Détention long terme (trésorerie d'entreprise)",
+      "confidence": "confirmed",
+      "interpretation": "Accumulation institutionnelle continue, cohérente avec la stratégie affichée de Strive ; ne préjuge pas de mouvements de marché à court terme.",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/business/2026-09-28-strive-pushes-bitcoin-holdings-above-27400-btc-latest-94-5-million-purchase-417035"
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/379465/strive-buys-94-5-million-in-bitcoin-pushing-holdings-past-27000-btc"
+        }
+      ]
+    },
+    {
+      "title": "BitMine (Tom Lee) dépasse 6 millions d'ETH accumulés",
+      "token": "ETH",
+      "amount": "17 362 ETH additionnels",
+      "from": "Marché ouvert",
+      "to": "Trésorerie BitMine",
+      "confidence": "likely",
+      "interpretation": "BitMine se rapproche de son objectif déclaré de 5% de l'offre en circulation d'ETH ; à surveiller si ce seuil est atteint dans les prochaines semaines, ce qui pourrait marquer un ralentissement des achats.",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/business/2026-09-28-tom-lees-bitmine-tops-6-million-eth-after-buying-another-17362-ether-416989"
+        }
+      ]
+    }
+  ],
+  "unlocks": [
+    {
+      "date": "2026-10-06",
+      "token": "HYPE",
+      "amount": "~9,92 millions de tokens",
+      "value": "~860 M$ (estimation basée sur les prix début septembre)",
+      "pct": "3,9% à 4,5% de l'offre en circulation",
+      "who": "Contributeurs historiques (Core Contributors)",
+      "risk": "high",
+      "priority": true,
+      "confidence": "likely"
+    },
+    {
+      "date": "2026-10-12",
+      "token": "PUMP",
+      "amount": "~9,17 milliards de tokens",
+      "value": "Non précisé (prix PUMP non fourni)",
+      "pct": "0,9% de l'offre totale / ~1,3% de la capitalisation actuelle",
+      "who": "Investisseurs privés et équipe (vesting linéaire)",
+      "risk": "med",
+      "priority": false,
+      "confidence": "likely"
+    },
+    {
+      "date": "N/A",
+      "token": "AAVE",
+      "amount": "Quasi nul",
+      "value": "N/A",
+      "pct": "~5% de l'offre totale restant à débloquer",
+      "who": "Réserve écosystème DAO (déjà en grande partie débloquée)",
+      "risk": "low",
+      "priority": false,
+      "confidence": "confirmed"
+    }
+  ],
+  "unlocksSource": {
+    "name": "Tokenomist / Tokenomics.com",
+    "url": "https://tokenomist.ai/hyperliquid/unlock-events"
+  },
+  "regulation": [
+    {
+      "region": "États-Unis",
+      "title": "Clarity Act bloqué, la SEC et la CFTC prennent le relais via des guidances",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "summary": "Après l'échec du vote de cloture du 15 septembre, le sujet reste débattu (opinion CoinDesk du 29 septembre) alors que la SEC suit la CFTC en publiant des guidances internes en l'absence de loi.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-flames-out-in-failed-u-s-senate-vote"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "region": "Union européenne",
+      "title": "MiCA : l'ESMA déplace l'accent vers la supervision",
+      "impact": "neu",
+      "confidence": "unconfirmed",
+      "summary": "Selon Cointelegraph, l'ESMA annonce vouloir harmoniser la supervision de la résilience des prestataires de services sur crypto-actifs entre régulateurs nationaux.",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/mica-shift-rulemaking-to-supervision-esma-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "region": "Hong Kong",
+      "title": "Renforcement de la surveillance financière des entreprises crypto agréées",
+      "impact": "neu",
+      "confidence": "unconfirmed",
+      "summary": "Le régulateur hongkongais SFC étend son contrôle aux entreprises agréées de services d'actifs virtuels via un protocole d'accord avec l'organisme comptable local.",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/hong-kong-sfc-afrc-crypto-financial-reporting-mou?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "title": "Le rendement du Treasury à 10 ans pourrait atteindre 6%",
+      "impact": "neu",
+      "confidence": "likely",
+      "date": "2026-09-29",
+      "summary": "<cite index=\"38-1,38-5\">Certains analystes anticipent un rendement du Treasury à 10 ans atteignant 6%, un niveau plus vu depuis 2000, porté par les craintes sur le déficit fédéral et la dette.</cite> <cite index=\"42-2,42-8\">Si la hausse vient d'un resserrement de la Fed, cela pèserait sur Bitcoin ; si elle vient de craintes fiscales, la demande pour des actifs alternatifs comme Bitcoin pourrait au contraire augmenter.</cite>",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/09/29/analysts-see-10-year-treasury-yield-hitting-6-bitcoin-bulls-shouldn-t-panic"
+        }
+      ]
+    },
+    {
+      "title": "Rendement à 30 ans proche d'un plus haut depuis 2004",
+      "impact": "neu",
+      "confidence": "likely",
+      "date": "2026-09-29",
+      "summary": "<cite index=\"78-5\">Le rendement à 30 ans est proche d'un plus haut depuis 2004, ce qui a fait chuter les actions américaines deux séances de suite, même si la crypto a globalement résisté.</cite>",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/09/29/aave-leads-defi-higher-as-crypto-shrugs-off-surging-treasury-yields"
+        }
+      ]
+    }
+  ],
+  "onchain": [
+    {
+      "metric": "TVL Bitcoin (chaîne)",
+      "value": "~4,43 Md$",
+      "note": "TVL agrégée liée à BTC",
+      "source": "Données fournies"
+    },
+    {
+      "metric": "TVL Ethereum (chaîne)",
+      "value": "~53,29 Md$",
+      "note": "TVL agrégée liée à ETH",
+      "source": "Données fournies"
+    },
+    {
+      "metric": "TVL Solana (chaîne)",
+      "value": "~6,51 Md$",
+      "note": "TVL agrégée liée à SOL",
+      "source": "Données fournies"
+    },
+    {
+      "metric": "TVL protocole Hyperliquid",
+      "value": "~7,42 Md$",
+      "note": "Total value locked sur Hyperliquid",
+      "source": "Données fournies"
+    },
+    {
+      "metric": "TVL protocole Aave",
+      "value": "~19,12 Md$",
+      "note": "Aave reste le premier protocole de prêt par TVL",
+      "source": "Données fournies"
+    },
+    {
+      "metric": "Frais 24h Hyperliquid / Aave / Pump.fun",
+      "value": "~2,56M$ / ~1,25M$ / ~2,23M$",
+      "note": "Revenus protocolaires sur 24h",
+      "source": "Données fournies"
+    },
+    {
+      "metric": "Total stablecoins",
+      "value": "~312,7 Md$",
+      "note": "Capitalisation totale des stablecoins",
+      "source": "Données fournies"
+    },
+    {
+      "metric": "Volume DEX 24h",
+      "value": "~11,46 Md$",
+      "note": "Volume agrégé des échanges décentralisés",
+      "source": "Données fournies"
+    }
+  ],
+  "watchlist": [
+    {
+      "impact": "neg",
+      "text": "Déblocage HYPE le 6 octobre (~860 M$, 3,9-4,5% de l'offre) : surveiller la pression vendeuse potentielle."
+    },
+    {
+      "impact": "neu",
+      "text": "Déblocage PUMP le 12 octobre (~1,3% de la capitalisation) : capacité du burn/buyback à absorber l'offre."
+    },
+    {
+      "impact": "neu",
+      "text": "Mise à niveau Glamsterdam sur Sepolia le 6 octobre : premier jalon avant un futur déploiement mainnet Ethereum."
+    },
+    {
+      "impact": "pos",
+      "text": "Suivre si Aave formalise une proposition de gouvernance pour le burn de tokens teasé par Stani Kulechov."
+    },
+    {
+      "impact": "neu",
+      "text": "Trajectoire du rendement du Treasury à 10 ans : franchissement ou non de seuils psychologiques (5,5%, 6%) à surveiller pour son effet sur le risk-on."
+    }
+  ],
+  "breaking": [],
+  "generatedAt": "2026-09-29T17:27:25Z",
+  "updatedAt": "2026-09-29T17:27:25Z"
+}
