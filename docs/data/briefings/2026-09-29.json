@@ -571,7 +571,68 @@
       "text": "Trajectoire du rendement du Treasury à 10 ans : franchissement ou non de seuils psychologiques (5,5%, 6%) à surveiller pour son effet sur le risk-on."
     }
   ],
-  "breaking": [],
+  "breaking": [
+    {
+      "id": "kakaopay-tokenized-stocks:2026-09-29",
+      "level": "important",
+      "time": "23:21",
+      "title": "Kakaopay s'associe avec Dinari et Ondo pour explorer les actions coréennes tokenisées",
+      "summary": "Kakaopay Securities collabore avec Dinari et Ondo Finance pour explorer la tokenisation des actions coréennes et leur disponibilité pour les investisseurs internationaux.",
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "id": "sec-cftc-commissioner-vacancy:2026-09-29",
+      "level": "important",
+      "time": "23:21",
+      "title": "La régulation crypto au SEC et CFTC réduite à 3 commissaires après résignation clé (en attente de confirmation)",
+      "summary": "Sept postes de commissaire au SEC et CFTC seront vacants après vendredi, laissant seulement quelques dirigeants pour superviser l'industrie crypto de 3 billions de dollars.",
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/us-sec-cftc-crypto-regulation-few-commissioners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "id": "comer-crypto-investigation:2026-09-29",
+      "level": "important",
+      "time": "23:21",
+      "title": "Comer enquête sur Crypto.com, Hyperliquid et PredictIt sur les vérifications d'identité",
+      "summary": "Comer élargit son enquête en demandant des registres sur les initiés gouvernementaux, les transactions d'employés et les signalements d'activités suspectes chez ces plateformes.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-09-29-comer-presses-crypto-com-hyperliquid-predictit-identity-checks-suspicious-trades-417192"
+        }
+      ]
+    },
+    {
+      "id": "cboe-tokenized-options:2026-09-29",
+      "level": "important",
+      "time": "23:21",
+      "title": "Cboe et S&P Dow Jones explorent les contrats d'options tokenisés",
+      "summary": "Cboe et S&P Dow Jones étudient la possibilité d'explorer les contrats d'options tokenisés dans le cadre d'un accord de licence étendu jusqu'en 2051.",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/09/29/cboe-s-and-p-dow-jones-may-explore-tokenized-options-contracts-under-extended-licensing-deal"
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/379619/cboes-sp-deal-tokenized-options"
+        }
+      ]
+    }
+  ],
   "generatedAt": "2026-09-29T17:27:25Z",
-  "updatedAt": "2026-09-29T17:27:25Z"
+  "updatedAt": "2026-09-29T21:22:01Z"
 }

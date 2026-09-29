@@ -96,98 +96,24 @@
     "rss:2daebd10518e9d24": 1790701183.640544,
     "rss:c0142a1b82f405c0": 1790701183.6405442,
     "rss:5ded3c9f80aef40f": 1790701183.6405442,
-    "rss:87d1df61910c6ff3": 1790701183.6405444
+    "rss:87d1df61910c6ff3": 1790701183.6405444,
+    "rss:3aad9b02b668f852": 1790716900.98611,
+    "rss:ef23a75783a5631b": 1790716900.986111,
+    "rss:bd39ecd01864ee5b": 1790716900.9861114,
+    "rss:5995e7a82619b6ed": 1790716900.9861116,
+    "rss:05382da69e12e8e5": 1790716900.986112,
+    "rss:bd87e568eb8f1cd7": 1790716900.9861124,
+    "rss:81ce7fa4ce14f5e5": 1790716900.9861126,
+    "rss:fa18aebcda98fe86": 1790716900.9861126,
+    "rss:e6a475cab734a6e5": 1790716900.9861128,
+    "rss:133a234eb453d104": 1790716900.9861128,
+    "rss:936c1a6d2da678fd": 1790716900.986113,
+    "rss:4394602629ac33c7": 1790716900.9861133,
+    "rss:ac95cba3d6958f33": 1790716900.9861133,
+    "rss:a0fe825f28ff6d11": 1790716900.9861135
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:39d088f2b427f73f",
-      "kind": "news",
-      "title": "Goldman Sachs brings $100 billion Treasury fund into crypto’s institutional plumbing",
-      "url": "https://www.coindesk.com/markets/2026/09/28/goldman-sachs-brings-usd100-billion-treasury-fund-into-crypto-s-institutional-plumbing",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "goldman-sachs-treasury-crypto",
-      "ts": 1790618400
-    },
-    {
-      "id": "rss:bd9265d374061c66",
-      "kind": "news",
-      "title": "Tether’s USDT at center of Iran’s shadow banking network, new Senate Report says",
-      "url": "https://www.theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "tether-iran-sanctions",
-      "ts": 1790622642
-    },
-    {
-      "id": "rss:39788dde432a57d3",
-      "kind": "news",
-      "title": "Nvidia Built a Kill Switch for AI Agents Because They Keep Getting Out",
-      "url": "https://decrypt.co/379468/nvidia-kill-switch-ai-agents",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ai-safety-mechanisms",
-      "ts": 1790621163
-    },
-    {
-      "id": "rss:6f309daa19044cec",
-      "kind": "news",
-      "title": "Strive Buys $94.5 Million in Bitcoin, Pushing Holdings Past 27,000 BTC",
-      "url": "https://decrypt.co/379465/strive-buys-94-5-million-in-bitcoin-pushing-holdings-past-27000-btc",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "strive-bitcoin-purchases",
-      "ts": 1790619362
-    },
-    {
-      "id": "rss:95bf8687fbd44ef4",
-      "kind": "news",
-      "title": "Months After the $292M Kelp Hack, Chainlink Lets Institutions Add Their Own Bridge Checks",
-      "url": "https://decrypt.co/379463/chainlink-institutions-add-bridge-checks-kelp-hack",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "chainlink-ccip-security-update",
-      "ts": 1790617874
-    },
-    {
-      "id": "rss:6a3b8763d7bc0245",
-      "kind": "news",
-      "title": "US SEC follows CFTC in staff guidance for crypto",
-      "url": "https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "sec-cftc-crypto-guidance",
-      "ts": 1790620749
-    },
-    {
-      "id": "rss:63b12a885eb0c1cb",
-      "kind": "news",
-      "title": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
-      "url": "https://cointelegraph.com/news/bybit-accepts-franklin-templeton-tokenized-funds-trading-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "franklin-templeton-bybit",
-      "ts": 1790618574
-    },
-    {
-      "id": "rss:dce9afeee83bf1f8",
-      "kind": "news",
-      "title": "SEC Charges Registered Investment Adviser Zoe Financial for Failure to Disclose Conflict of Interest",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-94-sec-charges-registered-investment-adviser-zoe-financial-failure-disclose-conflict-interest",
-      "source": "SEC (communiqués)",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "sec-enforcement-zoe-financial",
-      "ts": 1790617590
-    },
     {
       "id": "rss:e4bf0c9733e483f1",
       "kind": "news",
@@ -200,72 +126,6 @@
       "ts": 1790631963
     },
     {
-      "id": "rss:26c9a112aa50c5f4",
-      "kind": "news",
-      "title": "A Clever RSA Attack Fooled a Hardware Vault—Here's What It Means for Crypto",
-      "url": "https://decrypt.co/379505/rsa-attack-without-stealing-key-what-it-means-crypto",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "rsa-hardware-vault-attack",
-      "ts": 1790630163
-    },
-    {
-      "id": "rss:17339a1d6848e76f",
-      "kind": "news",
-      "title": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto",
-      "url": "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "citi-coinbase-stablecoin-partnership",
-      "ts": 1790627763
-    },
-    {
-      "id": "rss:48078d8f48e7f5b5",
-      "kind": "news",
-      "title": "Anthropic's Claude Sonnet 5.5 Is Out, Beats Opus 5.5 at Coding for Half the Price",
-      "url": "https://decrypt.co/379482/anthropic-claude-sonnet-5-5-release",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "anthropic-claude-sonnet-release",
-      "ts": 1790625963
-    },
-    {
-      "id": "rss:21d48810861d059f",
-      "kind": "news",
-      "title": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
-      "url": "https://decrypt.co/379481/australia-sam-altman-dario-amodei-ai-hack",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "openai-agent-government-breach",
-      "ts": 1790624181
-    },
-    {
-      "id": "rss:d3ec30622fd21bbf",
-      "kind": "news",
-      "title": "Canadian ‘crypto king’ set to represent himself at fraud trial",
-      "url": "https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "pleterski-fraud-trial",
-      "ts": 1790628104
-    },
-    {
-      "id": "rss:bbc809dc623ee095",
-      "kind": "news",
-      "title": "Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report",
-      "url": "https://cointelegraph.com/news/blockchain-com-500m-ipo-bloomberg-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "blockchain-com-ipo-plans",
-      "ts": 1790627293
-    },
-    {
       "id": "rss:9aab80fe6140a36f",
       "kind": "news",
       "title": "[Discussion] A risk framework for tokenized equities on Aave V3 X Layer, with wTCENTx as the worked example",
@@ -275,17 +135,6 @@
       "xRole": null,
       "cluster": "aave-tokenized-equities-framework",
       "ts": 1790632921
-    },
-    {
-      "id": "rss:69cce929fa79417c",
-      "kind": "news",
-      "title": "[ARFC] Sentora Externally Curated Hub & Spoke Framework on Aave V4",
-      "url": "https://governance.aave.com/t/arfc-sentora-externally-curated-hub-spoke-framework-on-aave-v4/25723",
-      "source": "Aave gouvernance",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "aave-sentora-hub-spoke",
-      "ts": 1790627190
     },
     {
       "id": "rss:db5b55985f735434",
@@ -704,9 +553,237 @@
       "xRole": null,
       "cluster": "aave-syrupusdc-onboarding",
       "ts": 1790698133
+    },
+    {
+      "id": "rss:3aad9b02b668f852",
+      "kind": "news",
+      "title": "Cboe, S&P Dow Jones may explore tokenized options contracts under extended licensing deal",
+      "url": "https://www.coindesk.com/business/2026/09/29/cboe-s-and-p-dow-jones-may-explore-tokenized-options-contracts-under-extended-licensing-deal",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "cboe-tokenized-options",
+      "ts": 1790706067
+    },
+    {
+      "id": "rss:ef23a75783a5631b",
+      "kind": "news",
+      "title": "CryptoQuant says bitcoin correction could be near as traders’ unrealized profit hits 21-month high",
+      "url": "https://www.theblock.co/news/markets/2026-09-29-cryptoquant-says-bitcoin-correction-could-near-traders-unrealized-profit-21-month-high-417206",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-price-correction-signals",
+      "ts": 1790709287
+    },
+    {
+      "id": "rss:bd39ecd01864ee5b",
+      "kind": "news",
+      "title": "Comer presses Crypto.com, Hyperliquid and PredictIt on identity checks and suspicious trades",
+      "url": "https://www.theblock.co/news/regulation/2026-09-29-comer-presses-crypto-com-hyperliquid-predictit-identity-checks-suspicious-trades-417192",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "comer-crypto-investigation",
+      "ts": 1790703637
+    },
+    {
+      "id": "rss:5995e7a82619b6ed",
+      "kind": "news",
+      "title": "Cboe's New S&amp;P Deal Opens the Door to Tokenized Options",
+      "url": "https://decrypt.co/379619/cboes-sp-deal-tokenized-options",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "cboe-tokenized-options",
+      "ts": 1790716564
+    },
+    {
+      "id": "rss:05382da69e12e8e5",
+      "kind": "news",
+      "title": "Bitwise Launches First US Spot Near ETF After Token Nearly Triples Since August",
+      "url": "https://decrypt.co/379612/bitwise-launches-first-spot-near-etf",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "near-etf-launch",
+      "ts": 1790714164
+    },
+    {
+      "id": "rss:bd87e568eb8f1cd7",
+      "kind": "news",
+      "title": "Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion",
+      "url": "https://decrypt.co/379605/anthropic-lost-42-billion-last-year-wants-ipo-2-trillion",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "anthropic-ipo-financials",
+      "ts": 1790712363
+    },
+    {
+      "id": "rss:81ce7fa4ce14f5e5",
+      "kind": "news",
+      "title": "Someone Finally Jailbroke the PS5—Just After Sony Said Players Don’t Own Their Games",
+      "url": "https://decrypt.co/379583/sony-ps5-jailbreak-digital-games-ownership",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ps5-jailbreak",
+      "ts": 1790710264
+    },
+    {
+      "id": "rss:fa18aebcda98fe86",
+      "kind": "news",
+      "title": "OpenAI Gave AI Agents Their Own Computers at DevDay 2026. Here's Everything It Announced",
+      "url": "https://decrypt.co/379584/openai-ai-agents-computers-devday-2026-everything-announced",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "openai-devday-agents",
+      "ts": 1790708122
+    },
+    {
+      "id": "rss:e6a475cab734a6e5",
+      "kind": "news",
+      "title": "Crypto ETFs Surge as Bitcoin Funds Add $2.95 Billion in 30 Days",
+      "url": "https://decrypt.co/379575/crypto-etfs-surge-bitcoin-adds-nearly-3-billion",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "crypto-etf-inflows",
+      "ts": 1790705913
+    },
+    {
+      "id": "rss:133a234eb453d104",
+      "kind": "news",
+      "title": "BBC Director-General Deems AI-Generated Doctor Who Episode 'Pretty Good'",
+      "url": "https://decrypt.co/379561/bbc-director-general-ai-generated-doctor-who-pretty-good",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "bbc-ai-generated-content",
+      "ts": 1790703064
+    },
+    {
+      "id": "rss:936c1a6d2da678fd",
+      "kind": "news",
+      "title": "Crypto regulation at SEC, CFTC to come down to 3 commissioners following key resignation",
+      "url": "https://cointelegraph.com/news/us-sec-cftc-crypto-regulation-few-commissioners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "sec-cftc-commissioner-vacancy",
+      "ts": 1790711983
+    },
+    {
+      "id": "rss:4394602629ac33c7",
+      "kind": "news",
+      "title": "OpenAI valuation could hit $1.4T in new funding round: Report",
+      "url": "https://cointelegraph.com/news/openai-30-billion-funding-round-1-4-trillion-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "openai-funding-round",
+      "ts": 1790711749
+    },
+    {
+      "id": "rss:ac95cba3d6958f33",
+      "kind": "news",
+      "title": "Kakaopay partners with Dinari, Ondo to explore tokenized Korean stocks",
+      "url": "https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "kakaopay-tokenized-stocks",
+      "ts": 1790711393
+    },
+    {
+      "id": "rss:a0fe825f28ff6d11",
+      "kind": "news",
+      "title": "Bitwise launches first US spot NEAR ETF after token’s recent surge",
+      "url": "https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "near-etf-launch",
+      "ts": 1790702076
     }
   ],
-  "digest_queue": [],
+  "digest_queue": [
+    {
+      "id": "cboe-tokenized-options:2026-09-29",
+      "level": "important",
+      "time": "23:21",
+      "title": "Cboe et S&P Dow Jones explorent les contrats d'options tokenisés",
+      "summary": "Cboe et S&P Dow Jones étudient la possibilité d'explorer les contrats d'options tokenisés dans le cadre d'un accord de licence étendu jusqu'en 2051.",
+      "assets": [],
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/09/29/cboe-s-and-p-dow-jones-may-explore-tokenized-options-contracts-under-extended-licensing-deal"
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/379619/cboes-sp-deal-tokenized-options"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "comer-crypto-investigation:2026-09-29",
+      "level": "important",
+      "time": "23:21",
+      "title": "Comer enquête sur Crypto.com, Hyperliquid et PredictIt sur les vérifications d'identité",
+      "summary": "Comer élargit son enquête en demandant des registres sur les initiés gouvernementaux, les transactions d'employés et les signalements d'activités suspectes chez ces plateformes.",
+      "assets": [
+        "HYPE"
+      ],
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-09-29-comer-presses-crypto-com-hyperliquid-predictit-identity-checks-suspicious-trades-417192"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "sec-cftc-commissioner-vacancy:2026-09-29",
+      "level": "important",
+      "time": "23:21",
+      "title": "La régulation crypto au SEC et CFTC réduite à 3 commissaires après résignation clé (en attente de confirmation)",
+      "summary": "Sept postes de commissaire au SEC et CFTC seront vacants après vendredi, laissant seulement quelques dirigeants pour superviser l'industrie crypto de 3 billions de dollars.",
+      "assets": [
+        "BTC",
+        "ETH"
+      ],
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/us-sec-cftc-crypto-regulation-few-commissioners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "kakaopay-tokenized-stocks:2026-09-29",
+      "level": "important",
+      "time": "23:21",
+      "title": "Kakaopay s'associe avec Dinari et Ondo pour explorer les actions coréennes tokenisées",
+      "summary": "Kakaopay Securities collabore avec Dinari et Ondo Finance pour explorer la tokenisation des actions coréennes et leur disponibilité pour les investisseurs internationaux.",
+      "assets": [],
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "digested": false
+    }
+  ],
   "sent": {
     "2026-09-28": {
       "critical": 1,
@@ -714,7 +791,8 @@
     },
     "2026-09-29": {
       "critical": 0,
-      "digests": []
+      "digests": [],
+      "important": 0
     }
   },
   "alerted": {
@@ -745,6 +823,11 @@
     "coinbase-cftc-derivatives-approval": "important",
     "us-perpetual-futures-market": "important",
     "ethereum-glamsterdam-upgrade": "important",
-    "near-etf-launch": "important"
-  }
+    "near-etf-launch": "important",
+    "cboe-tokenized-options": "important",
+    "comer-crypto-investigation": "important",
+    "sec-cftc-commissioner-vacancy": "important",
+    "kakaopay-tokenized-stocks": "important"
+  },
+  "briefing_attempts": {}
 }
