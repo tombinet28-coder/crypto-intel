@@ -79,7 +79,24 @@
     "rss:86e0249fecdae3aa": 1790681574.2862139,
     "rss:eefa720ac70cca0d": 1790681574.286214,
     "rss:60062f447904c133": 1790681574.286214,
-    "rss:7f557d56985d547c": 1790681574.286214
+    "rss:7f557d56985d547c": 1790681574.286214,
+    "rss:23a65202f51e92bd": 1790701183.6405342,
+    "rss:f53db0fda4f59d2f": 1790701183.6405356,
+    "rss:eb0fe23f4b97aca4": 1790701183.640536,
+    "rss:8b1a72a715bba06d": 1790701183.6405363,
+    "rss:62eb48f8195f4811": 1790701183.6405365,
+    "rss:ce11c0fb894cbf54": 1790701183.6405365,
+    "rss:03f047c3268b7a0e": 1790701183.640543,
+    "rss:1d9bd7222d4a50ab": 1790701183.6405432,
+    "rss:82d58af44475b931": 1790701183.6405432,
+    "rss:c0910a2ea7259d62": 1790701183.6405435,
+    "rss:417a68ab28997e06": 1790701183.6405435,
+    "rss:aeb1d9a539a256a8": 1790701183.6405437,
+    "rss:356d3b0f8fabfb1d": 1790701183.640544,
+    "rss:2daebd10518e9d24": 1790701183.640544,
+    "rss:c0142a1b82f405c0": 1790701183.6405442,
+    "rss:5ded3c9f80aef40f": 1790701183.6405442,
+    "rss:87d1df61910c6ff3": 1790701183.6405444
   },
   "x_since": {},
   "recent": [
@@ -95,17 +112,6 @@
       "ts": 1790618400
     },
     {
-      "id": "rss:acdf696f48f6223f",
-      "kind": "news",
-      "title": "The restaking gold rush is over, and top protocols are barely making a profit",
-      "url": "https://www.coindesk.com/business/2026/09/28/the-restaking-gold-rush-is-over-and-top-protocols-are-barely-making-a-profit",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "restaking-profitability-decline",
-      "ts": 1790612691
-    },
-    {
       "id": "rss:bd9265d374061c66",
       "kind": "news",
       "title": "Tether’s USDT at center of Iran’s shadow banking network, new Senate Report says",
@@ -117,17 +123,6 @@
       "ts": 1790622642
     },
     {
-      "id": "rss:027e71b5c6040836",
-      "kind": "news",
-      "title": "Tether is a ‘lifeline’ for Iranian regime, Senate Dems say in new report",
-      "url": "https://www.coindesk.com/policy/2026/09/28/tether-is-a-lifeline-for-iranian-regime-senate-dems-say-in-new-report",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "tether-iran-sanctions",
-      "ts": 1790612200
-    },
-    {
       "id": "rss:8ff1a4185191808c",
       "kind": "news",
       "title": "Citi expands Coinbase partnership to power stablecoin payments for businesses",
@@ -137,50 +132,6 @@
       "xRole": null,
       "cluster": "citi-coinbase-stablecoin-partnership",
       "ts": 1790616126
-    },
-    {
-      "id": "rss:fdccb22fdde38970",
-      "kind": "news",
-      "title": "SEC Commissioner Hester Peirce reflects on her time at the agency, what she still wanted to get done: ‘There’s no good time to leave’",
-      "url": "https://www.theblock.co/news/regulation/2026-09-28-sec-commissioner-hester-peirce-reflects-what-she-wanted-get-done-no-good-time-to-leave-417075",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "hester-peirce-departure",
-      "ts": 1790613329
-    },
-    {
-      "id": "rss:577697bf5e5aba71",
-      "kind": "news",
-      "title": "Strive pushes bitcoin holdings above 27,400 BTC with latest $94.5 million purchase",
-      "url": "https://www.theblock.co/news/business/2026-09-28-strive-pushes-bitcoin-holdings-above-27400-btc-latest-94-5-million-purchase-417035",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "strive-bitcoin-purchases",
-      "ts": 1790611233
-    },
-    {
-      "id": "rss:d296041ee56a1054",
-      "kind": "news",
-      "title": "Bitget attacker tested risk controls with small transfers before $388 million theft, CEO says",
-      "url": "https://www.theblock.co/news/regulation/2026-09-28-bitget-attacker-tested-risk-controls-small-transfers-388-million-theft-ceo-says-417045",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "bitget-388m-exploit",
-      "ts": 1790609451
-    },
-    {
-      "id": "rss:8861cc772abc9224",
-      "kind": "news",
-      "title": "Tom Lee’s Bitmine tops 6 million ETH after buying another 17,362 ether",
-      "url": "https://www.theblock.co/news/business/2026-09-28-tom-lees-bitmine-tops-6-million-eth-after-buying-another-17362-ether-416989",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "tom-lee-ethereum-accumulation",
-      "ts": 1790602746
     },
     {
       "id": "rss:39788dde432a57d3",
@@ -216,28 +167,6 @@
       "ts": 1790617874
     },
     {
-      "id": "rss:8fad08ea2cb3d8dc",
-      "kind": "news",
-      "title": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
-      "url": "https://decrypt.co/379461/vitalik-buterin-outlines-cryptographic-world-computer-plan-for-ethereum",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ethereum-hegota-fork",
-      "ts": 1790612982
-    },
-    {
-      "id": "rss:c7e9c8526b5beeab",
-      "kind": "news",
-      "title": "Bitcoin Falls Lower as Trump's Iran Snub Sends Oil, Yields Higher",
-      "url": "https://decrypt.co/379438/bitcoin-price-falls-trump-iran-oil-yields",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "trump-iran-geopolitics",
-      "ts": 1790609188
-    },
-    {
       "id": "rss:6a3b8763d7bc0245",
       "kind": "news",
       "title": "US SEC follows CFTC in staff guidance for crypto",
@@ -260,39 +189,6 @@
       "ts": 1790618574
     },
     {
-      "id": "rss:7d2258324310bb4f",
-      "kind": "news",
-      "title": "Crypto PAC spends $11M to oppose Sherrod Brown in Ohio",
-      "url": "https://cointelegraph.com/news/crypto-industry-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "crypto-political-spending",
-      "ts": 1790614080
-    },
-    {
-      "id": "rss:f8c8d65880be10ae",
-      "kind": "news",
-      "title": "Bitget CEO says $388M hack exploited third-party security vulnerability",
-      "url": "https://cointelegraph.com/news/bitget-388m-hack-third-party-security-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "bitget-388m-exploit",
-      "ts": 1790606781
-    },
-    {
-      "id": "rss:ef9b7896d466ad03",
-      "kind": "news",
-      "title": "MiCA focus shifts from rulemaking to supervision, ESMA chair says",
-      "url": "https://cointelegraph.com/news/mica-shift-rulemaking-to-supervision-esma-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "mica-supervision-focus",
-      "ts": 1790604165
-    },
-    {
       "id": "rss:dce9afeee83bf1f8",
       "kind": "news",
       "title": "SEC Charges Registered Investment Adviser Zoe Financial for Failure to Disclose Conflict of Interest",
@@ -302,39 +198,6 @@
       "xRole": null,
       "cluster": "sec-enforcement-zoe-financial",
       "ts": 1790617590
-    },
-    {
-      "id": "rss:a3abe9a7c85699a6",
-      "kind": "news",
-      "title": "[ARFC] Deploy Aave V4 on the Monad Network",
-      "url": "https://governance.aave.com/t/arfc-deploy-aave-v4-on-the-monad-network/25722",
-      "source": "Aave gouvernance",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "aave-monad-deployment",
-      "ts": 1790612614
-    },
-    {
-      "id": "rss:f328c025d2aa3726",
-      "kind": "news",
-      "title": "[ARFC] Onboard syrupUSDC to Aave V4 on Arc",
-      "url": "https://governance.aave.com/t/arfc-onboard-syrupusdc-to-aave-v4-on-arc/25721",
-      "source": "Aave gouvernance",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "aave-syrupusdc-onboarding",
-      "ts": 1790612148
-    },
-    {
-      "id": "rss:8296001023c43b97",
-      "kind": "news",
-      "title": "Risk Stewards: Cap and IRM Changes on Aave V3 / 2026.09.28",
-      "url": "https://governance.aave.com/t/risk-stewards-cap-and-irm-changes-on-aave-v3-2026-09-28/25718",
-      "source": "Aave gouvernance",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "aave-risk-parameters-update",
-      "ts": 1790609244
     },
     {
       "id": "rss:e4bf0c9733e483f1",
@@ -665,6 +528,193 @@
       "xRole": null,
       "cluster": "tom-lee-ethereum-accumulation",
       "ts": 1790671885
+    },
+    {
+      "id": "rss:23a65202f51e92bd",
+      "kind": "news",
+      "title": "Ethereum users get another way to pay privately as zk.money returns after three years",
+      "url": "https://www.coindesk.com/tech/2026/09/29/embargo-12-et-ethereum-users-get-another-way-to-pay-privately-as-zk-money-returns-after-three-years",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ethereum-privacy-solutions",
+      "ts": 1790697600
+    },
+    {
+      "id": "rss:f53db0fda4f59d2f",
+      "kind": "news",
+      "title": "Democrats killed the Clarity Act",
+      "url": "https://www.coindesk.com/opinion/2026/09/29/democrats-killed-the-clarity-act",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "us-crypto-regulation",
+      "ts": 1790690898
+    },
+    {
+      "id": "rss:eb0fe23f4b97aca4",
+      "kind": "news",
+      "title": "Bitcoin beats gold, surge to $100,000 in play",
+      "url": "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-price-milestone",
+      "ts": 1790681695
+    },
+    {
+      "id": "rss:8b1a72a715bba06d",
+      "kind": "news",
+      "title": "Zcash developers begin moving Tachyon code into faster private-payment software",
+      "url": "https://www.coindesk.com/tech/2026/09/29/zcash-s-faster-private-payment-code-is-being-rebuilt-for-its-bigger-scaling-plan",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "zcash-privacy-development",
+      "ts": 1790680530
+    },
+    {
+      "id": "rss:62eb48f8195f4811",
+      "kind": "news",
+      "title": "Aztec relaunches zk.money privacy wallet on its Ethereum Layer 2",
+      "url": "https://www.theblock.co/news/defi/2026-09-29-aztec-zk-money-privacy-wallet-ethereum-layer-2-417174",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ethereum-privacy-solutions",
+      "ts": 1790697600
+    },
+    {
+      "id": "rss:ce11c0fb894cbf54",
+      "kind": "news",
+      "title": "Bitcoin tests long-term holder supply cluster as leverage clears, analysts say",
+      "url": "https://www.theblock.co/news/markets/2026-09-29-bitcoin-tests-long-term-holder-supply-cluster-leverage-clears-analysts-say-417162",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-price-levels",
+      "ts": 1790694586
+    },
+    {
+      "id": "rss:03f047c3268b7a0e",
+      "kind": "news",
+      "title": "Bitwise launches first US spot NEAR ETF with staking rewards",
+      "url": "https://www.theblock.co/news/markets/2026-09-29-bitwise-near-etf-nrr-launch-staking-417150",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "near-etf-launch",
+      "ts": 1790692042
+    },
+    {
+      "id": "rss:1d9bd7222d4a50ab",
+      "kind": "news",
+      "title": "Is the Red September Curse Over? Bitcoin Set for Best September on Record",
+      "url": "https://decrypt.co/379549/red-september-curse-over-bitcoin-best-returns-record",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-september-performance",
+      "ts": 1790700646
+    },
+    {
+      "id": "rss:82d58af44475b931",
+      "kind": "news",
+      "title": "Bitcoin Hovers at $84K as Treasury Yields Hold Near Multi-Year Highs",
+      "url": "https://decrypt.co/379541/bitcoin-hovers-at-84k-as-treasury-yields-hold-near-multi-year-highs",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-price-levels",
+      "ts": 1790690864
+    },
+    {
+      "id": "rss:c0910a2ea7259d62",
+      "kind": "news",
+      "title": "Morning Minute: Citi and Coinbase Just Made Stablecoins Invisible",
+      "url": "https://decrypt.co/379526/morning-minute-citi-and-coinbase-just-made-stablecoins-invisible",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "citi-coinbase-stablecoin-partnership",
+      "ts": 1790683518
+    },
+    {
+      "id": "rss:417a68ab28997e06",
+      "kind": "news",
+      "title": "Bitcoin gives back gains as long-term holder supply keeps $85K out of reach",
+      "url": "https://cointelegraph.com/markets/bitcoin-gives-back-gains-long-term-holder-supply-keeps-85k-out-of-reach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "btc-price-levels",
+      "ts": 1790699171
+    },
+    {
+      "id": "rss:aeb1d9a539a256a8",
+      "kind": "news",
+      "title": "Bitget CEO ‘not very optimistic’ on recovering funds from $388M breach",
+      "url": "https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "bitget-388m-exploit",
+      "ts": 1790698686
+    },
+    {
+      "id": "rss:356d3b0f8fabfb1d",
+      "kind": "news",
+      "title": "Peter Brandt says Bitcoin may hit $600K by 2029, calls XRP a ‘fool coin’",
+      "url": "https://cointelegraph.com/magazine/peter-brandt-says-bitcoin-may-hit-600k-by-2029-calls-xrp-a-fool-coin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "btc-price-prediction",
+      "ts": 1790688600
+    },
+    {
+      "id": "rss:2daebd10518e9d24",
+      "kind": "news",
+      "title": "Bitcoin ETF inflows leave institutional demand unclear: CoinShares",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-mixed-read-institutional-demand-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "btc-etf-institutional-demand",
+      "ts": 1790685612
+    },
+    {
+      "id": "rss:c0142a1b82f405c0",
+      "kind": "news",
+      "title": "ECB puts AI agent payments on the digital euro drawing board",
+      "url": "https://cointelegraph.com/news/ecb-private-firms-ai-agents-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "ecb-digital-euro-ai",
+      "ts": 1790683245
+    },
+    {
+      "id": "rss:5ded3c9f80aef40f",
+      "kind": "news",
+      "title": "SEC Charges Multiple Entities in Fraud Schemes Totaling at Least $15 Million That Used WhatsApp and Other Platforms to Lure Investors",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-95-sec-charges-multiple-entities-fraud-schemes-totaling-least-15-million-used-whatsapp-other-platforms",
+      "source": "SEC (communiqués)",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "sec-fraud-enforcement",
+      "ts": 1790690153
+    },
+    {
+      "id": "rss:87d1df61910c6ff3",
+      "kind": "news",
+      "title": "Syrup USDC (syrupUSDC) on Aave Arc Assessments",
+      "url": "https://governance.aave.com/t/syrup-usdc-syrupusdc-on-aave-arc-assessments/25729",
+      "source": "Aave gouvernance",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "aave-syrupusdc-onboarding",
+      "ts": 1790698133
     }
   ],
   "digest_queue": [
@@ -1199,6 +1249,24 @@
         }
       ],
       "digested": false
+    },
+    {
+      "id": "near-etf-launch:2026-09-29",
+      "level": "important",
+      "time": "18:59",
+      "title": "Bitwise lance le premier ETF spot NEAR américain avec récompenses de staking",
+      "summary": "Bitwise a lancé NRR, le premier ETP spot NEAR aux États-Unis, avec des frais de 0,75% et un staking interne dont les récompenses vont aux actionnaires.",
+      "assets": [
+        "NEAR"
+      ],
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/markets/2026-09-29-bitwise-near-etf-nrr-launch-staking-417150"
+        }
+      ],
+      "digested": false
     }
   ],
   "sent": {
@@ -1238,6 +1306,7 @@
     "blockchain-com-ipo-plans": "important",
     "coinbase-cftc-derivatives-approval": "important",
     "us-perpetual-futures-market": "important",
-    "ethereum-glamsterdam-upgrade": "important"
+    "ethereum-glamsterdam-upgrade": "important",
+    "near-etf-launch": "important"
   }
 }
