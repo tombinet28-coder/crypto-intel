@@ -31,8 +31,10 @@ alerts:
   priority_move_1h_important: 5      # % de variation en 1 h sur une crypto prioritaire → 🔔 IMPORTANT
   priority_move_1h_critical: 10      # % en 1 h → 🚨 CRITICAL
   top100_move_24h_important: 25      # % en 24 h sur le reste du top 100 → 🔔 IMPORTANT
-  max_critical_per_day: 6            # plafond de notifications immédiates par jour
-  digest_times: ["12:30", "18:30"]   # les 🔔 IMPORTANT sont regroupés et envoyés à ces heures
+  max_critical_per_day: 6            # plafond de 🚨 CRITICAL par jour
+  important_mode: immediate          # immediate = chaque 🔔 IMPORTANT envoyée tout de suite ; digest = regroupées aux heures ci-dessous
+  max_important_per_day: 15          # au-delà, les 🔔 suivantes sont regroupées dans les récaps
+  digest_times: ["12:30", "18:30"]   # récaps des alertes en attente (plafond atteint, ou mode digest)
   quiet_hours: { start: "23:00", end: "06:30" }   # la nuit : seules les 🚨 CRITICAL passent
 
 # ── Fiabilité des sources ────────────────────────────────────

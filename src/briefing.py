@@ -19,15 +19,23 @@ IMPACTS = {"pos", "neu", "neg"}
 CONFS = {"confirmed", "likely", "unconfirmed", "rumor"}
 
 
-def in_window(cfg: dict) -> bool:
-    """Deux déclenchements UTC couvrent l'heure d'été et d'hiver ; on ne garde que celui
-    qui tombe entre 06:00 et 08:59 à Paris, et une seule fois par jour."""
+MAX_AUTO_ATTEMPTS = 2
+
+
+def in_window(cfg: dict, state: dict) -> bool:
+    """Briefing automatique entre 06:15 et 11:59 (Paris), une fois par jour, deux tentatives au plus.
+    Plusieurs déclencheurs l'appellent (tâche de 06:20, tâche de secours de 07:20, surveillance
+    toutes les 30 min) : le premier qui passe le génère, les autres ne font rien."""
     now = now_local(cfg)
-    if not (6 <= now.hour <= 8):
-        log.info("Hors créneau (%s à Paris) : rien à faire.", now.strftime("%H:%M"))
+    if not ((now.hour, now.minute) >= (6, 15) and now.hour < 12):
+        log.info("Hors créneau (%s à Paris) : pas de briefing.", now.strftime("%H:%M"))
         return False
-    if (BRIEF_DIR / f"{now.date().isoformat()}.json").exists():
+    today = now.date().isoformat()
+    if (BRIEF_DIR / f"{today}.json").exists():
         log.info("Le briefing du jour existe déjà.")
+        return False
+    if state["briefing_attempts"].get(today, 0) >= MAX_AUTO_ATTEMPTS:
+        log.info("Deux tentatives déjà faites aujourd'hui : on n'insiste pas.")
         return False
     return True
 
@@ -137,13 +145,15 @@ def publish(b: dict) -> None:
     write_json(DATA_DIR / "index.json", {"dates": dates, "latest": dates[0]})
 
 
-def main() -> int:
+def run(force: bool = False) -> int:
     cfg = load_config()
-    force = "--force" in sys.argv
-    if not force and not in_window(cfg):
+    state = load_state()
+    if not force and not in_window(cfg, state):
         return 0
     today = now_local(cfg).date().isoformat()
-    state = load_state()
+    if not force:
+        state["briefing_attempts"][today] = state["briefing_attempts"].get(today, 0) + 1
+        save_state(state)
     try:
         ctx, prio = gather_context(cfg, state)
         raw = call_claude(cfg, ctx, today)
@@ -158,8 +168,12 @@ def main() -> int:
         return 0
     except Exception as e:  # noqa: BLE001
         log.exception("Échec du briefing")
-        notify.send(f"⚠️ Le briefing de 06:30 a échoué : {notify.esc(str(e))[:300]}")
+        notify.send(f"⚠️ Le briefing a échoué : {notify.esc(str(e))[:300]}")
         return 1
+
+
+def main() -> int:
+    return run(force="--force" in sys.argv)
 
 
 if __name__ == "__main__":

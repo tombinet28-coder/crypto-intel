@@ -49,7 +49,7 @@ DefiLlama fournit la TVL, les frais, les stablecoins et les volumes DEX. CoinGec
 
 **Telegram**, via un bot personnel : c'est gratuit, les notifications natives arrivent sur iPhone et Android, et c'est ton « canal dédié ».
 - 🚨 CRITICAL : envoyé immédiatement, jamais plus de 6 par jour.
-- 🔔 IMPORTANT : regroupé dans deux récaps silencieux, à 12h30 et 18h30.
+- 🔔 IMPORTANT : envoyé immédiatement, 15 maximum par jour. Le surplus est regroupé dans les récaps de 12h30 et 18h30 (réglable dans `config.yaml`, `important_mode`).
 - 📰 NORMAL : uniquement dans le briefing de 06h30.
 - La nuit (23h00–06h30), seules les CRITICAL passent.
 

@@ -69,7 +69,26 @@ assert monitor.in_quiet_hours(cfg, now.replace(hour=23, minute=30))
 assert monitor.in_quiet_hours(cfg, now.replace(hour=6, minute=0))
 assert not monitor.in_quiet_hours(cfg, now.replace(hour=6, minute=45))
 assert monitor.digest_slot(cfg, now.replace(hour=12, minute=37)) == "12:30"
-assert monitor.digest_slot(cfg, now.replace(hour=13, minute=7)) is None
+assert monitor.digest_slot(cfg, now.replace(hour=13, minute=7)) == "12:30"          # GitHub en retard : pas raté
+assert monitor.digest_slot(cfg, now.replace(hour=13, minute=7), ["12:30"]) is None  # déjà envoyé
+assert monitor.digest_slot(cfg, now.replace(hour=12, minute=7)) is None             # trop tôt
+
+# 5b) Créneau du briefing automatique et limite de tentatives
+import src.briefing as br
+class _Fixed:
+    def __init__(self, dt): self.dt = dt
+def _in_window_at(h, m, attempts=0, day="2099-01-01"):
+    orig = br.now_local
+    br.now_local = lambda c: datetime(2099, 1, 1, h, m, tzinfo=ZoneInfo("Europe/Paris"))
+    try:
+        return br.in_window(cfg, {"briefing_attempts": {day: attempts}})
+    finally:
+        br.now_local = orig
+assert not _in_window_at(6, 7)          # passage de surveillance trop tôt
+assert _in_window_at(6, 20)             # tâche de 06:20
+assert _in_window_at(6, 37)             # plan B par la surveillance
+assert not _in_window_at(6, 37, attempts=2)  # deux échecs : on arrête
+assert not _in_window_at(12, 7)
 
 # 6) Messages Telegram : le HTML injecté est neutralisé
 msg = notify.format_alert({"level": "critical", "title": "<script>x</script>", "time": "14:07", "confidence": "confirmed",

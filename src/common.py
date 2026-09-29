@@ -67,7 +67,8 @@ def load_state() -> dict[str, Any]:
     state.setdefault("x_since", {})         # user_id -> dernier tweet vu
     state.setdefault("recent", [])          # derniers éléments (pour recouper les sources)
     state.setdefault("digest_queue", [])    # alertes IMPORTANT en attente
-    state.setdefault("sent", {})            # date -> {"critical": n, "digests": [...]}
+    state.setdefault("sent", {})            # date -> {"critical": n, "important": n, "digests": [...]}
+    state.setdefault("briefing_attempts", {})  # date -> nombre de tentatives automatiques
     return state
 
 
@@ -75,8 +76,9 @@ def save_state(state: dict[str, Any]) -> None:
     cutoff = time.time() - 3 * 86400
     state["seen"] = {k: v for k, v in state["seen"].items() if v >= cutoff}
     state["recent"] = [r for r in state["recent"] if r.get("ts", 0) >= time.time() - 86400][-400:]
-    for d in list(state["sent"].keys())[:-7]:
-        state["sent"].pop(d, None)
+    for key in ("sent", "briefing_attempts"):
+        for d in sorted(state.get(key, {}).keys())[:-7]:
+            state[key].pop(d, None)
     write_json(STATE_FILE, state)
 
 

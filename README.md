@@ -1,10 +1,10 @@
 # 🪙 Crypto Intel — ton terminal crypto personnel
 
 Ce que fait ce système, une fois installé :
-- **06h30** : un briefing complet sur ton tableau de bord, et un résumé (TL;DR + watchlist) sur Telegram.
+- **06h30** : un briefing complet (avec un plan B automatique si la tâche de 6h20 ne part pas) sur ton tableau de bord, et un résumé (TL;DR + watchlist) sur Telegram.
 - **Toutes les 30 min** : il surveille les news, les comptes X officiels et les mouvements de prix.
 - **🚨 CRITICAL** : notification immédiate sur ton téléphone, 6 maximum par jour.
-- **🔔 IMPORTANT** : deux récaps silencieux, à 12h30 et 18h30.
+- **🔔 IMPORTANT** : envoyées aussi tout de suite, 15 maximum par jour. Au-delà, elles sont regroupées dans les récaps de 12h30 et 18h30.
 - **Nuit calme** : entre 23h et 6h30, seules les alertes critiques passent.
 
 Pas besoin de savoir coder. Tout se fait depuis le site de GitHub.

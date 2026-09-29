@@ -3,8 +3,10 @@
 1. Récupère les nouveautés : flux RSS, comptes X officiels, mouvements de prix anormaux.
 2. Les fait trier par un petit modèle (CRITICAL / IMPORTANT / NORMAL).
 3. Applique les règles de fiabilité du code : une alerte CRITICAL non confirmée est rétrogradée.
-4. Envoie les CRITICAL tout de suite (avec un plafond quotidien), regroupe les IMPORTANT
-   dans deux récaps (12:30 et 18:30), et ajoute le tout au briefing du jour (rubrique Breaking).
+4. Envoie les CRITICAL et les IMPORTANT tout de suite (plafonds quotidiens ; la nuit, seules
+   les CRITICAL passent), regroupe le surplus dans les récaps de 12:30 et 18:30, et ajoute
+   le tout au briefing du jour (rubrique Breaking).
+5. Plan B : si le briefing du matin n'a pas été généré, la surveillance s'en charge.
 """
 from __future__ import annotations
 
@@ -15,7 +17,7 @@ from datetime import datetime, timedelta
 
 import anthropic
 
-from . import collectors, notify, reliability
+from . import briefing, collectors, notify, reliability
 from .common import BRIEF_DIR, extract_json, load_config, load_state, log, now_local, now_utc_iso, read_json, read_prompt, save_state, write_json
 
 LEVEL_RANK = {"normal": 0, "important": 1, "critical": 2}
@@ -33,11 +35,13 @@ def in_quiet_hours(cfg: dict, now: datetime) -> bool:
     return cur >= start or cur < end
 
 
-def digest_slot(cfg: dict, now: datetime) -> str | None:
+def digest_slot(cfg: dict, now: datetime, already_sent: list | None = None) -> str | None:
+    """Premier passage APRÈS l'heure du récap (jusqu'à 3 h plus tard) : jamais raté,
+    même si GitHub démarre la tâche en retard."""
     for t in cfg["alerts"]["digest_times"]:
         h, m = _hhmm(t)
         slot = now.replace(hour=h, minute=m, second=0, microsecond=0)
-        if abs(now - slot) <= timedelta(minutes=16):
+        if slot <= now < slot + timedelta(hours=3) and t not in (already_sent or []):
             return t
     return None
 
@@ -116,12 +120,19 @@ def append_breaking(alerts: list[dict], today: str) -> None:
 
 
 def main() -> int:
+    # Plan B : si le briefing du matin manque (tâche de 06:20 non déclenchée ou en échec), on le fait ici.
+    try:
+        briefing.run(force=False)
+    except Exception as e:  # noqa: BLE001
+        log.warning("Plan B du briefing en échec : %s", e)
+
     cfg = load_config()
     state = load_state()
     state.setdefault("alerted", {})
     now = now_local(cfg)
     today = now.date().isoformat()
-    sent = state["sent"].setdefault(today, {"critical": 0, "digests": []})
+    sent = state["sent"].setdefault(today, {"critical": 0, "important": 0, "digests": []})
+    sent.setdefault("important", 0)
     if len(state["alerted"]) > 300:
         state["alerted"] = dict(list(state["alerted"].items())[-200:])
 
@@ -145,16 +156,23 @@ def main() -> int:
             log.warning("Tri impossible ce tour-ci : %s", e)
 
     quiet = in_quiet_hours(cfg, now)
+    mode = cfg["alerts"].get("important_mode", "digest")
+    max_imp = cfg["alerts"].get("max_important_per_day", 15)
     for a in alerts:
         if a["level"] == "critical" and sent["critical"] < cfg["alerts"]["max_critical_per_day"]:
             if notify.send(notify.format_alert(a)):
                 sent["critical"] += 1
-        else:
-            state["digest_queue"].append({**a, "digested": False})
+                continue
+        if mode == "immediate" and not quiet and sent["important"] < max_imp:
+            shown = {**a, "level": "important"} if a["level"] == "critical" else a
+            if notify.send(notify.format_alert(shown)):
+                sent["important"] += 1
+                continue
+        state["digest_queue"].append({**a, "digested": False})
 
-    slot = digest_slot(cfg, now)
+    slot = digest_slot(cfg, now, sent["digests"])
     pending = [q for q in state["digest_queue"] if not q.get("digested")]
-    if slot and slot not in sent["digests"] and pending and not quiet:
+    if slot and pending and not quiet:
         if notify.send(notify.format_digest(pending), silent=True):
             for q in pending:
                 q["digested"] = True
