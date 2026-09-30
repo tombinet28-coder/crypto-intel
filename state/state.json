@@ -148,153 +148,33 @@
     "rss:80b24b0125ac7de4": 1790773149.3620248,
     "rss:e79c59f9708cf182": 1790773149.3620248,
     "rss:57857bb748953e2d": 1790773149.362025,
-    "rss:763a1a725fbb1605": 1790773149.362025
+    "rss:763a1a725fbb1605": 1790773149.362025,
+    "rss:d04db338efd6e4d4": 1790792653.8859057,
+    "rss:511ca1701eec19a1": 1790792653.885907,
+    "rss:0c2f557b9d9a80b1": 1790792653.8859076,
+    "rss:c87914784817b146": 1790792653.885908,
+    "rss:387245fcc95f55d8": 1790792653.8859081,
+    "rss:796ca59228d45bae": 1790792653.8859081,
+    "rss:a0d1ad73bd1a3da1": 1790792653.8859084,
+    "rss:e0f87b53ed618574": 1790792653.8859088,
+    "rss:fa07d29864e65501": 1790792653.8859088,
+    "rss:f8fdf19e0e46038b": 1790792653.885909,
+    "rss:7765a03172ec01d7": 1790792653.8859093,
+    "rss:dd5004751247f8e3": 1790792653.8859093,
+    "rss:4ff95f69b808cdcb": 1790792653.8859096,
+    "rss:de2cecee9ef28f7c": 1790792653.8859096,
+    "rss:b2e0a7cba596c21a": 1790792653.8859098,
+    "rss:00c04109e18aa568": 1790792653.8859098,
+    "rss:f1f01ff1a0c1a551": 1790792653.88591,
+    "rss:0deb4eb7edd74bf9": 1790792653.8859103,
+    "rss:03d942d50b05ca2f": 1790792653.8859103,
+    "rss:d76f7355457cfe99": 1790792653.8859105,
+    "rss:dc67e39ba3cdf220": 1790792653.885911,
+    "rss:c0d0f7cfe841bf80": 1790792653.8859112,
+    "rss:7b8aac4692d24ef7": 1790792653.8859198
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:23a65202f51e92bd",
-      "kind": "news",
-      "title": "Ethereum users get another way to pay privately as zk.money returns after three years",
-      "url": "https://www.coindesk.com/tech/2026/09/29/embargo-12-et-ethereum-users-get-another-way-to-pay-privately-as-zk-money-returns-after-three-years",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ethereum-privacy-solutions",
-      "ts": 1790697600
-    },
-    {
-      "id": "rss:f53db0fda4f59d2f",
-      "kind": "news",
-      "title": "Democrats killed the Clarity Act",
-      "url": "https://www.coindesk.com/opinion/2026/09/29/democrats-killed-the-clarity-act",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "us-crypto-regulation",
-      "ts": 1790690898
-    },
-    {
-      "id": "rss:62eb48f8195f4811",
-      "kind": "news",
-      "title": "Aztec relaunches zk.money privacy wallet on its Ethereum Layer 2",
-      "url": "https://www.theblock.co/news/defi/2026-09-29-aztec-zk-money-privacy-wallet-ethereum-layer-2-417174",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ethereum-privacy-solutions",
-      "ts": 1790697600
-    },
-    {
-      "id": "rss:ce11c0fb894cbf54",
-      "kind": "news",
-      "title": "Bitcoin tests long-term holder supply cluster as leverage clears, analysts say",
-      "url": "https://www.theblock.co/news/markets/2026-09-29-bitcoin-tests-long-term-holder-supply-cluster-leverage-clears-analysts-say-417162",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-price-levels",
-      "ts": 1790694586
-    },
-    {
-      "id": "rss:03f047c3268b7a0e",
-      "kind": "news",
-      "title": "Bitwise launches first US spot NEAR ETF with staking rewards",
-      "url": "https://www.theblock.co/news/markets/2026-09-29-bitwise-near-etf-nrr-launch-staking-417150",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "near-etf-launch",
-      "ts": 1790692042
-    },
-    {
-      "id": "rss:1d9bd7222d4a50ab",
-      "kind": "news",
-      "title": "Is the Red September Curse Over? Bitcoin Set for Best September on Record",
-      "url": "https://decrypt.co/379549/red-september-curse-over-bitcoin-best-returns-record",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-september-performance",
-      "ts": 1790700646
-    },
-    {
-      "id": "rss:82d58af44475b931",
-      "kind": "news",
-      "title": "Bitcoin Hovers at $84K as Treasury Yields Hold Near Multi-Year Highs",
-      "url": "https://decrypt.co/379541/bitcoin-hovers-at-84k-as-treasury-yields-hold-near-multi-year-highs",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-price-levels",
-      "ts": 1790690864
-    },
-    {
-      "id": "rss:417a68ab28997e06",
-      "kind": "news",
-      "title": "Bitcoin gives back gains as long-term holder supply keeps $85K out of reach",
-      "url": "https://cointelegraph.com/markets/bitcoin-gives-back-gains-long-term-holder-supply-keeps-85k-out-of-reach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "btc-price-levels",
-      "ts": 1790699171
-    },
-    {
-      "id": "rss:aeb1d9a539a256a8",
-      "kind": "news",
-      "title": "Bitget CEO ‘not very optimistic’ on recovering funds from $388M breach",
-      "url": "https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "bitget-388m-exploit",
-      "ts": 1790698686
-    },
-    {
-      "id": "rss:356d3b0f8fabfb1d",
-      "kind": "news",
-      "title": "Peter Brandt says Bitcoin may hit $600K by 2029, calls XRP a ‘fool coin’",
-      "url": "https://cointelegraph.com/magazine/peter-brandt-says-bitcoin-may-hit-600k-by-2029-calls-xrp-a-fool-coin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "btc-price-prediction",
-      "ts": 1790688600
-    },
-    {
-      "id": "rss:5ded3c9f80aef40f",
-      "kind": "news",
-      "title": "SEC Charges Multiple Entities in Fraud Schemes Totaling at Least $15 Million That Used WhatsApp and Other Platforms to Lure Investors",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-95-sec-charges-multiple-entities-fraud-schemes-totaling-least-15-million-used-whatsapp-other-platforms",
-      "source": "SEC (communiqués)",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "sec-fraud-enforcement",
-      "ts": 1790690153
-    },
-    {
-      "id": "rss:87d1df61910c6ff3",
-      "kind": "news",
-      "title": "Syrup USDC (syrupUSDC) on Aave Arc Assessments",
-      "url": "https://governance.aave.com/t/syrup-usdc-syrupusdc-on-aave-arc-assessments/25729",
-      "source": "Aave gouvernance",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "aave-syrupusdc-onboarding",
-      "ts": 1790698133
-    },
-    {
-      "id": "rss:3aad9b02b668f852",
-      "kind": "news",
-      "title": "Cboe, S&P Dow Jones may explore tokenized options contracts under extended licensing deal",
-      "url": "https://www.coindesk.com/business/2026/09/29/cboe-s-and-p-dow-jones-may-explore-tokenized-options-contracts-under-extended-licensing-deal",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "cboe-tokenized-options",
-      "ts": 1790706067
-    },
     {
       "id": "rss:ef23a75783a5631b",
       "kind": "news",
@@ -305,17 +185,6 @@
       "xRole": null,
       "cluster": "btc-price-correction-signals",
       "ts": 1790709287
-    },
-    {
-      "id": "rss:bd39ecd01864ee5b",
-      "kind": "news",
-      "title": "Comer presses Crypto.com, Hyperliquid and PredictIt on identity checks and suspicious trades",
-      "url": "https://www.theblock.co/news/regulation/2026-09-29-comer-presses-crypto-com-hyperliquid-predictit-identity-checks-suspicious-trades-417192",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "comer-crypto-investigation",
-      "ts": 1790703637
     },
     {
       "id": "rss:5995e7a82619b6ed",
@@ -373,28 +242,6 @@
       "ts": 1790708122
     },
     {
-      "id": "rss:e6a475cab734a6e5",
-      "kind": "news",
-      "title": "Crypto ETFs Surge as Bitcoin Funds Add $2.95 Billion in 30 Days",
-      "url": "https://decrypt.co/379575/crypto-etfs-surge-bitcoin-adds-nearly-3-billion",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "crypto-etf-inflows",
-      "ts": 1790705913
-    },
-    {
-      "id": "rss:133a234eb453d104",
-      "kind": "news",
-      "title": "BBC Director-General Deems AI-Generated Doctor Who Episode 'Pretty Good'",
-      "url": "https://decrypt.co/379561/bbc-director-general-ai-generated-doctor-who-pretty-good",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "bbc-ai-generated-content",
-      "ts": 1790703064
-    },
-    {
       "id": "rss:936c1a6d2da678fd",
       "kind": "news",
       "title": "Crypto regulation at SEC, CFTC to come down to 3 commissioners following key resignation",
@@ -426,17 +273,6 @@
       "xRole": null,
       "cluster": "kakaopay-tokenized-stocks",
       "ts": 1790711393
-    },
-    {
-      "id": "rss:a0fe825f28ff6d11",
-      "kind": "news",
-      "title": "Bitwise launches first US spot NEAR ETF after token’s recent surge",
-      "url": "https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "near-etf-launch",
-      "ts": 1790702076
     },
     {
       "id": "rss:a762631cd24f9cae",
@@ -855,6 +691,259 @@
       "xRole": null,
       "cluster": "aave-governance-proposals",
       "ts": 1790767779
+    },
+    {
+      "id": "rss:d04db338efd6e4d4",
+      "kind": "news",
+      "title": "Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal",
+      "url": "https://www.coindesk.com/news-analysis/2026/09/30/crypto-industry-gave-usd8-million-to-clarity-act-lobbyists-who-didn-t-close-the-deal",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "crypto-lobbying",
+      "ts": 1790788591
+    },
+    {
+      "id": "rss:511ca1701eec19a1",
+      "kind": "news",
+      "title": "Open USD takes on Tether, Circle with a different stablecoin model that's 'building money'",
+      "url": "https://www.coindesk.com/business/2026/09/24/open-usd-takes-on-tether-circle-with-a-different-stablecoin-model-that-s-building-money",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "stablecoin-landscape",
+      "ts": 1790782490
+    },
+    {
+      "id": "rss:0c2f557b9d9a80b1",
+      "kind": "news",
+      "title": "U.S. CFTC  seeks event contract definitions that may defy states' gambling claims",
+      "url": "https://www.coindesk.com/policy/2026/09/30/u-s-cftc-seeks-event-contract-definitions-that-may-defy-states-gambling-claims",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "cftc-prediction-markets",
+      "ts": 1790781576
+    },
+    {
+      "id": "rss:c87914784817b146",
+      "kind": "news",
+      "title": "Crypto Long & Short: What will the AI agents run on?",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/09/30/crypto-long-and-short-what-will-the-ai-agents-run-on",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ai-crypto-infrastructure",
+      "ts": 1790780167
+    },
+    {
+      "id": "rss:387245fcc95f55d8",
+      "kind": "news",
+      "title": "Clock's ticking: UK's crypto regulatory application window opens with February deadline",
+      "url": "https://www.coindesk.com/policy/2026/09/30/the-clock-s-ticking-uk-s-crypto-regulatory-application-window-opens-with-february-deadline",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "fca-crypto-authorization",
+      "ts": 1790777059
+    },
+    {
+      "id": "rss:796ca59228d45bae",
+      "kind": "news",
+      "title": "Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel",
+      "url": "https://www.coindesk.com/tech/2026/09/30/embargo-1-pm-utc-cardano-tapped-by-brazil-s-state-oil-giant-to-track-cleaner-jet-fuel-and-diesel",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "cardano-enterprise",
+      "ts": 1790773200
+    },
+    {
+      "id": "rss:a0d1ad73bd1a3da1",
+      "kind": "news",
+      "title": "DogeOS launches testnet to bring EVM smart contracts to Dogecoin",
+      "url": "https://www.theblock.co/news/ecosystems/2026-09-30-dogeos-launches-public-testnet-dogecoin-zk-rollup-evm-417307",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "dogecoin-evm-development",
+      "ts": 1790792637
+    },
+    {
+      "id": "rss:e0f87b53ed618574",
+      "kind": "news",
+      "title": "White House weighs new CFTC event contract rules in growing prediction market power struggle",
+      "url": "https://www.theblock.co/news/regulation/2026-09-30-white-house-weighs-new-cftc-event-contract-rules-in-growing-prediction-market-power-struggle-417345",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "white-house-cftc-prediction-markets",
+      "ts": 1790790885
+    },
+    {
+      "id": "rss:fa07d29864e65501",
+      "kind": "news",
+      "title": "Bitcoin steadies as soft PCE cools October Fed rate hike bets",
+      "url": "https://www.theblock.co/news/markets/2026-09-30-bitcoin-pce-inflation-october-rate-hike-417335",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-macro-factors",
+      "ts": 1790784636
+    },
+    {
+      "id": "rss:f8fdf19e0e46038b",
+      "kind": "news",
+      "title": "Hyperliquid Co-founder Jeff Yan says 24-hour clock is not onchain finance’s true differentiator",
+      "url": "https://www.theblock.co/news/defi/2026-09-30-hyperliquid-co-founder-jeff-yan-24-hour-clock-not-onchain-finances-true-differentiator-417286",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "hyperliquid-markets-commentary",
+      "ts": 1790775210
+    },
+    {
+      "id": "rss:7765a03172ec01d7",
+      "kind": "news",
+      "title": "FCA starts accepting crypto authorization applications ahead of 2027 regime",
+      "url": "https://www.theblock.co/news/regulation/2026-09-30-fca-starts-accepting-crypto-authorization-applications-ahead-of-2027-regime-417284",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "fca-crypto-authorization",
+      "ts": 1790774487
+    },
+    {
+      "id": "rss:dd5004751247f8e3",
+      "kind": "news",
+      "title": "Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally",
+      "url": "https://decrypt.co/379731/bitcoin-etf-9-day-streak-august-rally",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "crypto-etf-inflows",
+      "ts": 1790789263
+    },
+    {
+      "id": "rss:4ff95f69b808cdcb",
+      "kind": "news",
+      "title": "Introducing The Information Exchange on Solana, Powered by Decrypt and MYR",
+      "url": "https://decrypt.co/379655/introducing-the-information-exchange-powered-by-decrypt-and-myr",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "solana-information-exchange",
+      "ts": 1790786170
+    },
+    {
+      "id": "rss:de2cecee9ef28f7c",
+      "kind": "news",
+      "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
+      "url": "https://decrypt.co/379728/trump-unveils-morally-binding-ai-accord-signed-by-openai-google-and-nvidia",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "trump-ai-self-regulation-accord",
+      "ts": 1790784363
+    },
+    {
+      "id": "rss:b2e0a7cba596c21a",
+      "kind": "news",
+      "title": "Bitcoin Jumps on Cool PCE Inflation Data as Bond Yields Hit 20-Year Highs",
+      "url": "https://decrypt.co/379705/bitcoin-jumps-cool-pce-inflation-data",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-macro-factors",
+      "ts": 1790783425
+    },
+    {
+      "id": "rss:00c04109e18aa568",
+      "kind": "news",
+      "title": "Ex-NCA Officer Must Repay $2.4M for Bitcoin He Stole When It Was Worth $77K",
+      "url": "https://decrypt.co/379702/ex-nca-officer-must-repay-2-4m-for-bitcoin-he-stole-when-it-was-worth-77k",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-legal-enforcement",
+      "ts": 1790781465
+    },
+    {
+      "id": "rss:f1f01ff1a0c1a551",
+      "kind": "news",
+      "title": "Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel",
+      "url": "https://cointelegraph.com/news/brazils-petrobras-uses-cardano-to-track-sustainable-aviation-fuel-renewable-diesel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "cardano-enterprise",
+      "ts": 1790788674
+    },
+    {
+      "id": "rss:0deb4eb7edd74bf9",
+      "kind": "news",
+      "title": "Bitget ‘gradually back to usual’ as protection fund reaches $309M",
+      "url": "https://cointelegraph.com/news/bitget-operations-protection-fund-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "bitget-388m-exploit",
+      "ts": 1790785710
+    },
+    {
+      "id": "rss:03d942d50b05ca2f",
+      "kind": "news",
+      "title": "Could THORChain face prosecution over stolen Bitget funds?",
+      "url": "https://cointelegraph.com/magazine/does-thorchain-face-a-criminal-reckoning-near-intents-bitget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "bitget-388m-exploit",
+      "ts": 1790775000
+    },
+    {
+      "id": "rss:d76f7355457cfe99",
+      "kind": "news",
+      "title": "Singapore crypto activity grows 55% as broader region contracts",
+      "url": "https://cointelegraph.com/news/singapore-crypto-economy-284b-institutional-activity-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "singapore-crypto-growth",
+      "ts": 1790773200
+    },
+    {
+      "id": "rss:dc67e39ba3cdf220",
+      "kind": "news",
+      "title": "SEC Charges Two Individuals With Orchestrating Fraud Scheme That Targeted Veterans",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-97-sec-charges-two-individuals-orchestrating-fraud-scheme-targeted-veterans",
+      "source": "SEC (communiqués)",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "sec-fraud-enforcement",
+      "ts": 1790786535
+    },
+    {
+      "id": "rss:c0d0f7cfe841bf80",
+      "kind": "news",
+      "title": "SEC Proposes Amendments to Expand Responsible Retailization of Private Markets",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-96-sec-proposes-amendments-expand-responsible-retailization-private-markets",
+      "source": "SEC (communiqués)",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "sec-market-infrastructure",
+      "ts": 1790783100
+    },
+    {
+      "id": "rss:7b8aac4692d24ef7",
+      "kind": "news",
+      "title": "[ARFC] Onboard OUSD to Aave V3 Core Instance and Aave V4 Core Hub",
+      "url": "https://governance.aave.com/t/arfc-onboard-ousd-to-aave-v3-core-instance-and-aave-v4-core-hub/25735",
+      "source": "Aave gouvernance",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "aave-governance-proposals",
+      "ts": 1790781070
     }
   ],
   "digest_queue": [
@@ -946,6 +1035,88 @@
         }
       ],
       "digested": true
+    },
+    {
+      "id": "white-house-cftc-prediction-markets:2026-09-30",
+      "level": "important",
+      "time": "20:24",
+      "title": "La Maison Blanche étudie de nouvelles règles CFTC sur les contrats événementiels",
+      "summary": "La Maison Blanche évalue deux propositions de règles de la CFTC concernant les marchés de prédiction dans un conflit croissant de juridiction.",
+      "assets": [],
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-09-30-white-house-weighs-new-cftc-event-contract-rules-in-growing-prediction-market-power-struggle-417345"
+        }
+      ],
+      "digested": true
+    },
+    {
+      "id": "trump-ai-self-regulation-accord:2026-09-30",
+      "level": "important",
+      "time": "20:24",
+      "title": "Trump dévoile un accord IA « moralement contraignant » signé par OpenAI, Google et Nvidia",
+      "summary": "Trump a présenté un accord d'une page engageant les entreprises IA à adopter des contrôles internes, des audits indépendants et une surveillance de conseil, mais sans pénalités.",
+      "assets": [],
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/trump-accord-calls-for-tech-firms-to-self-police-their-own-frontier-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/tech/2026/09/30/openai-google-and-meta-pledge-outside-ai-audits-under-voluntary-white-house-deal"
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/379728/trump-unveils-morally-binding-ai-accord-signed-by-openai-google-and-nvidia"
+        }
+      ],
+      "digested": true
+    },
+    {
+      "id": "sec-fraud-enforcement:2026-09-30",
+      "level": "important",
+      "time": "20:24",
+      "title": "La SEC poursuit deux personnes pour un schéma de fraude ciblant les vétérans",
+      "summary": "La SEC a inculpé Christopher Kenji Dinelli et Jacob David Frankel pour avoir orchestré un schéma de fraude ayant levé plus de 8,7 millions de dollars auprès de 35 investisseurs.",
+      "assets": [],
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "SEC (communiqués)",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-95-sec-charges-multiple-entities-fraud-schemes-totaling-least-15-million-used-whatsapp-other-platforms"
+        },
+        {
+          "name": "SEC (communiqués)",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-97-sec-charges-two-individuals-orchestrating-fraud-scheme-targeted-veterans"
+        }
+      ],
+      "digested": true
+    },
+    {
+      "id": "aave-governance-proposals:2026-09-30",
+      "level": "important",
+      "time": "20:24",
+      "title": "[ARFC] Intégrer OUSD à Aave V3 Core Instance et Aave V4 Core Hub",
+      "summary": "Proposition de gouvernance Aave Labs pour l'intégration du stablecoin Open USD (OUSD) aux instances core d'Aave V3 et V4.",
+      "assets": [
+        "AAVE"
+      ],
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "Aave gouvernance",
+          "url": "https://governance.aave.com/t/direct-to-aip-onboard-pt-usdg-25feb2027-on-x-layer/25733"
+        },
+        {
+          "name": "Aave gouvernance",
+          "url": "https://governance.aave.com/t/arfc-onboard-ousd-to-aave-v3-core-instance-and-aave-v4-core-hub/25735"
+        }
+      ],
+      "digested": true
     }
   ],
   "sent": {
@@ -960,9 +1131,10 @@
     },
     "2026-09-30": {
       "critical": 0,
-      "important": 10,
+      "important": 15,
       "digests": [
-        "12:30"
+        "12:30",
+        "18:30"
       ]
     }
   },
@@ -1009,7 +1181,16 @@
     "kalshi-regulatory-scrutiny": "important",
     "tether-sanctions-evasion": "important",
     "altcoin-exchange-pressure": "important",
-    "crypto-etf-inflows": "important"
+    "crypto-etf-inflows": "important",
+    "stablecoin-landscape": "important",
+    "cftc-prediction-markets": "important",
+    "fca-crypto-authorization": "important",
+    "cardano-enterprise": "important",
+    "dogecoin-evm-development": "important",
+    "white-house-cftc-prediction-markets": "important",
+    "trump-ai-self-regulation-accord": "important",
+    "sec-fraud-enforcement": "important",
+    "aave-governance-proposals": "important"
   },
   "briefing_attempts": {
     "2026-09-30": 1
