@@ -110,32 +110,13 @@
     "rss:936c1a6d2da678fd": 1790716900.986113,
     "rss:4394602629ac33c7": 1790716900.9861133,
     "rss:ac95cba3d6958f33": 1790716900.9861133,
-    "rss:a0fe825f28ff6d11": 1790716900.9861135
+    "rss:a0fe825f28ff6d11": 1790716900.9861135,
+    "rss:a762631cd24f9cae": 1790729052.0877903,
+    "rss:3df7fa0ade9f6b28": 1790729052.0877917,
+    "rss:2aad90a8467d644b": 1790729052.087792
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:e4bf0c9733e483f1",
-      "kind": "news",
-      "title": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
-      "url": "https://decrypt.co/379508/openai-ai-agents-target-us-government-sites",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "openai-agent-safeguards",
-      "ts": 1790631963
-    },
-    {
-      "id": "rss:9aab80fe6140a36f",
-      "kind": "news",
-      "title": "[Discussion] A risk framework for tokenized equities on Aave V3 X Layer, with wTCENTx as the worked example",
-      "url": "https://governance.aave.com/t/discussion-a-risk-framework-for-tokenized-equities-on-aave-v3-x-layer-with-wtcentx-as-the-worked-example/25724",
-      "source": "Aave gouvernance",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "aave-tokenized-equities-framework",
-      "ts": 1790632921
-    },
     {
       "id": "rss:db5b55985f735434",
       "kind": "news",
@@ -707,6 +688,39 @@
       "xRole": null,
       "cluster": "near-etf-launch",
       "ts": 1790702076
+    },
+    {
+      "id": "rss:a762631cd24f9cae",
+      "kind": "news",
+      "title": "Robinhood adds AI agents, perps and weekend trading in push to win active traders",
+      "url": "https://www.coindesk.com/markets/2026/09/29/robinhood-adds-ai-agents-perps-and-weekend-trading-in-push-to-win-active-traders",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "robinhood-ai-agents-perps",
+      "ts": 1790722800
+    },
+    {
+      "id": "rss:3df7fa0ade9f6b28",
+      "kind": "news",
+      "title": "Ethereum Gets Another Privacy Boost as Aztec Brings Back zk.money",
+      "url": "https://decrypt.co/379621/ethereum-privacy-aztec-brings-back-zk-money",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ethereum-privacy-solutions",
+      "ts": 1790718363
+    },
+    {
+      "id": "rss:2aad90a8467d644b",
+      "kind": "news",
+      "title": "Trump accord calls for tech firms to ‘self police’ their own frontier AI",
+      "url": "https://cointelegraph.com/news/trump-accord-calls-for-tech-firms-to-self-police-their-own-frontier-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "trump-ai-self-regulation-accord",
+      "ts": 1790728118
     }
   ],
   "digest_queue": [
@@ -782,6 +796,22 @@
         }
       ],
       "digested": false
+    },
+    {
+      "id": "robinhood-ai-agents-perps:2026-09-30",
+      "level": "important",
+      "time": "02:44",
+      "title": "Robinhood ajoute des agents IA, des perps et le trading de fin de semaine",
+      "summary": "Robinhood lance des agents IA, des contrats perpétuels et le trading du week-end pour attirer les traders actifs. Cette expansion représente une intégration significative de nouvelles fonctionnalités.",
+      "assets": [],
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/09/29/robinhood-adds-ai-agents-perps-and-weekend-trading-in-push-to-win-active-traders"
+        }
+      ],
+      "digested": false
     }
   ],
   "sent": {
@@ -793,6 +823,11 @@
       "critical": 0,
       "digests": [],
       "important": 0
+    },
+    "2026-09-30": {
+      "critical": 0,
+      "important": 0,
+      "digests": []
     }
   },
   "alerted": {
@@ -827,7 +862,8 @@
     "cboe-tokenized-options": "important",
     "comer-crypto-investigation": "important",
     "sec-cftc-commissioner-vacancy": "important",
-    "kakaopay-tokenized-stocks": "important"
+    "kakaopay-tokenized-stocks": "important",
+    "robinhood-ai-agents-perps": "important"
   },
   "briefing_attempts": {}
 }
