@@ -122,153 +122,36 @@
     "rss:d1061b4d7e571578": 1790750426.4039285,
     "rss:a2bc0c1d4b07f86d": 1790750426.4039288,
     "rss:2b2622ee696eafc8": 1790750426.4039288,
-    "rss:c10eb6111653d651": 1790750426.403929
+    "rss:c10eb6111653d651": 1790750426.403929,
+    "rss:fa277d880751dec3": 1790773149.3620203,
+    "rss:f0ac46f63548be58": 1790773149.3620214,
+    "rss:ff22de26c4269e48": 1790773149.3620217,
+    "rss:a703da3a6cbd9541": 1790773149.362022,
+    "rss:f5ebbb30afd4ce86": 1790773149.3620222,
+    "rss:80572ff92c50e43a": 1790773149.3620222,
+    "rss:e047dedfd41c38f3": 1790773149.3620224,
+    "rss:52f64280b7a3ea3d": 1790773149.3620226,
+    "rss:2115bb8c5ec0b7b6": 1790773149.3620226,
+    "rss:bd73d8e9cd29a16e": 1790773149.3620229,
+    "rss:d6f4d6265656a826": 1790773149.362023,
+    "rss:f5c22ac083ab325e": 1790773149.362023,
+    "rss:40e2bde84395381a": 1790773149.3620234,
+    "rss:2ff55797582fcb26": 1790773149.3620234,
+    "rss:1f10fa6015da1d56": 1790773149.3620236,
+    "rss:c528d2e53a13e1d5": 1790773149.3620238,
+    "rss:40f9821c0512f819": 1790773149.3620238,
+    "rss:5c723ee657fc70c3": 1790773149.3620243,
+    "rss:66d053e63557adcb": 1790773149.3620243,
+    "rss:74f8048d87d1e0fa": 1790773149.3620243,
+    "rss:49408d4149117e36": 1790773149.3620245,
+    "rss:9ff7781f8c94f802": 1790773149.3620245,
+    "rss:80b24b0125ac7de4": 1790773149.3620248,
+    "rss:e79c59f9708cf182": 1790773149.3620248,
+    "rss:57857bb748953e2d": 1790773149.362025,
+    "rss:763a1a725fbb1605": 1790773149.362025
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:384a7743e6fd4015",
-      "kind": "news",
-      "title": "Aave leads DeFi higher as crypto shrugs off surging bond market",
-      "url": "https://www.coindesk.com/markets/2026/09/29/aave-leads-defi-higher-as-crypto-shrugs-off-surging-treasury-yields",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "market-movement-aave",
-      "ts": 1790677731
-    },
-    {
-      "id": "rss:cc86f477914dc462",
-      "kind": "news",
-      "title": "Live updates: Bitcoin rebounds above $84,000 as ETFs draw in $30 million",
-      "url": "https://www.coindesk.com/markets/2026/09/29/live-updates-bitcoin-rebounds-above-usd84-000-as-treasury-yields-steady",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-price-rebound",
-      "ts": 1790676881
-    },
-    {
-      "id": "rss:b43456cf99f22cad",
-      "kind": "news",
-      "title": "Blockchain.com targets $500 million IPO this year at up to $6 billion valuation",
-      "url": "https://www.coindesk.com/business/2026/09/29/blockchain-com-targets-usd500-million-ipo-at-up-to-usd6-billion-valuation",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "blockchain-com-ipo-plans",
-      "ts": 1790676820
-    },
-    {
-      "id": "rss:fe57c6c927883ebf",
-      "kind": "news",
-      "title": "Bitcoin is on track to shatter a major decade-long streak as September gains surge",
-      "url": "https://www.coindesk.com/markets/2026/09/29/bitcoin-is-on-track-to-shatter-a-major-decade-long-streak-as-september-gains-surge",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-price-decline",
-      "ts": 1790675131
-    },
-    {
-      "id": "rss:8ac18adce8c1b5b4",
-      "kind": "news",
-      "title": "Analysts see 10-year Treasury yield hitting 6%. Bitcoin bulls shouldn't panic",
-      "url": "https://www.coindesk.com/markets/2026/09/29/analysts-see-10-year-treasury-yield-hitting-6-bitcoin-bulls-shouldn-t-panic",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "market-outlook-bonds",
-      "ts": 1790672771
-    },
-    {
-      "id": "rss:061547b541576988",
-      "kind": "news",
-      "title": "Ondo Perps CEO sees ‘huge opportunity’ for perps in US market, under different model",
-      "url": "https://www.theblock.co/news/regulation/2026-09-29-ondo-perps-ceo-interview-david-wells-417125",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "us-perpetual-futures-market",
-      "ts": 1790679537
-    },
-    {
-      "id": "rss:1fb460833bf690c5",
-      "kind": "news",
-      "title": "Canada's 'Crypto King' Aiden Pleterski to Represent Himself at Fraud Trial",
-      "url": "https://decrypt.co/379523/canadas-crypto-king-aiden-pleterski-to-represent-himself-at-fraud-trial",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "pleterski-fraud-trial",
-      "ts": 1790678309
-    },
-    {
-      "id": "rss:de1f4418d6bc7513",
-      "kind": "news",
-      "title": "Coinbase Now Owns Every Layer of Its Derivatives Stack After CFTC Approval",
-      "url": "https://decrypt.co/379516/coinbase-now-owns-every-layer-of-its-derivatives-stack-after-cftc-approval",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "coinbase-cftc-derivatives-approval",
-      "ts": 1790674737
-    },
-    {
-      "id": "rss:93b0573e36e25bfc",
-      "kind": "news",
-      "title": "Ethereum schedules Glamsterdam upgrade on Sepolia for Oct. 6",
-      "url": "https://cointelegraph.com/news/ethereum-glamsterdam-upgrade-sepolia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "ethereum-glamsterdam-upgrade",
-      "ts": 1790678765
-    },
-    {
-      "id": "rss:86e0249fecdae3aa",
-      "kind": "news",
-      "title": "US crypto ETF inflows cool after $3.3B week but streaks hold",
-      "url": "https://cointelegraph.com/markets/us-crypto-etf-inflows-cool-bitcoin-ether-solana-xrp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "crypto-etf-inflows",
-      "ts": 1790676919
-    },
-    {
-      "id": "rss:eefa720ac70cca0d",
-      "kind": "news",
-      "title": "Bitcoin bounces to $84K after US 30-year bond yield sets 24-year high",
-      "url": "https://cointelegraph.com/markets/bitcoin-bounces-to-84k-after-us-30-year-bond-yield-sets-24-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "btc-price-rebound",
-      "ts": 1790676282
-    },
-    {
-      "id": "rss:60062f447904c133",
-      "kind": "news",
-      "title": "Greece gets first MiCA entrants as watchdog denies Binance-Lagarde claim",
-      "url": "https://cointelegraph.com/news/greece-first-mica-entrants-hcmc-binance-lagarde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "mica-supervision-focus",
-      "ts": 1790675422
-    },
-    {
-      "id": "rss:7f557d56985d547c",
-      "kind": "news",
-      "title": "BitMine could hit its 5% Ether supply target within weeks — then what?",
-      "url": "https://cointelegraph.com/news/bitmine-ether-supply-target-early-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "tom-lee-ethereum-accumulation",
-      "ts": 1790671885
-    },
     {
       "id": "rss:23a65202f51e92bd",
       "kind": "news",
@@ -290,28 +173,6 @@
       "xRole": null,
       "cluster": "us-crypto-regulation",
       "ts": 1790690898
-    },
-    {
-      "id": "rss:eb0fe23f4b97aca4",
-      "kind": "news",
-      "title": "Bitcoin beats gold, surge to $100,000 in play",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-price-milestone",
-      "ts": 1790681695
-    },
-    {
-      "id": "rss:8b1a72a715bba06d",
-      "kind": "news",
-      "title": "Zcash developers begin moving Tachyon code into faster private-payment software",
-      "url": "https://www.coindesk.com/tech/2026/09/29/zcash-s-faster-private-payment-code-is-being-rebuilt-for-its-bigger-scaling-plan",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "zcash-privacy-development",
-      "ts": 1790680530
     },
     {
       "id": "rss:62eb48f8195f4811",
@@ -369,17 +230,6 @@
       "ts": 1790690864
     },
     {
-      "id": "rss:c0910a2ea7259d62",
-      "kind": "news",
-      "title": "Morning Minute: Citi and Coinbase Just Made Stablecoins Invisible",
-      "url": "https://decrypt.co/379526/morning-minute-citi-and-coinbase-just-made-stablecoins-invisible",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "citi-coinbase-stablecoin-partnership",
-      "ts": 1790683518
-    },
-    {
       "id": "rss:417a68ab28997e06",
       "kind": "news",
       "title": "Bitcoin gives back gains as long-term holder supply keeps $85K out of reach",
@@ -411,28 +261,6 @@
       "xRole": null,
       "cluster": "btc-price-prediction",
       "ts": 1790688600
-    },
-    {
-      "id": "rss:2daebd10518e9d24",
-      "kind": "news",
-      "title": "Bitcoin ETF inflows leave institutional demand unclear: CoinShares",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-mixed-read-institutional-demand-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "btc-etf-institutional-demand",
-      "ts": 1790685612
-    },
-    {
-      "id": "rss:c0142a1b82f405c0",
-      "kind": "news",
-      "title": "ECB puts AI agent payments on the digital euro drawing board",
-      "url": "https://cointelegraph.com/news/ecb-private-firms-ai-agents-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "ecb-digital-euro-ai",
-      "ts": 1790683245
     },
     {
       "id": "rss:5ded3c9f80aef40f",
@@ -741,6 +569,292 @@
       "xRole": null,
       "cluster": "aave-governance-finances",
       "ts": 1790745489
+    },
+    {
+      "id": "rss:fa277d880751dec3",
+      "kind": "news",
+      "title": "A stronger dollar is a weaker threat to bitcoin than traders think",
+      "url": "https://www.coindesk.com/daybook-us/2026/09/30/a-stronger-dollar-is-a-weaker-threat-to-bitcoin-than-traders-think",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-macro-factors",
+      "ts": 1790767209
+    },
+    {
+      "id": "rss:f0ac46f63548be58",
+      "kind": "news",
+      "title": "Bitget hackers move $4 million into Zcash’s private pool, making funds harder to trace",
+      "url": "https://www.coindesk.com/markets/2026/09/30/bitget-hackers-move-usd4-million-into-zcash-s-private-pool-making-funds-harder-to-trace",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "bitget-388m-exploit",
+      "ts": 1790766249
+    },
+    {
+      "id": "rss:ff22de26c4269e48",
+      "kind": "news",
+      "title": "The SEC Is finally modernizing transfer-agent rules. Wall Street must not repeat the ‘paperwork crisis’",
+      "url": "https://www.coindesk.com/opinion/2026/09/30/the-sec-is-finally-modernizing-transfer-agent-rules-wall-street-must-not-repeat-the-paperwork-crisis",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "sec-market-infrastructure",
+      "ts": 1790766000
+    },
+    {
+      "id": "rss:a703da3a6cbd9541",
+      "kind": "news",
+      "title": "OpenAI, Google and Meta pledge outside AI audits under voluntary White House deal",
+      "url": "https://www.coindesk.com/tech/2026/09/30/openai-google-and-meta-pledge-outside-ai-audits-under-voluntary-white-house-deal",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "trump-ai-self-regulation-accord",
+      "ts": 1790765023
+    },
+    {
+      "id": "rss:f5ebbb30afd4ce86",
+      "kind": "news",
+      "title": "Metaplanet directors push back against shareholder fury over a controversial executive payout plan",
+      "url": "https://www.coindesk.com/markets/2026/09/30/metaplanet-directors-push-back-against-shareholder-fury-over-a-controversial-executive-payout-plan",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "metaplanet-governance",
+      "ts": 1790764104
+    },
+    {
+      "id": "rss:80572ff92c50e43a",
+      "kind": "news",
+      "title": "Live updates: Bitcoin gains as yields dip following better than hoped inflation numbers",
+      "url": "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-price-levels",
+      "ts": 1790763514
+    },
+    {
+      "id": "rss:e047dedfd41c38f3",
+      "kind": "news",
+      "title": "Bitcoin stalls near $83,000 while lighter drops 17% on Robinhood perps plan",
+      "url": "https://www.coindesk.com/markets/2026/09/30/bitcoin-stalls-near-usd83-000-while-lighter-drops-17-on-robinhood-perps-plan",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-price-levels",
+      "ts": 1790763096
+    },
+    {
+      "id": "rss:52f64280b7a3ea3d",
+      "kind": "news",
+      "title": "OpenAI seeks $30 billion in funding at whopping $1.4 trillion valuation after delaying IPO",
+      "url": "https://www.coindesk.com/markets/2026/09/30/openai-targets-usd1-4-trillion-valuation-and-unveils-dots-ai-agent",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "openai-funding-round",
+      "ts": 1790758222
+    },
+    {
+      "id": "rss:2115bb8c5ec0b7b6",
+      "kind": "news",
+      "title": "Winklevoss-owned Gemini switches Zcash software ahead of faster 25-second blocks",
+      "url": "https://www.coindesk.com/tech/2026/09/30/winklevoss-owned-gemini-switches-zcash-software-ahead-of-faster-25-second-blocks",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "zcash-privacy-development",
+      "ts": 1790756820
+    },
+    {
+      "id": "rss:bd73d8e9cd29a16e",
+      "kind": "news",
+      "title": "How European investors can now buy bitcoin without taking on U.S. dollar risk",
+      "url": "https://www.coindesk.com/business/2026/09/30/how-european-investors-can-now-buy-bitcoin-without-taking-on-u-s-dollar-risk",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-price-levels",
+      "ts": 1790756743
+    },
+    {
+      "id": "rss:d6f4d6265656a826",
+      "kind": "news",
+      "title": "Bitcoin bulls have one price level to defend",
+      "url": "https://www.coindesk.com/markets/2026/09/30/bitcoin-bulls-have-one-price-level-to-defend",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-price-levels",
+      "ts": 1790751881
+    },
+    {
+      "id": "rss:f5c22ac083ab325e",
+      "kind": "news",
+      "title": "Standard Chartered sees over 600% upside for ENA, expects USDe to hit $40 billion by 2028",
+      "url": "https://www.theblock.co/news/markets/2026-09-30-standard-chartered-sees-over-600-upside-for-ena-expects-usde-to-hit-40-billion-by-2028-417274",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ethena-forecast",
+      "ts": 1790769601
+    },
+    {
+      "id": "rss:40e2bde84395381a",
+      "kind": "news",
+      "title": "Crypto advocacy group Stand With Crypto rolls out its first round of Senate endorsements after failed Clarity vote",
+      "url": "https://www.theblock.co/news/regulation/2026-09-30-crypto-advocacy-group-stand-with-crypto-first-senate-endorsements-after-failed-clarity-417223",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "us-crypto-regulation",
+      "ts": 1790769600
+    },
+    {
+      "id": "rss:2ff55797582fcb26",
+      "kind": "news",
+      "title": "Kalshi to end liquidity incentive program amid wash trading allegations",
+      "url": "https://www.theblock.co/news/business/2026-09-30-kalshi-ends-trader-incentive-program-417247",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "kalshi-wash-trading",
+      "ts": 1790752868
+    },
+    {
+      "id": "rss:1f10fa6015da1d56",
+      "kind": "news",
+      "title": "Morning Minute: Robinhood Adds Perps, Weekend Stocks, and AI Traders",
+      "url": "https://decrypt.co/379645/morning-minute-robinhood-adds-perps-weekend-stocks-and-ai-traders",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "robinhood-ai-agents-perps",
+      "ts": 1790769262
+    },
+    {
+      "id": "rss:c528d2e53a13e1d5",
+      "kind": "news",
+      "title": "CFTC Investigating Adam Kinzinger Over Kalshi Bets on His Own Pardon: Report",
+      "url": "https://decrypt.co/379639/cftc-investigating-adam-kinzinger-over-kalshi-bets-on-his-own-pardon-report",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "kalshi-regulatory-scrutiny",
+      "ts": 1790768776
+    },
+    {
+      "id": "rss:40f9821c0512f819",
+      "kind": "news",
+      "title": "McDonald's AI ‘Pricing Engine’ Gauges What Customers Will Pay for a Big Mac: Report",
+      "url": "https://decrypt.co/379632/mcdonalds-ai-pricing-engine-gauges-what-customers-will-pay-for-a-big-mac-report",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ai-pricing-algorithms",
+      "ts": 1790766419
+    },
+    {
+      "id": "rss:5c723ee657fc70c3",
+      "kind": "news",
+      "title": "US Senator Blumenthal Calls Tether's USDT a 'Superhighway' for Iranian Sanctions Evasion",
+      "url": "https://decrypt.co/379624/us-senator-blumenthal-calls-tethers-usdt-a-superhighway-for-iranian-sanctions-evasion",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "tether-sanctions-evasion",
+      "ts": 1790764321
+    },
+    {
+      "id": "rss:66d053e63557adcb",
+      "kind": "news",
+      "title": "FCA opens crypto authorization window ahead of 2027 UK regime",
+      "url": "https://cointelegraph.com/news/fca-crypto-authorization-2027-uk-regime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "mica-supervision-focus",
+      "ts": 1790769964
+    },
+    {
+      "id": "rss:74f8048d87d1e0fa",
+      "kind": "news",
+      "title": "Altcoin exchange deposit count jumps 160% in 2 weeks",
+      "url": "https://cointelegraph.com/markets/altcoin-exchange-deposits-spike-160-in-two-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "altcoin-exchange-pressure",
+      "ts": 1790767436
+    },
+    {
+      "id": "rss:49408d4149117e36",
+      "kind": "news",
+      "title": "A single market worth protecting: Getting the MiCA review right",
+      "url": "https://cointelegraph.com/opinion/a-single-market-worth-protecting-getting-the-mica-review-right?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "mica-supervision-focus",
+      "ts": 1790766000
+    },
+    {
+      "id": "rss:9ff7781f8c94f802",
+      "kind": "news",
+      "title": "Bitcoin ETFs stretch $3.1B inflow streak as Ether funds turn red",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-streak-9-day-ether-zcash-flip-red?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "crypto-etf-inflows",
+      "ts": 1790763148
+    },
+    {
+      "id": "rss:80b24b0125ac7de4",
+      "kind": "news",
+      "title": "Crypto hardware wallets compared for 2026",
+      "url": "https://cointelegraph.com/magazine/crypto-hardware-wallets-compared-for-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "crypto-hardware-wallets",
+      "ts": 1790763072
+    },
+    {
+      "id": "rss:e79c59f9708cf182",
+      "kind": "news",
+      "title": "SlowMist traces Bitget hack activity to Aug. 31 zero-day exploit",
+      "url": "https://cointelegraph.com/news/bitget-hack-zero-day-slowmist-investigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "bitget-388m-exploit",
+      "ts": 1790762739
+    },
+    {
+      "id": "rss:57857bb748953e2d",
+      "kind": "news",
+      "title": "European stablecoin issuer AllUnity launches USD stablecoin USDAU",
+      "url": "https://cointelegraph.com/news/allunity-europe-mica-usd-stablecoin-usdau?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "stablecoin-landscape",
+      "ts": 1790751600
+    },
+    {
+      "id": "rss:763a1a725fbb1605",
+      "kind": "news",
+      "title": "[Direct-to-AIP] Onboard PT-USDG-25FEB2027 on X Layer",
+      "url": "https://governance.aave.com/t/direct-to-aip-onboard-pt-usdg-25feb2027-on-x-layer/25733",
+      "source": "Aave gouvernance",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "aave-governance-proposals",
+      "ts": 1790767779
     }
   ],
   "digest_queue": [
@@ -762,7 +876,7 @@
           "url": "https://decrypt.co/379619/cboes-sp-deal-tokenized-options"
         }
       ],
-      "digested": false
+      "digested": true
     },
     {
       "id": "comer-crypto-investigation:2026-09-29",
@@ -780,7 +894,7 @@
           "url": "https://www.theblock.co/news/regulation/2026-09-29-comer-presses-crypto-com-hyperliquid-predictit-identity-checks-suspicious-trades-417192"
         }
       ],
-      "digested": false
+      "digested": true
     },
     {
       "id": "sec-cftc-commissioner-vacancy:2026-09-29",
@@ -799,7 +913,7 @@
           "url": "https://cointelegraph.com/news/us-sec-cftc-crypto-regulation-few-commissioners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
         }
       ],
-      "digested": false
+      "digested": true
     },
     {
       "id": "kakaopay-tokenized-stocks:2026-09-29",
@@ -815,7 +929,7 @@
           "url": "https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
         }
       ],
-      "digested": false
+      "digested": true
     },
     {
       "id": "robinhood-ai-agents-perps:2026-09-30",
@@ -831,7 +945,7 @@
           "url": "https://www.coindesk.com/markets/2026/09/29/robinhood-adds-ai-agents-perps-and-weekend-trading-in-push-to-win-active-traders"
         }
       ],
-      "digested": false
+      "digested": true
     }
   ],
   "sent": {
@@ -846,8 +960,10 @@
     },
     "2026-09-30": {
       "critical": 0,
-      "important": 3,
-      "digests": []
+      "important": 10,
+      "digests": [
+        "12:30"
+      ]
     }
   },
   "alerted": {
@@ -886,7 +1002,14 @@
     "robinhood-ai-agents-perps": "important",
     "xrpl-brazil-fund-records": "important",
     "kalshi-funding-round": "important",
-    "illinois-crypto-tax-rules": "important"
+    "illinois-crypto-tax-rules": "important",
+    "ethena-forecast": "important",
+    "us-crypto-regulation": "important",
+    "kalshi-wash-trading": "important",
+    "kalshi-regulatory-scrutiny": "important",
+    "tether-sanctions-evasion": "important",
+    "altcoin-exchange-pressure": "important",
+    "crypto-etf-inflows": "important"
   },
   "briefing_attempts": {
     "2026-09-30": 1
