@@ -171,109 +171,24 @@
     "rss:d76f7355457cfe99": 1790792653.8859105,
     "rss:dc67e39ba3cdf220": 1790792653.885911,
     "rss:c0d0f7cfe841bf80": 1790792653.8859112,
-    "rss:7b8aac4692d24ef7": 1790792653.8859198
+    "rss:7b8aac4692d24ef7": 1790792653.8859198,
+    "rss:eb326066b0832a49": 1790807562.8140068,
+    "rss:776392bcddd4d0da": 1790807562.8140075,
+    "rss:ab91d221da188642": 1790807562.8140078,
+    "rss:b4c9037e910e5b41": 1790807562.814008,
+    "rss:cf77ccc71350c244": 1790807562.814008,
+    "rss:aa9459813cab7f1a": 1790807562.8140082,
+    "rss:3aa7df654b9dd037": 1790807562.8140082,
+    "rss:324901d11bde829e": 1790807562.814009,
+    "rss:066be3b786dfad94": 1790807562.814009,
+    "rss:65062a2c1f259ee6": 1790807562.814009,
+    "rss:12558bd18c790549": 1790807562.814009,
+    "rss:b8333d9e3b9cd3f8": 1790807562.8140092,
+    "rss:2372e9b275b1f0fc": 1790807562.8140092,
+    "rss:3c8d6705c7285386": 1790807562.8140094
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:ef23a75783a5631b",
-      "kind": "news",
-      "title": "CryptoQuant says bitcoin correction could be near as traders’ unrealized profit hits 21-month high",
-      "url": "https://www.theblock.co/news/markets/2026-09-29-cryptoquant-says-bitcoin-correction-could-near-traders-unrealized-profit-21-month-high-417206",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-price-correction-signals",
-      "ts": 1790709287
-    },
-    {
-      "id": "rss:5995e7a82619b6ed",
-      "kind": "news",
-      "title": "Cboe's New S&amp;P Deal Opens the Door to Tokenized Options",
-      "url": "https://decrypt.co/379619/cboes-sp-deal-tokenized-options",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "cboe-tokenized-options",
-      "ts": 1790716564
-    },
-    {
-      "id": "rss:05382da69e12e8e5",
-      "kind": "news",
-      "title": "Bitwise Launches First US Spot Near ETF After Token Nearly Triples Since August",
-      "url": "https://decrypt.co/379612/bitwise-launches-first-spot-near-etf",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "near-etf-launch",
-      "ts": 1790714164
-    },
-    {
-      "id": "rss:bd87e568eb8f1cd7",
-      "kind": "news",
-      "title": "Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion",
-      "url": "https://decrypt.co/379605/anthropic-lost-42-billion-last-year-wants-ipo-2-trillion",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "anthropic-ipo-financials",
-      "ts": 1790712363
-    },
-    {
-      "id": "rss:81ce7fa4ce14f5e5",
-      "kind": "news",
-      "title": "Someone Finally Jailbroke the PS5—Just After Sony Said Players Don’t Own Their Games",
-      "url": "https://decrypt.co/379583/sony-ps5-jailbreak-digital-games-ownership",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ps5-jailbreak",
-      "ts": 1790710264
-    },
-    {
-      "id": "rss:fa18aebcda98fe86",
-      "kind": "news",
-      "title": "OpenAI Gave AI Agents Their Own Computers at DevDay 2026. Here's Everything It Announced",
-      "url": "https://decrypt.co/379584/openai-ai-agents-computers-devday-2026-everything-announced",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "openai-devday-agents",
-      "ts": 1790708122
-    },
-    {
-      "id": "rss:936c1a6d2da678fd",
-      "kind": "news",
-      "title": "Crypto regulation at SEC, CFTC to come down to 3 commissioners following key resignation",
-      "url": "https://cointelegraph.com/news/us-sec-cftc-crypto-regulation-few-commissioners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "sec-cftc-commissioner-vacancy",
-      "ts": 1790711983
-    },
-    {
-      "id": "rss:4394602629ac33c7",
-      "kind": "news",
-      "title": "OpenAI valuation could hit $1.4T in new funding round: Report",
-      "url": "https://cointelegraph.com/news/openai-30-billion-funding-round-1-4-trillion-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "openai-funding-round",
-      "ts": 1790711749
-    },
-    {
-      "id": "rss:ac95cba3d6958f33",
-      "kind": "news",
-      "title": "Kakaopay partners with Dinari, Ondo to explore tokenized Korean stocks",
-      "url": "https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "kakaopay-tokenized-stocks",
-      "ts": 1790711393
-    },
     {
       "id": "rss:a762631cd24f9cae",
       "kind": "news",
@@ -284,17 +199,6 @@
       "xRole": null,
       "cluster": "robinhood-ai-agents-perps",
       "ts": 1790722800
-    },
-    {
-      "id": "rss:3df7fa0ade9f6b28",
-      "kind": "news",
-      "title": "Ethereum Gets Another Privacy Boost as Aztec Brings Back zk.money",
-      "url": "https://decrypt.co/379621/ethereum-privacy-aztec-brings-back-zk-money",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ethereum-privacy-solutions",
-      "ts": 1790718363
     },
     {
       "id": "rss:2aad90a8467d644b",
@@ -944,6 +848,160 @@
       "xRole": null,
       "cluster": "aave-governance-proposals",
       "ts": 1790781070
+    },
+    {
+      "id": "rss:eb326066b0832a49",
+      "kind": "news",
+      "title": "Clarity Act’s failure gave crypto ‘faster’ regulatory wins, Bitwise CIO says",
+      "url": "https://www.theblock.co/news/markets/2026-09-30-clarity-acts-failure-gave-crypto-faster-regulatory-wins-bitwise-says-417362",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "us-crypto-regulation",
+      "ts": 1790805185
+    },
+    {
+      "id": "rss:776392bcddd4d0da",
+      "kind": "news",
+      "title": "CFTC secures over $30 million judgment against defendants in Fundsz fraud case",
+      "url": "https://www.theblock.co/news/regulation/2026-09-30-cftc-secures-over-30-million-judgment-against-defendants-in-fundsz-fraud-case-417365",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "sec-fraud-enforcement",
+      "ts": 1790800628
+    },
+    {
+      "id": "rss:ab91d221da188642",
+      "kind": "news",
+      "title": "Base launches Cobalt upgrade with conditional transactions and new B20 asset functions",
+      "url": "https://www.theblock.co/news/ecosystems/2026-09-30-base-launches-cobalt-upgrade-with-conditional-transactions-and-new-b20-asset-functions-417308",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "base-cobalt-upgrade",
+      "ts": 1790794800
+    },
+    {
+      "id": "rss:b4c9037e910e5b41",
+      "kind": "news",
+      "title": "Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet",
+      "url": "https://decrypt.co/379772/dogecoin-getting-apps-dogeos-public-testnet",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "dogecoin-evm-development",
+      "ts": 1790804763
+    },
+    {
+      "id": "rss:cf77ccc71350c244",
+      "kind": "news",
+      "title": "FBI Tells Its Employees to Assume Hackers Have Their Personal Data",
+      "url": "https://decrypt.co/379769/fbi-employees-assume-hackers-personal-data",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "fbi-data-breach",
+      "ts": 1790802964
+    },
+    {
+      "id": "rss:aa9459813cab7f1a",
+      "kind": "news",
+      "title": "Coinbase-Backed Crypto Group Reveals Midterm Endorsements After Clarity Act Collapse",
+      "url": "https://decrypt.co/379767/coinbase-crypto-group-senate-midterm-endorsements-clarity-act",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "us-crypto-regulation",
+      "ts": 1790800264
+    },
+    {
+      "id": "rss:3aa7df654b9dd037",
+      "kind": "news",
+      "title": "Bitget Hacker Turns to Zcash Privacy Pool After Near Rejects $50M in Swaps",
+      "url": "https://decrypt.co/379759/bitget-hacker-zcash-private-pool-near-thorchain",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "bitget-388m-exploit",
+      "ts": 1790797564
+    },
+    {
+      "id": "rss:324901d11bde829e",
+      "kind": "news",
+      "title": "US Government's New AI Chatbot Has a Weird Minecraft Secret",
+      "url": "https://decrypt.co/379739/america-gov-ai-chatbot-minecraft-end-poem",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "us-government-ai",
+      "ts": 1790795762
+    },
+    {
+      "id": "rss:066be3b786dfad94",
+      "kind": "news",
+      "title": "CFTC Sends White House New Rules to Cement Its Grip on Prediction Markets",
+      "url": "https://decrypt.co/379750/cftc-sends-white-house-new-rules-to-cement-its-grip-on-prediction-markets",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "cftc-prediction-markets",
+      "ts": 1790793561
+    },
+    {
+      "id": "rss:65062a2c1f259ee6",
+      "kind": "news",
+      "title": "Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2",
+      "url": "https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "ethena-forecast",
+      "ts": 1790801852
+    },
+    {
+      "id": "rss:12558bd18c790549",
+      "kind": "news",
+      "title": "Crypto advocacy group announces picks for US Congress as midterms loom",
+      "url": "https://cointelegraph.com/news/stand-with-crypto-coinbase-senate-picks-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "us-crypto-regulation",
+      "ts": 1790795483
+    },
+    {
+      "id": "rss:b8333d9e3b9cd3f8",
+      "kind": "news",
+      "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
+      "url": "https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "base-cobalt-upgrade",
+      "ts": 1790794800
+    },
+    {
+      "id": "rss:2372e9b275b1f0fc",
+      "kind": "news",
+      "title": "Bloomberg brings onchain stablecoin data to its Terminal",
+      "url": "https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "bloomberg-stablecoin-data",
+      "ts": 1790794146
+    },
+    {
+      "id": "rss:3c8d6705c7285386",
+      "kind": "news",
+      "title": "SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-98-sec-charges-meyer-global-management-its-ceo-defrauding-retail-investors-private-funds-held-interests",
+      "source": "SEC (communiqués)",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "sec-fraud-enforcement",
+      "ts": 1790793001
     }
   ],
   "digest_queue": [
@@ -1136,6 +1194,11 @@
         "12:30",
         "18:30"
       ]
+    },
+    "2026-10-01": {
+      "critical": 0,
+      "important": 0,
+      "digests": []
     }
   },
   "alerted": {
