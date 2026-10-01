@@ -1,29 +1,5 @@
 {
   "seen": {
-    "rss:39d088f2b427f73f": 1790624195.631567,
-    "rss:acdf696f48f6223f": 1790624195.6315684,
-    "rss:027e71b5c6040836": 1790624195.6315687,
-    "rss:bd9265d374061c66": 1790624195.631569,
-    "rss:8ff1a4185191808c": 1790624195.6315691,
-    "rss:fdccb22fdde38970": 1790624195.6315691,
-    "rss:577697bf5e5aba71": 1790624195.6315694,
-    "rss:d296041ee56a1054": 1790624195.6315694,
-    "rss:8861cc772abc9224": 1790624195.6315696,
-    "rss:39788dde432a57d3": 1790624195.6315696,
-    "rss:6f309daa19044cec": 1790624195.6315699,
-    "rss:95bf8687fbd44ef4": 1790624195.6315699,
-    "rss:8fad08ea2cb3d8dc": 1790624195.63157,
-    "rss:c7e9c8526b5beeab": 1790624195.63157,
-    "rss:6a3b8763d7bc0245": 1790624195.6315703,
-    "rss:63b12a885eb0c1cb": 1790624195.6315703,
-    "rss:7d2258324310bb4f": 1790624195.6315706,
-    "rss:f8c8d65880be10ae": 1790624195.6315732,
-    "rss:ef9b7896d466ad03": 1790624195.6315734,
-    "rss:dce9afeee83bf1f8": 1790624195.6315737,
-    "rss:a3abe9a7c85699a6": 1790624195.6315737,
-    "rss:f328c025d2aa3726": 1790624195.631574,
-    "rss:8296001023c43b97": 1790624195.6315742,
-    "move24:hedera-hashgraph:20724": 1790624195.631665,
     "rss:e4bf0c9733e483f1": 1790639710.0071757,
     "rss:26c9a112aa50c5f4": 1790639710.0071766,
     "rss:17339a1d6848e76f": 1790639710.007177,
@@ -196,153 +172,29 @@
     "rss:0b8e147391a286d3": 1790868185.0966995,
     "rss:e30b32f385c796de": 1790868185.0966997,
     "rss:072df99880b76dad": 1790868185.0966997,
-    "rss:0be9aa8a1069b1cb": 1790868185.0967
+    "rss:0be9aa8a1069b1cb": 1790868185.0967,
+    "rss:ef4dc7cf64ffab87": 1790886479.6174152,
+    "rss:42d76a0a8e1f4d54": 1790886479.6174161,
+    "rss:154ffdc2035ab790": 1790886479.6174166,
+    "rss:0af1c298ea6472fe": 1790886479.6174166,
+    "rss:d0a06f5e9fd7b9fc": 1790886479.6174169,
+    "rss:0f81f4089fe2dc6a": 1790886479.6174169,
+    "rss:33e87c29c738b5de": 1790886479.6174176,
+    "rss:1b10e51929091a64": 1790886479.6174176,
+    "rss:05bebfe8bf509aae": 1790886479.6174176,
+    "rss:674030135bb30708": 1790886479.6174178,
+    "rss:a1ad188d6fc83158": 1790886479.6174178,
+    "rss:974e9b6bac770b09": 1790886479.617418,
+    "rss:35bd823231bc67bc": 1790886479.6174183,
+    "rss:b34c3a46e6e1dab9": 1790886479.6174183,
+    "rss:08b730472dba0c75": 1790886479.6174185,
+    "rss:3848bccc70257a5a": 1790886479.6174185,
+    "rss:5803ba4c511b2dcd": 1790886479.6174188,
+    "rss:3f074b908634f96f": 1790886479.6174188,
+    "rss:050b22b0486617ce": 1790886479.6174188
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:d04db338efd6e4d4",
-      "kind": "news",
-      "title": "Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal",
-      "url": "https://www.coindesk.com/news-analysis/2026/09/30/crypto-industry-gave-usd8-million-to-clarity-act-lobbyists-who-didn-t-close-the-deal",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "crypto-lobbying",
-      "ts": 1790788591
-    },
-    {
-      "id": "rss:511ca1701eec19a1",
-      "kind": "news",
-      "title": "Open USD takes on Tether, Circle with a different stablecoin model that's 'building money'",
-      "url": "https://www.coindesk.com/business/2026/09/24/open-usd-takes-on-tether-circle-with-a-different-stablecoin-model-that-s-building-money",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "stablecoin-landscape",
-      "ts": 1790782490
-    },
-    {
-      "id": "rss:a0d1ad73bd1a3da1",
-      "kind": "news",
-      "title": "DogeOS launches testnet to bring EVM smart contracts to Dogecoin",
-      "url": "https://www.theblock.co/news/ecosystems/2026-09-30-dogeos-launches-public-testnet-dogecoin-zk-rollup-evm-417307",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "dogecoin-evm-development",
-      "ts": 1790792637
-    },
-    {
-      "id": "rss:e0f87b53ed618574",
-      "kind": "news",
-      "title": "White House weighs new CFTC event contract rules in growing prediction market power struggle",
-      "url": "https://www.theblock.co/news/regulation/2026-09-30-white-house-weighs-new-cftc-event-contract-rules-in-growing-prediction-market-power-struggle-417345",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "white-house-cftc-prediction-markets",
-      "ts": 1790790885
-    },
-    {
-      "id": "rss:fa07d29864e65501",
-      "kind": "news",
-      "title": "Bitcoin steadies as soft PCE cools October Fed rate hike bets",
-      "url": "https://www.theblock.co/news/markets/2026-09-30-bitcoin-pce-inflation-october-rate-hike-417335",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-macro-factors",
-      "ts": 1790784636
-    },
-    {
-      "id": "rss:dd5004751247f8e3",
-      "kind": "news",
-      "title": "Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally",
-      "url": "https://decrypt.co/379731/bitcoin-etf-9-day-streak-august-rally",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "crypto-etf-inflows",
-      "ts": 1790789263
-    },
-    {
-      "id": "rss:4ff95f69b808cdcb",
-      "kind": "news",
-      "title": "Introducing The Information Exchange on Solana, Powered by Decrypt and MYR",
-      "url": "https://decrypt.co/379655/introducing-the-information-exchange-powered-by-decrypt-and-myr",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "solana-information-exchange",
-      "ts": 1790786170
-    },
-    {
-      "id": "rss:de2cecee9ef28f7c",
-      "kind": "news",
-      "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
-      "url": "https://decrypt.co/379728/trump-unveils-morally-binding-ai-accord-signed-by-openai-google-and-nvidia",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "trump-ai-self-regulation-accord",
-      "ts": 1790784363
-    },
-    {
-      "id": "rss:b2e0a7cba596c21a",
-      "kind": "news",
-      "title": "Bitcoin Jumps on Cool PCE Inflation Data as Bond Yields Hit 20-Year Highs",
-      "url": "https://decrypt.co/379705/bitcoin-jumps-cool-pce-inflation-data",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-macro-factors",
-      "ts": 1790783425
-    },
-    {
-      "id": "rss:f1f01ff1a0c1a551",
-      "kind": "news",
-      "title": "Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel",
-      "url": "https://cointelegraph.com/news/brazils-petrobras-uses-cardano-to-track-sustainable-aviation-fuel-renewable-diesel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "cardano-enterprise",
-      "ts": 1790788674
-    },
-    {
-      "id": "rss:0deb4eb7edd74bf9",
-      "kind": "news",
-      "title": "Bitget ‘gradually back to usual’ as protection fund reaches $309M",
-      "url": "https://cointelegraph.com/news/bitget-operations-protection-fund-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "bitget-388m-exploit",
-      "ts": 1790785710
-    },
-    {
-      "id": "rss:dc67e39ba3cdf220",
-      "kind": "news",
-      "title": "SEC Charges Two Individuals With Orchestrating Fraud Scheme That Targeted Veterans",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-97-sec-charges-two-individuals-orchestrating-fraud-scheme-targeted-veterans",
-      "source": "SEC (communiqués)",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "sec-fraud-enforcement",
-      "ts": 1790786535
-    },
-    {
-      "id": "rss:c0d0f7cfe841bf80",
-      "kind": "news",
-      "title": "SEC Proposes Amendments to Expand Responsible Retailization of Private Markets",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-96-sec-proposes-amendments-expand-responsible-retailization-private-markets",
-      "source": "SEC (communiqués)",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "sec-market-infrastructure",
-      "ts": 1790783100
-    },
     {
       "id": "rss:eb326066b0832a49",
       "kind": "news",
@@ -364,17 +216,6 @@
       "xRole": null,
       "cluster": "sec-fraud-enforcement",
       "ts": 1790800628
-    },
-    {
-      "id": "rss:ab91d221da188642",
-      "kind": "news",
-      "title": "Base launches Cobalt upgrade with conditional transactions and new B20 asset functions",
-      "url": "https://www.theblock.co/news/ecosystems/2026-09-30-base-launches-cobalt-upgrade-with-conditional-transactions-and-new-b20-asset-functions-417308",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "base-cobalt-upgrade",
-      "ts": 1790794800
     },
     {
       "id": "rss:b4c9037e910e5b41",
@@ -410,39 +251,6 @@
       "ts": 1790800264
     },
     {
-      "id": "rss:3aa7df654b9dd037",
-      "kind": "news",
-      "title": "Bitget Hacker Turns to Zcash Privacy Pool After Near Rejects $50M in Swaps",
-      "url": "https://decrypt.co/379759/bitget-hacker-zcash-private-pool-near-thorchain",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "bitget-388m-exploit",
-      "ts": 1790797564
-    },
-    {
-      "id": "rss:324901d11bde829e",
-      "kind": "news",
-      "title": "US Government's New AI Chatbot Has a Weird Minecraft Secret",
-      "url": "https://decrypt.co/379739/america-gov-ai-chatbot-minecraft-end-poem",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "us-government-ai",
-      "ts": 1790795762
-    },
-    {
-      "id": "rss:066be3b786dfad94",
-      "kind": "news",
-      "title": "CFTC Sends White House New Rules to Cement Its Grip on Prediction Markets",
-      "url": "https://decrypt.co/379750/cftc-sends-white-house-new-rules-to-cement-its-grip-on-prediction-markets",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "cftc-prediction-markets",
-      "ts": 1790793561
-    },
-    {
       "id": "rss:65062a2c1f259ee6",
       "kind": "news",
       "title": "Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2",
@@ -452,50 +260,6 @@
       "xRole": null,
       "cluster": "ethena-forecast",
       "ts": 1790801852
-    },
-    {
-      "id": "rss:12558bd18c790549",
-      "kind": "news",
-      "title": "Crypto advocacy group announces picks for US Congress as midterms loom",
-      "url": "https://cointelegraph.com/news/stand-with-crypto-coinbase-senate-picks-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "us-crypto-regulation",
-      "ts": 1790795483
-    },
-    {
-      "id": "rss:b8333d9e3b9cd3f8",
-      "kind": "news",
-      "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
-      "url": "https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "base-cobalt-upgrade",
-      "ts": 1790794800
-    },
-    {
-      "id": "rss:2372e9b275b1f0fc",
-      "kind": "news",
-      "title": "Bloomberg brings onchain stablecoin data to its Terminal",
-      "url": "https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "bloomberg-stablecoin-data",
-      "ts": 1790794146
-    },
-    {
-      "id": "rss:3c8d6705c7285386",
-      "kind": "news",
-      "title": "SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-98-sec-charges-meyer-global-management-its-ceo-defrauding-retail-investors-private-funds-held-interests",
-      "source": "SEC (communiqués)",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "sec-fraud-enforcement",
-      "ts": 1790793001
     },
     {
       "id": "rss:ea9ee8f1fc024373",
@@ -870,6 +634,215 @@
       "xRole": null,
       "cluster": "aave-governance-proposals",
       "ts": 1790861580
+    },
+    {
+      "id": "rss:ef4dc7cf64ffab87",
+      "kind": "news",
+      "title": "U.S. SEC maps out crypto custody in new proposal that furthers its digital assets agenda",
+      "url": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "sec-market-infrastructure",
+      "ts": 1790886004
+    },
+    {
+      "id": "rss:42d76a0a8e1f4d54",
+      "kind": "news",
+      "title": "Another Trump memecoin dinner advertised for token's top investors",
+      "url": "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "trump-memecoin-ecosystem",
+      "ts": 1790880329
+    },
+    {
+      "id": "rss:154ffdc2035ab790",
+      "kind": "news",
+      "title": "Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review",
+      "url": "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "mica-supervision-focus",
+      "ts": 1790881836
+    },
+    {
+      "id": "rss:0af1c298ea6472fe",
+      "kind": "news",
+      "title": "Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ethereum-governance",
+      "ts": 1790871443
+    },
+    {
+      "id": "rss:d0a06f5e9fd7b9fc",
+      "kind": "news",
+      "title": "OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning",
+      "url": "https://decrypt.co/379890/openai-china-moonshot-copy-ai-hidden-reasoning",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ai-general-news",
+      "ts": 1790883963
+    },
+    {
+      "id": "rss:0f81f4089fe2dc6a",
+      "kind": "news",
+      "title": "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent",
+      "url": "https://decrypt.co/379868/meta-muse-ai-agent-read-messages-without-permission",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ai-general-news",
+      "ts": 1790882163
+    },
+    {
+      "id": "rss:33e87c29c738b5de",
+      "kind": "news",
+      "title": "The 'Largest Pure-Play' XRP Treasury Is About to Go Public",
+      "url": "https://decrypt.co/379856/the-largest-pure-play-xrp-treasury-is-about-to-go-public",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "evernorth-xrp-nasdaq",
+      "ts": 1790880363
+    },
+    {
+      "id": "rss:1b10e51929091a64",
+      "kind": "news",
+      "title": "OpenAI Fires Three Safety Researchers Over Alleged Leak to Outside Group",
+      "url": "https://decrypt.co/379857/openai-fires-researchers-alledged-leak-safety-group",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ai-general-news",
+      "ts": 1790878324
+    },
+    {
+      "id": "rss:05bebfe8bf509aae",
+      "kind": "news",
+      "title": "It's the Start of Uptober. Will Bitcoin Live Up to It?",
+      "url": "https://decrypt.co/379833/uptober-will-bitcoin-live-up-to-it",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-macro-factors",
+      "ts": 1790874704
+    },
+    {
+      "id": "rss:674030135bb30708",
+      "kind": "news",
+      "title": "Illinois Delays Controversial Crypto Tax Amid Industry Lawsuit",
+      "url": "https://decrypt.co/379830/illinois-delays-controversial-crypto-tax",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "us-crypto-regulation",
+      "ts": 1790871363
+    },
+    {
+      "id": "rss:a1ad188d6fc83158",
+      "kind": "news",
+      "title": "Near Intents Hacked for $3.8M Days After Denying North Korea-Linked Bitget Hacker",
+      "url": "https://decrypt.co/379822/near-intents-hacked-days-after-denying-bitget-hacker",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "near-intents-exploit",
+      "ts": 1790869407
+    },
+    {
+      "id": "rss:974e9b6bac770b09",
+      "kind": "news",
+      "title": "50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review",
+      "url": "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "stablecoin-landscape",
+      "ts": 1790880309
+    },
+    {
+      "id": "rss:35bd823231bc67bc",
+      "kind": "news",
+      "title": "Illinois will postpone implementation of crypto tax following lawsuit",
+      "url": "https://cointelegraph.com/news/illinois-postpones-crypto-tax-industry-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "us-crypto-regulation",
+      "ts": 1790877709
+    },
+    {
+      "id": "rss:b34c3a46e6e1dab9",
+      "kind": "news",
+      "title": "New York, Wyoming regulators sign pact to coordinate crypto oversight",
+      "url": "https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "us-crypto-regulation",
+      "ts": 1790871143
+    },
+    {
+      "id": "rss:08b730472dba0c75",
+      "kind": "news",
+      "title": "Bitcoin fights for local uptrend as US bond yields drop from new 24-year highs",
+      "url": "https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "btc-macro-factors",
+      "ts": 1790870119
+    },
+    {
+      "id": "rss:3848bccc70257a5a",
+      "kind": "news",
+      "title": "NEAR Intents suffers $3.8M exploit after assistance with Bitget breach",
+      "url": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "near-intents-exploit",
+      "ts": 1790869414
+    },
+    {
+      "id": "rss:5803ba4c511b2dcd",
+      "kind": "news",
+      "title": "SEC Proposal Would Address How Investment Advisers and Funds Can Custody Crypto Assets Under the Federal Securities Laws",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal",
+      "source": "SEC (communiqués)",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "sec-market-infrastructure",
+      "ts": 1790871367
+    },
+    {
+      "id": "rss:3f074b908634f96f",
+      "kind": "news",
+      "title": "SEC’s Division of Examinations Announces New Exam Handbook",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-99-secs-division-examinations-announces-new-exam-handbook",
+      "source": "SEC (communiqués)",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "sec-market-infrastructure",
+      "ts": 1790867015
+    },
+    {
+      "id": "rss:050b22b0486617ce",
+      "kind": "news",
+      "title": "Risk Stewards: Cap and IRM Changes on Aave V3 / 2026.10.01",
+      "url": "https://governance.aave.com/t/risk-stewards-cap-and-irm-changes-on-aave-v3-2026-10-01/25747",
+      "source": "Aave gouvernance",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "aave-governance-proposals",
+      "ts": 1790885546
     }
   ],
   "digest_queue": [
@@ -1082,8 +1055,8 @@
       ]
     },
     "2026-10-01": {
-      "critical": 0,
-      "important": 5,
+      "critical": 1,
+      "important": 6,
       "digests": []
     }
   },
@@ -1141,8 +1114,9 @@
     "sec-fraud-enforcement": "important",
     "aave-governance-proposals": "important",
     "metamask-security-incident": "important",
-    "near-intents-exploit": "important",
-    "evernorth-xrp-nasdaq": "important"
+    "near-intents-exploit": "critical",
+    "evernorth-xrp-nasdaq": "important",
+    "sec-market-infrastructure": "important"
   },
   "briefing_attempts": {
     "2026-09-30": 1,
