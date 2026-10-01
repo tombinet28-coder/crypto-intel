@@ -1,7 +1,5 @@
 {
   "seen": {
-    "rss:281314b1a4c3dcd8": 1790552782.0048435,
-    "move24:quant-network:20723": 1790552782.0049322,
     "rss:d1d5ef529b331feb": 1790572373.9826617,
     "rss:043a2bf5f6f78168": 1790572373.9826627,
     "rss:d82b08a89bd5c2f7": 1790572373.982663,
@@ -185,32 +183,13 @@
     "rss:12558bd18c790549": 1790807562.814009,
     "rss:b8333d9e3b9cd3f8": 1790807562.8140092,
     "rss:2372e9b275b1f0fc": 1790807562.8140092,
-    "rss:3c8d6705c7285386": 1790807562.8140094
+    "rss:3c8d6705c7285386": 1790807562.8140094,
+    "rss:ea9ee8f1fc024373": 1790818220.2514079,
+    "rss:83feee7e89549b06": 1790818220.2514088,
+    "rss:99f21ac1dc1d4eb5": 1790818220.251409
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:a762631cd24f9cae",
-      "kind": "news",
-      "title": "Robinhood adds AI agents, perps and weekend trading in push to win active traders",
-      "url": "https://www.coindesk.com/markets/2026/09/29/robinhood-adds-ai-agents-perps-and-weekend-trading-in-push-to-win-active-traders",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "robinhood-ai-agents-perps",
-      "ts": 1790722800
-    },
-    {
-      "id": "rss:2aad90a8467d644b",
-      "kind": "news",
-      "title": "Trump accord calls for tech firms to ‘self police’ their own frontier AI",
-      "url": "https://cointelegraph.com/news/trump-accord-calls-for-tech-firms-to-self-police-their-own-frontier-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "trump-ai-self-regulation-accord",
-      "ts": 1790728118
-    },
     {
       "id": "rss:7e9726dea15d1c28",
       "kind": "news",
@@ -1002,6 +981,39 @@
       "xRole": null,
       "cluster": "sec-fraud-enforcement",
       "ts": 1790793001
+    },
+    {
+      "id": "rss:ea9ee8f1fc024373",
+      "kind": "news",
+      "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
+      "url": "https://decrypt.co/379784/gemini-4-google-flagship-tops-ai-models-cybersecurity",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ai-general-news",
+      "ts": 1790810459
+    },
+    {
+      "id": "rss:83feee7e89549b06",
+      "kind": "news",
+      "title": "CFTC seeks to define event contracts as swaps amid prediction market fight",
+      "url": "https://cointelegraph.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "cftc-prediction-markets",
+      "ts": 1790816866
+    },
+    {
+      "id": "rss:99f21ac1dc1d4eb5",
+      "kind": "news",
+      "title": "MetaMask exits Ethereum validators amid undisclosed security incident",
+      "url": "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "metamask-security-incident",
+      "ts": 1790813755
     }
   ],
   "digest_queue": [
@@ -1175,6 +1187,24 @@
         }
       ],
       "digested": true
+    },
+    {
+      "id": "metamask-security-incident:2026-10-01",
+      "level": "important",
+      "time": "03:30",
+      "title": "MetaMask se retire des validateurs Ethereum suite à un incident de sécurité",
+      "summary": "MetaMask annonce qu'elle se retire des validateurs Ethereum suite à un incident de sécurité non divulgué. L'équipe enquête en interne mais affirme avoir détecté aucune menace immédiate pour ses portefeuilles.",
+      "assets": [
+        "ETH"
+      ],
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "digested": false
     }
   ],
   "sent": {
@@ -1253,7 +1283,8 @@
     "white-house-cftc-prediction-markets": "important",
     "trump-ai-self-regulation-accord": "important",
     "sec-fraud-enforcement": "important",
-    "aave-governance-proposals": "important"
+    "aave-governance-proposals": "important",
+    "metamask-security-incident": "important"
   },
   "briefing_attempts": {
     "2026-09-30": 1
