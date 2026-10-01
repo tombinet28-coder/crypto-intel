@@ -1,12 +1,5 @@
 {
   "seen": {
-    "rss:d1d5ef529b331feb": 1790572373.9826617,
-    "rss:043a2bf5f6f78168": 1790572373.9826627,
-    "rss:d82b08a89bd5c2f7": 1790572373.982663,
-    "rss:d59b57bc127de9bc": 1790572373.9826632,
-    "rss:3dcd433ac9f6c4dc": 1790572373.9826636,
-    "rss:1b291f9501c459bc": 1790572373.9826636,
-    "move24:quant-network:20724": 1790572373.9827545,
     "rss:ab84bda45cbeb98b": 1790596636.9221492,
     "rss:83ae96106782411b": 1790596636.9221504,
     "rss:097b04c263472618": 1790596636.922151,
@@ -186,109 +179,20 @@
     "rss:3c8d6705c7285386": 1790807562.8140094,
     "rss:ea9ee8f1fc024373": 1790818220.2514079,
     "rss:83feee7e89549b06": 1790818220.2514088,
-    "rss:99f21ac1dc1d4eb5": 1790818220.251409
+    "rss:99f21ac1dc1d4eb5": 1790818220.251409,
+    "rss:cca6d37551d6c62a": 1790840759.3660479,
+    "rss:87ae6021792687ae": 1790840759.3660488,
+    "rss:a2cf21711b546fc7": 1790840759.3660493,
+    "rss:69502da04bdb01fd": 1790840759.3660495,
+    "rss:bcb3d54cd56c4ef7": 1790840759.3660498,
+    "rss:043a2bf5f6f78168": 1790840759.36605,
+    "rss:39df3d332a904bc7": 1790840759.36605,
+    "move24:bitway:20727": 1790840759.366168,
+    "move24:blockstack:20727": 1790840759.366188,
+    "move24:midnight-3:20727": 1790840759.3662
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:7e9726dea15d1c28",
-      "kind": "news",
-      "title": "Robinhood announces AI agent for customers that trades around the clock, plus 10x crypto perps",
-      "url": "https://www.coindesk.com/markets/2026/09/30/robinhood-is-giving-customers-an-ai-agent-that-trades-for-them-plus-10x-crypto-bets",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "robinhood-ai-agents-perps",
-      "ts": 1790747971
-    },
-    {
-      "id": "rss:d1e5b8857aa892bb",
-      "kind": "news",
-      "title": "Robinhood to launch perps, weekend stock trading for US users",
-      "url": "https://www.theblock.co/news/business/2026-09-29-robinhood-perps-trading-417242",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "robinhood-ai-agents-perps",
-      "ts": 1790737104
-    },
-    {
-      "id": "rss:4a3f4eae688fd57e",
-      "kind": "news",
-      "title": "XRP Ledger starts carrying fund records from Brazil operator overseeing $4 trillion",
-      "url": "https://www.coindesk.com/tech/2026/09/30/xrp-ledger-starts-carrying-fund-records-from-brazil-operator-overseeing-usd4-trillion",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "xrpl-brazil-fund-records",
-      "ts": 1790745771
-    },
-    {
-      "id": "rss:060d132a9269cf24",
-      "kind": "news",
-      "title": "Bitcoin rally shows signs of cooling even as a 'bull score' gauge nears its perfect score",
-      "url": "https://www.coindesk.com/markets/2026/09/30/bitcoin-rally-shows-signs-of-cooling-even-as-a-bull-score-gauge-nears-its-perfect-score",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-price-rally-cooling",
-      "ts": 1790743098
-    },
-    {
-      "id": "rss:b8a0ef8afa3c7689",
-      "kind": "news",
-      "title": "Kalshi in advanced talks to raise new funding at $40B valuation: Reuters",
-      "url": "https://cointelegraph.com/news/kalshi-in-advanced-talks-to-raise-new-funding-at-40b-valuation-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "kalshi-funding-round",
-      "ts": 1790747155
-    },
-    {
-      "id": "rss:d1061b4d7e571578",
-      "kind": "news",
-      "title": "Illinois draft crypto tax rules detail DeFi, stablecoin treatment",
-      "url": "https://cointelegraph.com/news/illinois-crypto-tax-rules-defi-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "illinois-crypto-tax-rules",
-      "ts": 1790742568
-    },
-    {
-      "id": "rss:a2bc0c1d4b07f86d",
-      "kind": "news",
-      "title": "Crypto.com AI agent still in ‘stealth mode’ nearly 8 months after Super Bowl debut",
-      "url": "https://cointelegraph.com/news/cryptocom-ai-agent-stealth-mode-nearly-8-months-after-super-bowl-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "cryptodotcom-ai-agent-delay",
-      "ts": 1790739642
-    },
-    {
-      "id": "rss:2b2622ee696eafc8",
-      "kind": "news",
-      "title": "Binance Pay lets visitors spend USDT at PayPay merchants in Japan",
-      "url": "https://cointelegraph.com/news/binance-pay-usdt-paypay-merchants-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "binance-pay-japan-expansion",
-      "ts": 1790735100
-    },
-    {
-      "id": "rss:c10eb6111653d651",
-      "kind": "news",
-      "title": "[Question] Any idea what happened here?",
-      "url": "https://governance.aave.com/t/question-any-idea-what-happened-here/25730",
-      "source": "Aave gouvernance",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "aave-governance-finances",
-      "ts": 1790745489
-    },
     {
       "id": "rss:fa277d880751dec3",
       "kind": "news",
@@ -400,17 +304,6 @@
       "ts": 1790756743
     },
     {
-      "id": "rss:d6f4d6265656a826",
-      "kind": "news",
-      "title": "Bitcoin bulls have one price level to defend",
-      "url": "https://www.coindesk.com/markets/2026/09/30/bitcoin-bulls-have-one-price-level-to-defend",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-price-levels",
-      "ts": 1790751881
-    },
-    {
       "id": "rss:f5c22ac083ab325e",
       "kind": "news",
       "title": "Standard Chartered sees over 600% upside for ENA, expects USDe to hit $40 billion by 2028",
@@ -431,17 +324,6 @@
       "xRole": null,
       "cluster": "us-crypto-regulation",
       "ts": 1790769600
-    },
-    {
-      "id": "rss:2ff55797582fcb26",
-      "kind": "news",
-      "title": "Kalshi to end liquidity incentive program amid wash trading allegations",
-      "url": "https://www.theblock.co/news/business/2026-09-30-kalshi-ends-trader-incentive-program-417247",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "kalshi-wash-trading",
-      "ts": 1790752868
     },
     {
       "id": "rss:1f10fa6015da1d56",
@@ -552,17 +434,6 @@
       "xRole": null,
       "cluster": "bitget-388m-exploit",
       "ts": 1790762739
-    },
-    {
-      "id": "rss:57857bb748953e2d",
-      "kind": "news",
-      "title": "European stablecoin issuer AllUnity launches USD stablecoin USDAU",
-      "url": "https://cointelegraph.com/news/allunity-europe-mica-usd-stablecoin-usdau?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "stablecoin-landscape",
-      "ts": 1790751600
     },
     {
       "id": "rss:763a1a725fbb1605",
@@ -1014,6 +885,83 @@
       "xRole": null,
       "cluster": "metamask-security-incident",
       "ts": 1790813755
+    },
+    {
+      "id": "rss:cca6d37551d6c62a",
+      "kind": "news",
+      "title": "MetaMask security incident forces Ethereum staking exits, no funds at risk",
+      "url": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "metamask-security-incident",
+      "ts": 1790838390
+    },
+    {
+      "id": "rss:87ae6021792687ae",
+      "kind": "news",
+      "title": "Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps",
+      "url": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "dogecoin-evm-development",
+      "ts": 1790830732
+    },
+    {
+      "id": "rss:a2cf21711b546fc7",
+      "kind": "news",
+      "title": "Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
+      "url": "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-macro-factors",
+      "ts": 1790828120
+    },
+    {
+      "id": "rss:69502da04bdb01fd",
+      "kind": "news",
+      "title": "Bitcoin ETFs draw $6.3B in Q3 as BTC price rises nearly 43%",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-6-3-billion-inflows-q3-btc-rise-43?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "crypto-etf-inflows",
+      "ts": 1790839620
+    },
+    {
+      "id": "rss:bcb3d54cd56c4ef7",
+      "kind": "news",
+      "title": "Bitcoin think tank questions MSCI’s ‘invisible committee’ over Strategy, Metaplanet rule",
+      "url": "https://cointelegraph.com/news/msci-strategy-metaplanet-index-rule-bpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "metaplanet-governance",
+      "ts": 1790834751
+    },
+    {
+      "id": "rss:043a2bf5f6f78168",
+      "kind": "news",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "rss:043a2bf5f6f78168",
+      "ts": 1790834400
+    },
+    {
+      "id": "rss:39df3d332a904bc7",
+      "kind": "news",
+      "title": "Crypto hacks top $768M in September, worst month of 2026",
+      "url": "https://cointelegraph.com/news/crypto-hacks-total-766m-in-september-peckshield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "bitget-388m-exploit",
+      "ts": 1790829873
     }
   ],
   "digest_queue": [
@@ -1227,7 +1175,7 @@
     },
     "2026-10-01": {
       "critical": 0,
-      "important": 0,
+      "important": 3,
       "digests": []
     }
   },
@@ -1287,6 +1235,7 @@
     "metamask-security-incident": "important"
   },
   "briefing_attempts": {
-    "2026-09-30": 1
+    "2026-09-30": 1,
+    "2026-10-01": 1
   }
 }
