@@ -1,14 +1,5 @@
 {
   "seen": {
-    "rss:e4bf0c9733e483f1": 1790639710.0071757,
-    "rss:26c9a112aa50c5f4": 1790639710.0071766,
-    "rss:17339a1d6848e76f": 1790639710.007177,
-    "rss:48078d8f48e7f5b5": 1790639710.007177,
-    "rss:21d48810861d059f": 1790639710.0071774,
-    "rss:d3ec30622fd21bbf": 1790639710.0071778,
-    "rss:bbc809dc623ee095": 1790639710.007178,
-    "rss:9aab80fe6140a36f": 1790639710.007178,
-    "rss:69cce929fa79417c": 1790639710.0071783,
     "rss:db5b55985f735434": 1790660111.2666354,
     "rss:a782368cf20f9e8a": 1790660111.2666368,
     "rss:c5bcb1daf3f69d83": 1790660111.2666373,
@@ -191,87 +182,17 @@
     "rss:3848bccc70257a5a": 1790886479.6174185,
     "rss:5803ba4c511b2dcd": 1790886479.6174188,
     "rss:3f074b908634f96f": 1790886479.6174188,
-    "rss:050b22b0486617ce": 1790886479.6174188
+    "rss:050b22b0486617ce": 1790886479.6174188,
+    "rss:e200f6b67a48ae04": 1790899658.2983336,
+    "rss:8f2dd71bf0277943": 1790899658.298335,
+    "rss:48310fcb80f5156a": 1790899658.2983356,
+    "rss:22f2cce2144c4624": 1790899658.2983358,
+    "rss:5ffbeb77a3b105f0": 1790899658.298336,
+    "rss:cab8e5201cc0985b": 1790899658.2983363,
+    "rss:90c3e83e0da55bc2": 1790899658.2983365
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:eb326066b0832a49",
-      "kind": "news",
-      "title": "Clarity Act’s failure gave crypto ‘faster’ regulatory wins, Bitwise CIO says",
-      "url": "https://www.theblock.co/news/markets/2026-09-30-clarity-acts-failure-gave-crypto-faster-regulatory-wins-bitwise-says-417362",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "us-crypto-regulation",
-      "ts": 1790805185
-    },
-    {
-      "id": "rss:776392bcddd4d0da",
-      "kind": "news",
-      "title": "CFTC secures over $30 million judgment against defendants in Fundsz fraud case",
-      "url": "https://www.theblock.co/news/regulation/2026-09-30-cftc-secures-over-30-million-judgment-against-defendants-in-fundsz-fraud-case-417365",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "sec-fraud-enforcement",
-      "ts": 1790800628
-    },
-    {
-      "id": "rss:b4c9037e910e5b41",
-      "kind": "news",
-      "title": "Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet",
-      "url": "https://decrypt.co/379772/dogecoin-getting-apps-dogeos-public-testnet",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "dogecoin-evm-development",
-      "ts": 1790804763
-    },
-    {
-      "id": "rss:cf77ccc71350c244",
-      "kind": "news",
-      "title": "FBI Tells Its Employees to Assume Hackers Have Their Personal Data",
-      "url": "https://decrypt.co/379769/fbi-employees-assume-hackers-personal-data",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "fbi-data-breach",
-      "ts": 1790802964
-    },
-    {
-      "id": "rss:aa9459813cab7f1a",
-      "kind": "news",
-      "title": "Coinbase-Backed Crypto Group Reveals Midterm Endorsements After Clarity Act Collapse",
-      "url": "https://decrypt.co/379767/coinbase-crypto-group-senate-midterm-endorsements-clarity-act",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "us-crypto-regulation",
-      "ts": 1790800264
-    },
-    {
-      "id": "rss:65062a2c1f259ee6",
-      "kind": "news",
-      "title": "Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2",
-      "url": "https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "ethena-forecast",
-      "ts": 1790801852
-    },
-    {
-      "id": "rss:ea9ee8f1fc024373",
-      "kind": "news",
-      "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
-      "url": "https://decrypt.co/379784/gemini-4-google-flagship-tops-ai-models-cybersecurity",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ai-general-news",
-      "ts": 1790810459
-    },
     {
       "id": "rss:83feee7e89549b06",
       "kind": "news",
@@ -843,6 +764,83 @@
       "xRole": null,
       "cluster": "aave-governance-proposals",
       "ts": 1790885546
+    },
+    {
+      "id": "rss:e200f6b67a48ae04",
+      "kind": "news",
+      "title": "SEC proposes framework allowing investment advisers, funds to self-custody crypto",
+      "url": "https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "sec-crypto-custody-framework",
+      "ts": 1790888453
+    },
+    {
+      "id": "rss:8f2dd71bf0277943",
+      "kind": "news",
+      "title": "Zcash Drops 21% From Recent High—Here’s Why the Rally May Not Be Over",
+      "url": "https://decrypt.co/379901/zcash-price-drops-etf-flows-rally",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "zcash-price-movement",
+      "ts": 1790890263
+    },
+    {
+      "id": "rss:48310fcb80f5156a",
+      "kind": "news",
+      "title": "SEC Proposes Rules to Clear Up How Advisers and Funds Can Hold Crypto",
+      "url": "https://decrypt.co/379899/sec-proposes-rules-advisers-funds-hold-crypto",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "sec-crypto-custody-framework",
+      "ts": 1790887563
+    },
+    {
+      "id": "rss:22f2cce2144c4624",
+      "kind": "news",
+      "title": "Reddit Is Killing RSS Feeds and Public API Access to Fight AI Scrapers",
+      "url": "https://decrypt.co/379892/reddit-killing-rss-feeds-public-api-access-ai-scrapers",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "rss:022a2bf5f6f78168",
+      "ts": 1790886663
+    },
+    {
+      "id": "rss:5ffbeb77a3b105f0",
+      "kind": "news",
+      "title": "China warns foreign spies about crypto, Singapore dominates Asia: Asia Express",
+      "url": "https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "asia-crypto-developments",
+      "ts": 1790896667
+    },
+    {
+      "id": "rss:cab8e5201cc0985b",
+      "kind": "news",
+      "title": "Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury",
+      "url": "https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "evernorth-xrp-nasdaq",
+      "ts": 1790888865
+    },
+    {
+      "id": "rss:90c3e83e0da55bc2",
+      "kind": "news",
+      "title": "Trump to host 3rd ‘exclusive’ memecoin event amid corruption claims",
+      "url": "https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "trump-memecoin-ecosystem",
+      "ts": 1790888411
     }
   ],
   "digest_queue": [
@@ -1034,6 +1032,26 @@
         }
       ],
       "digested": false
+    },
+    {
+      "id": "sec-crypto-custody-framework:2026-10-02",
+      "level": "important",
+      "time": "02:07",
+      "title": "SEC propose un cadre pour l'auto-garde crypto des conseillers et fonds",
+      "summary": "La SEC propose un nouveau cadre permettant aux conseillers en placement et aux fonds d'investissement de détenir eux-mêmes leurs cryptomonnaies ou d'utiliser des sociétés fiduciaires d'État comme dépositaires, visant à clarifier des années d'ambiguïté réglementaire.",
+      "assets": [],
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498"
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/379899/sec-proposes-rules-advisers-funds-hold-crypto"
+        }
+      ],
+      "digested": false
     }
   ],
   "sent": {
@@ -1057,6 +1075,11 @@
     "2026-10-01": {
       "critical": 1,
       "important": 6,
+      "digests": []
+    },
+    "2026-10-02": {
+      "critical": 0,
+      "important": 0,
       "digests": []
     }
   },
@@ -1116,7 +1139,8 @@
     "metamask-security-incident": "important",
     "near-intents-exploit": "critical",
     "evernorth-xrp-nasdaq": "important",
-    "sec-market-infrastructure": "important"
+    "sec-market-infrastructure": "important",
+    "sec-crypto-custody-framework": "important"
   },
   "briefing_attempts": {
     "2026-09-30": 1,
