@@ -1,12 +1,5 @@
 {
   "seen": {
-    "rss:db5b55985f735434": 1790660111.2666354,
-    "rss:a782368cf20f9e8a": 1790660111.2666368,
-    "rss:c5bcb1daf3f69d83": 1790660111.2666373,
-    "rss:b126b264188b6e37": 1790660111.2666373,
-    "rss:52d805fbc1ee8e6f": 1790660111.2666378,
-    "rss:e1733780881e41e7": 1790660111.2666378,
-    "rss:896d35a281ade1bc": 1790660111.266638,
     "rss:384a7743e6fd4015": 1790681574.2862117,
     "rss:cc86f477914dc462": 1790681574.286213,
     "rss:b43456cf99f22cad": 1790681574.2862132,
@@ -189,32 +182,20 @@
     "rss:22f2cce2144c4624": 1790899658.2983358,
     "rss:5ffbeb77a3b105f0": 1790899658.298336,
     "rss:cab8e5201cc0985b": 1790899658.2983363,
-    "rss:90c3e83e0da55bc2": 1790899658.2983365
+    "rss:90c3e83e0da55bc2": 1790899658.2983365,
+    "rss:80f5921d7893ad32": 1790921348.4789972,
+    "rss:bb5aa12edf160c46": 1790921348.478999,
+    "rss:a6def03b3d7e14ef": 1790921348.4789991,
+    "rss:8d3441730ea813cc": 1790921348.4789994,
+    "rss:744f405fa7633b74": 1790921348.4789996,
+    "rss:81a694d98b01dd31": 1790921348.4789999,
+    "rss:732a3bd835d195dc": 1790921348.4789999,
+    "rss:04777932a05785c4": 1790921348.4789999,
+    "rss:663d4e2d1ffac04a": 1790921348.479,
+    "rss:456480a2ff33df1e": 1790921348.4790003
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:83feee7e89549b06",
-      "kind": "news",
-      "title": "CFTC seeks to define event contracts as swaps amid prediction market fight",
-      "url": "https://cointelegraph.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "cftc-prediction-markets",
-      "ts": 1790816866
-    },
-    {
-      "id": "rss:99f21ac1dc1d4eb5",
-      "kind": "news",
-      "title": "MetaMask exits Ethereum validators amid undisclosed security incident",
-      "url": "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "metamask-security-incident",
-      "ts": 1790813755
-    },
     {
       "id": "rss:cca6d37551d6c62a",
       "kind": "news",
@@ -227,28 +208,6 @@
       "ts": 1790838390
     },
     {
-      "id": "rss:87ae6021792687ae",
-      "kind": "news",
-      "title": "Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps",
-      "url": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "dogecoin-evm-development",
-      "ts": 1790830732
-    },
-    {
-      "id": "rss:a2cf21711b546fc7",
-      "kind": "news",
-      "title": "Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
-      "url": "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-macro-factors",
-      "ts": 1790828120
-    },
-    {
       "id": "rss:69502da04bdb01fd",
       "kind": "news",
       "title": "Bitcoin ETFs draw $6.3B in Q3 as BTC price rises nearly 43%",
@@ -258,39 +217,6 @@
       "xRole": null,
       "cluster": "crypto-etf-inflows",
       "ts": 1790839620
-    },
-    {
-      "id": "rss:bcb3d54cd56c4ef7",
-      "kind": "news",
-      "title": "Bitcoin think tank questions MSCI’s ‘invisible committee’ over Strategy, Metaplanet rule",
-      "url": "https://cointelegraph.com/news/msci-strategy-metaplanet-index-rule-bpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "metaplanet-governance",
-      "ts": 1790834751
-    },
-    {
-      "id": "rss:043a2bf5f6f78168",
-      "kind": "news",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "rss:043a2bf5f6f78168",
-      "ts": 1790834400
-    },
-    {
-      "id": "rss:39df3d332a904bc7",
-      "kind": "news",
-      "title": "Crypto hacks top $768M in September, worst month of 2026",
-      "url": "https://cointelegraph.com/news/crypto-hacks-total-766m-in-september-peckshield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "bitget-388m-exploit",
-      "ts": 1790829873
     },
     {
       "id": "rss:f79e7348454e3a5c",
@@ -841,6 +767,116 @@
       "xRole": null,
       "cluster": "trump-memecoin-ecosystem",
       "ts": 1790888411
+    },
+    {
+      "id": "rss:80f5921d7893ad32",
+      "kind": "news",
+      "title": "Spot bitcoin ETFs log $2.7 billion in September inflows as institutional demand holds",
+      "url": "https://www.theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "crypto-etf-inflows",
+      "ts": 1790920241
+    },
+    {
+      "id": "rss:bb5aa12edf160c46",
+      "kind": "news",
+      "title": "SEC’s innovation exemption poses constraint on bringing stock tokens to US, Robinhood crypto chief says",
+      "url": "https://www.theblock.co/news/regulation/2026-10-02-secs-innovation-exemption-robinhood-417538",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "sec-market-infrastructure",
+      "ts": 1790917481
+    },
+    {
+      "id": "rss:a6def03b3d7e14ef",
+      "kind": "news",
+      "title": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
+      "url": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ethereum-privacy-infrastructure",
+      "ts": 1790900578
+    },
+    {
+      "id": "rss:8d3441730ea813cc",
+      "kind": "news",
+      "title": "South Korea crypto exchange profits fall 78% in H1 amid trading slump",
+      "url": "https://cointelegraph.com/news/south-korea-crypto-exchange-profits-fall-78-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "asia-crypto-developments",
+      "ts": 1790920407
+    },
+    {
+      "id": "rss:744f405fa7633b74",
+      "kind": "news",
+      "title": "South Korea advances tokenized securities rules ahead of 2027 rollout",
+      "url": "https://cointelegraph.com/news/south-korea-tokenized-securities-rules-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "asia-crypto-developments",
+      "ts": 1790917712
+    },
+    {
+      "id": "rss:81a694d98b01dd31",
+      "kind": "news",
+      "title": "Zano exploiter created 36.9M unauthorized ZANO before blockchain rollback",
+      "url": "https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "zano-exploit",
+      "ts": 1790917343
+    },
+    {
+      "id": "rss:732a3bd835d195dc",
+      "kind": "news",
+      "title": "Core Lightning warns attackers are targeting unpatched nodes",
+      "url": "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "core-lightning-security",
+      "ts": 1790914723
+    },
+    {
+      "id": "rss:04777932a05785c4",
+      "kind": "news",
+      "title": "Ethereum’s zkAPI brings privacy-preserving API payments to mainnet",
+      "url": "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "ethereum-privacy-infrastructure",
+      "ts": 1790912065
+    },
+    {
+      "id": "rss:663d4e2d1ffac04a",
+      "kind": "news",
+      "title": "NEAR Intents says it’s identified the hacker, gives 48-hour ultimatum",
+      "url": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "near-intents-exploit",
+      "ts": 1790906533
+    },
+    {
+      "id": "rss:456480a2ff33df1e",
+      "kind": "news",
+      "title": "SEC moves to clear custody hurdle for advisers offering crypto",
+      "url": "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "sec-crypto-custody-framework",
+      "ts": 1790903228
     }
   ],
   "digest_queue": [
@@ -1079,7 +1115,7 @@
     },
     "2026-10-02": {
       "critical": 0,
-      "important": 0,
+      "important": 3,
       "digests": []
     }
   },
@@ -1140,10 +1176,14 @@
     "near-intents-exploit": "critical",
     "evernorth-xrp-nasdaq": "important",
     "sec-market-infrastructure": "important",
-    "sec-crypto-custody-framework": "important"
+    "sec-crypto-custody-framework": "important",
+    "asia-crypto-developments": "important",
+    "zano-exploit": "important",
+    "core-lightning-security": "important"
   },
   "briefing_attempts": {
     "2026-09-30": 1,
-    "2026-10-01": 1
+    "2026-10-01": 1,
+    "2026-10-02": 1
   }
 }
