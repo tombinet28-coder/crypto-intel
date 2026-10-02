@@ -1,19 +1,5 @@
 {
   "seen": {
-    "rss:3aad9b02b668f852": 1790716900.98611,
-    "rss:ef23a75783a5631b": 1790716900.986111,
-    "rss:bd39ecd01864ee5b": 1790716900.9861114,
-    "rss:5995e7a82619b6ed": 1790716900.9861116,
-    "rss:05382da69e12e8e5": 1790716900.986112,
-    "rss:bd87e568eb8f1cd7": 1790716900.9861124,
-    "rss:81ce7fa4ce14f5e5": 1790716900.9861126,
-    "rss:fa18aebcda98fe86": 1790716900.9861126,
-    "rss:e6a475cab734a6e5": 1790716900.9861128,
-    "rss:133a234eb453d104": 1790716900.9861128,
-    "rss:936c1a6d2da678fd": 1790716900.986113,
-    "rss:4394602629ac33c7": 1790716900.9861133,
-    "rss:ac95cba3d6958f33": 1790716900.9861133,
-    "rss:a0fe825f28ff6d11": 1790716900.9861135,
     "rss:a762631cd24f9cae": 1790729052.0877903,
     "rss:3df7fa0ade9f6b28": 1790729052.0877917,
     "rss:2aad90a8467d644b": 1790729052.087792,
@@ -199,164 +185,18 @@
     "rss:9dec7e528b263544": 1790964016.1385367,
     "rss:6f71d83973031b98": 1790964016.1385367,
     "rss:7ca703b30cdef2ed": 1790964016.138537,
-    "rss:2dacdaefc3180908": 1790964016.138537
+    "rss:2dacdaefc3180908": 1790964016.138537,
+    "rss:19424cd759f01a6d": 1790978794.986877,
+    "rss:ca281cba9858998a": 1790978794.9868782,
+    "rss:aca24714c21a99d8": 1790978794.9868784,
+    "rss:4654393997dd191d": 1790978794.9868789,
+    "rss:788f456047d08d81": 1790978794.9868793,
+    "rss:b5a2fbd7ed42a121": 1790978794.9868793,
+    "rss:91e1825fd1577986": 1790978794.9868796,
+    "rss:eb77263740358b55": 1790978794.9868796
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:ef4dc7cf64ffab87",
-      "kind": "news",
-      "title": "U.S. SEC maps out crypto custody in new proposal that furthers its digital assets agenda",
-      "url": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "sec-market-infrastructure",
-      "ts": 1790886004
-    },
-    {
-      "id": "rss:42d76a0a8e1f4d54",
-      "kind": "news",
-      "title": "Another Trump memecoin dinner advertised for token's top investors",
-      "url": "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "trump-memecoin-ecosystem",
-      "ts": 1790880329
-    },
-    {
-      "id": "rss:154ffdc2035ab790",
-      "kind": "news",
-      "title": "Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review",
-      "url": "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "mica-supervision-focus",
-      "ts": 1790881836
-    },
-    {
-      "id": "rss:d0a06f5e9fd7b9fc",
-      "kind": "news",
-      "title": "OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning",
-      "url": "https://decrypt.co/379890/openai-china-moonshot-copy-ai-hidden-reasoning",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ai-general-news",
-      "ts": 1790883963
-    },
-    {
-      "id": "rss:0f81f4089fe2dc6a",
-      "kind": "news",
-      "title": "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent",
-      "url": "https://decrypt.co/379868/meta-muse-ai-agent-read-messages-without-permission",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ai-general-news",
-      "ts": 1790882163
-    },
-    {
-      "id": "rss:33e87c29c738b5de",
-      "kind": "news",
-      "title": "The 'Largest Pure-Play' XRP Treasury Is About to Go Public",
-      "url": "https://decrypt.co/379856/the-largest-pure-play-xrp-treasury-is-about-to-go-public",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "evernorth-xrp-nasdaq",
-      "ts": 1790880363
-    },
-    {
-      "id": "rss:1b10e51929091a64",
-      "kind": "news",
-      "title": "OpenAI Fires Three Safety Researchers Over Alleged Leak to Outside Group",
-      "url": "https://decrypt.co/379857/openai-fires-researchers-alledged-leak-safety-group",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ai-general-news",
-      "ts": 1790878324
-    },
-    {
-      "id": "rss:974e9b6bac770b09",
-      "kind": "news",
-      "title": "50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review",
-      "url": "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "stablecoin-landscape",
-      "ts": 1790880309
-    },
-    {
-      "id": "rss:35bd823231bc67bc",
-      "kind": "news",
-      "title": "Illinois will postpone implementation of crypto tax following lawsuit",
-      "url": "https://cointelegraph.com/news/illinois-postpones-crypto-tax-industry-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "us-crypto-regulation",
-      "ts": 1790877709
-    },
-    {
-      "id": "rss:050b22b0486617ce",
-      "kind": "news",
-      "title": "Risk Stewards: Cap and IRM Changes on Aave V3 / 2026.10.01",
-      "url": "https://governance.aave.com/t/risk-stewards-cap-and-irm-changes-on-aave-v3-2026-10-01/25747",
-      "source": "Aave gouvernance",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "aave-governance-proposals",
-      "ts": 1790885546
-    },
-    {
-      "id": "rss:e200f6b67a48ae04",
-      "kind": "news",
-      "title": "SEC proposes framework allowing investment advisers, funds to self-custody crypto",
-      "url": "https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "sec-crypto-custody-framework",
-      "ts": 1790888453
-    },
-    {
-      "id": "rss:8f2dd71bf0277943",
-      "kind": "news",
-      "title": "Zcash Drops 21% From Recent High—Here’s Why the Rally May Not Be Over",
-      "url": "https://decrypt.co/379901/zcash-price-drops-etf-flows-rally",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "zcash-price-movement",
-      "ts": 1790890263
-    },
-    {
-      "id": "rss:48310fcb80f5156a",
-      "kind": "news",
-      "title": "SEC Proposes Rules to Clear Up How Advisers and Funds Can Hold Crypto",
-      "url": "https://decrypt.co/379899/sec-proposes-rules-advisers-funds-hold-crypto",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "sec-crypto-custody-framework",
-      "ts": 1790887563
-    },
-    {
-      "id": "rss:22f2cce2144c4624",
-      "kind": "news",
-      "title": "Reddit Is Killing RSS Feeds and Public API Access to Fight AI Scrapers",
-      "url": "https://decrypt.co/379892/reddit-killing-rss-feeds-public-api-access-ai-scrapers",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "rss:022a2bf5f6f78168",
-      "ts": 1790886663
-    },
     {
       "id": "rss:5ffbeb77a3b105f0",
       "kind": "news",
@@ -367,28 +207,6 @@
       "xRole": null,
       "cluster": "asia-crypto-developments",
       "ts": 1790896667
-    },
-    {
-      "id": "rss:cab8e5201cc0985b",
-      "kind": "news",
-      "title": "Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury",
-      "url": "https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "evernorth-xrp-nasdaq",
-      "ts": 1790888865
-    },
-    {
-      "id": "rss:90c3e83e0da55bc2",
-      "kind": "news",
-      "title": "Trump to host 3rd ‘exclusive’ memecoin event amid corruption claims",
-      "url": "https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "trump-memecoin-ecosystem",
-      "ts": 1790888411
     },
     {
       "id": "rss:80f5921d7893ad32",
@@ -917,6 +735,94 @@
       "xRole": null,
       "cluster": "aave-governance-proposals",
       "ts": 1790954486
+    },
+    {
+      "id": "rss:19424cd759f01a6d",
+      "kind": "news",
+      "title": "Bank group sues U.S. regulator over granting crypto trust charters",
+      "url": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "us-crypto-regulation",
+      "ts": 1790976200
+    },
+    {
+      "id": "rss:ca281cba9858998a",
+      "kind": "news",
+      "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
+      "url": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ai-general-news",
+      "ts": 1790975764
+    },
+    {
+      "id": "rss:aca24714c21a99d8",
+      "kind": "news",
+      "title": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are",
+      "url": "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ethereum-privacy-infrastructure",
+      "ts": 1790972164
+    },
+    {
+      "id": "rss:4654393997dd191d",
+      "kind": "news",
+      "title": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
+      "url": "https://decrypt.co/379984/circle-pushes-back-on-micas-bank-deposit-mandate-for-stablecoins",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "mica-supervision-focus",
+      "ts": 1790970363
+    },
+    {
+      "id": "rss:788f456047d08d81",
+      "kind": "news",
+      "title": "This AI Is Already Fooling People on Video Calls Into Thinking It's Human, Company Says",
+      "url": "https://decrypt.co/379975/tavus-griffin-ai-fools-people-video-thinking-human",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ai-general-news",
+      "ts": 1790967935
+    },
+    {
+      "id": "rss:b5a2fbd7ed42a121",
+      "kind": "news",
+      "title": "European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO",
+      "url": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "mica-supervision-focus",
+      "ts": 1790973647
+    },
+    {
+      "id": "rss:91e1825fd1577986",
+      "kind": "news",
+      "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
+      "url": "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1790966477
+    },
+    {
+      "id": "rss:eb77263740358b55",
+      "kind": "news",
+      "title": "Blast to wind down Ethereum L2 after costs outpace revenue",
+      "url": "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "blast-shutdown",
+      "ts": 1790965445
     }
   ],
   "digest_queue": [
@@ -1128,6 +1034,32 @@
         }
       ],
       "digested": true
+    },
+    {
+      "id": "ethereum-privacy-infrastructure:2026-10-03",
+      "level": "important",
+      "time": "00:06",
+      "title": "Ethereum permet de payer des services IA de manière anonyme via zkAPI",
+      "summary": "La zkAPI d'Ethereum permet aux utilisateurs de payer en USDC et d'interroger des modèles IA sans révéler leur identité, utilisant des preuves cryptographiques.",
+      "assets": [
+        "ETH"
+      ],
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity"
+        }
+      ],
+      "digested": false
     }
   ],
   "sent": {
@@ -1159,6 +1091,11 @@
       "digests": [
         "12:30"
       ]
+    },
+    "2026-10-03": {
+      "critical": 0,
+      "important": 0,
+      "digests": []
     }
   },
   "alerted": {
@@ -1230,7 +1167,8 @@
     "blast-shutdown": "important",
     "drift-exploit-recovery": "important",
     "bitgo-clarity-systemic-risk": "important",
-    "tokenized-assets-eu": "important"
+    "tokenized-assets-eu": "important",
+    "ethereum-privacy-infrastructure": "important"
   },
   "briefing_attempts": {
     "2026-09-30": 1,
