@@ -1,14 +1,5 @@
 {
   "seen": {
-    "rss:7e9726dea15d1c28": 1790750426.4039266,
-    "rss:4a3f4eae688fd57e": 1790750426.4039276,
-    "rss:060d132a9269cf24": 1790750426.403928,
-    "rss:d1e5b8857aa892bb": 1790750426.4039283,
-    "rss:b8a0ef8afa3c7689": 1790750426.4039283,
-    "rss:d1061b4d7e571578": 1790750426.4039285,
-    "rss:a2bc0c1d4b07f86d": 1790750426.4039288,
-    "rss:2b2622ee696eafc8": 1790750426.4039288,
-    "rss:c10eb6111653d651": 1790750426.403929,
     "rss:fa277d880751dec3": 1790773149.3620203,
     "rss:f0ac46f63548be58": 1790773149.3620214,
     "rss:ff22de26c4269e48": 1790773149.3620217,
@@ -196,94 +187,6 @@
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:80f5921d7893ad32",
-      "kind": "news",
-      "title": "Spot bitcoin ETFs log $2.7 billion in September inflows as institutional demand holds",
-      "url": "https://www.theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "crypto-etf-inflows",
-      "ts": 1790920241
-    },
-    {
-      "id": "rss:bb5aa12edf160c46",
-      "kind": "news",
-      "title": "SEC’s innovation exemption poses constraint on bringing stock tokens to US, Robinhood crypto chief says",
-      "url": "https://www.theblock.co/news/regulation/2026-10-02-secs-innovation-exemption-robinhood-417538",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "sec-market-infrastructure",
-      "ts": 1790917481
-    },
-    {
-      "id": "rss:8d3441730ea813cc",
-      "kind": "news",
-      "title": "South Korea crypto exchange profits fall 78% in H1 amid trading slump",
-      "url": "https://cointelegraph.com/news/south-korea-crypto-exchange-profits-fall-78-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "asia-crypto-developments",
-      "ts": 1790920407
-    },
-    {
-      "id": "rss:744f405fa7633b74",
-      "kind": "news",
-      "title": "South Korea advances tokenized securities rules ahead of 2027 rollout",
-      "url": "https://cointelegraph.com/news/south-korea-tokenized-securities-rules-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "asia-crypto-developments",
-      "ts": 1790917712
-    },
-    {
-      "id": "rss:81a694d98b01dd31",
-      "kind": "news",
-      "title": "Zano exploiter created 36.9M unauthorized ZANO before blockchain rollback",
-      "url": "https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "zano-exploit",
-      "ts": 1790917343
-    },
-    {
-      "id": "rss:732a3bd835d195dc",
-      "kind": "news",
-      "title": "Core Lightning warns attackers are targeting unpatched nodes",
-      "url": "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "core-lightning-security",
-      "ts": 1790914723
-    },
-    {
-      "id": "rss:04777932a05785c4",
-      "kind": "news",
-      "title": "Ethereum’s zkAPI brings privacy-preserving API payments to mainnet",
-      "url": "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "ethereum-privacy-infrastructure",
-      "ts": 1790912065
-    },
-    {
-      "id": "rss:663d4e2d1ffac04a",
-      "kind": "news",
-      "title": "NEAR Intents says it’s identified the hacker, gives 48-hour ultimatum",
-      "url": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "near-intents-exploit",
-      "ts": 1790906533
-    },
     {
       "id": "rss:09eda265504a3831",
       "kind": "news",
@@ -1185,6 +1088,7 @@
   "briefing_attempts": {
     "2026-09-30": 1,
     "2026-10-01": 1,
-    "2026-10-02": 1
+    "2026-10-02": 1,
+    "2026-10-03": 1
   }
 }
