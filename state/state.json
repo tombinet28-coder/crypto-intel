@@ -1,8 +1,5 @@
 {
   "seen": {
-    "rss:a762631cd24f9cae": 1790729052.0877903,
-    "rss:3df7fa0ade9f6b28": 1790729052.0877917,
-    "rss:2aad90a8467d644b": 1790729052.087792,
     "rss:7e9726dea15d1c28": 1790750426.4039266,
     "rss:4a3f4eae688fd57e": 1790750426.4039276,
     "rss:060d132a9269cf24": 1790750426.403928,
@@ -193,21 +190,12 @@
     "rss:788f456047d08d81": 1790978794.9868793,
     "rss:b5a2fbd7ed42a121": 1790978794.9868793,
     "rss:91e1825fd1577986": 1790978794.9868796,
-    "rss:eb77263740358b55": 1790978794.9868796
+    "rss:eb77263740358b55": 1790978794.9868796,
+    "move:pump-fun:497497": 1790989723.0412347,
+    "move24:midnight-3:20729": 1790989723.0412645
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:5ffbeb77a3b105f0",
-      "kind": "news",
-      "title": "China warns foreign spies about crypto, Singapore dominates Asia: Asia Express",
-      "url": "https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "asia-crypto-developments",
-      "ts": 1790896667
-    },
     {
       "id": "rss:80f5921d7893ad32",
       "kind": "news",
@@ -229,17 +217,6 @@
       "xRole": null,
       "cluster": "sec-market-infrastructure",
       "ts": 1790917481
-    },
-    {
-      "id": "rss:a6def03b3d7e14ef",
-      "kind": "news",
-      "title": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
-      "url": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ethereum-privacy-infrastructure",
-      "ts": 1790900578
     },
     {
       "id": "rss:8d3441730ea813cc",
@@ -306,17 +283,6 @@
       "xRole": null,
       "cluster": "near-intents-exploit",
       "ts": 1790906533
-    },
-    {
-      "id": "rss:456480a2ff33df1e",
-      "kind": "news",
-      "title": "SEC moves to clear custody hurdle for advisers offering crypto",
-      "url": "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "sec-crypto-custody-framework",
-      "ts": 1790903228
     },
     {
       "id": "rss:09eda265504a3831",
@@ -1057,6 +1023,52 @@
         {
           "name": "Decrypt",
           "url": "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "move:pump-fun:497497",
+      "kind": "price",
+      "level": "important",
+      "title": "PUMP +5.8 % en 1 h",
+      "summary": "Prix : 0.00568971 $ ; 24 h : -1.9 %.",
+      "url": "https://www.coingecko.com/en/coins/pump-fun",
+      "source": "CoinGecko",
+      "tier": 1,
+      "assets": [
+        "PUMP"
+      ],
+      "ts": 1790989723.04119,
+      "time": "03:08",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "CoinGecko",
+          "url": "https://www.coingecko.com/en/coins/pump-fun"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "move24:midnight-3:20729",
+      "kind": "price",
+      "level": "important",
+      "title": "NIGHT +35.0 % en 24 h (rang 85)",
+      "summary": "Mouvement inhabituel dans le top 100 : cause à vérifier.",
+      "url": "https://www.coingecko.com/en/coins/midnight-3",
+      "source": "CoinGecko",
+      "tier": 1,
+      "assets": [
+        "NIGHT"
+      ],
+      "ts": 1790989723.0412226,
+      "time": "03:08",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "CoinGecko",
+          "url": "https://www.coingecko.com/en/coins/midnight-3"
         }
       ],
       "digested": false
