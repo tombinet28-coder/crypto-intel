@@ -1,28 +1,5 @@
 {
   "seen": {
-    "rss:d04db338efd6e4d4": 1790792653.8859057,
-    "rss:511ca1701eec19a1": 1790792653.885907,
-    "rss:0c2f557b9d9a80b1": 1790792653.8859076,
-    "rss:c87914784817b146": 1790792653.885908,
-    "rss:387245fcc95f55d8": 1790792653.8859081,
-    "rss:796ca59228d45bae": 1790792653.8859081,
-    "rss:a0d1ad73bd1a3da1": 1790792653.8859084,
-    "rss:e0f87b53ed618574": 1790792653.8859088,
-    "rss:fa07d29864e65501": 1790792653.8859088,
-    "rss:f8fdf19e0e46038b": 1790792653.885909,
-    "rss:7765a03172ec01d7": 1790792653.8859093,
-    "rss:dd5004751247f8e3": 1790792653.8859093,
-    "rss:4ff95f69b808cdcb": 1790792653.8859096,
-    "rss:de2cecee9ef28f7c": 1790792653.8859096,
-    "rss:b2e0a7cba596c21a": 1790792653.8859098,
-    "rss:00c04109e18aa568": 1790792653.8859098,
-    "rss:f1f01ff1a0c1a551": 1790792653.88591,
-    "rss:0deb4eb7edd74bf9": 1790792653.8859103,
-    "rss:03d942d50b05ca2f": 1790792653.8859103,
-    "rss:d76f7355457cfe99": 1790792653.8859105,
-    "rss:dc67e39ba3cdf220": 1790792653.885911,
-    "rss:c0d0f7cfe841bf80": 1790792653.8859112,
-    "rss:7b8aac4692d24ef7": 1790792653.8859198,
     "rss:eb326066b0832a49": 1790807562.8140068,
     "rss:776392bcddd4d0da": 1790807562.8140075,
     "rss:ab91d221da188642": 1790807562.8140078,
@@ -168,98 +145,12 @@
     "rss:3c14a220aa9e2154": 1791045546.9939775,
     "rss:b79e65815478f2ab": 1791045546.9939775,
     "rss:95307997f4b8b9b0": 1791045546.9939778,
-    "rss:10c997af64130093": 1791045546.9939778
+    "rss:10c997af64130093": 1791045546.9939778,
+    "rss:ad41da929530bf2b": 1791056835.268783,
+    "move:pump-fun:497515": 1791056835.2688675
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:c53aa91d733ca2bd",
-      "kind": "news",
-      "title": "BNY in talks with Kraken parent Payward over infrastructure partnership",
-      "url": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "bny-kraken-partnership",
-      "ts": 1790962480
-    },
-    {
-      "id": "rss:77fb54b2523787e3",
-      "kind": "news",
-      "title": "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
-      "url": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "blast-shutdown",
-      "ts": 1790961335
-    },
-    {
-      "id": "rss:231a9c042bab08dd",
-      "kind": "news",
-      "title": "Trump’s potential AI czar, Jay Clayton, helped pioneer the SEC’s crypto crackdown",
-      "url": "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "us-crypto-regulation",
-      "ts": 1790961168
-    },
-    {
-      "id": "rss:c3cbaebb84e564b8",
-      "kind": "news",
-      "title": "Drift opens exploit recovery claims with initial payouts of just over 1% of user losses",
-      "url": "https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "drift-exploit-recovery",
-      "ts": 1790961040
-    },
-    {
-      "id": "rss:8fa6a5356de76a9a",
-      "kind": "news",
-      "title": "Paradigm-backed Layer 2 Blast to wind down network as costs exceed revenue",
-      "url": "https://www.theblock.co/news/business/2026-10-02-blast-ethereum-layer-2-shutting-down-417583",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "blast-shutdown",
-      "ts": 1790960069
-    },
-    {
-      "id": "rss:5cc5713f6cdd29df",
-      "kind": "news",
-      "title": "Once a $2.3 Billion Network, Ethereum Layer-2 Blast Is Shutting Down",
-      "url": "https://decrypt.co/379972/ethereum-layer-2-blast-shutting-down",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "blast-shutdown",
-      "ts": 1790963226
-    },
-    {
-      "id": "rss:27ce55bcaebf3bfe",
-      "kind": "news",
-      "title": "Nvidia Hits Record High as Market Value Reaches $5.7 Trillion",
-      "url": "https://decrypt.co/379959/nvidia-hits-record-high-market-value-5-7-trillion",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ai-general-news",
-      "ts": 1790962240
-    },
-    {
-      "id": "rss:f36045173dd5b363",
-      "kind": "news",
-      "title": "Bitcoin Heads Higher on Macro Moves: Where Does BTC Go Next?",
-      "url": "https://decrypt.co/379936/bitcoin-heads-higher-fed-jobs-where-does-btc-go-next",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-macro-factors",
-      "ts": 1790959552
-    },
     {
       "id": "rss:19424cd759f01a6d",
       "kind": "news",
@@ -294,28 +185,6 @@
       "ts": 1790972164
     },
     {
-      "id": "rss:4654393997dd191d",
-      "kind": "news",
-      "title": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
-      "url": "https://decrypt.co/379984/circle-pushes-back-on-micas-bank-deposit-mandate-for-stablecoins",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "mica-supervision-focus",
-      "ts": 1790970363
-    },
-    {
-      "id": "rss:788f456047d08d81",
-      "kind": "news",
-      "title": "This AI Is Already Fooling People on Video Calls Into Thinking It's Human, Company Says",
-      "url": "https://decrypt.co/379975/tavus-griffin-ai-fools-people-video-thinking-human",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ai-general-news",
-      "ts": 1790967935
-    },
-    {
       "id": "rss:b5a2fbd7ed42a121",
       "kind": "news",
       "title": "European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO",
@@ -325,28 +194,6 @@
       "xRole": null,
       "cluster": "mica-supervision-focus",
       "ts": 1790973647
-    },
-    {
-      "id": "rss:91e1825fd1577986",
-      "kind": "news",
-      "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
-      "url": "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1790966477
-    },
-    {
-      "id": "rss:eb77263740358b55",
-      "kind": "news",
-      "title": "Blast to wind down Ethereum L2 after costs outpace revenue",
-      "url": "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "blast-shutdown",
-      "ts": 1790965445
     },
     {
       "id": "rss:22b7a390f2f0c263",
@@ -468,6 +315,17 @@
       "xRole": null,
       "cluster": "ai-general-news",
       "ts": 1791032464
+    },
+    {
+      "id": "rss:ad41da929530bf2b",
+      "kind": "news",
+      "title": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
+      "url": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "bitget-hack",
+      "ts": 1791046863
     }
   ],
   "digest_queue": [
@@ -785,7 +643,7 @@
     },
     "2026-10-03": {
       "critical": 0,
-      "important": 0,
+      "important": 2,
       "digests": [
         "12:30"
       ]
@@ -861,7 +719,8 @@
     "drift-exploit-recovery": "important",
     "bitgo-clarity-systemic-risk": "important",
     "tokenized-assets-eu": "important",
-    "ethereum-privacy-infrastructure": "important"
+    "ethereum-privacy-infrastructure": "important",
+    "bitget-hack": "important"
   },
   "briefing_attempts": {
     "2026-09-30": 1,
