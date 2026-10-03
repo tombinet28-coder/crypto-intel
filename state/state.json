@@ -1,19 +1,5 @@
 {
   "seen": {
-    "rss:eb326066b0832a49": 1790807562.8140068,
-    "rss:776392bcddd4d0da": 1790807562.8140075,
-    "rss:ab91d221da188642": 1790807562.8140078,
-    "rss:b4c9037e910e5b41": 1790807562.814008,
-    "rss:cf77ccc71350c244": 1790807562.814008,
-    "rss:aa9459813cab7f1a": 1790807562.8140082,
-    "rss:3aa7df654b9dd037": 1790807562.8140082,
-    "rss:324901d11bde829e": 1790807562.814009,
-    "rss:066be3b786dfad94": 1790807562.814009,
-    "rss:65062a2c1f259ee6": 1790807562.814009,
-    "rss:12558bd18c790549": 1790807562.814009,
-    "rss:b8333d9e3b9cd3f8": 1790807562.8140092,
-    "rss:2372e9b275b1f0fc": 1790807562.8140092,
-    "rss:3c8d6705c7285386": 1790807562.8140094,
     "rss:ea9ee8f1fc024373": 1790818220.2514079,
     "rss:83feee7e89549b06": 1790818220.2514088,
     "rss:99f21ac1dc1d4eb5": 1790818220.251409,
@@ -147,54 +133,11 @@
     "rss:95307997f4b8b9b0": 1791045546.9939778,
     "rss:10c997af64130093": 1791045546.9939778,
     "rss:ad41da929530bf2b": 1791056835.268783,
-    "move:pump-fun:497515": 1791056835.2688675
+    "move:pump-fun:497515": 1791056835.2688675,
+    "move24:bitway:20729": 1791067772.3471131
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:19424cd759f01a6d",
-      "kind": "news",
-      "title": "Bank group sues U.S. regulator over granting crypto trust charters",
-      "url": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "us-crypto-regulation",
-      "ts": 1790976200
-    },
-    {
-      "id": "rss:ca281cba9858998a",
-      "kind": "news",
-      "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
-      "url": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ai-general-news",
-      "ts": 1790975764
-    },
-    {
-      "id": "rss:aca24714c21a99d8",
-      "kind": "news",
-      "title": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are",
-      "url": "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ethereum-privacy-infrastructure",
-      "ts": 1790972164
-    },
-    {
-      "id": "rss:b5a2fbd7ed42a121",
-      "kind": "news",
-      "title": "European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO",
-      "url": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "mica-supervision-focus",
-      "ts": 1790973647
-    },
     {
       "id": "rss:22b7a390f2f0c263",
       "kind": "news",
@@ -609,6 +552,29 @@
         }
       ],
       "digested": true
+    },
+    {
+      "id": "move24:bitway:20729",
+      "kind": "price",
+      "level": "important",
+      "title": "BTW -26.4 % en 24 h (rang 42)",
+      "summary": "Mouvement inhabituel dans le top 100 : cause à vérifier.",
+      "url": "https://www.coingecko.com/en/coins/bitway",
+      "source": "CoinGecko",
+      "tier": 1,
+      "assets": [
+        "BTW"
+      ],
+      "ts": 1791067772.3470798,
+      "time": "00:49",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "CoinGecko",
+          "url": "https://www.coingecko.com/en/coins/bitway"
+        }
+      ],
+      "digested": false
     }
   ],
   "sent": {
@@ -647,6 +613,11 @@
       "digests": [
         "12:30"
       ]
+    },
+    "2026-10-04": {
+      "critical": 0,
+      "important": 0,
+      "digests": []
     }
   },
   "alerted": {
