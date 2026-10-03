@@ -1,31 +1,5 @@
 {
   "seen": {
-    "rss:fa277d880751dec3": 1790773149.3620203,
-    "rss:f0ac46f63548be58": 1790773149.3620214,
-    "rss:ff22de26c4269e48": 1790773149.3620217,
-    "rss:a703da3a6cbd9541": 1790773149.362022,
-    "rss:f5ebbb30afd4ce86": 1790773149.3620222,
-    "rss:80572ff92c50e43a": 1790773149.3620222,
-    "rss:e047dedfd41c38f3": 1790773149.3620224,
-    "rss:52f64280b7a3ea3d": 1790773149.3620226,
-    "rss:2115bb8c5ec0b7b6": 1790773149.3620226,
-    "rss:bd73d8e9cd29a16e": 1790773149.3620229,
-    "rss:d6f4d6265656a826": 1790773149.362023,
-    "rss:f5c22ac083ab325e": 1790773149.362023,
-    "rss:40e2bde84395381a": 1790773149.3620234,
-    "rss:2ff55797582fcb26": 1790773149.3620234,
-    "rss:1f10fa6015da1d56": 1790773149.3620236,
-    "rss:c528d2e53a13e1d5": 1790773149.3620238,
-    "rss:40f9821c0512f819": 1790773149.3620238,
-    "rss:5c723ee657fc70c3": 1790773149.3620243,
-    "rss:66d053e63557adcb": 1790773149.3620243,
-    "rss:74f8048d87d1e0fa": 1790773149.3620243,
-    "rss:49408d4149117e36": 1790773149.3620245,
-    "rss:9ff7781f8c94f802": 1790773149.3620245,
-    "rss:80b24b0125ac7de4": 1790773149.3620248,
-    "rss:e79c59f9708cf182": 1790773149.3620248,
-    "rss:57857bb748953e2d": 1790773149.362025,
-    "rss:763a1a725fbb1605": 1790773149.362025,
     "rss:d04db338efd6e4d4": 1790792653.8859057,
     "rss:511ca1701eec19a1": 1790792653.885907,
     "rss:0c2f557b9d9a80b1": 1790792653.8859076,
@@ -186,7 +160,15 @@
     "move24:midnight-3:20729": 1790989723.0412645,
     "rss:22b7a390f2f0c263": 1791030527.214849,
     "rss:880d0910691c8ac0": 1791030527.21485,
-    "rss:0388c675f56ef10b": 1791030527.2148502
+    "rss:0388c675f56ef10b": 1791030527.2148502,
+    "rss:d9f256a9b1c59d52": 1791045546.9939747,
+    "rss:fbc5efccc31374fb": 1791045546.9939766,
+    "rss:ea7fdea44ee94edc": 1791045546.993977,
+    "rss:80e221a7dd89522c": 1791045546.9939773,
+    "rss:3c14a220aa9e2154": 1791045546.9939775,
+    "rss:b79e65815478f2ab": 1791045546.9939775,
+    "rss:95307997f4b8b9b0": 1791045546.9939778,
+    "rss:10c997af64130093": 1791045546.9939778
   },
   "x_since": {},
   "recent": [
@@ -224,28 +206,6 @@
       "ts": 1790961168
     },
     {
-      "id": "rss:8d84b9deebb5f089",
-      "kind": "news",
-      "title": "America at a crossroads: Commissioner Peirce’s parting challenge",
-      "url": "https://www.coindesk.com/opinion/2026/10/01/america-at-a-crossroads-commissioner-peirce-s-parting-challenge",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "us-crypto-regulation",
-      "ts": 1790947339
-    },
-    {
-      "id": "rss:1284ab1e9209e674",
-      "kind": "news",
-      "title": "U.S. added just 29,000 jobs in September, with unemployment rate rising to 4.2%",
-      "url": "https://www.coindesk.com/markets/2026/10/02/u-s-added-just-29-000-jobs-in-september-with-unemployment-rate-rising-to-4-2",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-macro-factors",
-      "ts": 1790944313
-    },
-    {
       "id": "rss:c3cbaebb84e564b8",
       "kind": "news",
       "title": "Drift opens exploit recovery claims with initial payouts of just over 1% of user losses",
@@ -266,28 +226,6 @@
       "xRole": null,
       "cluster": "blast-shutdown",
       "ts": 1790960069
-    },
-    {
-      "id": "rss:aee9c6e41f435069",
-      "kind": "news",
-      "title": "Bitcoin nears highest level since January as $85,000 sell wall clears, US jobs data disappoints",
-      "url": "https://www.theblock.co/news/markets/2026-10-02-bitcoin-nears-highest-level-january-85000-sell-wall-clears-us-jobs-data-disappoints-417570",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-price-levels",
-      "ts": 1790948080
-    },
-    {
-      "id": "rss:4c65e125d7921b03",
-      "kind": "news",
-      "title": "BitGo CEO says Clarity’s failure left capital markets exposed to risk potentially worse than Lehman",
-      "url": "https://www.theblock.co/news/regulation/2026-10-02-mike-belshe-bitgo-interview-clarity-417560",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "bitgo-clarity-systemic-risk",
-      "ts": 1790944134
     },
     {
       "id": "rss:5cc5713f6cdd29df",
@@ -321,94 +259,6 @@
       "xRole": null,
       "cluster": "btc-macro-factors",
       "ts": 1790959552
-    },
-    {
-      "id": "rss:c53c3a9df43ee23b",
-      "kind": "news",
-      "title": "'Uptober' Off With a Bang as Bitcoin Surges to $86K",
-      "url": "https://decrypt.co/379932/uptober-off-with-a-bang-as-bitcoin-surges-to-86k",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-price-levels",
-      "ts": 1790945905
-    },
-    {
-      "id": "rss:c88b2981c85d7c46",
-      "kind": "news",
-      "title": "71% of UK finance leaders expect tokenization to reshape financial services: Lloyds",
-      "url": "https://cointelegraph.com/news/71-percent-uk-finance-leaders-expect-tokenization-reshape-financial-services-lloyds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "tokenized-assets-eu",
-      "ts": 1790958024
-    },
-    {
-      "id": "rss:19f713aa32ba0a09",
-      "kind": "news",
-      "title": "Crypto’s billions are back, but the premiums aren’t",
-      "url": "https://cointelegraph.com/news/crypto-biz-kalshi-blockchain-com-crypto-treasury-valuations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "crypto-valuations",
-      "ts": 1790955173
-    },
-    {
-      "id": "rss:f915611c29592e8c",
-      "kind": "news",
-      "title": "Bitcoin briefly hits $87K as weak US jobs data sends bond yields lower",
-      "url": "https://cointelegraph.com/markets/bitcoin-briefly-taps-87k-as-bond-yields-drop-on-low-us-nonfarm-payrolls-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "btc-price-levels",
-      "ts": 1790954851
-    },
-    {
-      "id": "rss:ef5de2d6e2d9fe2b",
-      "kind": "news",
-      "title": "‘Euro stablecoin isn’t enough’: EU issuers make case for USD tokens",
-      "url": "https://cointelegraph.com/news/euro-stablecoin-not-enough-eu-case-usd-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "mica-supervision-focus",
-      "ts": 1790950368
-    },
-    {
-      "id": "rss:9dec7e528b263544",
-      "kind": "news",
-      "title": "Furious debate about THORChain vs NEAR shows idealism has limits",
-      "url": "https://cointelegraph.com/magazine/furious-debate-about-thorchain-vs-near-shows-idealism-has-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "bitget-388m-exploit",
-      "ts": 1790947800
-    },
-    {
-      "id": "rss:7ca703b30cdef2ed",
-      "kind": "news",
-      "title": "[ARFC] The Aave Foundation, Phase 1",
-      "url": "https://governance.aave.com/t/arfc-the-aave-foundation-phase-1/25756",
-      "source": "Aave gouvernance",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "aave-governance-proposals",
-      "ts": 1790957453
-    },
-    {
-      "id": "rss:2dacdaefc3180908",
-      "kind": "news",
-      "title": "[GHO Stewards] October 2026 - GHO Borrow Rate Update",
-      "url": "https://governance.aave.com/t/gho-stewards-october-2026-gho-borrow-rate-update/25754",
-      "source": "Aave gouvernance",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "aave-governance-proposals",
-      "ts": 1790954486
     },
     {
       "id": "rss:19424cd759f01a6d",
@@ -530,6 +380,94 @@
       "xRole": null,
       "cluster": "ai-general-news",
       "ts": 1791011168
+    },
+    {
+      "id": "rss:d9f256a9b1c59d52",
+      "kind": "news",
+      "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
+      "url": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791043200
+    },
+    {
+      "id": "rss:fbc5efccc31374fb",
+      "kind": "news",
+      "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
+      "url": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791043200
+    },
+    {
+      "id": "rss:ea7fdea44ee94edc",
+      "kind": "news",
+      "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
+      "url": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ai-general-news",
+      "ts": 1791039600
+    },
+    {
+      "id": "rss:80e221a7dd89522c",
+      "kind": "news",
+      "title": "Crypto's Sisyphean struggle",
+      "url": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "crypto-valuations",
+      "ts": 1791032400
+    },
+    {
+      "id": "rss:3c14a220aa9e2154",
+      "kind": "news",
+      "title": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
+      "url": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "tokenized-assets-eu",
+      "ts": 1791032400
+    },
+    {
+      "id": "rss:b79e65815478f2ab",
+      "kind": "news",
+      "title": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
+      "url": "https://decrypt.co/380001/openai-banned-pewdiepie-twice-ajax-uncensored-ai",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ai-general-news",
+      "ts": 1791043263
+    },
+    {
+      "id": "rss:95307997f4b8b9b0",
+      "kind": "news",
+      "title": "Trump Is Hosting Yet Another Meme Coin Dinner: Here Are the Details",
+      "url": "https://decrypt.co/380002/trump-third-meme-coin-dinner-details",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791039663
+    },
+    {
+      "id": "rss:10c997af64130093",
+      "kind": "news",
+      "title": "The Pope Has Thoughts on AI Art—And They're Not Flattering",
+      "url": "https://decrypt.co/379983/pope-leo-human-art-ai-creation",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ai-general-news",
+      "ts": 1791032464
     }
   ],
   "digest_queue": [
