@@ -183,197 +183,13 @@
     "rss:91e1825fd1577986": 1790978794.9868796,
     "rss:eb77263740358b55": 1790978794.9868796,
     "move:pump-fun:497497": 1790989723.0412347,
-    "move24:midnight-3:20729": 1790989723.0412645
+    "move24:midnight-3:20729": 1790989723.0412645,
+    "rss:22b7a390f2f0c263": 1791030527.214849,
+    "rss:880d0910691c8ac0": 1791030527.21485,
+    "rss:0388c675f56ef10b": 1791030527.2148502
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:09eda265504a3831",
-      "kind": "news",
-      "title": "Cboe wants to turn VIX into a never-ending trade",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1790940600
-    },
-    {
-      "id": "rss:19021c00711e60b5",
-      "kind": "news",
-      "title": "Live updates: Bitcoin rises, re-taking $86,000 ahead of key U.S. jobs data",
-      "url": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-price-levels",
-      "ts": 1790940160
-    },
-    {
-      "id": "rss:c5ce2633208cdf87",
-      "kind": "news",
-      "title": "Crypto traders are in risk-on mode as bitcoin dominance nears return to 60%",
-      "url": "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-price-levels",
-      "ts": 1790937076
-    },
-    {
-      "id": "rss:3e7f3d5c14292bdd",
-      "kind": "news",
-      "title": "Bitcoin open interest jumps $2.3 billion as traders pay more for bullish positions",
-      "url": "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-price-levels",
-      "ts": 1790932461
-    },
-    {
-      "id": "rss:5ffa32649fc16c41",
-      "kind": "news",
-      "title": "Tether's USDT is 'coming home' to Bitcoin this month over a decade after debut there",
-      "url": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1790929699
-    },
-    {
-      "id": "rss:dfdb23406162ed62",
-      "kind": "news",
-      "title": "Bitcoin tops $86,000 ahead of U.S. jobs report",
-      "url": "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-price-levels",
-      "ts": 1790928714
-    },
-    {
-      "id": "rss:fc7a963fa1ccf4de",
-      "kind": "news",
-      "title": "ECB outlines three models for putting central bank money onchain",
-      "url": "https://www.theblock.co/news/regulation/2026-10-02-ecb-outlines-three-models-for-putting-central-bank-money-onchain-417552",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ecb-cbdc-infrastructure",
-      "ts": 1790936259
-    },
-    {
-      "id": "rss:d62b0b6e9f20d4be",
-      "kind": "news",
-      "title": "Morning Minute: NEAR Intents Hacked for $3.8M - Was It A Bullish Hack?",
-      "url": "https://decrypt.co/379929/morning-minute-near-intents-hacked-for-3-8m-was-it-a-bullish-hack",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "near-intents-exploit",
-      "ts": 1790943540
-    },
-    {
-      "id": "rss:b4acd6f065314922",
-      "kind": "news",
-      "title": "US Designates Russia's A7 Network as Transnational Criminal Organization",
-      "url": "https://decrypt.co/379921/us-designates-russias-a7-network-as-transnational-criminal-organization",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "us-sanctions-crypto",
-      "ts": 1790940521
-    },
-    {
-      "id": "rss:2bd160bdd87b4c35",
-      "kind": "news",
-      "title": "Spanish Police Arrest 16-Year-Old Accused of Running KillSec Ransomware Group",
-      "url": "https://decrypt.co/379913/spanish-police-arrest-16-year-old-accused-of-running-killsec-ransomware-group",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ransomware-law-enforcement",
-      "ts": 1790932374
-    },
-    {
-      "id": "rss:fb56448819e3b464",
-      "kind": "news",
-      "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
-      "url": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "tokenized-assets-bnb-chain",
-      "ts": 1790941221
-    },
-    {
-      "id": "rss:29c23d1050a12a71",
-      "kind": "news",
-      "title": "Bitcoin treasuries may struggle to match Strategy, says Ammous",
-      "url": "https://cointelegraph.com/news/bitcoin-treasuries-struggle-strategy-says-ammous?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "bitcoin-treasuries",
-      "ts": 1790938473
-    },
-    {
-      "id": "rss:ad649fb835543055",
-      "kind": "news",
-      "title": "CONNECT recap: Arthur Hayes on money printing, Wall Street moves onchain",
-      "url": "https://cointelegraph.com/news/connect-recap-arthur-hayes-money-printing-wall-street-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1790936975
-    },
-    {
-      "id": "rss:8ebe66aa0a15b225",
-      "kind": "news",
-      "title": "Bitcoin reaches for $87K as short liquidations top $120M",
-      "url": "https://cointelegraph.com/markets/bitcoin-87k-order-book-liquidity-wall-shifts-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "btc-price-levels",
-      "ts": 1790933826
-    },
-    {
-      "id": "rss:b5a8c33cf13ea4ee",
-      "kind": "news",
-      "title": "Aave founder says V3 unaffected after third-party adapter exploit drains $305K",
-      "url": "https://cointelegraph.com/news/aave-v3-third-party-adapter-exploit-305k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "aave-third-party-exploit",
-      "ts": 1790933449
-    },
-    {
-      "id": "rss:17bd5e779788af62",
-      "kind": "news",
-      "title": "Porsche’s ‘long haul’ Web3 project ends in less than four years",
-      "url": "https://cointelegraph.com/news/porsche-shuts-down-web3-project-911-nft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1790932732
-    },
-    {
-      "id": "rss:78f8b72a1fbe020c",
-      "kind": "news",
-      "title": "Bitcoin ETFs kick off ‘Uptober’ with $103M inflow",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-meet-uptober-103-million-inflow-btc-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "crypto-etf-inflows",
-      "ts": 1790929208
-    },
     {
       "id": "rss:c53aa91d733ca2bd",
       "kind": "news",
@@ -573,17 +389,6 @@
       "ts": 1790947800
     },
     {
-      "id": "rss:6f71d83973031b98",
-      "kind": "news",
-      "title": "Circle urges EU to revise stablecoin reserve rules in MiCA review",
-      "url": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "mica-supervision-focus",
-      "ts": 1790943956
-    },
-    {
       "id": "rss:7ca703b30cdef2ed",
       "kind": "news",
       "title": "[ARFC] The Aave Foundation, Phase 1",
@@ -692,6 +497,39 @@
       "xRole": null,
       "cluster": "blast-shutdown",
       "ts": 1790965445
+    },
+    {
+      "id": "rss:22b7a390f2f0c263",
+      "kind": "news",
+      "title": "NEAR Intents recovers entire stolen $3.8M after ultimatum to exploiter",
+      "url": "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "near-intents-exploit",
+      "ts": 1791028750
+    },
+    {
+      "id": "rss:880d0910691c8ac0",
+      "kind": "news",
+      "title": "Community banks sue OCC over trust bank charters of crypto firms",
+      "url": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "us-crypto-regulation",
+      "ts": 1791019501
+    },
+    {
+      "id": "rss:0388c675f56ef10b",
+      "kind": "news",
+      "title": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
+      "url": "https://cointelegraph.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "ai-general-news",
+      "ts": 1791011168
     }
   ],
   "digest_queue": [
@@ -928,7 +766,7 @@
           "url": "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity"
         }
       ],
-      "digested": false
+      "digested": true
     },
     {
       "id": "move:pump-fun:497497",
@@ -951,7 +789,7 @@
           "url": "https://www.coingecko.com/en/coins/pump-fun"
         }
       ],
-      "digested": false
+      "digested": true
     },
     {
       "id": "move24:midnight-3:20729",
@@ -974,7 +812,7 @@
           "url": "https://www.coingecko.com/en/coins/midnight-3"
         }
       ],
-      "digested": false
+      "digested": true
     }
   ],
   "sent": {
@@ -1010,7 +848,9 @@
     "2026-10-03": {
       "critical": 0,
       "important": 0,
-      "digests": []
+      "digests": [
+        "12:30"
+      ]
     }
   },
   "alerted": {
