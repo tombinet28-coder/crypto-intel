@@ -124,32 +124,17 @@
     "move24:bitway:20729": 1791067772.3471131,
     "move24:rain:20730": 1791081111.402945,
     "move24:bitway:20730": 1791081111.4029677,
-    "rss:d689510cce275901": 1791103653.940369
+    "rss:d689510cce275901": 1791103653.940369,
+    "rss:807633870f836998": 1791125105.9431574,
+    "rss:f0882987a192e582": 1791125105.9431589,
+    "rss:06600bb1e1ff8d62": 1791125105.943159,
+    "rss:07e8663eb0dc62b8": 1791125105.9431593,
+    "rss:44ac7f390a170a3a": 1791125105.9431596,
+    "rss:a67c51cc83b19bfe": 1791125105.9431598,
+    "rss:11962eb215230c93": 1791125105.94316
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:22b7a390f2f0c263",
-      "kind": "news",
-      "title": "NEAR Intents recovers entire stolen $3.8M after ultimatum to exploiter",
-      "url": "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "near-intents-exploit",
-      "ts": 1791028750
-    },
-    {
-      "id": "rss:880d0910691c8ac0",
-      "kind": "news",
-      "title": "Community banks sue OCC over trust bank charters of crypto firms",
-      "url": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "us-crypto-regulation",
-      "ts": 1791019501
-    },
     {
       "id": "rss:d9f256a9b1c59d52",
       "kind": "news",
@@ -184,28 +169,6 @@
       "ts": 1791039600
     },
     {
-      "id": "rss:80e221a7dd89522c",
-      "kind": "news",
-      "title": "Crypto's Sisyphean struggle",
-      "url": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "crypto-valuations",
-      "ts": 1791032400
-    },
-    {
-      "id": "rss:3c14a220aa9e2154",
-      "kind": "news",
-      "title": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
-      "url": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "tokenized-assets-eu",
-      "ts": 1791032400
-    },
-    {
       "id": "rss:b79e65815478f2ab",
       "kind": "news",
       "title": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
@@ -228,17 +191,6 @@
       "ts": 1791039663
     },
     {
-      "id": "rss:10c997af64130093",
-      "kind": "news",
-      "title": "The Pope Has Thoughts on AI Art—And They're Not Flattering",
-      "url": "https://decrypt.co/379983/pope-leo-human-art-ai-creation",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ai-general-news",
-      "ts": 1791032464
-    },
-    {
       "id": "rss:ad41da929530bf2b",
       "kind": "news",
       "title": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
@@ -259,6 +211,83 @@
       "xRole": null,
       "cluster": "russia-digital-ruble",
       "ts": 1791098213
+    },
+    {
+      "id": "rss:807633870f836998",
+      "kind": "news",
+      "title": "Crypto poured years into new products. The next challenge is keeping users",
+      "url": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791122400
+    },
+    {
+      "id": "rss:f0882987a192e582",
+      "kind": "news",
+      "title": "The Clarity Act stalled. Bankers aren’t hitting the brakes yet on crypto dealmaking",
+      "url": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "us-crypto-regulation",
+      "ts": 1791118800
+    },
+    {
+      "id": "rss:06600bb1e1ff8d62",
+      "kind": "news",
+      "title": "'We Have Identified You, Sir': Near Intents Recovers $3.8 Million After 48-Hour Ultimatum",
+      "url": "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "near-intents-exploit",
+      "ts": 1791118863
+    },
+    {
+      "id": "rss:07e8663eb0dc62b8",
+      "kind": "news",
+      "title": "Trump taps intel chief Jay Clayton to lead new Super Intelligence Force",
+      "url": "https://cointelegraph.com/news/trump-taps-jay-clayton-to-lead-new-super-intelligence-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791121728
+    },
+    {
+      "id": "rss:44ac7f390a170a3a",
+      "kind": "news",
+      "title": "Japan adds Garantex to list of Russia sanctions over Ukraine war",
+      "url": "https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791117720
+    },
+    {
+      "id": "rss:a67c51cc83b19bfe",
+      "kind": "news",
+      "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
+      "url": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791106800
+    },
+    {
+      "id": "rss:11962eb215230c93",
+      "kind": "news",
+      "title": "[Discussion] A second, issuer-controlled verifier for cross-chain GHO on CCIP 2.0",
+      "url": "https://governance.aave.com/t/discussion-a-second-issuer-controlled-verifier-for-cross-chain-gho-on-ccip-2-0/25771",
+      "source": "Aave gouvernance",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791116791
     }
   ],
   "digest_queue": [
@@ -652,7 +681,7 @@
     },
     "2026-10-04": {
       "critical": 0,
-      "important": 1,
+      "important": 2,
       "digests": []
     }
   },
@@ -728,7 +757,8 @@
     "tokenized-assets-eu": "important",
     "ethereum-privacy-infrastructure": "important",
     "bitget-hack": "important",
-    "russia-digital-ruble": "important"
+    "russia-digital-ruble": "important",
+    "general-market-news": "important"
   },
   "briefing_attempts": {
     "2026-09-30": 1,
