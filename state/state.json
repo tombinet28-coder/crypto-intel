@@ -1,15 +1,5 @@
 {
   "seen": {
-    "rss:cca6d37551d6c62a": 1790840759.3660479,
-    "rss:87ae6021792687ae": 1790840759.3660488,
-    "rss:a2cf21711b546fc7": 1790840759.3660493,
-    "rss:69502da04bdb01fd": 1790840759.3660495,
-    "rss:bcb3d54cd56c4ef7": 1790840759.3660498,
-    "rss:043a2bf5f6f78168": 1790840759.36605,
-    "rss:39df3d332a904bc7": 1790840759.36605,
-    "move24:bitway:20727": 1790840759.366168,
-    "move24:blockstack:20727": 1790840759.366188,
-    "move24:midnight-3:20727": 1790840759.3662,
     "rss:f79e7348454e3a5c": 1790868185.0966945,
     "rss:0bae6d111823c051": 1790868185.0966961,
     "rss:82b5aee7adf72d32": 1790868185.0966966,
@@ -133,7 +123,8 @@
     "move:pump-fun:497515": 1791056835.2688675,
     "move24:bitway:20729": 1791067772.3471131,
     "move24:rain:20730": 1791081111.402945,
-    "move24:bitway:20730": 1791081111.4029677
+    "move24:bitway:20730": 1791081111.4029677,
+    "rss:d689510cce275901": 1791103653.940369
   },
   "x_since": {},
   "recent": [
@@ -158,17 +149,6 @@
       "xRole": null,
       "cluster": "us-crypto-regulation",
       "ts": 1791019501
-    },
-    {
-      "id": "rss:0388c675f56ef10b",
-      "kind": "news",
-      "title": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
-      "url": "https://cointelegraph.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "ai-general-news",
-      "ts": 1791011168
     },
     {
       "id": "rss:d9f256a9b1c59d52",
@@ -268,6 +248,17 @@
       "xRole": null,
       "cluster": "bitget-hack",
       "ts": 1791046863
+    },
+    {
+      "id": "rss:d689510cce275901",
+      "kind": "news",
+      "title": "Russia’s Finance Ministry pays wages in digital rubles for first time",
+      "url": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "russia-digital-ruble",
+      "ts": 1791098213
     }
   ],
   "digest_queue": [
@@ -661,7 +652,7 @@
     },
     "2026-10-04": {
       "critical": 0,
-      "important": 0,
+      "important": 1,
       "digests": []
     }
   },
@@ -736,12 +727,14 @@
     "bitgo-clarity-systemic-risk": "important",
     "tokenized-assets-eu": "important",
     "ethereum-privacy-infrastructure": "important",
-    "bitget-hack": "important"
+    "bitget-hack": "important",
+    "russia-digital-ruble": "important"
   },
   "briefing_attempts": {
     "2026-09-30": 1,
     "2026-10-01": 1,
     "2026-10-02": 1,
-    "2026-10-03": 1
+    "2026-10-03": 1,
+    "2026-10-04": 1
   }
 }
