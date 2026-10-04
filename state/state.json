@@ -1,8 +1,5 @@
 {
   "seen": {
-    "rss:ea9ee8f1fc024373": 1790818220.2514079,
-    "rss:83feee7e89549b06": 1790818220.2514088,
-    "rss:99f21ac1dc1d4eb5": 1790818220.251409,
     "rss:cca6d37551d6c62a": 1790840759.3660479,
     "rss:87ae6021792687ae": 1790840759.3660488,
     "rss:a2cf21711b546fc7": 1790840759.3660493,
@@ -134,7 +131,9 @@
     "rss:10c997af64130093": 1791045546.9939778,
     "rss:ad41da929530bf2b": 1791056835.268783,
     "move:pump-fun:497515": 1791056835.2688675,
-    "move24:bitway:20729": 1791067772.3471131
+    "move24:bitway:20729": 1791067772.3471131,
+    "move24:rain:20730": 1791081111.402945,
+    "move24:bitway:20730": 1791081111.4029677
   },
   "x_since": {},
   "recent": [
@@ -567,6 +566,52 @@
       ],
       "ts": 1791067772.3470798,
       "time": "00:49",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "CoinGecko",
+          "url": "https://www.coingecko.com/en/coins/bitway"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "move24:rain:20730",
+      "kind": "price",
+      "level": "important",
+      "title": "RAIN +32.6 % en 24 h (rang 17)",
+      "summary": "Mouvement inhabituel dans le top 100 : cause à vérifier.",
+      "url": "https://www.coingecko.com/en/coins/rain",
+      "source": "CoinGecko",
+      "tier": 1,
+      "assets": [
+        "RAIN"
+      ],
+      "ts": 1791081111.4028878,
+      "time": "04:31",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "CoinGecko",
+          "url": "https://www.coingecko.com/en/coins/rain"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "move24:bitway:20730",
+      "kind": "price",
+      "level": "important",
+      "title": "BTW -31.2 % en 24 h (rang 42)",
+      "summary": "Mouvement inhabituel dans le top 100 : cause à vérifier.",
+      "url": "https://www.coingecko.com/en/coins/bitway",
+      "source": "CoinGecko",
+      "tier": 1,
+      "assets": [
+        "BTW"
+      ],
+      "ts": 1791081111.4029107,
+      "time": "04:31",
       "confidence": "confirmed",
       "sources": [
         {
