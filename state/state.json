@@ -1,29 +1,5 @@
 {
   "seen": {
-    "rss:f79e7348454e3a5c": 1790868185.0966945,
-    "rss:0bae6d111823c051": 1790868185.0966961,
-    "rss:82b5aee7adf72d32": 1790868185.0966966,
-    "rss:3c3b5334ea4ecac4": 1790868185.0966969,
-    "rss:301e219028416bad": 1790868185.096697,
-    "rss:a53e063f2321e1e5": 1790868185.096697,
-    "rss:f72d4c2015c34620": 1790868185.0966973,
-    "rss:6ad7f165951c4d94": 1790868185.0966976,
-    "rss:affd436a2f54a2f3": 1790868185.0966976,
-    "rss:eecf06a67e58e9ad": 1790868185.0966978,
-    "rss:3581a85b33154a3c": 1790868185.096698,
-    "rss:bec7f2fec6498d9f": 1790868185.0966983,
-    "rss:ea4304420aa64c92": 1790868185.0966983,
-    "rss:4cb3681881812d78": 1790868185.0966985,
-    "rss:08a41e5d6457e835": 1790868185.0966985,
-    "rss:28c54584d20fb0c3": 1790868185.0966988,
-    "rss:78d63bc7773e5a2a": 1790868185.0966988,
-    "rss:a576390c319127f4": 1790868185.0966992,
-    "rss:66db7203cf7a5530": 1790868185.0966992,
-    "rss:00752fd7faba9dc5": 1790868185.0966995,
-    "rss:0b8e147391a286d3": 1790868185.0966995,
-    "rss:e30b32f385c796de": 1790868185.0966997,
-    "rss:072df99880b76dad": 1790868185.0966997,
-    "rss:0be9aa8a1069b1cb": 1790868185.0967,
     "rss:ef4dc7cf64ffab87": 1790886479.6174152,
     "rss:42d76a0a8e1f4d54": 1790886479.6174161,
     "rss:154ffdc2035ab790": 1790886479.6174166,
@@ -131,76 +107,14 @@
     "rss:07e8663eb0dc62b8": 1791125105.9431593,
     "rss:44ac7f390a170a3a": 1791125105.9431596,
     "rss:a67c51cc83b19bfe": 1791125105.9431598,
-    "rss:11962eb215230c93": 1791125105.94316
+    "rss:11962eb215230c93": 1791125105.94316,
+    "rss:a31307f9803d1e05": 1791138977.9548016,
+    "rss:b75fc0815af0cdd2": 1791138977.9548028,
+    "rss:eb582c67c27972f5": 1791138977.954803,
+    "rss:2067f3463902d894": 1791138977.954803
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:d9f256a9b1c59d52",
-      "kind": "news",
-      "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
-      "url": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791043200
-    },
-    {
-      "id": "rss:fbc5efccc31374fb",
-      "kind": "news",
-      "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
-      "url": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791043200
-    },
-    {
-      "id": "rss:ea7fdea44ee94edc",
-      "kind": "news",
-      "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
-      "url": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ai-general-news",
-      "ts": 1791039600
-    },
-    {
-      "id": "rss:b79e65815478f2ab",
-      "kind": "news",
-      "title": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
-      "url": "https://decrypt.co/380001/openai-banned-pewdiepie-twice-ajax-uncensored-ai",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ai-general-news",
-      "ts": 1791043263
-    },
-    {
-      "id": "rss:95307997f4b8b9b0",
-      "kind": "news",
-      "title": "Trump Is Hosting Yet Another Meme Coin Dinner: Here Are the Details",
-      "url": "https://decrypt.co/380002/trump-third-meme-coin-dinner-details",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791039663
-    },
-    {
-      "id": "rss:ad41da929530bf2b",
-      "kind": "news",
-      "title": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
-      "url": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "bitget-hack",
-      "ts": 1791046863
-    },
     {
       "id": "rss:d689510cce275901",
       "kind": "news",
@@ -288,6 +202,50 @@
       "xRole": null,
       "cluster": "general-market-news",
       "ts": 1791116791
+    },
+    {
+      "id": "rss:a31307f9803d1e05",
+      "kind": "news",
+      "title": "There's an election next month: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791138600
+    },
+    {
+      "id": "rss:b75fc0815af0cdd2",
+      "kind": "news",
+      "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
+      "url": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "us-crypto-regulation",
+      "ts": 1791133263
+    },
+    {
+      "id": "rss:eb582c67c27972f5",
+      "kind": "news",
+      "title": "Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System",
+      "url": "https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "us-crypto-regulation",
+      "ts": 1791129663
+    },
+    {
+      "id": "rss:2067f3463902d894",
+      "kind": "news",
+      "title": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
+      "url": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791126063
     }
   ],
   "digest_queue": [
@@ -593,7 +551,7 @@
           "url": "https://www.coingecko.com/en/coins/bitway"
         }
       ],
-      "digested": false
+      "digested": true
     },
     {
       "id": "move24:rain:20730",
@@ -616,7 +574,7 @@
           "url": "https://www.coingecko.com/en/coins/rain"
         }
       ],
-      "digested": false
+      "digested": true
     },
     {
       "id": "move24:bitway:20730",
@@ -639,7 +597,7 @@
           "url": "https://www.coingecko.com/en/coins/bitway"
         }
       ],
-      "digested": false
+      "digested": true
     }
   ],
   "sent": {
@@ -682,7 +640,9 @@
     "2026-10-04": {
       "critical": 0,
       "important": 2,
-      "digests": []
+      "digests": [
+        "18:30"
+      ]
     }
   },
   "alerted": {
