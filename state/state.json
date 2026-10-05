@@ -1,15 +1,5 @@
 {
   "seen": {
-    "rss:80f5921d7893ad32": 1790921348.4789972,
-    "rss:bb5aa12edf160c46": 1790921348.478999,
-    "rss:a6def03b3d7e14ef": 1790921348.4789991,
-    "rss:8d3441730ea813cc": 1790921348.4789994,
-    "rss:744f405fa7633b74": 1790921348.4789996,
-    "rss:81a694d98b01dd31": 1790921348.4789999,
-    "rss:732a3bd835d195dc": 1790921348.4789999,
-    "rss:04777932a05785c4": 1790921348.4789999,
-    "rss:663d4e2d1ffac04a": 1790921348.479,
-    "rss:456480a2ff33df1e": 1790921348.4790003,
     "rss:09eda265504a3831": 1790943932.0578709,
     "rss:19021c00711e60b5": 1790943932.057872,
     "rss:c5ce2633208cdf87": 1790943932.0578723,
@@ -89,7 +79,16 @@
     "rss:043a2bf5f6f78168": 1791150870.0779564,
     "rss:7c9aeeddb235f7fb": 1791161222.025246,
     "rss:4c2f6ed9e101591d": 1791161222.0252469,
-    "move24:bitway:20731": 1791161222.0253344
+    "move24:bitway:20731": 1791161222.0253344,
+    "rss:63b147d876e10929": 1791183380.726729,
+    "rss:c1030202a4f41970": 1791183380.7267303,
+    "rss:0615637e2b5c4142": 1791183380.7267306,
+    "rss:ef621f0632e13945": 1791183380.7267308,
+    "rss:f071162e0e818643": 1791183380.726731,
+    "rss:8e137d5636a759d0": 1791183380.7267313,
+    "rss:3527cf321e496a56": 1791183380.726741,
+    "rss:429a014dbaa56c0d": 1791183380.726741,
+    "rss:7ce84f7a150c592d": 1791183380.7267413
   },
   "x_since": {},
   "recent": [
@@ -257,6 +256,105 @@
       "xRole": null,
       "cluster": "general-market-news",
       "ts": 1791153072
+    },
+    {
+      "id": "rss:63b147d876e10929",
+      "kind": "news",
+      "title": "Ethereum has a 25-day wait to start staking, with nearly 1.5 million ETH in line",
+      "url": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "eth-staking-queue",
+      "ts": 1791182429
+    },
+    {
+      "id": "rss:c1030202a4f41970",
+      "kind": "news",
+      "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
+      "url": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "okx-ice-tokenized-stocks",
+      "ts": 1791175503
+    },
+    {
+      "id": "rss:0615637e2b5c4142",
+      "kind": "news",
+      "title": "Zcash’s 25-second blocks go live on public testnet ahead of schedule",
+      "url": "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "zcash-nu7-upgrade",
+      "ts": 1791175295
+    },
+    {
+      "id": "rss:ef621f0632e13945",
+      "kind": "news",
+      "title": "Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses",
+      "url": "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791174205
+    },
+    {
+      "id": "rss:f071162e0e818643",
+      "kind": "news",
+      "title": "Ether's bitcoin-beating Q3 rally came with a catch. Liquidity thinned.",
+      "url": "https://www.coindesk.com/markets/2026/10/05/ether-s-bitcoin-beating-q3-rally-came-with-a-catch-liquidity-thinned",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791172229
+    },
+    {
+      "id": "rss:8e137d5636a759d0",
+      "kind": "news",
+      "title": "OKX, NYSE parent ICE joint venture seeks to launch tokenized US stock trading venue",
+      "url": "https://www.theblock.co/news/business/2026-10-05-okx-ice-joint-venture-tokenized-stock-trading-417613",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "okx-ice-tokenized-stocks",
+      "ts": 1791182304
+    },
+    {
+      "id": "rss:3527cf321e496a56",
+      "kind": "news",
+      "title": "Zcash activates NU7 on testnet ahead of November mainnet target",
+      "url": "https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "zcash-nu7-upgrade",
+      "ts": 1791172039
+    },
+    {
+      "id": "rss:429a014dbaa56c0d",
+      "kind": "news",
+      "title": "OKX, NYSE parent file to launch tokenized US stock platform",
+      "url": "https://cointelegraph.com/news/okx-nyse-parent-file-to-launch-tokenized-us-stock-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "okx-ice-tokenized-stocks",
+      "ts": 1791171849
+    },
+    {
+      "id": "rss:7ce84f7a150c592d",
+      "kind": "news",
+      "title": "Safe investor asks Swiss watchdog to intervene in governance dispute",
+      "url": "https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "safe-governance-dispute",
+      "ts": 1791169941
     }
   ],
   "digest_queue": [
@@ -676,7 +774,7 @@
     },
     "2026-10-05": {
       "critical": 0,
-      "important": 0,
+      "important": 1,
       "digests": []
     }
   },
@@ -753,13 +851,15 @@
     "ethereum-privacy-infrastructure": "important",
     "bitget-hack": "important",
     "russia-digital-ruble": "important",
-    "general-market-news": "important"
+    "general-market-news": "important",
+    "okx-ice-tokenized-stocks": "important"
   },
   "briefing_attempts": {
     "2026-09-30": 1,
     "2026-10-01": 1,
     "2026-10-02": 1,
     "2026-10-03": 1,
-    "2026-10-04": 1
+    "2026-10-04": 1,
+    "2026-10-05": 1
   }
 }
