@@ -1,34 +1,5 @@
 {
   "seen": {
-    "rss:c53aa91d733ca2bd": 1790964016.1385329,
-    "rss:77fb54b2523787e3": 1790964016.1385338,
-    "rss:231a9c042bab08dd": 1790964016.1385343,
-    "rss:8d84b9deebb5f089": 1790964016.1385345,
-    "rss:1284ab1e9209e674": 1790964016.1385345,
-    "rss:c3cbaebb84e564b8": 1790964016.138535,
-    "rss:8fa6a5356de76a9a": 1790964016.138535,
-    "rss:aee9c6e41f435069": 1790964016.1385353,
-    "rss:4c65e125d7921b03": 1790964016.1385355,
-    "rss:5cc5713f6cdd29df": 1790964016.1385355,
-    "rss:27ce55bcaebf3bfe": 1790964016.1385357,
-    "rss:f36045173dd5b363": 1790964016.138536,
-    "rss:c53c3a9df43ee23b": 1790964016.138536,
-    "rss:c88b2981c85d7c46": 1790964016.1385362,
-    "rss:19f713aa32ba0a09": 1790964016.1385362,
-    "rss:f915611c29592e8c": 1790964016.1385365,
-    "rss:ef5de2d6e2d9fe2b": 1790964016.1385365,
-    "rss:9dec7e528b263544": 1790964016.1385367,
-    "rss:6f71d83973031b98": 1790964016.1385367,
-    "rss:7ca703b30cdef2ed": 1790964016.138537,
-    "rss:2dacdaefc3180908": 1790964016.138537,
-    "rss:19424cd759f01a6d": 1790978794.986877,
-    "rss:ca281cba9858998a": 1790978794.9868782,
-    "rss:aca24714c21a99d8": 1790978794.9868784,
-    "rss:4654393997dd191d": 1790978794.9868789,
-    "rss:788f456047d08d81": 1790978794.9868793,
-    "rss:b5a2fbd7ed42a121": 1790978794.9868793,
-    "rss:91e1825fd1577986": 1790978794.9868796,
-    "rss:eb77263740358b55": 1790978794.9868796,
     "move:pump-fun:497497": 1790989723.0412347,
     "move24:midnight-3:20729": 1790989723.0412645,
     "rss:22b7a390f2f0c263": 1791030527.214849,
@@ -98,54 +69,29 @@
     "rss:27e469f021ad5bad": 1791215617.2480173,
     "rss:bbe28502d5192b8a": 1791215617.2480175,
     "rss:8b29de263690fcab": 1791215617.2480175,
-    "rss:535f8b037613e65b": 1791215617.248018
+    "rss:535f8b037613e65b": 1791215617.248018,
+    "rss:a2e99e279cf80f7d": 1791239568.2955441,
+    "rss:5cf006a4393f2e6f": 1791239568.2955453,
+    "rss:72d145fcff0d928c": 1791239568.2955456,
+    "rss:3ad027892609395d": 1791239568.2955458,
+    "rss:82f5d6eb08af0068": 1791239568.295546,
+    "rss:552d2a44d42ec609": 1791239568.295546,
+    "rss:4377817da86eca28": 1791239568.2955463,
+    "rss:94f26603dc345f73": 1791239568.2955465,
+    "rss:a9d0dc3c0c1364a5": 1791239568.2955468,
+    "rss:bf5c52f0c32a0c82": 1791239568.2955468,
+    "rss:26d1bbca93e442fe": 1791239568.2955472,
+    "rss:5e2369e3f263af7c": 1791239568.2955475,
+    "rss:61af003fd6fd8a45": 1791239568.2955475,
+    "rss:aae6df444068d129": 1791239568.2955477,
+    "rss:90809074b8e9bfff": 1791239568.2955482,
+    "rss:c006f307db757b07": 1791239568.2955482,
+    "rss:e5bd76104378ec67": 1791239568.2955484,
+    "rss:9e41b0929a71ebc6": 1791239568.2955484,
+    "rss:5d6e17067b9d7530": 1791239568.2955487
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:a31307f9803d1e05",
-      "kind": "news",
-      "title": "There's an election next month: State of Crypto",
-      "url": "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791138600
-    },
-    {
-      "id": "rss:b75fc0815af0cdd2",
-      "kind": "news",
-      "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
-      "url": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "us-crypto-regulation",
-      "ts": 1791133263
-    },
-    {
-      "id": "rss:eb582c67c27972f5",
-      "kind": "news",
-      "title": "Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System",
-      "url": "https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "us-crypto-regulation",
-      "ts": 1791129663
-    },
-    {
-      "id": "rss:043a2bf5f6f78168",
-      "kind": "news",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791139910
-    },
     {
       "id": "rss:7c9aeeddb235f7fb",
       "kind": "news",
@@ -156,17 +102,6 @@
       "xRole": null,
       "cluster": "zcash-lobbying",
       "ts": 1791160534
-    },
-    {
-      "id": "rss:4c2f6ed9e101591d",
-      "kind": "news",
-      "title": "Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest",
-      "url": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791153072
     },
     {
       "id": "rss:63b147d876e10929",
@@ -563,6 +498,215 @@
       "xRole": null,
       "cluster": "general-market-news",
       "ts": 1791204456
+    },
+    {
+      "id": "rss:a2e99e279cf80f7d",
+      "kind": "news",
+      "title": "Crypto's campaign arm, Fairshake, sets lists of U.S. House favorites it'll spend on",
+      "url": "https://www.coindesk.com/policy/2026/10/05/crypto-s-campaign-arm-fairshake-sets-lists-of-u-s-house-favorites-it-ll-spend-on",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "fairshake-house-candidates",
+      "ts": 1791228066
+    },
+    {
+      "id": "rss:5cf006a4393f2e6f",
+      "kind": "news",
+      "title": "More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here’s how it works",
+      "url": "https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "tokenized-stocks-onchain",
+      "ts": 1791220694
+    },
+    {
+      "id": "rss:72d145fcff0d928c",
+      "kind": "news",
+      "title": "Treasury withdraws crypto mixing rule, citing concerns over ‘chilling effect on legitimate activity’",
+      "url": "https://www.theblock.co/news/regulation/2026-10-05-fincen-drops-crypto-mixing-rule-self-hosted-wallet-proposal-417690",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "fincen-crypto-rules-withdrawal",
+      "ts": 1791220957
+    },
+    {
+      "id": "rss:3ad027892609395d",
+      "kind": "news",
+      "title": "Umia raises $6.1 million at $18 million FDV to help crypto projects launch tokens",
+      "url": "https://www.theblock.co/news/business/2026-10-05-umia-raises-6-1-million-at-18-million-fdv-to-help-crypto-projects-launch-tokens-417717",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "umia-token-launch",
+      "ts": 1791218955
+    },
+    {
+      "id": "rss:82f5d6eb08af0068",
+      "kind": "news",
+      "title": "Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months",
+      "url": "https://decrypt.co/380129/strive-adds-169m-bitcoin-biggest-buy-four-months",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "strive-bitcoin-accumulation",
+      "ts": 1791239420
+    },
+    {
+      "id": "rss:552d2a44d42ec609",
+      "kind": "news",
+      "title": "DeFi Development Corp Adds $3 Million in Solana as SOL Buys Slow",
+      "url": "https://decrypt.co/380125/defi-development-corp-adds-3m-solana",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "defi-development-sol-holdings",
+      "ts": 1791236883
+    },
+    {
+      "id": "rss:4377817da86eca28",
+      "kind": "news",
+      "title": "A Florida Woman Used Claude as a Diary. An Anthropic Employee Read It and Reported It to Police",
+      "url": "https://decrypt.co/380119/florida-woman-claude-diary-anthropic-reported-police",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "anthropic-privacy-incident",
+      "ts": 1791234963
+    },
+    {
+      "id": "rss:94f26603dc345f73",
+      "kind": "news",
+      "title": "Why a 4chan Bitcoin Prophecy Says Today Is the End of Crypto Winter",
+      "url": "https://decrypt.co/380113/4chan-bitcoin-prophecy-end-crypto-winter",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "4chan-bitcoin-prophecy",
+      "ts": 1791233163
+    },
+    {
+      "id": "rss:a9d0dc3c0c1364a5",
+      "kind": "news",
+      "title": "Treasury Kills Crypto 'Unhosted Wallet' and Mixer Surveillance Rules",
+      "url": "https://decrypt.co/380120/treasury-kills-crypto-unhosted-wallet-mixer-surveillance-rules",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "fincen-crypto-rules-withdrawal",
+      "ts": 1791231578
+    },
+    {
+      "id": "rss:bf5c52f0c32a0c82",
+      "kind": "news",
+      "title": "Crypto Sleuth ZachXBT Fronted $350K to Pose as a Client of Lazarus' Chinese Launderers",
+      "url": "https://decrypt.co/380092/zachxbt-fronted-350k-pose-client-lazarus-chinese-crypto-launderers",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "lazarus-group-tracking",
+      "ts": 1791225962
+    },
+    {
+      "id": "rss:26d1bbca93e442fe",
+      "kind": "news",
+      "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
+      "url": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "sec-3x-leverage-etf",
+      "ts": 1791223948
+    },
+    {
+      "id": "rss:5e2369e3f263af7c",
+      "kind": "news",
+      "title": "CFTC Unveils Plan to Bring Crypto Exchanges Under Federal Oversight",
+      "url": "https://decrypt.co/380090/cftc-plan-crypto-exchanges-federal-oversight-leverage",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "cftc-crypto-exchange-oversight",
+      "ts": 1791218763
+    },
+    {
+      "id": "rss:61af003fd6fd8a45",
+      "kind": "news",
+      "title": "Crypto PAC announces support for 32 House candidates in US midterms",
+      "url": "https://cointelegraph.com/news/crypto-pac-fairshake-house-endorsements-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "fairshake-house-candidates",
+      "ts": 1791236550
+    },
+    {
+      "id": "rss:aae6df444068d129",
+      "kind": "news",
+      "title": "FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns",
+      "url": "https://cointelegraph.com/news/fincen-crypto-mixing-rule-legitimate-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "fincen-crypto-rules-withdrawal",
+      "ts": 1791233213
+    },
+    {
+      "id": "rss:90809074b8e9bfff",
+      "kind": "news",
+      "title": "Modern Treasury seeks US trust bank charter for digital asset custody",
+      "url": "https://cointelegraph.com/news/modern-treasury-seeks-us-trust-bank-charter-for-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "modern-treasury-custody-charter",
+      "ts": 1791230032
+    },
+    {
+      "id": "rss:c006f307db757b07",
+      "kind": "news",
+      "title": "Advocacy group pushes back on banks’ lawsuit against OCC over charters",
+      "url": "https://cointelegraph.com/news/crypto-advocacy-groups-icba-lawsuit-occ-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "us-crypto-regulation",
+      "ts": 1791227722
+    },
+    {
+      "id": "rss:e5bd76104378ec67",
+      "kind": "news",
+      "title": "S&P Global brings risk assessments to growing crypto lending vault sector",
+      "url": "https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "sp-global-crypto-lending-risk",
+      "ts": 1791223138
+    },
+    {
+      "id": "rss:9e41b0929a71ebc6",
+      "kind": "news",
+      "title": "CFTC joins SEC in proposing crypto framework after failed CLARITY vote",
+      "url": "https://cointelegraph.com/news/cftc-proposed-crypto-framework-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "cftc-crypto-exchange-oversight",
+      "ts": 1791222023
+    },
+    {
+      "id": "rss:5d6e17067b9d7530",
+      "kind": "news",
+      "title": "Treasury yields at 5% threaten extending Bitcoin’s best quarter since 2017",
+      "url": "https://cointelegraph.com/markets/bitcoin-q3-rally-treasury-yields-fed-rate-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791219188
     }
   ],
   "digest_queue": [
@@ -938,14 +1082,127 @@
         }
       ],
       "digested": false
+    },
+    {
+      "id": "fairshake-house-candidates:2026-10-06",
+      "level": "important",
+      "time": "00:32",
+      "title": "Fairshake soutient 32 candidats à la Chambre des représentants",
+      "summary": "Le PAC crypto Fairshake annonce son soutien financier à 32 candidats à la Chambre qui ont voté en faveur du projet de loi CLARITY en 2025.",
+      "assets": [],
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/10/05/crypto-s-campaign-arm-fairshake-sets-lists-of-u-s-house-favorites-it-ll-spend-on"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/crypto-pac-fairshake-house-endorsements-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "tokenized-stocks-onchain:2026-10-06",
+      "level": "important",
+      "time": "00:32",
+      "title": "Plus de 60 actions américaines bientôt sur la blockchain",
+      "summary": "Des actions majeures incluant Nvidia et Tesla vont être tokenisées et accessibles en ligne, élargissant l'adoption des actifs numériques traditionnels.",
+      "assets": [],
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "fincen-crypto-rules-withdrawal:2026-10-06",
+      "level": "important",
+      "time": "00:32",
+      "title": "Le Trésor retire la règle sur les mixeurs crypto",
+      "summary": "FinCEN retire sa proposition de 2023 désignant le mixage de crypto comme préoccupation majeure de blanchiment, citant des craintes d'effets dissuasifs sur les activités légitimes.",
+      "assets": [],
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-05-fincen-drops-crypto-mixing-rule-self-hosted-wallet-proposal-417690"
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/380120/treasury-kills-crypto-unhosted-wallet-mixer-surveillance-rules"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/fincen-crypto-mixing-rule-legitimate-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "strive-bitcoin-accumulation:2026-10-06",
+      "level": "important",
+      "time": "00:32",
+      "title": "Strive ajoute 169 millions en Bitcoin, son plus gros achat en quatre mois",
+      "summary": "La société de trésorerie Bitcoin cotée au Nasdaq a acheté 2 000 BTC la semaine passée pour environ 169 millions, portant ses avoirs à 29 462 BTC.",
+      "assets": [
+        "BTC"
+      ],
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/business/2026-10-05-strive-adds-2000-bitcoin-biggest-buy-since-june-closes-in-mara-417677"
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/380129/strive-adds-169m-bitcoin-biggest-buy-four-months"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "cftc-crypto-exchange-oversight:2026-10-06",
+      "level": "important",
+      "time": "00:32",
+      "title": "La CFTC propose un cadre fédéral pour la surveillance des échanges crypto",
+      "summary": "La CFTC met en place une consultation publique pour créer une nouvelle licence fédérale pour les échanges crypto, déclenchée par les offres d'effet de levier.",
+      "assets": [],
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/380090/cftc-plan-crypto-exchanges-federal-oversight-leverage"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/cftc-proposed-crypto-framework-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "modern-treasury-custody-charter:2026-10-06",
+      "level": "important",
+      "time": "00:32",
+      "title": "Modern Treasury demande une charte bancaire fédérale pour la garde d'actifs numériques",
+      "summary": "La société d'infrastructure de paiements demande l'approbation fédérale pour offrir la garde de stablecoins et services fiduciaires connexes via une charte bancaire nationale à usage limité.",
+      "assets": [],
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/modern-treasury-seeks-us-trust-bank-charter-for-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "digested": false
     }
   ],
   "sent": {
-    "2026-09-29": {
-      "critical": 0,
-      "digests": [],
-      "important": 0
-    },
     "2026-09-30": {
       "critical": 0,
       "important": 15,
@@ -983,6 +1240,11 @@
     "2026-10-05": {
       "critical": 0,
       "important": 4,
+      "digests": []
+    },
+    "2026-10-06": {
+      "critical": 0,
+      "important": 0,
       "digests": []
     }
   },
@@ -1063,7 +1325,13 @@
     "okx-ice-tokenized-stocks": "important",
     "stripe-stablecoin-expansion": "important",
     "sec-3x-leverage-etf": "important",
-    "treasury-crypto-hamas": "important"
+    "treasury-crypto-hamas": "important",
+    "fairshake-house-candidates": "important",
+    "tokenized-stocks-onchain": "important",
+    "fincen-crypto-rules-withdrawal": "important",
+    "strive-bitcoin-accumulation": "important",
+    "cftc-crypto-exchange-oversight": "important",
+    "modern-treasury-custody-charter": "important"
   },
   "briefing_attempts": {
     "2026-09-30": 1,
