@@ -1,12 +1,5 @@
 {
   "seen": {
-    "rss:e200f6b67a48ae04": 1790899658.2983336,
-    "rss:8f2dd71bf0277943": 1790899658.298335,
-    "rss:48310fcb80f5156a": 1790899658.2983356,
-    "rss:22f2cce2144c4624": 1790899658.2983358,
-    "rss:5ffbeb77a3b105f0": 1790899658.298336,
-    "rss:cab8e5201cc0985b": 1790899658.2983363,
-    "rss:90c3e83e0da55bc2": 1790899658.2983365,
     "rss:80f5921d7893ad32": 1790921348.4789972,
     "rss:bb5aa12edf160c46": 1790921348.478999,
     "rss:a6def03b3d7e14ef": 1790921348.4789991,
@@ -93,7 +86,10 @@
     "rss:b75fc0815af0cdd2": 1791138977.9548028,
     "rss:eb582c67c27972f5": 1791138977.954803,
     "rss:2067f3463902d894": 1791138977.954803,
-    "rss:043a2bf5f6f78168": 1791150870.0779564
+    "rss:043a2bf5f6f78168": 1791150870.0779564,
+    "rss:7c9aeeddb235f7fb": 1791161222.025246,
+    "rss:4c2f6ed9e101591d": 1791161222.0252469,
+    "move24:bitway:20731": 1791161222.0253344
   },
   "x_since": {},
   "recent": [
@@ -239,6 +235,28 @@
       "xRole": null,
       "cluster": "general-market-news",
       "ts": 1791139910
+    },
+    {
+      "id": "rss:7c9aeeddb235f7fb",
+      "kind": "news",
+      "title": "Zcash gets a Washington lobbyist to push crypto policy",
+      "url": "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "zcash-lobbying",
+      "ts": 1791160534
+    },
+    {
+      "id": "rss:4c2f6ed9e101591d",
+      "kind": "news",
+      "title": "Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest",
+      "url": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791153072
     }
   ],
   "digest_queue": [
@@ -591,13 +609,32 @@
         }
       ],
       "digested": true
+    },
+    {
+      "id": "move24:bitway:20731",
+      "kind": "price",
+      "level": "important",
+      "title": "BTW +26.9 % en 24 h (rang 37)",
+      "summary": "Mouvement inhabituel dans le top 100 : cause à vérifier.",
+      "url": "https://www.coingecko.com/en/coins/bitway",
+      "source": "CoinGecko",
+      "tier": 1,
+      "assets": [
+        "BTW"
+      ],
+      "ts": 1791161222.0252986,
+      "time": "02:46",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "CoinGecko",
+          "url": "https://www.coingecko.com/en/coins/bitway"
+        }
+      ],
+      "digested": false
     }
   ],
   "sent": {
-    "2026-09-28": {
-      "critical": 1,
-      "digests": []
-    },
     "2026-09-29": {
       "critical": 0,
       "digests": [],
@@ -636,6 +673,11 @@
       "digests": [
         "18:30"
       ]
+    },
+    "2026-10-05": {
+      "critical": 0,
+      "important": 0,
+      "digests": []
     }
   },
   "alerted": {
