@@ -1,7 +1,5 @@
 {
   "seen": {
-    "move:pump-fun:497497": 1790989723.0412347,
-    "move24:midnight-3:20729": 1790989723.0412645,
     "rss:22b7a390f2f0c263": 1791030527.214849,
     "rss:880d0910691c8ac0": 1791030527.21485,
     "rss:0388c675f56ef10b": 1791030527.2148502,
@@ -88,21 +86,12 @@
     "rss:c006f307db757b07": 1791239568.2955482,
     "rss:e5bd76104378ec67": 1791239568.2955484,
     "rss:9e41b0929a71ebc6": 1791239568.2955484,
-    "rss:5d6e17067b9d7530": 1791239568.2955487
+    "rss:5d6e17067b9d7530": 1791239568.2955487,
+    "rss:a888bbfc45192f5a": 1791253696.2459612,
+    "rss:6c2e83b52adbcad0": 1791253696.245962
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:7c9aeeddb235f7fb",
-      "kind": "news",
-      "title": "Zcash gets a Washington lobbyist to push crypto policy",
-      "url": "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "zcash-lobbying",
-      "ts": 1791160534
-    },
     {
       "id": "rss:63b147d876e10929",
       "kind": "news",
@@ -707,6 +696,28 @@
       "xRole": null,
       "cluster": "general-market-news",
       "ts": 1791219188
+    },
+    {
+      "id": "rss:a888bbfc45192f5a",
+      "kind": "news",
+      "title": "Solana Debuts Institutional Settlement Standard With J.P. Morgan Input",
+      "url": "https://decrypt.co/380126/solana-institutional-settlement-standard-jp-morgan",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "solana-institutional-settlement",
+      "ts": 1791252063
+    },
+    {
+      "id": "rss:6c2e83b52adbcad0",
+      "kind": "news",
+      "title": "Chinese crime network laundered over $1B for Lazarus: ZachXBT",
+      "url": "https://cointelegraph.com/news/chinese-crime-network-laundered-over-1b-for-lazarus-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "lazarus-group-tracking",
+      "ts": 1791251244
     }
   ],
   "digest_queue": [
@@ -1200,6 +1211,44 @@
         }
       ],
       "digested": false
+    },
+    {
+      "id": "solana-institutional-settlement:2026-10-06",
+      "level": "important",
+      "time": "04:28",
+      "title": "Solana lance un standard de règlement institutionnel avec J.P. Morgan",
+      "summary": "Solana a déployé un programme open-source « DvP » co-développé avec J.P. Morgan, permettant aux institutions de régler les transactions atomiquement avec finalité en secondes au lieu de jours.",
+      "assets": [
+        "SOL"
+      ],
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/380126/solana-institutional-settlement-standard-jp-morgan"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "lazarus-group-tracking:2026-10-06",
+      "level": "important",
+      "time": "04:28",
+      "title": "Un réseau criminel chinois a blanchi plus d'1 milliard de dollars pour le Lazarus : ZachXBT",
+      "summary": "ZachXBT a infiltré le réseau en se faisant passer pour un client, obtenant des informations qui ont aidé à tracer les fonds du hack Bybit de 1,5 milliard de dollars.",
+      "assets": [],
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/380092/zachxbt-fronted-350k-pose-client-lazarus-chinese-crypto-launderers"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/chinese-crime-network-laundered-over-1b-for-lazarus-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "digested": false
     }
   ],
   "sent": {
@@ -1331,7 +1380,9 @@
     "fincen-crypto-rules-withdrawal": "important",
     "strive-bitcoin-accumulation": "important",
     "cftc-crypto-exchange-oversight": "important",
-    "modern-treasury-custody-charter": "important"
+    "modern-treasury-custody-charter": "important",
+    "solana-institutional-settlement": "important",
+    "lazarus-group-tracking": "important"
   },
   "briefing_attempts": {
     "2026-09-30": 1,
