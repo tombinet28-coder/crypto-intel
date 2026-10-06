@@ -88,109 +88,22 @@
     "rss:9e41b0929a71ebc6": 1791239568.2955484,
     "rss:5d6e17067b9d7530": 1791239568.2955487,
     "rss:a888bbfc45192f5a": 1791253696.2459612,
-    "rss:6c2e83b52adbcad0": 1791253696.245962
+    "rss:6c2e83b52adbcad0": 1791253696.245962,
+    "rss:fc94c644ee0541e4": 1791278641.3462613,
+    "rss:5141614c60603dcc": 1791278641.3462625,
+    "rss:50a861e15ed1931e": 1791278641.3462627,
+    "rss:f3eef30a9f59914b": 1791278641.3462634,
+    "rss:c346ad9b7c459666": 1791278641.3462634,
+    "rss:1977d6f25ec6002a": 1791278641.3462636,
+    "rss:69b9965058a997c8": 1791278641.3462636,
+    "rss:b63f970a88afdff9": 1791278641.346264,
+    "rss:f5545243b7903337": 1791278641.346264,
+    "rss:4aeca4b6e7b59f3f": 1791278641.3462641,
+    "rss:efa270ba5d296f9c": 1791278641.3462641,
+    "rss:e2469ef63d15fc63": 1791278641.3462644
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:63b147d876e10929",
-      "kind": "news",
-      "title": "Ethereum has a 25-day wait to start staking, with nearly 1.5 million ETH in line",
-      "url": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "eth-staking-queue",
-      "ts": 1791182429
-    },
-    {
-      "id": "rss:c1030202a4f41970",
-      "kind": "news",
-      "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
-      "url": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "okx-ice-tokenized-stocks",
-      "ts": 1791175503
-    },
-    {
-      "id": "rss:0615637e2b5c4142",
-      "kind": "news",
-      "title": "Zcash’s 25-second blocks go live on public testnet ahead of schedule",
-      "url": "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "zcash-nu7-upgrade",
-      "ts": 1791175295
-    },
-    {
-      "id": "rss:ef621f0632e13945",
-      "kind": "news",
-      "title": "Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses",
-      "url": "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791174205
-    },
-    {
-      "id": "rss:f071162e0e818643",
-      "kind": "news",
-      "title": "Ether's bitcoin-beating Q3 rally came with a catch. Liquidity thinned.",
-      "url": "https://www.coindesk.com/markets/2026/10/05/ether-s-bitcoin-beating-q3-rally-came-with-a-catch-liquidity-thinned",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791172229
-    },
-    {
-      "id": "rss:8e137d5636a759d0",
-      "kind": "news",
-      "title": "OKX, NYSE parent ICE joint venture seeks to launch tokenized US stock trading venue",
-      "url": "https://www.theblock.co/news/business/2026-10-05-okx-ice-joint-venture-tokenized-stock-trading-417613",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "okx-ice-tokenized-stocks",
-      "ts": 1791182304
-    },
-    {
-      "id": "rss:3527cf321e496a56",
-      "kind": "news",
-      "title": "Zcash activates NU7 on testnet ahead of November mainnet target",
-      "url": "https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "zcash-nu7-upgrade",
-      "ts": 1791172039
-    },
-    {
-      "id": "rss:429a014dbaa56c0d",
-      "kind": "news",
-      "title": "OKX, NYSE parent file to launch tokenized US stock platform",
-      "url": "https://cointelegraph.com/news/okx-nyse-parent-file-to-launch-tokenized-us-stock-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "okx-ice-tokenized-stocks",
-      "ts": 1791171849
-    },
-    {
-      "id": "rss:7ce84f7a150c592d",
-      "kind": "news",
-      "title": "Safe investor asks Swiss watchdog to intervene in governance dispute",
-      "url": "https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "safe-governance-dispute",
-      "ts": 1791169941
-    },
     {
       "id": "rss:42e44fd030211f23",
       "kind": "news",
@@ -718,6 +631,138 @@
       "xRole": null,
       "cluster": "lazarus-group-tracking",
       "ts": 1791251244
+    },
+    {
+      "id": "rss:fc94c644ee0541e4",
+      "kind": "news",
+      "title": "OKX Money lets users save, earn 10% yield and spend dollar stablecoins in one app",
+      "url": "https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "okx-stablecoin-app",
+      "ts": 1791277321
+    },
+    {
+      "id": "rss:5141614c60603dcc",
+      "kind": "news",
+      "title": "Why bitcoin is down 'just' 32% a year after its record high of $126,000",
+      "url": "https://www.coindesk.com/markets/2026/10/06/from-retail-leverage-to-etf-flows-a-year-after-its-record-high-bitcoin-is-down-just-32",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791275263
+    },
+    {
+      "id": "rss:50a861e15ed1931e",
+      "kind": "news",
+      "title": "U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets",
+      "url": "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "us-crypto-regulation-wallet-reporting",
+      "ts": 1791262536
+    },
+    {
+      "id": "rss:f3eef30a9f59914b",
+      "kind": "news",
+      "title": "Ethereum’s Glamsterdam test gets last-minute fix before major capacity jump",
+      "url": "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ethereum-glamsterdam-upgrade",
+      "ts": 1791262145
+    },
+    {
+      "id": "rss:c346ad9b7c459666",
+      "kind": "news",
+      "title": "Bitcoin keeps getting rejected at $87,000 as stocks hover near records",
+      "url": "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791261670
+    },
+    {
+      "id": "rss:1977d6f25ec6002a",
+      "kind": "news",
+      "title": "Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input",
+      "url": "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "solana-institutional-settlement",
+      "ts": 1791260625
+    },
+    {
+      "id": "rss:69b9965058a997c8",
+      "kind": "news",
+      "title": "Solana Foundation targets settlement in seconds with DvP launch",
+      "url": "https://cointelegraph.com/news/solana-foundation-settlement-seconds-dvp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "solana-institutional-settlement",
+      "ts": 1791277886
+    },
+    {
+      "id": "rss:b63f970a88afdff9",
+      "kind": "news",
+      "title": "Bitcoin ETFs shed $90M as BTC sits 32% below year-old ATH",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-90-million-outflow-btc-32-below-record-oct-6?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791274457
+    },
+    {
+      "id": "rss:f5545243b7903337",
+      "kind": "news",
+      "title": "EEZ tests atomic L1-to-L2 transaction in push to unify Ethereum",
+      "url": "https://cointelegraph.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "ethereum-l1-l2-unification",
+      "ts": 1791270573
+    },
+    {
+      "id": "rss:4aeca4b6e7b59f3f",
+      "kind": "news",
+      "title": "Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto",
+      "url": "https://cointelegraph.com/news/better-markets-criticize-cftc-regulate-retail-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "cftc-crypto-regulatory-debate",
+      "ts": 1791265430
+    },
+    {
+      "id": "rss:efa270ba5d296f9c",
+      "kind": "news",
+      "title": "Rain seeks US trust bank charter days after OCC sued over crypto charters",
+      "url": "https://cointelegraph.com/news/rain-seeks-us-trust-bank-charter-days-after-occ-sued-over-crypto-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "us-crypto-regulation",
+      "ts": 1791258340
+    },
+    {
+      "id": "rss:e2469ef63d15fc63",
+      "kind": "news",
+      "title": "OKX eyes emerging markets with yield-offering stablecoin savings and payments app",
+      "url": "https://cointelegraph.com/news/okx-money-stablecoin-savings-payments-emerging-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "okx-stablecoin-app",
+      "ts": 1791258000
     }
   ],
   "digest_queue": [
@@ -1293,7 +1338,7 @@
     },
     "2026-10-06": {
       "critical": 0,
-      "important": 0,
+      "important": 1,
       "digests": []
     }
   },
@@ -1382,7 +1427,8 @@
     "cftc-crypto-exchange-oversight": "important",
     "modern-treasury-custody-charter": "important",
     "solana-institutional-settlement": "important",
-    "lazarus-group-tracking": "important"
+    "lazarus-group-tracking": "important",
+    "us-crypto-regulation-wallet-reporting": "important"
   },
   "briefing_attempts": {
     "2026-09-30": 1,
@@ -1390,6 +1436,7 @@
     "2026-10-02": 1,
     "2026-10-03": 1,
     "2026-10-04": 1,
-    "2026-10-05": 1
+    "2026-10-05": 1,
+    "2026-10-06": 1
   }
 }
