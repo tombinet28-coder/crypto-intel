@@ -1,6 +1,5 @@
 {
   "seen": {
-    "move24:bitway:20729": 1791067772.3471131,
     "move24:rain:20730": 1791081111.402945,
     "move24:bitway:20730": 1791081111.4029677,
     "rss:d689510cce275901": 1791103653.940369,
@@ -134,54 +133,15 @@
     "rss:247b367203351238": 1791321092.6094792,
     "rss:43e077d223abeb38": 1791321092.6094792,
     "rss:8564ad3bbaf1b54b": 1791321092.6094794,
-    "rss:cce1a85652ad7b4d": 1791321092.6094797
+    "rss:cce1a85652ad7b4d": 1791321092.6094797,
+    "rss:0aa3ebb1136cac1a": 1791334782.5969062,
+    "rss:9dac9d5751c28104": 1791334782.5969076,
+    "rss:9f1933099600c082": 1791334782.596908,
+    "rss:3d863da987bf89a6": 1791334782.5969083,
+    "rss:9f4b4633fbb9aa46": 1791334782.5969086
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:82f5d6eb08af0068",
-      "kind": "news",
-      "title": "Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months",
-      "url": "https://decrypt.co/380129/strive-adds-169m-bitcoin-biggest-buy-four-months",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "strive-bitcoin-accumulation",
-      "ts": 1791239420
-    },
-    {
-      "id": "rss:552d2a44d42ec609",
-      "kind": "news",
-      "title": "DeFi Development Corp Adds $3 Million in Solana as SOL Buys Slow",
-      "url": "https://decrypt.co/380125/defi-development-corp-adds-3m-solana",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "defi-development-sol-holdings",
-      "ts": 1791236883
-    },
-    {
-      "id": "rss:4377817da86eca28",
-      "kind": "news",
-      "title": "A Florida Woman Used Claude as a Diary. An Anthropic Employee Read It and Reported It to Police",
-      "url": "https://decrypt.co/380119/florida-woman-claude-diary-anthropic-reported-police",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "anthropic-privacy-incident",
-      "ts": 1791234963
-    },
-    {
-      "id": "rss:61af003fd6fd8a45",
-      "kind": "news",
-      "title": "Crypto PAC announces support for 32 House candidates in US midterms",
-      "url": "https://cointelegraph.com/news/crypto-pac-fairshake-house-endorsements-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "fairshake-house-candidates",
-      "ts": 1791236550
-    },
     {
       "id": "rss:a888bbfc45192f5a",
       "kind": "news",
@@ -852,6 +812,61 @@
       "xRole": null,
       "cluster": "general-market-news",
       "ts": 1791304377
+    },
+    {
+      "id": "rss:0aa3ebb1136cac1a",
+      "kind": "news",
+      "title": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
+      "url": "https://decrypt.co/380257/google-launches-nano-banana-2-1",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791326763
+    },
+    {
+      "id": "rss:9dac9d5751c28104",
+      "kind": "news",
+      "title": "Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious",
+      "url": "https://decrypt.co/380240/circle-dj-khaled-team-usdc-crypto-twitter-furious",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791324963
+    },
+    {
+      "id": "rss:9f1933099600c082",
+      "kind": "news",
+      "title": "Someone Scraped 5.6 Billion TikTok Videos and Put the Data on Hugging Face for Free",
+      "url": "https://decrypt.co/380229/someone-scraped-5-billion-tiktok-videos-posted-data-hugging-face",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791324019
+    },
+    {
+      "id": "rss:3d863da987bf89a6",
+      "kind": "news",
+      "title": "Pudgy Penguins-backed Abstract to shut down after ‘tens of millions’ in losses",
+      "url": "https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "abstract-l2-shutdown",
+      "ts": 1791331300
+    },
+    {
+      "id": "rss:9f4b4633fbb9aa46",
+      "kind": "news",
+      "title": "SEC Seeks Final Judgment Against Former Western Asset Co-CIO Ken Leech in Cherry Picking Case",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-103-sec-seeks-final-judgment-against-former-western-asset-co-cio-ken-leech-cherry-picking-case",
+      "source": "SEC (communiqués)",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791318624
     }
   ],
   "digest_queue": [
@@ -1472,14 +1487,6 @@
     }
   ],
   "sent": {
-    "2026-09-30": {
-      "critical": 0,
-      "important": 15,
-      "digests": [
-        "12:30",
-        "18:30"
-      ]
-    },
     "2026-10-01": {
       "critical": 1,
       "important": 6,
@@ -1514,6 +1521,11 @@
     "2026-10-06": {
       "critical": 0,
       "important": 5,
+      "digests": []
+    },
+    "2026-10-07": {
+      "critical": 0,
+      "important": 0,
       "digests": []
     }
   },
