@@ -1,7 +1,5 @@
 {
   "seen": {
-    "move24:rain:20730": 1791081111.402945,
-    "move24:bitway:20730": 1791081111.4029677,
     "rss:d689510cce275901": 1791103653.940369,
     "rss:807633870f836998": 1791125105.9431574,
     "rss:f0882987a192e582": 1791125105.9431589,
@@ -138,32 +136,19 @@
     "rss:9dac9d5751c28104": 1791334782.5969076,
     "rss:9f1933099600c082": 1791334782.596908,
     "rss:3d863da987bf89a6": 1791334782.5969083,
-    "rss:9f4b4633fbb9aa46": 1791334782.5969086
+    "rss:9f4b4633fbb9aa46": 1791334782.5969086,
+    "rss:8c8e1676cf524aa3": 1791357104.4191077,
+    "rss:6d04fd6a1eadae94": 1791357104.419109,
+    "rss:79b4e06db1d9ddb1": 1791357104.4191093,
+    "rss:72f5d452a7bbcab5": 1791357104.4191096,
+    "rss:75d7f7c0bada7f1f": 1791357104.4191096,
+    "rss:2d02dc3947595250": 1791357104.4191098,
+    "rss:413ce0567163eec7": 1791357104.41911,
+    "rss:fc0380ab7c333f56": 1791357104.41911,
+    "rss:304e429e4e9c81e6": 1791357104.41911
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:a888bbfc45192f5a",
-      "kind": "news",
-      "title": "Solana Debuts Institutional Settlement Standard With J.P. Morgan Input",
-      "url": "https://decrypt.co/380126/solana-institutional-settlement-standard-jp-morgan",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "solana-institutional-settlement",
-      "ts": 1791252063
-    },
-    {
-      "id": "rss:6c2e83b52adbcad0",
-      "kind": "news",
-      "title": "Chinese crime network laundered over $1B for Lazarus: ZachXBT",
-      "url": "https://cointelegraph.com/news/chinese-crime-network-laundered-over-1b-for-lazarus-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "lazarus-group-tracking",
-      "ts": 1791251244
-    },
     {
       "id": "rss:fc94c644ee0541e4",
       "kind": "news",
@@ -187,50 +172,6 @@
       "ts": 1791275263
     },
     {
-      "id": "rss:50a861e15ed1931e",
-      "kind": "news",
-      "title": "U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets",
-      "url": "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "us-crypto-regulation-wallet-reporting",
-      "ts": 1791262536
-    },
-    {
-      "id": "rss:f3eef30a9f59914b",
-      "kind": "news",
-      "title": "Ethereum’s Glamsterdam test gets last-minute fix before major capacity jump",
-      "url": "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ethereum-glamsterdam-upgrade",
-      "ts": 1791262145
-    },
-    {
-      "id": "rss:c346ad9b7c459666",
-      "kind": "news",
-      "title": "Bitcoin keeps getting rejected at $87,000 as stocks hover near records",
-      "url": "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791261670
-    },
-    {
-      "id": "rss:1977d6f25ec6002a",
-      "kind": "news",
-      "title": "Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input",
-      "url": "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "solana-institutional-settlement",
-      "ts": 1791260625
-    },
-    {
       "id": "rss:69b9965058a997c8",
       "kind": "news",
       "title": "Solana Foundation targets settlement in seconds with DvP launch",
@@ -251,50 +192,6 @@
       "xRole": null,
       "cluster": "general-market-news",
       "ts": 1791274457
-    },
-    {
-      "id": "rss:f5545243b7903337",
-      "kind": "news",
-      "title": "EEZ tests atomic L1-to-L2 transaction in push to unify Ethereum",
-      "url": "https://cointelegraph.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "ethereum-l1-l2-unification",
-      "ts": 1791270573
-    },
-    {
-      "id": "rss:4aeca4b6e7b59f3f",
-      "kind": "news",
-      "title": "Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto",
-      "url": "https://cointelegraph.com/news/better-markets-criticize-cftc-regulate-retail-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "cftc-crypto-regulatory-debate",
-      "ts": 1791265430
-    },
-    {
-      "id": "rss:efa270ba5d296f9c",
-      "kind": "news",
-      "title": "Rain seeks US trust bank charter days after OCC sued over crypto charters",
-      "url": "https://cointelegraph.com/news/rain-seeks-us-trust-bank-charter-days-after-occ-sued-over-crypto-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "us-crypto-regulation",
-      "ts": 1791258340
-    },
-    {
-      "id": "rss:e2469ef63d15fc63",
-      "kind": "news",
-      "title": "OKX eyes emerging markets with yield-offering stablecoin savings and payments app",
-      "url": "https://cointelegraph.com/news/okx-money-stablecoin-savings-payments-emerging-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "okx-stablecoin-app",
-      "ts": 1791258000
     },
     {
       "id": "rss:768a7624bee710f7",
@@ -867,6 +764,105 @@
       "xRole": null,
       "cluster": "general-market-news",
       "ts": 1791318624
+    },
+    {
+      "id": "rss:8c8e1676cf524aa3",
+      "kind": "news",
+      "title": "U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confirmed",
+      "url": "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "us-government-crypto-holdings",
+      "ts": 1791352705
+    },
+    {
+      "id": "rss:6d04fd6a1eadae94",
+      "kind": "news",
+      "title": "Pudgy Penguins’ Abstract becomes second Ethereum layer 2 to shut in a week",
+      "url": "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "abstract-l2-shutdown",
+      "ts": 1791347474
+    },
+    {
+      "id": "rss:79b4e06db1d9ddb1",
+      "kind": "news",
+      "title": "Cardano gives token issuers power to freeze, seize and restrict assets",
+      "url": "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "cardano-token-controls",
+      "ts": 1791346293
+    },
+    {
+      "id": "rss:72f5d452a7bbcab5",
+      "kind": "news",
+      "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
+      "url": "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-price-geopolitics",
+      "ts": 1791345651
+    },
+    {
+      "id": "rss:75d7f7c0bada7f1f",
+      "kind": "news",
+      "title": "Robinhood adds $25 million worth of bitcoin to balance sheet as it deepens crypto push",
+      "url": "https://www.theblock.co/news/business/2026-10-07-robinhood-adds-25-million-bitcoin-balance-sheet-417890",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "robinhood-btc-acquisition",
+      "ts": 1791356916
+    },
+    {
+      "id": "rss:2d02dc3947595250",
+      "kind": "news",
+      "title": "Bitcoin briefly slides below $84,000 as crypto long liquidations reach $487 million",
+      "url": "https://www.theblock.co/news/markets/2026-10-06-bitcoin-slides-crypto-long-liquidations-surge-417882",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-liquidations",
+      "ts": 1791345441
+    },
+    {
+      "id": "rss:413ce0567163eec7",
+      "kind": "news",
+      "title": "Coinbase Pro to return; Deribit integration creates Coinbase Global Exchange",
+      "url": "https://www.theblock.co/news/business/2026-10-06-coinbase-pro-deribit-integration-coinbase-global-exchange-417867",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "coinbase-pro-relaunch",
+      "ts": 1791342000
+    },
+    {
+      "id": "rss:fc0380ab7c333f56",
+      "kind": "news",
+      "title": "Kalshi’s 15-min gold markets overtake Ether just weeks after launch",
+      "url": "https://cointelegraph.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "prediction-market-growth",
+      "ts": 1791349074
+    },
+    {
+      "id": "rss:304e429e4e9c81e6",
+      "kind": "news",
+      "title": "Bitcoin.de trading remains halted as German regulator rejects MiCA application",
+      "url": "https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "bitcoin-de-mica-rejection",
+      "ts": 1791337733
     }
   ],
   "digest_queue": [
@@ -1525,7 +1521,7 @@
     },
     "2026-10-07": {
       "critical": 0,
-      "important": 0,
+      "important": 4,
       "digests": []
     }
   },
@@ -1623,15 +1619,19 @@
     "abstract-l2-shutdown": "important",
     "conduit-tether-freeze-lawsuit": "important",
     "winklevoss-zcash-etf": "important",
-    "uk-digital-bond-dlT": "important"
+    "uk-digital-bond-dlT": "important",
+    "us-government-crypto-holdings": "important",
+    "robinhood-btc-acquisition": "important",
+    "coinbase-pro-relaunch": "important",
+    "bitcoin-de-mica-rejection": "important"
   },
   "briefing_attempts": {
-    "2026-09-30": 1,
     "2026-10-01": 1,
     "2026-10-02": 1,
     "2026-10-03": 1,
     "2026-10-04": 1,
     "2026-10-05": 1,
-    "2026-10-06": 1
+    "2026-10-06": 1,
+    "2026-10-07": 1
   }
 }
