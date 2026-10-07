@@ -1,6 +1,5 @@
 {
   "seen": {
-    "rss:d689510cce275901": 1791103653.940369,
     "rss:807633870f836998": 1791125105.9431574,
     "rss:f0882987a192e582": 1791125105.9431589,
     "rss:06600bb1e1ff8d62": 1791125105.943159,
@@ -145,54 +144,39 @@
     "rss:2d02dc3947595250": 1791357104.4191098,
     "rss:413ce0567163eec7": 1791357104.41911,
     "rss:fc0380ab7c333f56": 1791357104.41911,
-    "rss:304e429e4e9c81e6": 1791357104.41911
+    "rss:304e429e4e9c81e6": 1791357104.41911,
+    "rss:a0f695afe97fc731": 1791384189.5966456,
+    "rss:1e8defc1238fe01b": 1791384189.596647,
+    "rss:d6d6ad7262745ef7": 1791384189.5966475,
+    "rss:cf667e38aad19164": 1791384189.5966475,
+    "rss:702686bb3a3404ab": 1791384189.5966477,
+    "rss:97fa7931a7c96e98": 1791384189.596648,
+    "rss:06eb933f1ead5ffb": 1791384189.5966482,
+    "rss:c973b724a25d46a8": 1791384189.5966482,
+    "rss:7f05d1c8554c45d2": 1791384189.5966485,
+    "rss:1c8acf5ddb5eb980": 1791384189.5966487,
+    "rss:ba48709873e8699a": 1791384189.596649,
+    "rss:32fc8050c1ea882e": 1791384189.596649,
+    "rss:f8671205102e48ad": 1791384189.596649,
+    "rss:f4551ce1c3ce2111": 1791384189.5966492,
+    "rss:65a11b85f89f3674": 1791384189.5966494,
+    "rss:84c979468bc11a99": 1791384189.5966494,
+    "rss:9ba0563bda267118": 1791384189.5966496,
+    "rss:8d842b1540c0726c": 1791384189.59665,
+    "rss:45f584cb256e0c01": 1791384189.59665,
+    "rss:392c943ba70120ad": 1791384189.5966501,
+    "rss:2c630af779b4cb56": 1791384189.5966506,
+    "rss:6dbf6cc34ea0abca": 1791384189.5966506,
+    "rss:8078a73c1d8be122": 1791384189.5966508,
+    "rss:63dc186b60b332a1": 1791384189.5966508,
+    "rss:61d37472d60febb8": 1791384189.596651,
+    "rss:6f6c5de6cab7a241": 1791384189.5966616,
+    "rss:bdce5268922d0d6d": 1791384189.5966618,
+    "rss:a34c3621e618678e": 1791384189.596662,
+    "rss:39ae740b4f6ed7ae": 1791384189.596662
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:fc94c644ee0541e4",
-      "kind": "news",
-      "title": "OKX Money lets users save, earn 10% yield and spend dollar stablecoins in one app",
-      "url": "https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "okx-stablecoin-app",
-      "ts": 1791277321
-    },
-    {
-      "id": "rss:5141614c60603dcc",
-      "kind": "news",
-      "title": "Why bitcoin is down 'just' 32% a year after its record high of $126,000",
-      "url": "https://www.coindesk.com/markets/2026/10/06/from-retail-leverage-to-etf-flows-a-year-after-its-record-high-bitcoin-is-down-just-32",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791275263
-    },
-    {
-      "id": "rss:69b9965058a997c8",
-      "kind": "news",
-      "title": "Solana Foundation targets settlement in seconds with DvP launch",
-      "url": "https://cointelegraph.com/news/solana-foundation-settlement-seconds-dvp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "solana-institutional-settlement",
-      "ts": 1791277886
-    },
-    {
-      "id": "rss:b63f970a88afdff9",
-      "kind": "news",
-      "title": "Bitcoin ETFs shed $90M as BTC sits 32% below year-old ATH",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-90-million-outflow-btc-32-below-record-oct-6?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791274457
-    },
     {
       "id": "rss:768a7624bee710f7",
       "kind": "news",
@@ -203,61 +187,6 @@
       "xRole": null,
       "cluster": "okx-institutional-backing",
       "ts": 1791300030
-    },
-    {
-      "id": "rss:803c97d080bdc0ba",
-      "kind": "news",
-      "title": "Arbitrum joins Paxos-led stablecoin group Global Dollar to capture digital dollar growth",
-      "url": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "arbitrum-stablecoin-global-dollar",
-      "ts": 1791291753
-    },
-    {
-      "id": "rss:4cb028207899ad75",
-      "kind": "news",
-      "title": "Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme",
-      "url": "https://www.coindesk.com/policy/2026/10/06/self-styled-crypto-godfather-gets-more-than-6-years-in-usd37-million-meta-fraud-case",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "meta-fraud-scheme",
-      "ts": 1791289911
-    },
-    {
-      "id": "rss:b939ee982ecfb8c2",
-      "kind": "news",
-      "title": "The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/06/the-vix-of-bonds-is-rising-but-bitcoin-and-stocks-aren-t-hearing-it-yet",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791286200
-    },
-    {
-      "id": "rss:6fe69e0fc017eb9f",
-      "kind": "news",
-      "title": "Live updates: Bitcoin remains locked in range as stocks notch another new record high",
-      "url": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791282949
-    },
-    {
-      "id": "rss:7d294ff47a0dc8e7",
-      "kind": "news",
-      "title": "Smaller altcoins shine as bitcoin stills trades around $85,000",
-      "url": "https://www.coindesk.com/markets/2026/10/06/smaller-altcoins-shine-as-bitcoin-stills-trades-around-usd85-000",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791282600
     },
     {
       "id": "rss:6cac784ee33d25fb",
@@ -271,61 +200,6 @@
       "ts": 1791299381
     },
     {
-      "id": "rss:2162f98e1c312dca",
-      "kind": "news",
-      "title": "Brevan Howard to use Ripple Prime for multi-asset brokerage, clearing and financing",
-      "url": "https://www.theblock.co/news/business/2026-10-06-ripple-prime-brevan-howard-prime-brokerage-clearing-financing-417801",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ripple-brevan-howard-prime-brokerage",
-      "ts": 1791297368
-    },
-    {
-      "id": "rss:91ac0785a7845b7d",
-      "kind": "news",
-      "title": "Polymarket rolls out V2 upgrade with single ERC-1155 positions contract, pUSD collateral",
-      "url": "https://www.theblock.co/news/business/2026-10-06-polymarket-rolls-out-v2-upgrade-with-single-erc-1155-positions-contract-pusd-collateral-417804",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "polymarket-v2-upgrade",
-      "ts": 1791297303
-    },
-    {
-      "id": "rss:f1f3e207787277a5",
-      "kind": "news",
-      "title": "Fortitude expands Zcash mining push with up to $100 million equipment commitment",
-      "url": "https://www.theblock.co/news/business/2026-10-06-fortitude-expands-zcash-mining-push-with-up-to-100-million-equipment-commitment-417790",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "fortitude-zcash-mining-expansion",
-      "ts": 1791291648
-    },
-    {
-      "id": "rss:aaa3538d7623bcae",
-      "kind": "news",
-      "title": "Rep. Don Davis introduces bill to stop federal candidates trading prediction market contracts tied to their own elections",
-      "url": "https://www.theblock.co/news/regulation/2026-10-06-rep-don-davis-introduces-bill-to-stop-federal-candidates-trading-prediction-market-contracts-tied-to-their-own-elections-417781",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "prediction-market-regulation",
-      "ts": 1791286575
-    },
-    {
-      "id": "rss:bfcca813fafab6ab",
-      "kind": "news",
-      "title": "Spiko raises $90 million to expand tokenized cash funds across markets",
-      "url": "https://www.theblock.co/news/business/2026-10-06-spiko-raises-90-million-to-expand-tokenized-cash-funds-across-markets-417774",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "spiko-tokenized-cash-funding",
-      "ts": 1791284309
-    },
-    {
       "id": "rss:c3d2ea6edf85febf",
       "kind": "news",
       "title": "Flash Loan Attacks Drained $1.2B From DeFi Between 2020 and 2024: Study",
@@ -337,50 +211,6 @@
       "ts": 1791300401
     },
     {
-      "id": "rss:1ddc55b062bf7b09",
-      "kind": "news",
-      "title": "Circle, Ripple and Standard Chartered Back OKX at Flat $25B Valuation",
-      "url": "https://decrypt.co/380157/circle-ripple-and-standard-chartered-back-okx-at-flat-25b-valuation",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "okx-institutional-backing",
-      "ts": 1791291184
-    },
-    {
-      "id": "rss:0070a9ef13405967",
-      "kind": "news",
-      "title": "Morning Minute: The CFTC Reveals Plan to Regulate Crypto Exchanges",
-      "url": "https://decrypt.co/380146/morning-minute-the-cftc-reveals-plan-to-regulate-crypto-exchanges",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "cftc-crypto-exchange-oversight",
-      "ts": 1791289631
-    },
-    {
-      "id": "rss:da4d49398ff3494d",
-      "kind": "news",
-      "title": "Don Davis Bill Would Fine Candidates $10K for Trading on Their Own Elections",
-      "url": "https://decrypt.co/380147/don-davis-bill-would-fine-candidates-10k-for-trading-on-their-own-elections",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "prediction-market-regulation",
-      "ts": 1791288710
-    },
-    {
-      "id": "rss:306a1dadb87c4afa",
-      "kind": "news",
-      "title": "Crypto 'Godfather' Gets Six Years for Hiring Sheriff's Deputies, $37M Meta Fraud",
-      "url": "https://decrypt.co/380138/crypto-godfather-gets-six-years-for-hiring-sheriffs-deputies-37m-meta-fraud",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "meta-fraud-scheme",
-      "ts": 1791283017
-    },
-    {
       "id": "rss:1d466b63402dfb10",
       "kind": "news",
       "title": "Ripple expands Brevan Howard deal with prime brokerage services",
@@ -390,94 +220,6 @@
       "xRole": null,
       "cluster": "ripple-brevan-howard-prime-brokerage",
       "ts": 1791300291
-    },
-    {
-      "id": "rss:d6a3615a3950fc38",
-      "kind": "news",
-      "title": "Ethereum’s Glamsterdam upgrade launches on Sepolia testnet",
-      "url": "https://cointelegraph.com/news/ethereums-glamsterdam-upgrade-launches-on-sepolia-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "ethereum-glamsterdam-upgrade",
-      "ts": 1791295200
-    },
-    {
-      "id": "rss:11578ee0ed4139ea",
-      "kind": "news",
-      "title": "OKX exchange raises fresh capital at $25B valuation",
-      "url": "https://cointelegraph.com/news/okx-exchange-raises-capital-25b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "okx-institutional-backing",
-      "ts": 1791293552
-    },
-    {
-      "id": "rss:fcfc715e0e827131",
-      "kind": "news",
-      "title": "Capital starting to rotate back to crypto from AI: Raoul Pal",
-      "url": "https://cointelegraph.com/features/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791293400
-    },
-    {
-      "id": "rss:6e72391216e7af79",
-      "kind": "news",
-      "title": "US crypto rules need to survive the next election",
-      "url": "https://cointelegraph.com/opinion/us-crypto-rules-need-to-survive-the-next-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "us-crypto-regulation",
-      "ts": 1791291600
-    },
-    {
-      "id": "rss:8703eaecf8482e98",
-      "kind": "news",
-      "title": "Paxos’ $3B USDG stablecoin launches on Arbitrum",
-      "url": "https://cointelegraph.com/news/paxos-3b-usdg-stablecoin-launches-arbitrum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "arbitrum-stablecoin-global-dollar",
-      "ts": 1791291600
-    },
-    {
-      "id": "rss:9a4efdde25624b1c",
-      "kind": "news",
-      "title": "Polymarket overhauls smart contracts with new Protocol V2 rollout",
-      "url": "https://cointelegraph.com/news/polymarket-smart-contract-overhaul-protocol-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "polymarket-v2-upgrade",
-      "ts": 1791291255
-    },
-    {
-      "id": "rss:522abfa0d1b4a1c3",
-      "kind": "news",
-      "title": "Hong Kong officials double down on end-2026 deadline for crypto licensing bill",
-      "url": "https://cointelegraph.com/news/hong-kong-govt-end-2026-deadline-crypto-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "hong-kong-crypto-regulation",
-      "ts": 1791281815
-    },
-    {
-      "id": "rss:694b408b0e82f5f6",
-      "kind": "news",
-      "title": "SEC to Host Virtual National Compliance Outreach Seminar for Investment Companies and Investment Advisers",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-102-sec-host-virtual-national-compliance-outreach-seminar-investment-companies-investment-advisers",
-      "source": "SEC (communiqués)",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791297475
     },
     {
       "id": "rss:2e49486e9b56739a",
