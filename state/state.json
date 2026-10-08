@@ -1,8 +1,5 @@
 {
   "seen": {
-    "rss:7c9aeeddb235f7fb": 1791161222.025246,
-    "rss:4c2f6ed9e101591d": 1791161222.0252469,
-    "move24:bitway:20731": 1791161222.0253344,
     "rss:63b147d876e10929": 1791183380.726729,
     "rss:c1030202a4f41970": 1791183380.7267303,
     "rss:0615637e2b5c4142": 1791183380.7267306,
@@ -187,54 +184,20 @@
     "rss:25a8d4ef22b3ca93": 1791418968.5983202,
     "rss:7b5d6e1e4fc0197d": 1791418968.5983205,
     "rss:8fdb8da5dd09f46a": 1791418968.5983207,
-    "rss:89f18c6bd47dae39": 1791418968.598321
+    "rss:89f18c6bd47dae39": 1791418968.598321,
+    "rss:1e6e04624a7be508": 1791441489.593905,
+    "rss:c1530df043e14db6": 1791441489.5939062,
+    "rss:f3252de5b841883f": 1791441489.5939064,
+    "rss:fec5508cca012523": 1791441489.5939066,
+    "rss:ed1c798f78f9020e": 1791441489.5939069,
+    "rss:629da2cca04f20e6": 1791441489.593907,
+    "rss:043a2bf5f6f78168": 1791441489.593907,
+    "rss:039740c45738e912": 1791441489.5939074,
+    "rss:d6e4c2c5388c925d": 1791441489.5939076,
+    "rss:c9c0a6110f3cf6ff": 1791441489.5939076
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:8c8e1676cf524aa3",
-      "kind": "news",
-      "title": "U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confirmed",
-      "url": "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "us-government-crypto-holdings",
-      "ts": 1791352705
-    },
-    {
-      "id": "rss:6d04fd6a1eadae94",
-      "kind": "news",
-      "title": "Pudgy Penguins’ Abstract becomes second Ethereum layer 2 to shut in a week",
-      "url": "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "abstract-l2-shutdown",
-      "ts": 1791347474
-    },
-    {
-      "id": "rss:79b4e06db1d9ddb1",
-      "kind": "news",
-      "title": "Cardano gives token issuers power to freeze, seize and restrict assets",
-      "url": "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "cardano-token-controls",
-      "ts": 1791346293
-    },
-    {
-      "id": "rss:72f5d452a7bbcab5",
-      "kind": "news",
-      "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
-      "url": "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-price-geopolitics",
-      "ts": 1791345651
-    },
     {
       "id": "rss:75d7f7c0bada7f1f",
       "kind": "news",
@@ -245,50 +208,6 @@
       "xRole": null,
       "cluster": "robinhood-btc-acquisition",
       "ts": 1791356916
-    },
-    {
-      "id": "rss:2d02dc3947595250",
-      "kind": "news",
-      "title": "Bitcoin briefly slides below $84,000 as crypto long liquidations reach $487 million",
-      "url": "https://www.theblock.co/news/markets/2026-10-06-bitcoin-slides-crypto-long-liquidations-surge-417882",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-liquidations",
-      "ts": 1791345441
-    },
-    {
-      "id": "rss:413ce0567163eec7",
-      "kind": "news",
-      "title": "Coinbase Pro to return; Deribit integration creates Coinbase Global Exchange",
-      "url": "https://www.theblock.co/news/business/2026-10-06-coinbase-pro-deribit-integration-coinbase-global-exchange-417867",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "coinbase-pro-relaunch",
-      "ts": 1791342000
-    },
-    {
-      "id": "rss:fc0380ab7c333f56",
-      "kind": "news",
-      "title": "Kalshi’s 15-min gold markets overtake Ether just weeks after launch",
-      "url": "https://cointelegraph.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "prediction-market-growth",
-      "ts": 1791349074
-    },
-    {
-      "id": "rss:304e429e4e9c81e6",
-      "kind": "news",
-      "title": "Bitcoin.de trading remains halted as German regulator rejects MiCA application",
-      "url": "https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "bitcoin-de-mica-rejection",
-      "ts": 1791337733
     },
     {
       "id": "rss:d2cc1e4d023520db",
@@ -575,641 +494,119 @@
       "xRole": null,
       "cluster": "circle-stablecoin-integration",
       "ts": 1791406114
+    },
+    {
+      "id": "rss:1e6e04624a7be508",
+      "kind": "news",
+      "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
+      "url": "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ripple-financing-business",
+      "ts": 1791440233
+    },
+    {
+      "id": "rss:c1530df043e14db6",
+      "kind": "news",
+      "title": "Bitcoin loans are paying for tuition and working capital, not just trades, lenders say",
+      "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "bitcoin-lending-expansion",
+      "ts": 1791438041
+    },
+    {
+      "id": "rss:f3252de5b841883f",
+      "kind": "news",
+      "title": "Ethereum’s Glamsterdam test runs near 200 million gas per block after upgrade",
+      "url": "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ethereum-glamsterdam-upgrade",
+      "ts": 1791433403
+    },
+    {
+      "id": "rss:fec5508cca012523",
+      "kind": "news",
+      "title": "Bitcoin breaks below $83,000 as oil jumps on Iran strike-plan report",
+      "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-breaks-below-usd83-000-as-oil-jumps-on-iran-strike-plan-report",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-price-geopolitics",
+      "ts": 1791432007
+    },
+    {
+      "id": "rss:ed1c798f78f9020e",
+      "kind": "news",
+      "title": "‘Don’t rush anything’: Vitalik Buterin warns against hasty wallet migrations amid growing AI threats",
+      "url": "https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "eth-key-recovery-risk",
+      "ts": 1791435628
+    },
+    {
+      "id": "rss:629da2cca04f20e6",
+      "kind": "news",
+      "title": "Samsung to launch USDC transfers on Solana for US Galaxy users",
+      "url": "https://www.theblock.co/news/business/2026-10-07-samsung-to-launch-usdc-transfers-on-solana-for-us-galaxy-users-418004",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "samsung-usdc-solana",
+      "ts": 1791427801
+    },
+    {
+      "id": "rss:043a2bf5f6f78168",
+      "kind": "news",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791439200
+    },
+    {
+      "id": "rss:039740c45738e912",
+      "kind": "news",
+      "title": "Crypto’s heavy backing of Republicans alienated Democrats: Cuomo",
+      "url": "https://cointelegraph.com/news/cryptos-republican-spending-alienated-democrats-says-andrew-cuomo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "crypto-political-balance",
+      "ts": 1791436011
+    },
+    {
+      "id": "rss:d6e4c2c5388c925d",
+      "kind": "news",
+      "title": "Crypto must cement adoption to withstand US policy shifts: Canton CEO",
+      "url": "https://cointelegraph.com/news/canton-ceo-crypto-adoption-us-policy-reversals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "crypto-adoption-resilience",
+      "ts": 1791433707
+    },
+    {
+      "id": "rss:c9c0a6110f3cf6ff",
+      "kind": "news",
+      "title": "[Direct-to-AIP] Asset Listing - USDG Arbitrum",
+      "url": "https://governance.aave.com/t/direct-to-aip-asset-listing-usdg-arbitrum/25811",
+      "source": "Aave gouvernance",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "aave-usdg-listing",
+      "ts": 1791440243
     }
   ],
-  "digest_queue": [
-    {
-      "id": "cboe-tokenized-options:2026-09-29",
-      "level": "important",
-      "time": "23:21",
-      "title": "Cboe et S&P Dow Jones explorent les contrats d'options tokenisés",
-      "summary": "Cboe et S&P Dow Jones étudient la possibilité d'explorer les contrats d'options tokenisés dans le cadre d'un accord de licence étendu jusqu'en 2051.",
-      "assets": [],
-      "confidence": "confirmed",
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/business/2026/09/29/cboe-s-and-p-dow-jones-may-explore-tokenized-options-contracts-under-extended-licensing-deal"
-        },
-        {
-          "name": "Decrypt",
-          "url": "https://decrypt.co/379619/cboes-sp-deal-tokenized-options"
-        }
-      ],
-      "digested": true
-    },
-    {
-      "id": "comer-crypto-investigation:2026-09-29",
-      "level": "important",
-      "time": "23:21",
-      "title": "Comer enquête sur Crypto.com, Hyperliquid et PredictIt sur les vérifications d'identité",
-      "summary": "Comer élargit son enquête en demandant des registres sur les initiés gouvernementaux, les transactions d'employés et les signalements d'activités suspectes chez ces plateformes.",
-      "assets": [
-        "HYPE"
-      ],
-      "confidence": "likely",
-      "sources": [
-        {
-          "name": "The Block",
-          "url": "https://www.theblock.co/news/regulation/2026-09-29-comer-presses-crypto-com-hyperliquid-predictit-identity-checks-suspicious-trades-417192"
-        }
-      ],
-      "digested": true
-    },
-    {
-      "id": "sec-cftc-commissioner-vacancy:2026-09-29",
-      "level": "important",
-      "time": "23:21",
-      "title": "La régulation crypto au SEC et CFTC réduite à 3 commissaires après résignation clé (en attente de confirmation)",
-      "summary": "Sept postes de commissaire au SEC et CFTC seront vacants après vendredi, laissant seulement quelques dirigeants pour superviser l'industrie crypto de 3 billions de dollars.",
-      "assets": [
-        "BTC",
-        "ETH"
-      ],
-      "confidence": "unconfirmed",
-      "sources": [
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/us-sec-cftc-crypto-regulation-few-commissioners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
-      "digested": true
-    },
-    {
-      "id": "kakaopay-tokenized-stocks:2026-09-29",
-      "level": "important",
-      "time": "23:21",
-      "title": "Kakaopay s'associe avec Dinari et Ondo pour explorer les actions coréennes tokenisées",
-      "summary": "Kakaopay Securities collabore avec Dinari et Ondo Finance pour explorer la tokenisation des actions coréennes et leur disponibilité pour les investisseurs internationaux.",
-      "assets": [],
-      "confidence": "unconfirmed",
-      "sources": [
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
-      "digested": true
-    },
-    {
-      "id": "robinhood-ai-agents-perps:2026-09-30",
-      "level": "important",
-      "time": "02:44",
-      "title": "Robinhood ajoute des agents IA, des perps et le trading de fin de semaine",
-      "summary": "Robinhood lance des agents IA, des contrats perpétuels et le trading du week-end pour attirer les traders actifs. Cette expansion représente une intégration significative de nouvelles fonctionnalités.",
-      "assets": [],
-      "confidence": "likely",
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/09/29/robinhood-adds-ai-agents-perps-and-weekend-trading-in-push-to-win-active-traders"
-        }
-      ],
-      "digested": true
-    },
-    {
-      "id": "white-house-cftc-prediction-markets:2026-09-30",
-      "level": "important",
-      "time": "20:24",
-      "title": "La Maison Blanche étudie de nouvelles règles CFTC sur les contrats événementiels",
-      "summary": "La Maison Blanche évalue deux propositions de règles de la CFTC concernant les marchés de prédiction dans un conflit croissant de juridiction.",
-      "assets": [],
-      "confidence": "likely",
-      "sources": [
-        {
-          "name": "The Block",
-          "url": "https://www.theblock.co/news/regulation/2026-09-30-white-house-weighs-new-cftc-event-contract-rules-in-growing-prediction-market-power-struggle-417345"
-        }
-      ],
-      "digested": true
-    },
-    {
-      "id": "trump-ai-self-regulation-accord:2026-09-30",
-      "level": "important",
-      "time": "20:24",
-      "title": "Trump dévoile un accord IA « moralement contraignant » signé par OpenAI, Google et Nvidia",
-      "summary": "Trump a présenté un accord d'une page engageant les entreprises IA à adopter des contrôles internes, des audits indépendants et une surveillance de conseil, mais sans pénalités.",
-      "assets": [],
-      "confidence": "confirmed",
-      "sources": [
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/trump-accord-calls-for-tech-firms-to-self-police-their-own-frontier-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        },
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/tech/2026/09/30/openai-google-and-meta-pledge-outside-ai-audits-under-voluntary-white-house-deal"
-        },
-        {
-          "name": "Decrypt",
-          "url": "https://decrypt.co/379728/trump-unveils-morally-binding-ai-accord-signed-by-openai-google-and-nvidia"
-        }
-      ],
-      "digested": true
-    },
-    {
-      "id": "sec-fraud-enforcement:2026-09-30",
-      "level": "important",
-      "time": "20:24",
-      "title": "La SEC poursuit deux personnes pour un schéma de fraude ciblant les vétérans",
-      "summary": "La SEC a inculpé Christopher Kenji Dinelli et Jacob David Frankel pour avoir orchestré un schéma de fraude ayant levé plus de 8,7 millions de dollars auprès de 35 investisseurs.",
-      "assets": [],
-      "confidence": "confirmed",
-      "sources": [
-        {
-          "name": "SEC (communiqués)",
-          "url": "https://www.sec.gov/newsroom/press-releases/2026-95-sec-charges-multiple-entities-fraud-schemes-totaling-least-15-million-used-whatsapp-other-platforms"
-        },
-        {
-          "name": "SEC (communiqués)",
-          "url": "https://www.sec.gov/newsroom/press-releases/2026-97-sec-charges-two-individuals-orchestrating-fraud-scheme-targeted-veterans"
-        }
-      ],
-      "digested": true
-    },
-    {
-      "id": "aave-governance-proposals:2026-09-30",
-      "level": "important",
-      "time": "20:24",
-      "title": "[ARFC] Intégrer OUSD à Aave V3 Core Instance et Aave V4 Core Hub",
-      "summary": "Proposition de gouvernance Aave Labs pour l'intégration du stablecoin Open USD (OUSD) aux instances core d'Aave V3 et V4.",
-      "assets": [
-        "AAVE"
-      ],
-      "confidence": "confirmed",
-      "sources": [
-        {
-          "name": "Aave gouvernance",
-          "url": "https://governance.aave.com/t/direct-to-aip-onboard-pt-usdg-25feb2027-on-x-layer/25733"
-        },
-        {
-          "name": "Aave gouvernance",
-          "url": "https://governance.aave.com/t/arfc-onboard-ousd-to-aave-v3-core-instance-and-aave-v4-core-hub/25735"
-        }
-      ],
-      "digested": true
-    },
-    {
-      "id": "metamask-security-incident:2026-10-01",
-      "level": "important",
-      "time": "03:30",
-      "title": "MetaMask se retire des validateurs Ethereum suite à un incident de sécurité",
-      "summary": "MetaMask annonce qu'elle se retire des validateurs Ethereum suite à un incident de sécurité non divulgué. L'équipe enquête en interne mais affirme avoir détecté aucune menace immédiate pour ses portefeuilles.",
-      "assets": [
-        "ETH"
-      ],
-      "confidence": "unconfirmed",
-      "sources": [
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
-      "digested": true
-    },
-    {
-      "id": "sec-crypto-custody-framework:2026-10-02",
-      "level": "important",
-      "time": "02:07",
-      "title": "SEC propose un cadre pour l'auto-garde crypto des conseillers et fonds",
-      "summary": "La SEC propose un nouveau cadre permettant aux conseillers en placement et aux fonds d'investissement de détenir eux-mêmes leurs cryptomonnaies ou d'utiliser des sociétés fiduciaires d'État comme dépositaires, visant à clarifier des années d'ambiguïté réglementaire.",
-      "assets": [],
-      "confidence": "confirmed",
-      "sources": [
-        {
-          "name": "The Block",
-          "url": "https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498"
-        },
-        {
-          "name": "Decrypt",
-          "url": "https://decrypt.co/379899/sec-proposes-rules-advisers-funds-hold-crypto"
-        }
-      ],
-      "digested": true
-    },
-    {
-      "id": "ethereum-privacy-infrastructure:2026-10-03",
-      "level": "important",
-      "time": "00:06",
-      "title": "Ethereum permet de payer des services IA de manière anonyme via zkAPI",
-      "summary": "La zkAPI d'Ethereum permet aux utilisateurs de payer en USDC et d'interroger des modèles IA sans révéler leur identité, utilisant des preuves cryptographiques.",
-      "assets": [
-        "ETH"
-      ],
-      "confidence": "confirmed",
-      "sources": [
-        {
-          "name": "The Block",
-          "url": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504"
-        },
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        },
-        {
-          "name": "Decrypt",
-          "url": "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity"
-        }
-      ],
-      "digested": true
-    },
-    {
-      "id": "move:pump-fun:497497",
-      "kind": "price",
-      "level": "important",
-      "title": "PUMP +5.8 % en 1 h",
-      "summary": "Prix : 0.00568971 $ ; 24 h : -1.9 %.",
-      "url": "https://www.coingecko.com/en/coins/pump-fun",
-      "source": "CoinGecko",
-      "tier": 1,
-      "assets": [
-        "PUMP"
-      ],
-      "ts": 1790989723.04119,
-      "time": "03:08",
-      "confidence": "confirmed",
-      "sources": [
-        {
-          "name": "CoinGecko",
-          "url": "https://www.coingecko.com/en/coins/pump-fun"
-        }
-      ],
-      "digested": true
-    },
-    {
-      "id": "move24:midnight-3:20729",
-      "kind": "price",
-      "level": "important",
-      "title": "NIGHT +35.0 % en 24 h (rang 85)",
-      "summary": "Mouvement inhabituel dans le top 100 : cause à vérifier.",
-      "url": "https://www.coingecko.com/en/coins/midnight-3",
-      "source": "CoinGecko",
-      "tier": 1,
-      "assets": [
-        "NIGHT"
-      ],
-      "ts": 1790989723.0412226,
-      "time": "03:08",
-      "confidence": "confirmed",
-      "sources": [
-        {
-          "name": "CoinGecko",
-          "url": "https://www.coingecko.com/en/coins/midnight-3"
-        }
-      ],
-      "digested": true
-    },
-    {
-      "id": "move24:bitway:20729",
-      "kind": "price",
-      "level": "important",
-      "title": "BTW -26.4 % en 24 h (rang 42)",
-      "summary": "Mouvement inhabituel dans le top 100 : cause à vérifier.",
-      "url": "https://www.coingecko.com/en/coins/bitway",
-      "source": "CoinGecko",
-      "tier": 1,
-      "assets": [
-        "BTW"
-      ],
-      "ts": 1791067772.3470798,
-      "time": "00:49",
-      "confidence": "confirmed",
-      "sources": [
-        {
-          "name": "CoinGecko",
-          "url": "https://www.coingecko.com/en/coins/bitway"
-        }
-      ],
-      "digested": true
-    },
-    {
-      "id": "move24:rain:20730",
-      "kind": "price",
-      "level": "important",
-      "title": "RAIN +32.6 % en 24 h (rang 17)",
-      "summary": "Mouvement inhabituel dans le top 100 : cause à vérifier.",
-      "url": "https://www.coingecko.com/en/coins/rain",
-      "source": "CoinGecko",
-      "tier": 1,
-      "assets": [
-        "RAIN"
-      ],
-      "ts": 1791081111.4028878,
-      "time": "04:31",
-      "confidence": "confirmed",
-      "sources": [
-        {
-          "name": "CoinGecko",
-          "url": "https://www.coingecko.com/en/coins/rain"
-        }
-      ],
-      "digested": true
-    },
-    {
-      "id": "move24:bitway:20730",
-      "kind": "price",
-      "level": "important",
-      "title": "BTW -31.2 % en 24 h (rang 42)",
-      "summary": "Mouvement inhabituel dans le top 100 : cause à vérifier.",
-      "url": "https://www.coingecko.com/en/coins/bitway",
-      "source": "CoinGecko",
-      "tier": 1,
-      "assets": [
-        "BTW"
-      ],
-      "ts": 1791081111.4029107,
-      "time": "04:31",
-      "confidence": "confirmed",
-      "sources": [
-        {
-          "name": "CoinGecko",
-          "url": "https://www.coingecko.com/en/coins/bitway"
-        }
-      ],
-      "digested": true
-    },
-    {
-      "id": "move24:bitway:20731",
-      "kind": "price",
-      "level": "important",
-      "title": "BTW +26.9 % en 24 h (rang 37)",
-      "summary": "Mouvement inhabituel dans le top 100 : cause à vérifier.",
-      "url": "https://www.coingecko.com/en/coins/bitway",
-      "source": "CoinGecko",
-      "tier": 1,
-      "assets": [
-        "BTW"
-      ],
-      "ts": 1791161222.0252986,
-      "time": "02:46",
-      "confidence": "confirmed",
-      "sources": [
-        {
-          "name": "CoinGecko",
-          "url": "https://www.coingecko.com/en/coins/bitway"
-        }
-      ],
-      "digested": false
-    },
-    {
-      "id": "fairshake-house-candidates:2026-10-06",
-      "level": "important",
-      "time": "00:32",
-      "title": "Fairshake soutient 32 candidats à la Chambre des représentants",
-      "summary": "Le PAC crypto Fairshake annonce son soutien financier à 32 candidats à la Chambre qui ont voté en faveur du projet de loi CLARITY en 2025.",
-      "assets": [],
-      "confidence": "likely",
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/policy/2026/10/05/crypto-s-campaign-arm-fairshake-sets-lists-of-u-s-house-favorites-it-ll-spend-on"
-        },
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/crypto-pac-fairshake-house-endorsements-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
-      "digested": false
-    },
-    {
-      "id": "tokenized-stocks-onchain:2026-10-06",
-      "level": "important",
-      "time": "00:32",
-      "title": "Plus de 60 actions américaines bientôt sur la blockchain",
-      "summary": "Des actions majeures incluant Nvidia et Tesla vont être tokenisées et accessibles en ligne, élargissant l'adoption des actifs numériques traditionnels.",
-      "assets": [],
-      "confidence": "likely",
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works"
-        }
-      ],
-      "digested": false
-    },
-    {
-      "id": "fincen-crypto-rules-withdrawal:2026-10-06",
-      "level": "important",
-      "time": "00:32",
-      "title": "Le Trésor retire la règle sur les mixeurs crypto",
-      "summary": "FinCEN retire sa proposition de 2023 désignant le mixage de crypto comme préoccupation majeure de blanchiment, citant des craintes d'effets dissuasifs sur les activités légitimes.",
-      "assets": [],
-      "confidence": "confirmed",
-      "sources": [
-        {
-          "name": "The Block",
-          "url": "https://www.theblock.co/news/regulation/2026-10-05-fincen-drops-crypto-mixing-rule-self-hosted-wallet-proposal-417690"
-        },
-        {
-          "name": "Decrypt",
-          "url": "https://decrypt.co/380120/treasury-kills-crypto-unhosted-wallet-mixer-surveillance-rules"
-        },
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/fincen-crypto-mixing-rule-legitimate-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
-      "digested": false
-    },
-    {
-      "id": "strive-bitcoin-accumulation:2026-10-06",
-      "level": "important",
-      "time": "00:32",
-      "title": "Strive ajoute 169 millions en Bitcoin, son plus gros achat en quatre mois",
-      "summary": "La société de trésorerie Bitcoin cotée au Nasdaq a acheté 2 000 BTC la semaine passée pour environ 169 millions, portant ses avoirs à 29 462 BTC.",
-      "assets": [
-        "BTC"
-      ],
-      "confidence": "confirmed",
-      "sources": [
-        {
-          "name": "The Block",
-          "url": "https://www.theblock.co/news/business/2026-10-05-strive-adds-2000-bitcoin-biggest-buy-since-june-closes-in-mara-417677"
-        },
-        {
-          "name": "Decrypt",
-          "url": "https://decrypt.co/380129/strive-adds-169m-bitcoin-biggest-buy-four-months"
-        }
-      ],
-      "digested": false
-    },
-    {
-      "id": "cftc-crypto-exchange-oversight:2026-10-06",
-      "level": "important",
-      "time": "00:32",
-      "title": "La CFTC propose un cadre fédéral pour la surveillance des échanges crypto",
-      "summary": "La CFTC met en place une consultation publique pour créer une nouvelle licence fédérale pour les échanges crypto, déclenchée par les offres d'effet de levier.",
-      "assets": [],
-      "confidence": "likely",
-      "sources": [
-        {
-          "name": "Decrypt",
-          "url": "https://decrypt.co/380090/cftc-plan-crypto-exchanges-federal-oversight-leverage"
-        },
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/cftc-proposed-crypto-framework-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
-      "digested": false
-    },
-    {
-      "id": "modern-treasury-custody-charter:2026-10-06",
-      "level": "important",
-      "time": "00:32",
-      "title": "Modern Treasury demande une charte bancaire fédérale pour la garde d'actifs numériques",
-      "summary": "La société d'infrastructure de paiements demande l'approbation fédérale pour offrir la garde de stablecoins et services fiduciaires connexes via une charte bancaire nationale à usage limité.",
-      "assets": [],
-      "confidence": "unconfirmed",
-      "sources": [
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/modern-treasury-seeks-us-trust-bank-charter-for-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
-      "digested": false
-    },
-    {
-      "id": "solana-institutional-settlement:2026-10-06",
-      "level": "important",
-      "time": "04:28",
-      "title": "Solana lance un standard de règlement institutionnel avec J.P. Morgan",
-      "summary": "Solana a déployé un programme open-source « DvP » co-développé avec J.P. Morgan, permettant aux institutions de régler les transactions atomiquement avec finalité en secondes au lieu de jours.",
-      "assets": [
-        "SOL"
-      ],
-      "confidence": "likely",
-      "sources": [
-        {
-          "name": "Decrypt",
-          "url": "https://decrypt.co/380126/solana-institutional-settlement-standard-jp-morgan"
-        }
-      ],
-      "digested": false
-    },
-    {
-      "id": "lazarus-group-tracking:2026-10-06",
-      "level": "important",
-      "time": "04:28",
-      "title": "Un réseau criminel chinois a blanchi plus d'1 milliard de dollars pour le Lazarus : ZachXBT",
-      "summary": "ZachXBT a infiltré le réseau en se faisant passer pour un client, obtenant des informations qui ont aidé à tracer les fonds du hack Bybit de 1,5 milliard de dollars.",
-      "assets": [],
-      "confidence": "likely",
-      "sources": [
-        {
-          "name": "Decrypt",
-          "url": "https://decrypt.co/380092/zachxbt-fronted-350k-pose-client-lazarus-chinese-crypto-launderers"
-        },
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/chinese-crime-network-laundered-over-1b-for-lazarus-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
-      "digested": false
-    },
-    {
-      "id": "abstract-l2-shutdown:2026-10-06",
-      "level": "important",
-      "time": "23:11",
-      "title": "Abstract, la L2 Ethereum soutenue par Pudgy Penguins, ferme ses portes",
-      "summary": "Abstract fermera le 15 décembre après avoir perdu des dizaines de millions. Les utilisateurs doivent transférer leurs actifs avant cette date.",
-      "assets": [
-        "ETH"
-      ],
-      "confidence": "confirmed",
-      "sources": [
-        {
-          "name": "The Block",
-          "url": "https://www.theblock.co/news/ecosystems/2026-10-06-abstract-ethereum-layer-2-shutting-down-pudgy-penguins-igloo-417855"
-        },
-        {
-          "name": "Decrypt",
-          "url": "https://decrypt.co/380225/pudgy-penguin-ethereum-layer-2-abstract-shutting-down"
-        }
-      ],
-      "digested": false
-    },
-    {
-      "id": "conduit-tether-freeze-lawsuit:2026-10-06",
-      "level": "important",
-      "time": "23:11",
-      "title": "Conduit poursuit Tether pour gel de 2,76 millions de dollars",
-      "summary": "Conduit intente une action en justice contre Tether, affirmant que l'émetteur d'USDT a gelé 2,76 millions de dollars de ses fonds pendant plus d'un an sans explication.",
-      "assets": [],
-      "confidence": "confirmed",
-      "sources": [
-        {
-          "name": "The Block",
-          "url": "https://www.theblock.co/news/regulation/2026-10-06-conduit-sues-tether-usdt-freeze-417831"
-        },
-        {
-          "name": "Decrypt",
-          "url": "https://decrypt.co/380222/tether-lawsuit-2-76-million-stablecoin-freeze"
-        },
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/conduit-lawsuit-tether-usdt-freeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
-      "digested": false
-    },
-    {
-      "id": "winklevoss-zcash-etf:2026-10-06",
-      "level": "important",
-      "time": "23:11",
-      "title": "Winklevoss demande le lancement d'un ETF Zcash avec frais de 0,25%",
-      "summary": "Le groupe Winklevoss a déposé une demande pour un ETF spot Zcash sous le ticker WINK, avec Gemini comme dépositaire, rivalisant avec l'offre de Grayscale.",
-      "assets": [],
-      "confidence": "confirmed",
-      "sources": [
-        {
-          "name": "The Block",
-          "url": "https://www.theblock.co/news/markets/2026-10-06-winklevoss-files-spot-zcash-etf-wink-417826"
-        },
-        {
-          "name": "Decrypt",
-          "url": "https://decrypt.co/380210/another-zcash-etf-coming-winklevoss-twins-wink"
-        },
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/winklevoss-backed-zcash-etf-files-with-sec-for-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
-      "digested": false
-    },
-    {
-      "id": "uk-digital-bond-dlT:2026-10-06",
-      "level": "important",
-      "time": "23:11",
-      "title": "Le Royaume-Uni désigne 6 banques pour son premier emprunt d'État numérique",
-      "summary": "Le pilote DIGIT testera la technologie de registre distribué et le règlement onchain pour la dette souveraine britannique, avec émission attendue au premier trimestre 2027.",
-      "assets": [],
-      "confidence": "unconfirmed",
-      "sources": [
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/uk-taps-6-banks-to-lead-first-digitally-native-government-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
-      "digested": false
-    },
-    {
-      "id": "circle-stablecoin-integration:2026-10-08",
-      "level": "important",
-      "time": "02:22",
-      "title": "Circle intègre USDC et EURC aux clients SAP via Tereina",
-      "summary": "Partenariat avec Tereina (soutenu par SAP) permettant aux entreprises d'envoyer et recevoir les stablecoins de Circle directement via leur logiciel financier existant.",
-      "assets": [],
-      "confidence": "unconfirmed",
-      "sources": [
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
-      "digested": false
-    }
-  ],
+  "digest_queue": [],
   "sent": {
     "2026-10-02": {
       "critical": 0,
@@ -1249,7 +646,7 @@
     },
     "2026-10-08": {
       "critical": 1,
-      "important": 0,
+      "important": 3,
       "digests": []
     }
   },
@@ -1357,15 +754,18 @@
     "eth-key-recovery-risk": "critical",
     "tether-kazakhstan-stablecoin": "important",
     "bitmine-eth-accumulation": "important",
-    "circle-stablecoin-integration": "important"
+    "circle-stablecoin-integration": "important",
+    "btc-price-geopolitics": "important",
+    "samsung-usdc-solana": "important",
+    "aave-usdg-listing": "important"
   },
   "briefing_attempts": {
-    "2026-10-01": 1,
     "2026-10-02": 1,
     "2026-10-03": 1,
     "2026-10-04": 1,
     "2026-10-05": 1,
     "2026-10-06": 1,
-    "2026-10-07": 1
+    "2026-10-07": 1,
+    "2026-10-08": 1
   }
 }

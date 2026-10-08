@@ -1,0 +1,662 @@
+{
+  "date": "2026-10-08",
+  "edition": "06:30",
+  "tldr": [
+    {
+      "impact": "neg",
+      "text": "BTC casse les 83 000 $ : un rapport évoque des options de frappe US contre l'Iran, le pétrole dépasse 100 $, les rendements obligataires grimpent vers leurs plus hauts depuis 2002."
+    },
+    {
+      "impact": "neg",
+      "text": "Plus de 550 millions de dollars de positions à effet de levier liquidées en 24-48h sur fond de tensions géopolitiques."
+    },
+    {
+      "impact": "neg",
+      "text": "Tom Lee (Bitmine) annonce l'arrêt des achats hebdomadaires d'ETH une fois le seuil de 5% de l'offre atteint, dans 6-7 semaines environ : un acheteur régulier va disparaître."
+    },
+    {
+      "impact": "pos",
+      "text": "Samsung va activer les transferts USDC via Solana sur 82 millions d'appareils Galaxy US dès fin octobre."
+    },
+    {
+      "impact": "neu",
+      "text": "Orca et Loopscale (Solana) fusionnent sous le nom Formation pour financer IA, robotique et défense on-chain."
+    },
+    {
+      "impact": "pos",
+      "text": "Le Trésor américain (FinCEN) retire ses propositions de règles sur les mixeurs crypto et les wallets non hébergés."
+    },
+    {
+      "impact": "neu",
+      "text": "FOMC le 28 octobre : les probabilités de hausse de taux sont retombées autour de 18-20% après un rapport emploi faible (29 000 créations en septembre)."
+    },
+    {
+      "impact": "neu",
+      "text": "Unlock PUMP le 14 octobre (~1% de l'offre) ; unlock géant TIA attendu fin octobre (~1,1 Md$, ~17,7% de l'offre)."
+    },
+    {
+      "impact": "neu",
+      "text": "Indice Fear & Greed à 64 (Greed), en repli depuis 71 hier : l'optimisme s'effrite un peu."
+    }
+  ],
+  "news": [
+    {
+      "title": "Bitcoin sous 83 000 $ : l'Iran et le pétrole pèsent sur le marché",
+      "impact": "neg",
+      "confidence": "confirmed",
+      "what": "Le bitcoin est passé sous les 83 000 dollars après qu'un rapport a évoqué une demande de la Maison Blanche au Pentagone pour des options de frappe contre l'Iran. <cite index=\"2-6\">Bitcoin a chuté de 1,6% à juste sous 82 800 dollars dans la matinée asiatique de jeudi.</cite> <cite index=\"2-7\">Le pétrole a bondi sur un rapport selon lequel la Maison Blanche aurait demandé au Pentagone des options de frappe contre l'Iran, poussant les rendements du Trésor vers leurs plus hauts depuis 2002.</cite>",
+      "why": "<cite index=\"2-1\">550 millions de dollars de paris à effet de levier ont été liquidés, majoritairement des traders pariant sur une hausse des prix.</cite> Un contexte géopolitique qui pèse sur l'appétit pour le risque, juste avant la décision de la Fed fin octobre.",
+      "assets": [
+        "BTC",
+        "ETH"
+      ],
+      "shortTerm": "Risque de poursuite de la baisse vers 80 000$ si le pétrole reste élevé, selon des analystes cités par CoinDesk.",
+      "longTerm": "Si les tensions se calment (comme lors d'épisodes précédents), un rebond rapide est possible, mais l'issue reste incertaine.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-breaks-below-usd83-000-as-oil-jumps-on-iran-strike-plan-report",
+          "publishedAt": "2026-10-08 04:00 UTC"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/markets/bitcoin-price-drops-to-827k-october-low-as-bond-sell-off-resumes-on-iran-nerves",
+          "publishedAt": "2026-10-07 15:06 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "Bitmine (Tom Lee) va cesser d'acheter de l'ETH",
+      "impact": "neg",
+      "confidence": "confirmed",
+      "what": "<cite index=\"31-1\">Le président Tom Lee a déclaré que l'entreprise cessera ses achats d'Ethereum une fois que ses avoirs atteindront 5% de l'offre en circulation du token.</cite> <cite index=\"36-11\">BitMine détient actuellement 6 016 414 ETH, soit environ 4,9% des 122,1 millions de tokens en circulation.</cite>",
+      "why": "<cite index=\"35-3,35-4\">Mettre fin à l'accumulation retirerait une source constante de demande d'Ethereum. Bitmine affirme avoir acheté de l'ETH chaque semaine depuis le lancement de sa stratégie de trésorerie en juin 2025.</cite> L'entreprise porte par ailleurs une perte latente importante sur sa position.",
+      "assets": [
+        "ETH"
+      ],
+      "shortTerm": "Un acheteur institutionnel régulier va disparaître d'ici 6 à 7 semaines, ce qui pourrait réduire un soutien de prix récurrent.",
+      "longTerm": "À surveiller : si Bitmine vend une partie de ses ETH (staking) pour maintenir le ratio de 5%, cela ajouterait une pression vendeuse supplémentaire.",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/380287/bitmine-ethereum-buying-will-stop-tom-lee",
+          "publishedAt": "2026-10-07 14:55 UTC"
+        },
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases",
+          "publishedAt": "2026-10-07 12:40 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "Samsung active les transferts USDC via Solana pour 82 millions d'appareils Galaxy",
+      "impact": "pos",
+      "confidence": "confirmed",
+      "what": "<cite index=\"40-1\">Samsung Wallet et Samsung Pay vont supporter les transferts USDC sur Solana pour les envois transfrontaliers, à partir de la dernière semaine d'octobre pour les utilisateurs Galaxy aux États-Unis.</cite> <cite index=\"40-2\">La fonctionnalité est intégrée dans Samsung Wallet, avec des rampes fiat, plutôt qu'une application crypto séparée.</cite>",
+      "why": "Une intégration grand public majeure qui pourrait amener des millions d'utilisateurs non-crypto à utiliser l'infrastructure Solana sans le savoir, via Coinbase (custodian) et Bastion.",
+      "assets": [
+        "SOL"
+      ],
+      "shortTerm": "Pas d'impact prix immédiat attendu avant le lancement effectif fin octobre.",
+      "longTerm": "Si l'adoption est au rendez-vous, cela renforcerait le narratif de Solana comme rail de paiement stablecoin grand public ; le succès réel dépendra des volumes observés après lancement.",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/business/2026-10-07-samsung-to-launch-usdc-transfers-on-solana-for-us-galaxy-users-418004",
+          "publishedAt": "2026-10-08 02:50 UTC"
+        }
+      ],
+      "singleSource": true
+    },
+    {
+      "title": "Orca et Loopscale fusionnent en \"Formation\" pour financer IA, robotique et défense",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "what": "<cite index=\"50-6,50-7\">Le DEX Solana Orca et la plateforme de prêt Loopscale ont fusionné sous le nom Formation. L'équipe combinée sera dirigée par le co-fondateur de Loopscale, Luke Truitt, en tant que CEO.</cite> <cite index=\"50-9\">Les entreprises veulent dépasser le trading et le prêt crypto pour entrer dans des secteurs plus capitalistiques comme l'IA, l'énergie, la robotique et la défense.</cite>",
+      "why": "Une tentative de diversification au-delà de la DeFi pure vers le financement d'actifs réels (RWA), potentiellement porteuse mais exposée à une réglementation plus lourde.",
+      "assets": [
+        "SOL"
+      ],
+      "shortTerm": "<cite index=\"51-5\">L'annonce fait suite à une hausse de près de 95% du prix d'ORCA entre le 30 septembre et le 6 octobre 2026</cite>, ce qui pose un risque classique de \"vendre la nouvelle\".",
+      "longTerm": "<cite index=\"51-6\">Une proposition de gouvernance en cours prévoit de réduire les rachats automatiques de tokens pour réallouer des fonds à l'expansion de l'équipe</cite>, un point à surveiller pour les détenteurs.",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924",
+          "publishedAt": "2026-10-07 22:01 UTC"
+        }
+      ],
+      "singleSource": true
+    },
+    {
+      "title": "Le Trésor US (FinCEN) retire ses règles sur les mixeurs crypto",
+      "impact": "pos",
+      "confidence": "confirmed",
+      "what": "<cite index=\"67-2,67-6\">FinCEN a retiré deux règles proposées affectant son application de la loi aux entreprises crypto, dont une sur le \"mixage de monnaie virtuelle convertible\", incluant une proposition de décembre 2020 sur les wallets non hébergés.</cite>",
+      "why": "<cite index=\"67-7\">FinCEN a indiqué que la règle sur les mixeurs \"pourrait avoir un effet dissuasif sur une activité légitime et imposer une lourde charge de déclaration aux institutions financières couvertes\".</cite> Un geste de dérégulation qui réduit l'incertitude pour les utilisateurs de self-custody.",
+      "assets": [],
+      "shortTerm": "Impact limité sur les prix, mais positif pour le sentiment réglementaire général.",
+      "longTerm": "<cite index=\"71-6\">L'agence a précisé qu'elle continuera de surveiller les mixeurs crypto pour des signes de finance illicite, avec une possibilité d'action future.</cite> Les règles retirées pourraient donc revenir sous une autre forme.",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/fincen-crypto-mixing-rule-legitimate-activity",
+          "publishedAt": "2026-10-05"
+        },
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-05-fincen-drops-crypto-mixing-rule-self-hosted-wallet-proposal-417690",
+          "publishedAt": "2026-10-05"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "Aave : proposition de listing USDG sur Arbitrum et ajustements de caps",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "what": "Le forum de gouvernance d'Aave a publié une proposition directe-à-AIP pour lister l'actif USDG sur Arbitrum, ainsi qu'une mise à jour des \"Risk Stewards\" ajustant les plafonds de supply/borrow sur Aave V3 le 7 octobre.",
+      "why": "Ce sont des opérations de routine mais régulières de la gouvernance Aave qui élargissent l'offre d'actifs disponibles et ajustent le risque du protocole, en ligne avec une TVL de 18,6 milliards de dollars.",
+      "assets": [
+        "AAVE"
+      ],
+      "shortTerm": "Pas d'impact prix direct attendu ; suivi des votes de gouvernance.",
+      "longTerm": "L'élargissement des actifs listés (stablecoins notamment) peut soutenir la croissance de la TVL à moyen terme.",
+      "sources": [
+        {
+          "name": "Aave gouvernance",
+          "url": "https://governance.aave.com/t/direct-to-aip-asset-listing-usdg-arbitrum/25811",
+          "publishedAt": "2026-10-08 06:17 UTC"
+        },
+        {
+          "name": "Aave gouvernance",
+          "url": "https://governance.aave.com/t/risk-stewards-supply-and-borrow-cap-changes-on-aave-v3-2026-10-07/25806",
+          "publishedAt": "2026-10-07 14:26 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "French Hill : les règles SEC/CFTC \"ne suffisent pas\" sans le CLARITY Act",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "what": "<cite index=\"78-3,78-4\">Le président de la commission des services financiers de la Chambre, French Hill, a renouvelé son appel pour une loi crypto permanente, estimant que l'action réglementaire ne remplace pas la législation, alors que le Sénat ne dispose que de 22 jours de session après les élections de novembre.</cite>",
+      "why": "<cite index=\"78-5\">Le Sénat a bloqué le débat sur le CLARITY Act en septembre, avec 49 voix pour sur une motion nécessitant 60 voix.</cite> Le sort de la clarté réglementaire US reste donc suspendu à la session \"lame duck\" post-élections.",
+      "assets": [],
+      "shortTerm": "Pas d'impact prix immédiat.",
+      "longTerm": "Si le CLARITY Act passe lors de la session lame duck, cela donnerait un cadre légal durable au marché crypto US ; en cas d'échec, l'incertitude réglementaire perdure.",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/380349/sec-cftc-crypto-rules-fall-short-clarity-french-hill",
+          "publishedAt": "2026-10-07 20:16 UTC"
+        },
+        {
+          "name": "crypto.news",
+          "url": "https://crypto.news/french-hill-says-sec-cftc-crypto-rules-legislation/",
+          "publishedAt": "2026-10-07 21:00 UTC"
+        }
+      ],
+      "singleSource": false
+    }
+  ],
+  "market": [
+    {
+      "symbol": "BTC",
+      "sentiment": "neg",
+      "driver": "Tensions Iran/pétrole et rendements obligataires en hausse pèsent sur le risque, alors que le FOMC du 28 octobre approche.",
+      "events": [
+        "Rupture du support 83 000$ liée au rapport sur des frappes possibles contre l'Iran",
+        "Plus de 550 millions de dollars de liquidations en 24-48h",
+        "Strive a ajouté 2 000 BTC (~169 M$), son plus gros achat en quatre mois",
+        "Le gouvernement américain a déplacé plus de 100 M$ en BTC et BNB, sans vente confirmée"
+      ],
+      "watch": [
+        "Support à 80 000$ si 83 000$ cède durablement",
+        "Résistance à 87 000$",
+        "Décision Fed le 28 octobre"
+      ],
+      "name": "Bitcoin",
+      "price": 82475,
+      "change24h": -2.08095,
+      "change7d": -1.6571,
+      "volume": 37602338216,
+      "asOf": "08/10 08:32",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "ETH",
+      "sentiment": "neg",
+      "driver": "La fin annoncée des achats hebdomadaires de Bitmine retire un acheteur institutionnel régulier.",
+      "events": [
+        "Tom Lee (Bitmine) annonce l'arrêt des achats ETH au seuil de 5% de l'offre",
+        "Mise à jour Glamsterdam testée à près de 200 millions de gas par bloc",
+        "Lancement de zkAPI pour des paiements IA privés en USDC"
+      ],
+      "watch": [
+        "Rythme d'achat résiduel de Bitmine (6-7 semaines avant l'arrêt)",
+        "Support autour de 2 550$"
+      ],
+      "name": "Ethereum",
+      "price": 2554.43,
+      "change24h": -2.42771,
+      "change7d": -5.3572,
+      "volume": 16246992275,
+      "asOf": "08/10 08:32",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "SOL",
+      "sentiment": "pos",
+      "driver": "Multiplication des intégrations grand public et institutionnelles malgré la baisse du prix sur 24h.",
+      "events": [
+        "Samsung activera les transferts USDC sur Solana pour 82M d'appareils Galaxy US fin octobre",
+        "Fusion Orca + Loopscale en \"Formation\" pour financer IA/robotique/défense",
+        "Standard de règlement institutionnel DvP co-développé avec J.P. Morgan"
+      ],
+      "watch": [
+        "Lancement effectif Samsung fin octobre",
+        "Unlocks DoubleZero/deBridge en cours de mois"
+      ],
+      "name": "Solana",
+      "price": 114.58,
+      "change24h": -3.47458,
+      "change7d": -3.48,
+      "volume": 2952948440,
+      "asOf": "08/10 08:32",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "HYPE",
+      "sentiment": "neg",
+      "driver": "Digestion de l'unlock du 6 octobre et pression macro générale.",
+      "events": [
+        "Unlock de 3,75M HYPE (~340 M$) le 6 octobre, vers un acheteur institutionnel selon l'équipe",
+        "Frais générés sur 24h élevés (~3,5 M$), signe d'activité protocole soutenue"
+      ],
+      "watch": [
+        "Absorption de l'unlock par le marché",
+        "TVL Hyperliquid (7,2 Md$)"
+      ],
+      "name": "Hyperliquid",
+      "price": 86.83,
+      "change24h": -4.66156,
+      "change7d": -1.9863,
+      "volume": 766118695,
+      "asOf": "08/10 08:32",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "AAVE",
+      "sentiment": "pos",
+      "driver": "Activité de gouvernance régulière et TVL stable soutiennent le sentiment malgré la baisse générale du marché.",
+      "events": [
+        "Proposition de listing USDG sur Arbitrum",
+        "Ajustements des plafonds supply/borrow par les Risk Stewards"
+      ],
+      "watch": [
+        "Vote sur le bounty payout d'Aave Labs d'octobre",
+        "Nouveaux listings d'actifs"
+      ],
+      "name": "Aave",
+      "price": 171.75,
+      "change24h": -2.66386,
+      "change7d": 3.8002,
+      "volume": 330433839,
+      "asOf": "08/10 08:32",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "PUMP",
+      "sentiment": "neg",
+      "driver": "Baisse de 24h marquée malgré un programme de rachat/burn actif et un unlock à venir le 14 octobre.",
+      "events": [
+        "Unlock prévu le 14 octobre (~54,8 M$, ~1% de l'offre)",
+        "Pump.fun aurait dépassé Hyperliquid en revenus sur 30 jours selon plusieurs trackers on-chain"
+      ],
+      "watch": [
+        "Unlock du 14 octobre",
+        "Rythme des rachats/burns (50% des revenus programmatiquement alloués)"
+      ],
+      "name": "Pump.fun",
+      "price": 0.00594849,
+      "change24h": -7.75305,
+      "change7d": 3.492,
+      "volume": 470097240,
+      "asOf": "08/10 08:32",
+      "source": "CoinGecko"
+    }
+  ],
+  "x": [
+    {
+      "author": "Solana (compte officiel)",
+      "handle": "@solana",
+      "time": "2026-10-08",
+      "asset": "SOL",
+      "sentiment": "pos",
+      "kind": "official",
+      "summary": "Annonce du partenariat Samsung pour les transferts USDC sur Solana auprès de 82 millions d'appareils Galaxy US.",
+      "why": "Source officielle du projet, confirmée par The Block et plusieurs médias indépendants."
+    },
+    {
+      "author": "Tom Lee",
+      "handle": "Bitmine (personnalité)",
+      "time": "2026-10-07, Token2049 Singapour",
+      "asset": "ETH",
+      "sentiment": "neg",
+      "kind": "person",
+      "summary": "Déclaration publique que Bitmine arrêtera ses achats d'ETH une fois le seuil de 5% de l'offre atteint.",
+      "why": "Déclaration directe d'un dirigeant d'entreprise cotée, reprise par plusieurs médias, donc fiable mais reste une intention annoncée, pas encore un fait accompli."
+    },
+    {
+      "author": "ZachXBT",
+      "handle": "non précisé",
+      "time": "début octobre 2026",
+      "asset": "non applicable",
+      "sentiment": "neu",
+      "kind": "person",
+      "summary": "Enquête on-chain affirmant qu'un réseau criminel chinois aurait blanchi plus d'1 milliard de dollars pour le groupe Lazarus.",
+      "why": "Enquêteur on-chain reconnu, infos reprises par Decrypt et Cointelegraph, mais il s'agit d'une enquête indépendante non confirmée par une autorité officielle."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Formation (fusion Orca + Loopscale)",
+      "conviction": "watch",
+      "funding": "Pas de nouvelle levée annoncée ; fusion d'entités existantes sans termes financiers divulgués.",
+      "investors": "Non communiqués pour la fusion elle-même ; partenaires annoncés : Figure, Shinhan Asset Management, Securitize, R3, Superstate.",
+      "team": "Luke Truitt (co-fondateur Loopscale) devient CEO ; Christopher Montagano (Orca) devient chief strategy & legal officer.",
+      "tech": "Combine l'infrastructure de trading d'Orca (plus de 550 Md$ de volume cumulé depuis 2021) avec les coffres de prêt et d'investissement de Loopscale (plus de 150 M$ de dépôts, plus de 2 Md$ de prêts facilités).",
+      "tokenomics": "Les réseaux de tokens ORCA et xORCA sont conservés ; une proposition de gouvernance vise à réduire les rachats automatiques pour financer l'expansion de l'équipe.",
+      "catalysts": "Nouveaux outils pour émetteurs d'actifs et nouvelles stratégies d'investissement prévus sur les 12 prochains mois, ciblant le financement d'IA, d'énergie, de robotique et de défense.",
+      "why": "Tentative de diversification au-delà de la DeFi pure vers le financement d'actifs du monde réel (RWA), avec des partenaires institutionnels identifiés.",
+      "risk": "Le prix d'ORCA avait déjà bondi d'environ 95% avant l'annonce, et une proposition en cours réduirait les rachats de tokens au profit du financement de l'équipe ; l'exposition à des secteurs réglementés (défense, énergie) ajoute un risque de conformité."
+    }
+  ],
+  "smartMoney": [
+    {
+      "title": "Strive ajoute 2 000 BTC, son plus gros achat en quatre mois",
+      "token": "BTC",
+      "amount": "~169 millions de dollars (2 000 BTC)",
+      "from": "marché ouvert",
+      "to": "trésorerie Strive (société cotée Nasdaq)",
+      "confidence": "confirmed",
+      "interpretation": "Achat de trésorerie d'entreprise cotée, confirmé par deux médias ; ne préjuge pas de la direction future du prix.",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/business/2026-10-05-strive-adds-2000-bitcoin-biggest-buy-since-june-closes-in-mara-417677"
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/380129/strive-adds-169m-bitcoin-biggest-buy-four-months"
+        }
+      ]
+    },
+    {
+      "title": "Le gouvernement américain déplace plus de 100 M$ en BTC et BNB",
+      "token": "BTC / BNB",
+      "amount": "plus de 103 millions de dollars",
+      "from": "wallet non identifié (lié au gouvernement américain)",
+      "to": "wallet non identifié",
+      "confidence": "confirmed",
+      "interpretation": "Mouvement confirmé on-chain, mais aucune vente n'a été confirmée à ce stade ; lecture prudente recommandée, pas de confirmation de motif.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed"
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/380313/us-government-moves-103-million-seized-bitcoin-bnb"
+        }
+      ]
+    }
+  ],
+  "unlocks": [
+    {
+      "date": "2026-10-06",
+      "token": "HYPE",
+      "amount": "3,75 millions HYPE",
+      "value": "~340 M$",
+      "pct": "~1,69% de l'offre libérée",
+      "who": "vers un acheteur institutionnel selon l'équipe",
+      "risk": "med",
+      "priority": true,
+      "confidence": "likely"
+    },
+    {
+      "date": "2026-10-14",
+      "token": "PUMP",
+      "amount": "non précisé en unités",
+      "value": "~54,8 M$",
+      "pct": "~1,0% de l'offre en circulation",
+      "who": "vesting linéaire",
+      "risk": "low",
+      "priority": true,
+      "confidence": "likely"
+    },
+    {
+      "date": "fin octobre 2026",
+      "token": "SOL (écosystème)",
+      "amount": "non précisé",
+      "value": "~360 M$ (estimation)",
+      "pct": "non précisé",
+      "who": "non précisé",
+      "risk": "med",
+      "priority": false,
+      "confidence": "unconfirmed"
+    },
+    {
+      "date": "2026-10-30",
+      "token": "TIA (Celestia)",
+      "amount": "~175M tokens",
+      "value": "~1,08 à 1,12 Md$",
+      "pct": "~17,7% de l'offre totale",
+      "who": "équipe / investisseurs (cliff de vesting)",
+      "risk": "high",
+      "priority": true,
+      "confidence": "likely"
+    }
+  ],
+  "unlocksSource": {
+    "name": "BeInCrypto / Tokenomist (agrégateurs)",
+    "url": "https://beincrypto.com/crypto-token-unlocks-hype-ena-apt-october/"
+  },
+  "regulation": [
+    {
+      "region": "États-Unis (FinCEN)",
+      "title": "Retrait des règles sur mixeurs crypto et wallets non hébergés",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "summary": "FinCEN retire deux propositions (2020 et 2023) jugées trop lourdes pour les institutions financières, tout en gardant la possibilité de les réintroduire plus tard.",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/fincen-crypto-mixing-rule-legitimate-activity"
+        },
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-05-fincen-drops-crypto-mixing-rule-self-hosted-wallet-proposal-417690"
+        }
+      ]
+    },
+    {
+      "region": "États-Unis (Congrès)",
+      "title": "French Hill relance l'appel pour le CLARITY Act",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "summary": "Le président de la commission des services financiers estime que les actions de la SEC et de la CFTC ne remplacent pas une loi permanente ; le Sénat a bloqué le CLARITY Act en septembre.",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/380349/sec-cftc-crypto-rules-fall-short-clarity-french-hill"
+        },
+        {
+          "name": "crypto.news",
+          "url": "https://crypto.news/french-hill-says-sec-cftc-crypto-rules-legislation/"
+        }
+      ]
+    },
+    {
+      "region": "États-Unis (CFTC)",
+      "title": "Cadre fédéral proposé pour la surveillance des échanges crypto à effet de levier",
+      "impact": "neu",
+      "confidence": "likely",
+      "summary": "La CFTC envisage une nouvelle licence fédérale pour les plateformes crypto, dans le sillage de l'échec du CLARITY Act.",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/380090/cftc-plan-crypto-exchanges-federal-oversight-leverage"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "title": "Tensions Iran / pétrole au-dessus de 100$",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "date": "2026-10-07/08",
+      "summary": "Un rapport évoquant une demande de frappes contre l'Iran a fait grimper le Brent au-delà de 100$ et les rendements du Trésor US vers leurs plus hauts depuis 2002, pesant sur bitcoin et les actifs risqués.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-breaks-below-usd83-000-as-oil-jumps-on-iran-strike-plan-report"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "https://bloomberg.com/news/articles/2026-10-07/latest-oil-market-news-and-analysis-for-date"
+        }
+      ]
+    },
+    {
+      "title": "FOMC du 28 octobre : probabilité de hausse en recul",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "date": "2026-10-27/28",
+      "summary": "Après un rapport emploi de septembre faible (29 000 créations), les probabilités de hausse de taux pour la réunion du 28 octobre sont retombées à environ 18-20%, contre près de 70% juste après la hausse de septembre à 3,75-4,00%.",
+      "sources": [
+        {
+          "name": "Admiral Markets",
+          "url": "https://admiralmarkets.com/analytics/traders-blog/fomc-minutes-october-2026"
+        },
+        {
+          "name": "Polymarket",
+          "url": "https://polymarket.com/event/fed-rate-cut-by-629"
+        }
+      ]
+    }
+  ],
+  "onchain": [
+    {
+      "metric": "TVL Ethereum",
+      "value": "52,36 Md$",
+      "note": "Chain TVL la plus élevée des trois suivies",
+      "source": "données fournies"
+    },
+    {
+      "metric": "TVL Aave",
+      "value": "18,64 Md$",
+      "note": "Protocole de prêt dominant suivi",
+      "source": "données fournies"
+    },
+    {
+      "metric": "TVL Hyperliquid",
+      "value": "7,22 Md$",
+      "note": "",
+      "source": "données fournies"
+    },
+    {
+      "metric": "Stablecoins total (marché)",
+      "value": "314,0 Md$",
+      "note": "",
+      "source": "données fournies"
+    },
+    {
+      "metric": "Volume DEX 24h",
+      "value": "9,18 Md$",
+      "note": "",
+      "source": "données fournies"
+    }
+  ],
+  "watchlist": [
+    {
+      "impact": "neg",
+      "text": "Décision Fed le 28 octobre : vérifier si l'odds de hausse remonte en cas de regain d'inflation."
+    },
+    {
+      "impact": "neg",
+      "text": "Unlock géant TIA (~1,1 Md$, ~17,7% de l'offre) le 30 octobre, à surveiller pour la pression de vente sur l'ensemble du marché."
+    },
+    {
+      "impact": "neu",
+      "text": "Unlock PUMP du 14 octobre et rythme des rachats/burns du protocole."
+    },
+    {
+      "impact": "pos",
+      "text": "Lancement effectif de Samsung Wallet/USDC sur Solana fin octobre : premiers chiffres d'adoption à observer."
+    },
+    {
+      "impact": "neg",
+      "text": "Rythme réel des achats ETH de Bitmine dans les 6-7 prochaines semaines avant l'arrêt annoncé."
+    }
+  ],
+  "breaking": [
+    {
+      "id": "aave-usdg-listing:2026-10-08",
+      "level": "important",
+      "time": "08:38",
+      "title": "Proposition de listing de USDG sur Aave V3 Arbitrum",
+      "summary": "Une proposition de gouvernance Aave demande l'intégration de USDG comme stablecoin empruntable sur l'instance Aave V3 d'Arbitrum.",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "Aave gouvernance",
+          "url": "https://governance.aave.com/t/direct-to-aip-asset-listing-usdg-arbitrum/25811"
+        }
+      ]
+    },
+    {
+      "id": "samsung-usdc-solana:2026-10-08",
+      "level": "important",
+      "time": "08:38",
+      "title": "Samsung lance les transferts USDC sur Solana pour les utilisateurs Galaxy US",
+      "summary": "Samsung intègre les transferts USDC dans son portefeuille natif pour les utilisateurs Galaxy, avec des rampes fiat intégrées, renforçant l'adoption mainstream de Solana.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/business/2026-10-07-samsung-to-launch-usdc-transfers-on-solana-for-us-galaxy-users-418004"
+        }
+      ]
+    },
+    {
+      "id": "btc-price-geopolitics:2026-10-08",
+      "level": "important",
+      "time": "08:38",
+      "title": "Bitcoin chute sous $83 000 sur fond de tensions géopolitiques en Iran",
+      "summary": "Le prix du Bitcoin baisse suite à des rapports d'une frappe iranienne prévue, causant une vente d'obligations et impactant les marchés cryptocurrencies.",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/380290/bitcoin-dips-oil-shock-rattles-markets-what-happens-next"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/markets/bitcoin-price-drops-to-827k-october-low-as-bond-sell-off-resumes-on-iran-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-breaks-below-usd83-000-as-oil-jumps-on-iran-strike-plan-report"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-10-08T06:38:06Z",
+  "updatedAt": "2026-10-08T06:38:24Z"
+}
