@@ -1,6 +1,5 @@
 {
   "seen": {
-    "rss:043a2bf5f6f78168": 1791150870.0779564,
     "rss:7c9aeeddb235f7fb": 1791161222.025246,
     "rss:4c2f6ed9e101591d": 1791161222.0252469,
     "move24:bitway:20731": 1791161222.0253344,
@@ -182,76 +181,16 @@
     "rss:fd4edb1e222f31b8": 1791405227.099862,
     "rss:175c987b5343b3c4": 1791405227.099862,
     "rss:e87157b53818ab75": 1791405227.099862,
-    "rss:88e9bdc6170c8fcc": 1791405227.0998623
+    "rss:88e9bdc6170c8fcc": 1791405227.0998623,
+    "rss:e8b18882147539bd": 1791418968.5983186,
+    "rss:00ca253170f5712a": 1791418968.5983195,
+    "rss:25a8d4ef22b3ca93": 1791418968.5983202,
+    "rss:7b5d6e1e4fc0197d": 1791418968.5983205,
+    "rss:8fdb8da5dd09f46a": 1791418968.5983207,
+    "rss:89f18c6bd47dae39": 1791418968.598321
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:4436cb5d1c392977",
-      "kind": "news",
-      "title": "Conduit sues Tether over allegedly freezing $2.8M without explanation",
-      "url": "https://cointelegraph.com/news/conduit-lawsuit-tether-usdt-freeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "conduit-tether-freeze-lawsuit",
-      "ts": 1791320444
-    },
-    {
-      "id": "rss:bd258f00ef003b89",
-      "kind": "news",
-      "title": "Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing",
-      "url": "https://cointelegraph.com/news/winklevoss-backed-zcash-etf-files-with-sec-for-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "winklevoss-zcash-etf",
-      "ts": 1791319999
-    },
-    {
-      "id": "rss:0aa3ebb1136cac1a",
-      "kind": "news",
-      "title": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
-      "url": "https://decrypt.co/380257/google-launches-nano-banana-2-1",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791326763
-    },
-    {
-      "id": "rss:9dac9d5751c28104",
-      "kind": "news",
-      "title": "Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious",
-      "url": "https://decrypt.co/380240/circle-dj-khaled-team-usdc-crypto-twitter-furious",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791324963
-    },
-    {
-      "id": "rss:9f1933099600c082",
-      "kind": "news",
-      "title": "Someone Scraped 5.6 Billion TikTok Videos and Put the Data on Hugging Face for Free",
-      "url": "https://decrypt.co/380229/someone-scraped-5-billion-tiktok-videos-posted-data-hugging-face",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791324019
-    },
-    {
-      "id": "rss:3d863da987bf89a6",
-      "kind": "news",
-      "title": "Pudgy Penguins-backed Abstract to shut down after ‘tens of millions’ in losses",
-      "url": "https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "abstract-l2-shutdown",
-      "ts": 1791331300
-    },
     {
       "id": "rss:8c8e1676cf524aa3",
       "kind": "news",
@@ -570,6 +509,72 @@
       "xRole": null,
       "cluster": "btc-price-geopolitics",
       "ts": 1791385574
+    },
+    {
+      "id": "rss:e8b18882147539bd",
+      "kind": "news",
+      "title": "Solana’s Orca merges with Loopscale in push to finance AI, robotics and defense",
+      "url": "https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "orca-loopscale-merger",
+      "ts": 1791410462
+    },
+    {
+      "id": "rss:00ca253170f5712a",
+      "kind": "news",
+      "title": "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt—Mathematicians Want Receipts",
+      "url": "https://decrypt.co/380366/openai-secret-ai-model-cracked-hundreds-math-problems-one-prompt",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "openai-math-model-claim",
+      "ts": 1791409563
+    },
+    {
+      "id": "rss:25a8d4ef22b3ca93",
+      "kind": "news",
+      "title": "Ethereum Researcher Says AI May Break Encryption Before Quantum Does",
+      "url": "https://decrypt.co/380363/ethereum-researcher-ai-break-encryption-before-quantum",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "eth-key-recovery-risk",
+      "ts": 1791407763
+    },
+    {
+      "id": "rss:7b5d6e1e4fc0197d",
+      "kind": "news",
+      "title": "Anthropic Launches Haiku 5.5: Its Cheapest and Fastest Claude Model Yet",
+      "url": "https://decrypt.co/380351/anthropic-launches-haiku-5-5-cheapest-fastest-claude-model",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "anthropic-claude-model",
+      "ts": 1791405963
+    },
+    {
+      "id": "rss:8fdb8da5dd09f46a",
+      "kind": "news",
+      "title": "Justin Drake urges crypto ‘bunker mode,’ as AI could break wallet security within months",
+      "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "eth-key-recovery-risk",
+      "ts": 1791417872
+    },
+    {
+      "id": "rss:89f18c6bd47dae39",
+      "kind": "news",
+      "title": "Circle brings USDC, EURC payments to SAP customers through Tereina",
+      "url": "https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "circle-stablecoin-integration",
+      "ts": 1791406114
     }
   ],
   "digest_queue": [
@@ -1187,14 +1192,25 @@
         }
       ],
       "digested": false
+    },
+    {
+      "id": "circle-stablecoin-integration:2026-10-08",
+      "level": "important",
+      "time": "02:22",
+      "title": "Circle intègre USDC et EURC aux clients SAP via Tereina",
+      "summary": "Partenariat avec Tereina (soutenu par SAP) permettant aux entreprises d'envoyer et recevoir les stablecoins de Circle directement via leur logiciel financier existant.",
+      "assets": [],
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "digested": false
     }
   ],
   "sent": {
-    "2026-10-01": {
-      "critical": 1,
-      "important": 6,
-      "digests": []
-    },
     "2026-10-02": {
       "critical": 0,
       "important": 12,
@@ -1229,6 +1245,11 @@
     "2026-10-07": {
       "critical": 0,
       "important": 9,
+      "digests": []
+    },
+    "2026-10-08": {
+      "critical": 1,
+      "important": 0,
       "digests": []
     }
   },
@@ -1333,9 +1354,10 @@
     "bitcoin-de-mica-rejection": "important",
     "wells-fargo-kraken-liquidity": "important",
     "polygon-tron-integration": "important",
-    "eth-key-recovery-risk": "important",
+    "eth-key-recovery-risk": "critical",
     "tether-kazakhstan-stablecoin": "important",
-    "bitmine-eth-accumulation": "important"
+    "bitmine-eth-accumulation": "important",
+    "circle-stablecoin-integration": "important"
   },
   "briefing_attempts": {
     "2026-10-01": 1,
