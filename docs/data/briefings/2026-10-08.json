@@ -607,6 +607,144 @@
   ],
   "breaking": [
     {
+      "id": "esma-stablecoin-mica:2026-10-08",
+      "level": "important",
+      "time": "15:58",
+      "title": "L'ESMA donne 3 mois aux firmes crypto pour quitter les stablecoins non-conformes",
+      "summary": "L'ESMA demande aux firmes crypto de l'UE d'arrêter les services avec stablecoins non-conformes à MiCA, donnant 3 mois aux régulateurs pour gérer les expositions.",
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/esma-unauthorised-stablecoins-three-month-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "id": "sui-bitcoin-finance:2026-10-08",
+      "level": "important",
+      "time": "15:58",
+      "title": "Sui's Hashi lance avec 500M$ d'engagements en financement Bitcoin",
+      "summary": "Hashi sur Sui accumule plus de 500M$ d'engagements avant son lancement en mainnet, renforçant la finance Bitcoin sur Sui.",
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/sui-hashi-bitcoin-finance-commitments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "id": "crypto-lending-expansion:2026-10-08",
+      "level": "important",
+      "time": "15:58",
+      "title": "Le prêt crypto monte de 55% depuis juillet",
+      "summary": "Le prêt crypto a augmenté de 55% depuis juillet mais fait face à de nouveaux risques : les attaques IA et les cascades entre protocoles interconnectés.",
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/magazine/crypto-lending-rises-again-but-have-they-solved-the-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "id": "rwa-institutional-adoption:2026-10-08",
+      "level": "important",
+      "time": "15:58",
+      "title": "Fidelity affirme que les institutions ne reviennent pas en arrière sur la tokenisation",
+      "summary": "Fidelity déclare que les institutions avancent irréversiblement vers un avenir tokenisé et on-chain, avec des avantages structurels clairs.",
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/institutions-tokenized-onchain-future-no-going-back-fidelity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "id": "greece-crypto-tax:2026-10-08",
+      "level": "important",
+      "time": "15:58",
+      "title": "La Grèce prévoit une taxe de 10% sur les plus-values crypto",
+      "summary": "La Grèce prépare une loi imposant une taxe de 10% sur les plus-values en cryptomonnaies, avec exemptions pour les gains annuels jusqu'à 500€.",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency"
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/380385/greece-plans-10-crypto-capital-gains-tax-down-from-15-floated-in-june"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/greece-capital-gains-tax-cryptocurrencies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "id": "institutional-crypto-custody:2026-10-08",
+      "level": "important",
+      "time": "15:58",
+      "title": "Standard Chartered élargit la garde crypto institutionnelle à Singapour",
+      "summary": "Standard Chartered étend ses services de garde pour crypto, stablecoins et actifs tokenisés aux clients institutionnels à Singapour.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/standard-chartered-digital-asset-custody-services-singapore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "id": "btc-etf-outflows:2026-10-08",
+      "level": "important",
+      "time": "15:58",
+      "title": "Les investisseurs en ETF Bitcoin battent en retraite massivement",
+      "summary": "Les flux de sortie des ETF Bitcoin atteignent leur plus haut niveau depuis plusieurs mois, signalant une réduction des positions institutionnelles.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/daybook-us/2026/10/08/bitcoin-etf-investors-head-for-the-exit-and-it-s-the-biggest-rush-in-months"
+        }
+      ]
+    },
+    {
+      "id": "rwa-mortgage-tokenization:2026-10-08",
+      "level": "important",
+      "time": "15:58",
+      "title": "NUVA tokenise le crédit hypothécaire résidentiel américain",
+      "summary": "NUVA apporte le crédit hypothécaire résidentiel américain aux investisseurs offshore via la tokenisation, élargissant l'accès aux RWA.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/10/08/nuva-brings-u-s-residential-mortgage-credit-to-offshore-investors"
+        }
+      ]
+    },
+    {
+      "id": "securitize-rwa-solana:2026-10-08",
+      "level": "important",
+      "time": "15:58",
+      "title": "Securitize intègre Apple, Nvidia et Tesla sur Solana",
+      "summary": "Securitize apporte des actifs tokenisés d'Apple, Nvidia et Tesla sur Solana, avec des échanges NYSE en préparation. Cela renforce l'adoption des RWA sur Solana.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works"
+        }
+      ]
+    },
+    {
       "id": "aave-usdg-listing:2026-10-08",
       "level": "important",
       "time": "08:38",
@@ -658,5 +796,5 @@
     }
   ],
   "generatedAt": "2026-10-08T06:38:06Z",
-  "updatedAt": "2026-10-08T06:38:24Z"
+  "updatedAt": "2026-10-08T13:59:15Z"
 }
