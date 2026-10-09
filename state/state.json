@@ -1,32 +1,5 @@
 {
   "seen": {
-    "rss:768a7624bee710f7": 1791303221.690217,
-    "rss:803c97d080bdc0ba": 1791303221.6902182,
-    "rss:4cb028207899ad75": 1791303221.6902187,
-    "rss:b939ee982ecfb8c2": 1791303221.6902187,
-    "rss:6fe69e0fc017eb9f": 1791303221.690219,
-    "rss:7d294ff47a0dc8e7": 1791303221.690219,
-    "rss:6cac784ee33d25fb": 1791303221.6902192,
-    "rss:2162f98e1c312dca": 1791303221.6902194,
-    "rss:91ac0785a7845b7d": 1791303221.6902194,
-    "rss:f1f3e207787277a5": 1791303221.6902199,
-    "rss:aaa3538d7623bcae": 1791303221.6902199,
-    "rss:bfcca813fafab6ab": 1791303221.69022,
-    "rss:c3d2ea6edf85febf": 1791303221.6902204,
-    "rss:1ddc55b062bf7b09": 1791303221.6902206,
-    "rss:0070a9ef13405967": 1791303221.6902206,
-    "rss:da4d49398ff3494d": 1791303221.6902208,
-    "rss:306a1dadb87c4afa": 1791303221.6902208,
-    "rss:1d466b63402dfb10": 1791303221.690221,
-    "rss:d6a3615a3950fc38": 1791303221.690221,
-    "rss:11578ee0ed4139ea": 1791303221.6902213,
-    "rss:fcfc715e0e827131": 1791303221.6902215,
-    "rss:6e72391216e7af79": 1791303221.6902215,
-    "rss:8703eaecf8482e98": 1791303221.6902218,
-    "rss:9a4efdde25624b1c": 1791303221.6902218,
-    "rss:522abfa0d1b4a1c3": 1791303221.690222,
-    "rss:694b408b0e82f5f6": 1791303221.690222,
-    "rss:2e49486e9b56739a": 1791303221.6902223,
     "rss:fcecea457879ca3a": 1791321092.6094751,
     "rss:ced5230036ac46d9": 1791321092.6094763,
     "rss:03d97ef22b700780": 1791321092.6094766,
@@ -220,7 +193,34 @@
     "rss:6f4d13d05997cfeb": 1791553428.6551614,
     "rss:da57e54675a7515e": 1791553428.6551619,
     "rss:14b7f18dc511790c": 1791553428.6551619,
-    "rss:40ff773c9da7fabf": 1791553428.655162
+    "rss:40ff773c9da7fabf": 1791553428.655162,
+    "rss:11cfc4490d649236": 1791574071.6470847,
+    "rss:435037fd6b967a71": 1791574071.6470861,
+    "rss:17530c9606041ab2": 1791574071.6470866,
+    "rss:6a8cf436737f6757": 1791574071.6470869,
+    "rss:077b9cd3e8b22a0d": 1791574071.647087,
+    "rss:2f26afb5e72e4dab": 1791574071.647087,
+    "rss:f260e22fb18015e6": 1791574071.6470873,
+    "rss:4d533d0e63549053": 1791574071.6470876,
+    "rss:bc6eab7c7359686f": 1791574071.6470876,
+    "rss:4f94684e04ea171d": 1791574071.6470878,
+    "rss:7de80d11e13b1c38": 1791574071.6470878,
+    "rss:828a6c2812b66fee": 1791574071.647088,
+    "rss:49b459ede3d03858": 1791574071.6470883,
+    "rss:666f6bb9eded5f12": 1791574071.6470883,
+    "rss:ce78bdda30b40651": 1791574071.6470885,
+    "rss:d89e230ad98af49b": 1791574071.6470885,
+    "rss:5344b7d588d5577a": 1791574071.647089,
+    "rss:610aa259b31fc006": 1791574071.647089,
+    "rss:96e547b1bddefb14": 1791574071.6470892,
+    "rss:fdcc1ade82c4fd97": 1791574071.6470892,
+    "rss:4f49ff2881060552": 1791574071.6470895,
+    "rss:2825fec016939acb": 1791574071.6470895,
+    "rss:215622ff975df9d1": 1791574071.6470897,
+    "rss:a1e21b7c6fecbf22": 1791574071.64709,
+    "rss:182967f866b71426": 1791574071.64709,
+    "rss:a5b9f50aa39c9050": 1791574071.6470902,
+    "rss:4767cdba310a6e09": 1791574071.6470902
   },
   "x_since": {},
   "recent": [
@@ -597,6 +597,303 @@
       "xRole": null,
       "cluster": "btc-exchange-inflows-liquidations",
       "ts": 1791539401
+    },
+    {
+      "id": "rss:11cfc4490d649236",
+      "kind": "news",
+      "title": "Robinhood Chain considers technology that gives paying traders priority",
+      "url": "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "robinhood-chain-priority",
+      "ts": 1791569460
+    },
+    {
+      "id": "rss:435037fd6b967a71",
+      "kind": "news",
+      "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
+      "url": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "celsius-mashinsky-settlement",
+      "ts": 1791557723
+    },
+    {
+      "id": "rss:17530c9606041ab2",
+      "kind": "news",
+      "title": "Ledger investigates potential wallet tampering after reports of $86 million in crypto stolen",
+      "url": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ledger-wallet-tampering",
+      "ts": 1791557247
+    },
+    {
+      "id": "rss:6a8cf436737f6757",
+      "kind": "news",
+      "title": "Former FTX COO says Netflix’s ‘Altruists’ trailer ‘made me physically throw up’",
+      "url": "https://www.theblock.co/news/business/2026-10-09-former-ftx-coo-netflix-the-altruists-trailer-418208",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ftx-netflix-documentary",
+      "ts": 1791571905
+    },
+    {
+      "id": "rss:077b9cd3e8b22a0d",
+      "kind": "news",
+      "title": "Blockchain.com seeks CFTC greenlight for US prediction markets, crypto derivatives trading: CNBC",
+      "url": "https://www.theblock.co/news/business/2026-10-09-blockchain-com-cftc-license-prediction-markets-derivatives-418192",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "blockchain-cftc-prediction-markets",
+      "ts": 1791561922
+    },
+    {
+      "id": "rss:2f26afb5e72e4dab",
+      "kind": "news",
+      "title": "Ledger investigates wallet drains involving CryptoBilis buyers; estimate tops $86 million in losses",
+      "url": "https://www.theblock.co/news/business/2026-10-09-ledger-cryptobilis-fund-losses-418163",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ledger-wallet-tampering",
+      "ts": 1791557575
+    },
+    {
+      "id": "rss:f260e22fb18015e6",
+      "kind": "news",
+      "title": "US targets $1 billion Iran-linked crypto seizure, Bessent says ‘we know where it is’",
+      "url": "https://www.theblock.co/news/regulation/2026-10-09-us-targets-1-billion-iran-linked-crypto-seizure-bessent-says-we-know-where-it-is-418151",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "iran-crypto-seizure",
+      "ts": 1791556869
+    },
+    {
+      "id": "rss:4d533d0e63549053",
+      "kind": "news",
+      "title": "New York AG secures up to $35 million from former Celsius CEO Alex Mashinsky",
+      "url": "https://www.theblock.co/news/regulation/2026-10-09-ny-attorney-general-alex-mashinsky-celsius-35-million-ban-418154",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "celsius-mashinsky-settlement",
+      "ts": 1791555375
+    },
+    {
+      "id": "rss:bc6eab7c7359686f",
+      "kind": "news",
+      "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
+      "url": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "tether-regulatory-scrutiny",
+      "ts": 1791571563
+    },
+    {
+      "id": "rss:4f94684e04ea171d",
+      "kind": "news",
+      "title": "Blockchain.com Seeks Approval for US Prediction Markets and Crypto Derivatives",
+      "url": "https://decrypt.co/380612/blockchain-cftc-prediction-markets-crypto-derivatives",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "blockchain-cftc-prediction-markets",
+      "ts": 1791569163
+    },
+    {
+      "id": "rss:7de80d11e13b1c38",
+      "kind": "news",
+      "title": "Bitcoin Rebounds After Rough Week, But Traders Are Pricing In More Downside",
+      "url": "https://decrypt.co/380599/bitcoin-rebounds-traders-predict-more-downside",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-price-analysis",
+      "ts": 1791567386
+    },
+    {
+      "id": "rss:828a6c2812b66fee",
+      "kind": "news",
+      "title": "Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1",
+      "url": "https://decrypt.co/380585/ethereum-l2-starknet-jumps-20-after-saying-it-wants-to-become-an-l1",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "starknet-l1-transition",
+      "ts": 1791563763
+    },
+    {
+      "id": "rss:49b459ede3d03858",
+      "kind": "news",
+      "title": "DWF Labs Subsidiaries Sue BitGo for $141 Million Over Early Token Sales",
+      "url": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "dwf-labs-bitgo-lawsuit",
+      "ts": 1791562103
+    },
+    {
+      "id": "rss:666f6bb9eded5f12",
+      "kind": "news",
+      "title": "New York AG Secures Up to $35M and Industry Ban From Ex-Celsius CEO Alex Mashinsky",
+      "url": "https://decrypt.co/380592/new-york-ag-secures-up-to-35m-and-industry-ban-from-ex-celsius-ceo-alex-mashinsky",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "celsius-mashinsky-settlement",
+      "ts": 1791562027
+    },
+    {
+      "id": "rss:ce78bdda30b40651",
+      "kind": "news",
+      "title": "Ledger Probes Potential Theft of $87M in User Funds Tied to Crypto Wallet Reseller",
+      "url": "https://decrypt.co/380582/ledger-probes-87m-theft-crypto-wallet-reseller",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ledger-wallet-tampering",
+      "ts": 1791559836
+    },
+    {
+      "id": "rss:d89e230ad98af49b",
+      "kind": "news",
+      "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
+      "url": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "tether-thorchain-freeze",
+      "ts": 1791572643
+    },
+    {
+      "id": "rss:5344b7d588d5577a",
+      "kind": "news",
+      "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
+      "url": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "hsbc-ant-tokenized-deposits",
+      "ts": 1791566467
+    },
+    {
+      "id": "rss:610aa259b31fc006",
+      "kind": "news",
+      "title": "Ledger investigates fund losses linked to Southeast Asian reseller, warns users",
+      "url": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "ledger-wallet-tampering",
+      "ts": 1791565367
+    },
+    {
+      "id": "rss:96e547b1bddefb14",
+      "kind": "news",
+      "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
+      "url": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "blockchain-cftc-prediction-markets",
+      "ts": 1791562965
+    },
+    {
+      "id": "rss:fdcc1ade82c4fd97",
+      "kind": "news",
+      "title": "Crypto Biz: Wealthy investors are buying crypto, but their advisers aren’t sold",
+      "url": "https://cointelegraph.com/news/wealthy-investors-crypto-advisers-okx-strategy-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791561113
+    },
+    {
+      "id": "rss:4f49ff2881060552",
+      "kind": "news",
+      "title": "Bitcoin consolidates near $82.5K as crypto weathers Ledger theft reports",
+      "url": "https://cointelegraph.com/markets/bitcoin-consolidates-crypto-weathers-ledger-theft-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "ledger-wallet-tampering",
+      "ts": 1791559236
+    },
+    {
+      "id": "rss:2825fec016939acb",
+      "kind": "news",
+      "title": "Dragonfly partner rejects ‘bunker mode’ doomerism, calls for proactive blockchain measures",
+      "url": "https://cointelegraph.com/news/dragonfly-bunker-mode-doomerism-proactive-blockchain-measures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "quantum-crypto-threat",
+      "ts": 1791553762
+    },
+    {
+      "id": "rss:215622ff975df9d1",
+      "kind": "news",
+      "title": "SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-104-sec-proposes-expanding-securities-eligible-cross-trading-registered-funds",
+      "source": "SEC (communiqués)",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "sec-cross-trading",
+      "ts": 1791557940
+    },
+    {
+      "id": "rss:a1e21b7c6fecbf22",
+      "kind": "news",
+      "title": "Risk Stewards: Cap and IRM Changes on Aave V4 / 2026.10.09",
+      "url": "https://governance.aave.com/t/risk-stewards-cap-and-irm-changes-on-aave-v4-2026-10-09/25820",
+      "source": "Aave gouvernance",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "aave-governance-parameters",
+      "ts": 1791571912
+    },
+    {
+      "id": "rss:182967f866b71426",
+      "kind": "news",
+      "title": "Enable General Collaterals for POL Borrowing on Polygon v3",
+      "url": "https://governance.aave.com/t/enable-general-collaterals-for-pol-borrowing-on-polygon-v3/25819",
+      "source": "Aave gouvernance",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "aave-governance-parameters",
+      "ts": 1791566713
+    },
+    {
+      "id": "rss:a5b9f50aa39c9050",
+      "kind": "news",
+      "title": "Risk Stewards: Supply Cap Increases on Aave V3 / 2026.10.09",
+      "url": "https://governance.aave.com/t/risk-stewards-supply-cap-increases-on-aave-v3-2026-10-09/25818",
+      "source": "Aave gouvernance",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "aave-governance-parameters",
+      "ts": 1791562908
+    },
+    {
+      "id": "rss:4767cdba310a6e09",
+      "kind": "news",
+      "title": "[ARFC] Onboard USAT to Aave V3 Core Instance and Aave V4 Core Hub on Ethereum",
+      "url": "https://governance.aave.com/t/arfc-onboard-usat-to-aave-v3-core-instance-and-aave-v4-core-hub-on-ethereum/25817",
+      "source": "Aave gouvernance",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "aave-governance-parameters",
+      "ts": 1791562435
     }
   ],
   "digest_queue": [
@@ -614,7 +911,7 @@
           "url": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether"
         }
       ],
-      "digested": false
+      "digested": true
     }
   ],
   "sent": {
@@ -653,9 +950,11 @@
       "digests": []
     },
     "2026-10-09": {
-      "critical": 0,
-      "important": 8,
-      "digests": []
+      "critical": 1,
+      "important": 13,
+      "digests": [
+        "18:30"
+      ]
     }
   },
   "alerted": {
@@ -783,7 +1082,13 @@
     "zcash-quantum-resistance": "important",
     "uk-crypto-sanctions-russia": "important",
     "bitcoin-insurance-funding": "important",
-    "france-stablecoin-tax": "important"
+    "france-stablecoin-tax": "important",
+    "celsius-mashinsky-settlement": "important",
+    "ledger-wallet-tampering": "critical",
+    "blockchain-cftc-prediction-markets": "important",
+    "iran-crypto-seizure": "important",
+    "starknet-l1-transition": "important",
+    "tether-thorchain-freeze": "important"
   },
   "briefing_attempts": {
     "2026-10-03": 1,
