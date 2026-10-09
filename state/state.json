@@ -1,25 +1,5 @@
 {
   "seen": {
-    "rss:fcecea457879ca3a": 1791321092.6094751,
-    "rss:ced5230036ac46d9": 1791321092.6094763,
-    "rss:03d97ef22b700780": 1791321092.6094766,
-    "rss:0a692887764bf5a4": 1791321092.6094768,
-    "rss:bff69fce240ad3ee": 1791321092.609477,
-    "rss:d9ad133ee7ef5738": 1791321092.6094773,
-    "rss:43e1403663da38d4": 1791321092.6094775,
-    "rss:186195f22f69598c": 1791321092.609478,
-    "rss:bf207beb5e32d458": 1791321092.609478,
-    "rss:e7f4333f8512c445": 1791321092.6094782,
-    "rss:a594c9f8f8161894": 1791321092.6094782,
-    "rss:4436cb5d1c392977": 1791321092.6094785,
-    "rss:bd258f00ef003b89": 1791321092.6094785,
-    "rss:589600d5752ecd8e": 1791321092.6094787,
-    "rss:122ef6b1c8b512c8": 1791321092.609479,
-    "rss:b3dcaff29f328df0": 1791321092.609479,
-    "rss:247b367203351238": 1791321092.6094792,
-    "rss:43e077d223abeb38": 1791321092.6094792,
-    "rss:8564ad3bbaf1b54b": 1791321092.6094794,
-    "rss:cce1a85652ad7b4d": 1791321092.6094797,
     "rss:0aa3ebb1136cac1a": 1791334782.5969062,
     "rss:9dac9d5751c28104": 1791334782.5969076,
     "rss:9f1933099600c082": 1791334782.596908,
@@ -220,65 +200,14 @@
     "rss:a1e21b7c6fecbf22": 1791574071.64709,
     "rss:182967f866b71426": 1791574071.64709,
     "rss:a5b9f50aa39c9050": 1791574071.6470902,
-    "rss:4767cdba310a6e09": 1791574071.6470902
+    "rss:4767cdba310a6e09": 1791574071.6470902,
+    "rss:0752e18b3c5d1b5f": 1791588414.2160056,
+    "rss:64c57b6d512c3c32": 1791588414.216007,
+    "rss:78d757246a9a770f": 1791588414.2160072,
+    "rss:01764f9f1ebb23fc": 1791588414.2160075
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:277a0c6ad7ab464b",
-      "kind": "news",
-      "title": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
-      "url": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "tether-regulatory-scrutiny",
-      "ts": 1791494578
-    },
-    {
-      "id": "rss:372e2f328fd51e63",
-      "kind": "news",
-      "title": "AI Startup Manus Raises $500 Million After China Nixed Meta’s $2 Billion Acquisition",
-      "url": "https://decrypt.co/380546/maus-ai-startup-raises-500m-meta-acquisition-china",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791495963
-    },
-    {
-      "id": "rss:4e67d3aeba490c88",
-      "kind": "news",
-      "title": "Google Wants Gemini to Be Your Next Coworker—Complete With Its Own Email Address",
-      "url": "https://decrypt.co/380545/google-gemini-coworker-own-email-address",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791494163
-    },
-    {
-      "id": "rss:bed8e4682e3df8f8",
-      "kind": "news",
-      "title": "Ethereum Test Network Raises Block Limit to Over 3x Its Current Capacity",
-      "url": "https://decrypt.co/380538/ethereum-test-raises-block-limit-3x-current-capacity",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ethereum-glamsterdam-upgrade",
-      "ts": 1791490563
-    },
-    {
-      "id": "rss:a7baed191b622915",
-      "kind": "news",
-      "title": "China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express",
-      "url": "https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791498900
-    },
     {
       "id": "rss:a0b0d7159c04f9c6",
       "kind": "news",
@@ -894,6 +823,50 @@
       "xRole": null,
       "cluster": "aave-governance-parameters",
       "ts": 1791562435
+    },
+    {
+      "id": "rss:0752e18b3c5d1b5f",
+      "kind": "news",
+      "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
+      "url": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "blockchain-cftc-prediction-markets",
+      "ts": 1791580914
+    },
+    {
+      "id": "rss:64c57b6d512c3c32",
+      "kind": "news",
+      "title": "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe",
+      "url": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791575221
+    },
+    {
+      "id": "rss:78d757246a9a770f",
+      "kind": "news",
+      "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
+      "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "iran-crypto-seizure",
+      "ts": 1791578357
+    },
+    {
+      "id": "rss:01764f9f1ebb23fc",
+      "kind": "news",
+      "title": "New York permanently bars Celsius founder Mashinsky in $35M fraud settlement",
+      "url": "https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "celsius-mashinsky-settlement",
+      "ts": 1791576842
     }
   ],
   "digest_queue": [
@@ -915,13 +888,6 @@
     }
   ],
   "sent": {
-    "2026-10-03": {
-      "critical": 0,
-      "important": 2,
-      "digests": [
-        "12:30"
-      ]
-    },
     "2026-10-04": {
       "critical": 0,
       "important": 2,
@@ -955,6 +921,11 @@
       "digests": [
         "18:30"
       ]
+    },
+    "2026-10-10": {
+      "critical": 0,
+      "important": 0,
+      "digests": []
     }
   },
   "alerted": {
