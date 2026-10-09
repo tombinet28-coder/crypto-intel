@@ -1,7 +1,5 @@
 {
   "seen": {
-    "rss:a888bbfc45192f5a": 1791253696.2459612,
-    "rss:6c2e83b52adbcad0": 1791253696.245962,
     "rss:fc94c644ee0541e4": 1791278641.3462613,
     "rss:5141614c60603dcc": 1791278641.3462625,
     "rss:50a861e15ed1931e": 1791278641.3462627,
@@ -205,120 +203,17 @@
     "rss:372e2f328fd51e63": 1791504960.8663561,
     "rss:4e67d3aeba490c88": 1791504960.8663564,
     "rss:bed8e4682e3df8f8": 1791504960.866357,
-    "rss:a7baed191b622915": 1791504960.866357
+    "rss:a7baed191b622915": 1791504960.866357,
+    "rss:a0b0d7159c04f9c6": 1791528039.7819319,
+    "rss:edecc250b3e9ffde": 1791528039.7819328,
+    "rss:fccba4b31ff39792": 1791528039.781933,
+    "rss:4ac1598ae4f4ed45": 1791528039.7819333,
+    "rss:c117be7e01900a0b": 1791528039.7819335,
+    "rss:28228e98d683c40a": 1791528039.7819338,
+    "rss:03ccb542134e9856": 1791528039.7819338
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:1e6e04624a7be508",
-      "kind": "news",
-      "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
-      "url": "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ripple-financing-business",
-      "ts": 1791440233
-    },
-    {
-      "id": "rss:c1530df043e14db6",
-      "kind": "news",
-      "title": "Bitcoin loans are paying for tuition and working capital, not just trades, lenders say",
-      "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "bitcoin-lending-expansion",
-      "ts": 1791438041
-    },
-    {
-      "id": "rss:f3252de5b841883f",
-      "kind": "news",
-      "title": "Ethereum’s Glamsterdam test runs near 200 million gas per block after upgrade",
-      "url": "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ethereum-glamsterdam-upgrade",
-      "ts": 1791433403
-    },
-    {
-      "id": "rss:fec5508cca012523",
-      "kind": "news",
-      "title": "Bitcoin breaks below $83,000 as oil jumps on Iran strike-plan report",
-      "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-breaks-below-usd83-000-as-oil-jumps-on-iran-strike-plan-report",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-price-geopolitics",
-      "ts": 1791432007
-    },
-    {
-      "id": "rss:ed1c798f78f9020e",
-      "kind": "news",
-      "title": "‘Don’t rush anything’: Vitalik Buterin warns against hasty wallet migrations amid growing AI threats",
-      "url": "https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "eth-key-recovery-risk",
-      "ts": 1791435628
-    },
-    {
-      "id": "rss:629da2cca04f20e6",
-      "kind": "news",
-      "title": "Samsung to launch USDC transfers on Solana for US Galaxy users",
-      "url": "https://www.theblock.co/news/business/2026-10-07-samsung-to-launch-usdc-transfers-on-solana-for-us-galaxy-users-418004",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "samsung-usdc-solana",
-      "ts": 1791427801
-    },
-    {
-      "id": "rss:043a2bf5f6f78168",
-      "kind": "news",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791439200
-    },
-    {
-      "id": "rss:039740c45738e912",
-      "kind": "news",
-      "title": "Crypto’s heavy backing of Republicans alienated Democrats: Cuomo",
-      "url": "https://cointelegraph.com/news/cryptos-republican-spending-alienated-democrats-says-andrew-cuomo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "crypto-political-balance",
-      "ts": 1791436011
-    },
-    {
-      "id": "rss:d6e4c2c5388c925d",
-      "kind": "news",
-      "title": "Crypto must cement adoption to withstand US policy shifts: Canton CEO",
-      "url": "https://cointelegraph.com/news/canton-ceo-crypto-adoption-us-policy-reversals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "crypto-adoption-resilience",
-      "ts": 1791433707
-    },
-    {
-      "id": "rss:c9c0a6110f3cf6ff",
-      "kind": "news",
-      "title": "[Direct-to-AIP] Asset Listing - USDG Arbitrum",
-      "url": "https://governance.aave.com/t/direct-to-aip-asset-listing-usdg-arbitrum/25811",
-      "source": "Aave gouvernance",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "aave-usdg-listing",
-      "ts": 1791440243
-    },
     {
       "id": "rss:ede071f2ab637a35",
       "kind": "news",
@@ -692,6 +587,83 @@
       "xRole": null,
       "cluster": "general-market-news",
       "ts": 1791498900
+    },
+    {
+      "id": "rss:a0b0d7159c04f9c6",
+      "kind": "news",
+      "title": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
+      "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "xrpl-banking-features",
+      "ts": 1791519696
+    },
+    {
+      "id": "rss:edecc250b3e9ffde",
+      "kind": "news",
+      "title": "Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush",
+      "url": "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "eth-liquidations-market",
+      "ts": 1791518676
+    },
+    {
+      "id": "rss:fccba4b31ff39792",
+      "kind": "news",
+      "title": "Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops",
+      "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-price-geopolitics",
+      "ts": 1791516458
+    },
+    {
+      "id": "rss:4ac1598ae4f4ed45",
+      "kind": "news",
+      "title": "Crypto projects apply for Anthropic’s new frontier AI security scanner",
+      "url": "https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "ai-security-crypto",
+      "ts": 1791524073
+    },
+    {
+      "id": "rss:c117be7e01900a0b",
+      "kind": "news",
+      "title": "Trump administration outlines quantum, AI initiatives in $6B science push",
+      "url": "https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "quantum-crypto-threat",
+      "ts": 1791523527
+    },
+    {
+      "id": "rss:28228e98d683c40a",
+      "kind": "news",
+      "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
+      "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "thailand-btc-eth-etf",
+      "ts": 1791515331
+    },
+    {
+      "id": "rss:03ccb542134e9856",
+      "kind": "news",
+      "title": "Cantor Fitzgerald faces Senate Democrat’s questions over Tether ties",
+      "url": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "tether-regulatory-scrutiny",
+      "ts": 1791506787
     }
   ],
   "digest_queue": [
@@ -749,7 +721,7 @@
     },
     "2026-10-09": {
       "critical": 0,
-      "important": 0,
+      "important": 3,
       "digests": []
     }
   },
@@ -870,15 +842,18 @@
     "crypto-lending-expansion": "important",
     "sui-bitcoin-finance": "important",
     "esma-stablecoin-mica": "important",
-    "tether-regulatory-scrutiny": "important"
+    "tether-regulatory-scrutiny": "important",
+    "xrpl-banking-features": "important",
+    "quantum-crypto-threat": "important",
+    "thailand-btc-eth-etf": "important"
   },
   "briefing_attempts": {
-    "2026-10-02": 1,
     "2026-10-03": 1,
     "2026-10-04": 1,
     "2026-10-05": 1,
     "2026-10-06": 1,
     "2026-10-07": 1,
-    "2026-10-08": 1
+    "2026-10-08": 1,
+    "2026-10-09": 1
   }
 }
