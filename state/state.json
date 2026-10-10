@@ -1,25 +1,5 @@
 {
   "seen": {
-    "rss:d2cc1e4d023520db": 1791405227.0998583,
-    "rss:1c1142825db0da38": 1791405227.0998597,
-    "rss:9c893679d71bdec5": 1791405227.09986,
-    "rss:9a1df2c033a4096d": 1791405227.0998602,
-    "rss:4c430b6803ccefde": 1791405227.0998604,
-    "rss:404aab96d72b58f3": 1791405227.0998604,
-    "rss:f0117216cefaa0f0": 1791405227.0998604,
-    "rss:f131ec29adb3ad12": 1791405227.0998607,
-    "rss:e037e85684bb6068": 1791405227.099861,
-    "rss:91d45bca7c70d1a2": 1791405227.099861,
-    "rss:447a6f576f561fee": 1791405227.0998611,
-    "rss:54467d5344c567f6": 1791405227.0998611,
-    "rss:847a10219dd993de": 1791405227.0998616,
-    "rss:0cbd773091103174": 1791405227.0998616,
-    "rss:3140b887df1f0905": 1791405227.0998619,
-    "rss:4e143c5e29c86e25": 1791405227.0998619,
-    "rss:fd4edb1e222f31b8": 1791405227.099862,
-    "rss:175c987b5343b3c4": 1791405227.099862,
-    "rss:e87157b53818ab75": 1791405227.099862,
-    "rss:88e9bdc6170c8fcc": 1791405227.0998623,
     "rss:e8b18882147539bd": 1791418968.5983186,
     "rss:00ca253170f5712a": 1791418968.5983195,
     "rss:25a8d4ef22b3ca93": 1791418968.5983202,
@@ -181,39 +161,6 @@
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:0752e18b3c5d1b5f",
-      "kind": "news",
-      "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
-      "url": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "blockchain-cftc-prediction-markets",
-      "ts": 1791580914
-    },
-    {
-      "id": "rss:78d757246a9a770f",
-      "kind": "news",
-      "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
-      "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "iran-crypto-seizure",
-      "ts": 1791578357
-    },
-    {
-      "id": "rss:01764f9f1ebb23fc",
-      "kind": "news",
-      "title": "New York permanently bars Celsius founder Mashinsky in $35M fraud settlement",
-      "url": "https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "celsius-mashinsky-settlement",
-      "ts": 1791576842
-    },
     {
       "id": "rss:08bd412d4a9d5b33",
       "kind": "news",
@@ -399,13 +346,6 @@
     }
   ],
   "sent": {
-    "2026-10-04": {
-      "critical": 0,
-      "important": 2,
-      "digests": [
-        "18:30"
-      ]
-    },
     "2026-10-05": {
       "critical": 0,
       "important": 4,
@@ -436,6 +376,11 @@
     "2026-10-10": {
       "critical": 0,
       "important": 2,
+      "digests": []
+    },
+    "2026-10-11": {
+      "critical": 0,
+      "important": 0,
       "digests": []
     }
   },
