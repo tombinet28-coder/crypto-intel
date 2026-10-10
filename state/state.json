@@ -1,14 +1,5 @@
 {
   "seen": {
-    "rss:8c8e1676cf524aa3": 1791357104.4191077,
-    "rss:6d04fd6a1eadae94": 1791357104.419109,
-    "rss:79b4e06db1d9ddb1": 1791357104.4191093,
-    "rss:72f5d452a7bbcab5": 1791357104.4191096,
-    "rss:75d7f7c0bada7f1f": 1791357104.4191096,
-    "rss:2d02dc3947595250": 1791357104.4191098,
-    "rss:413ce0567163eec7": 1791357104.41911,
-    "rss:fc0380ab7c333f56": 1791357104.41911,
-    "rss:304e429e4e9c81e6": 1791357104.41911,
     "rss:a0f695afe97fc731": 1791384189.5966456,
     "rss:1e8defc1238fe01b": 1791384189.596647,
     "rss:d6d6ad7262745ef7": 1791384189.5966475,
@@ -199,76 +190,15 @@
     "rss:0752e18b3c5d1b5f": 1791588414.2160056,
     "rss:64c57b6d512c3c32": 1791588414.216007,
     "rss:78d757246a9a770f": 1791588414.2160072,
-    "rss:01764f9f1ebb23fc": 1791588414.2160075
+    "rss:01764f9f1ebb23fc": 1791588414.2160075,
+    "rss:08bd412d4a9d5b33": 1791625586.892921,
+    "rss:f4d930f7ebe8d6e4": 1791625586.8929224,
+    "rss:dbf9a913d79f9196": 1791625586.8929229,
+    "rss:423d6238933320ae": 1791625586.892923,
+    "rss:0d5705e0ecd662de": 1791625586.8929234
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:a0b0d7159c04f9c6",
-      "kind": "news",
-      "title": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
-      "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "xrpl-banking-features",
-      "ts": 1791519696
-    },
-    {
-      "id": "rss:edecc250b3e9ffde",
-      "kind": "news",
-      "title": "Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush",
-      "url": "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "eth-liquidations-market",
-      "ts": 1791518676
-    },
-    {
-      "id": "rss:fccba4b31ff39792",
-      "kind": "news",
-      "title": "Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops",
-      "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-price-geopolitics",
-      "ts": 1791516458
-    },
-    {
-      "id": "rss:4ac1598ae4f4ed45",
-      "kind": "news",
-      "title": "Crypto projects apply for Anthropic’s new frontier AI security scanner",
-      "url": "https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "ai-security-crypto",
-      "ts": 1791524073
-    },
-    {
-      "id": "rss:c117be7e01900a0b",
-      "kind": "news",
-      "title": "Trump administration outlines quantum, AI initiatives in $6B science push",
-      "url": "https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "quantum-crypto-threat",
-      "ts": 1791523527
-    },
-    {
-      "id": "rss:28228e98d683c40a",
-      "kind": "news",
-      "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
-      "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "thailand-btc-eth-etf",
-      "ts": 1791515331
-    },
     {
       "id": "rss:d250fd77b07a2568",
       "kind": "news",
@@ -334,39 +264,6 @@
       "xRole": null,
       "cluster": "uk-crypto-sanctions-russia",
       "ts": 1791540899
-    },
-    {
-      "id": "rss:8cb416fb67cef6f4",
-      "kind": "news",
-      "title": "Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin",
-      "url": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "dark-web-sentencing",
-      "ts": 1791537616
-    },
-    {
-      "id": "rss:8bfa0398e1ec8172",
-      "kind": "news",
-      "title": "MARA transfers $81.1 million in bitcoin to Galaxy Digital as strategy pivots to AI",
-      "url": "https://www.coindesk.com/markets/2026/10/09/mara-transfers-usd81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "mara-bitcoin-transfer",
-      "ts": 1791536889
-    },
-    {
-      "id": "rss:9b31912c1f49eeb7",
-      "kind": "news",
-      "title": "Sam Altman-backed bitcoin insurer Meanwhile secures $37.5 million in Bain Capital Crypto-led round",
-      "url": "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "bitcoin-insurance-funding",
-      "ts": 1791536760
     },
     {
       "id": "rss:2dd5dc00e4bcbc99",
@@ -444,17 +341,6 @@
       "xRole": null,
       "cluster": "dark-web-sentencing",
       "ts": 1791540711
-    },
-    {
-      "id": "rss:eef1159f64d733d0",
-      "kind": "news",
-      "title": "SIM-Swap Fraudster Who Spent Stolen Crypto on Gold Grills and Dubai Trips Jailed",
-      "url": "https://decrypt.co/380554/sim-swap-fraudster-who-spent-stolen-crypto-on-gold-grills-and-dubai-trips-jailed",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "sim-swap-fraud",
-      "ts": 1791536371
     },
     {
       "id": "rss:508ac65895fa106b",
@@ -851,6 +737,61 @@
       "xRole": null,
       "cluster": "celsius-mashinsky-settlement",
       "ts": 1791576842
+    },
+    {
+      "id": "rss:08bd412d4a9d5b33",
+      "kind": "news",
+      "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
+      "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-price-analysis",
+      "ts": 1791610980
+    },
+    {
+      "id": "rss:f4d930f7ebe8d6e4",
+      "kind": "news",
+      "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
+      "url": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "robinhood-chain-priority",
+      "ts": 1791607475
+    },
+    {
+      "id": "rss:dbf9a913d79f9196",
+      "kind": "news",
+      "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
+      "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "xrp-ledger-bug",
+      "ts": 1791606007
+    },
+    {
+      "id": "rss:423d6238933320ae",
+      "kind": "news",
+      "title": "Tech chief says EU can fend off rogue AI risk: Report",
+      "url": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791621666
+    },
+    {
+      "id": "rss:0d5705e0ecd662de",
+      "kind": "news",
+      "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
+      "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "bitcoin-insurance-funding",
+      "ts": 1791616243
     }
   ],
   "digest_queue": [
@@ -908,7 +849,7 @@
     },
     "2026-10-10": {
       "critical": 0,
-      "important": 0,
+      "important": 1,
       "digests": []
     }
   },
@@ -1043,15 +984,16 @@
     "blockchain-cftc-prediction-markets": "important",
     "iran-crypto-seizure": "important",
     "starknet-l1-transition": "important",
-    "tether-thorchain-freeze": "important"
+    "tether-thorchain-freeze": "important",
+    "xrp-ledger-bug": "important"
   },
   "briefing_attempts": {
-    "2026-10-03": 1,
     "2026-10-04": 1,
     "2026-10-05": 1,
     "2026-10-06": 1,
     "2026-10-07": 1,
     "2026-10-08": 1,
-    "2026-10-09": 1
+    "2026-10-09": 1,
+    "2026-10-10": 1
   }
 }
