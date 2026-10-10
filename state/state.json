@@ -1,34 +1,5 @@
 {
   "seen": {
-    "rss:a0f695afe97fc731": 1791384189.5966456,
-    "rss:1e8defc1238fe01b": 1791384189.596647,
-    "rss:d6d6ad7262745ef7": 1791384189.5966475,
-    "rss:cf667e38aad19164": 1791384189.5966475,
-    "rss:702686bb3a3404ab": 1791384189.5966477,
-    "rss:97fa7931a7c96e98": 1791384189.596648,
-    "rss:06eb933f1ead5ffb": 1791384189.5966482,
-    "rss:c973b724a25d46a8": 1791384189.5966482,
-    "rss:7f05d1c8554c45d2": 1791384189.5966485,
-    "rss:1c8acf5ddb5eb980": 1791384189.5966487,
-    "rss:ba48709873e8699a": 1791384189.596649,
-    "rss:32fc8050c1ea882e": 1791384189.596649,
-    "rss:f8671205102e48ad": 1791384189.596649,
-    "rss:f4551ce1c3ce2111": 1791384189.5966492,
-    "rss:65a11b85f89f3674": 1791384189.5966494,
-    "rss:84c979468bc11a99": 1791384189.5966494,
-    "rss:9ba0563bda267118": 1791384189.5966496,
-    "rss:8d842b1540c0726c": 1791384189.59665,
-    "rss:45f584cb256e0c01": 1791384189.59665,
-    "rss:392c943ba70120ad": 1791384189.5966501,
-    "rss:2c630af779b4cb56": 1791384189.5966506,
-    "rss:6dbf6cc34ea0abca": 1791384189.5966506,
-    "rss:8078a73c1d8be122": 1791384189.5966508,
-    "rss:63dc186b60b332a1": 1791384189.5966508,
-    "rss:61d37472d60febb8": 1791384189.596651,
-    "rss:6f6c5de6cab7a241": 1791384189.5966616,
-    "rss:bdce5268922d0d6d": 1791384189.5966618,
-    "rss:a34c3621e618678e": 1791384189.596662,
-    "rss:39ae740b4f6ed7ae": 1791384189.596662,
     "rss:d2cc1e4d023520db": 1791405227.0998583,
     "rss:1c1142825db0da38": 1791405227.0998597,
     "rss:9c893679d71bdec5": 1791405227.09986,
@@ -195,208 +166,17 @@
     "rss:f4d930f7ebe8d6e4": 1791625586.8929224,
     "rss:dbf9a913d79f9196": 1791625586.8929229,
     "rss:423d6238933320ae": 1791625586.892923,
-    "rss:0d5705e0ecd662de": 1791625586.8929234
+    "rss:0d5705e0ecd662de": 1791625586.8929234,
+    "rss:fcc2367bea59fa8d": 1791647421.6160336,
+    "rss:51cb87d5b15808be": 1791647421.6160345,
+    "rss:db8104c06c85d695": 1791647421.6160347,
+    "rss:64fd54d7004c1c89": 1791647421.616035,
+    "rss:4ae4190d274def16": 1791647421.6160352,
+    "rss:a682e18a47df4d5e": 1791647421.6160352,
+    "rss:3f8fd047416121e2": 1791647421.6160357
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:d250fd77b07a2568",
-      "kind": "news",
-      "title": "DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach",
-      "url": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "dwf-labs-bitgo-lawsuit",
-      "ts": 1791548634
-    },
-    {
-      "id": "rss:4f607ce8efd15cb8",
-      "kind": "news",
-      "title": "Zcash developers set January target for quantum-resistant payments after ‘bunker mode’ scare",
-      "url": "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "zcash-quantum-resistance",
-      "ts": 1791545945
-    },
-    {
-      "id": "rss:3468869948aae064",
-      "kind": "news",
-      "title": "Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-price-geopolitics",
-      "ts": 1791544144
-    },
-    {
-      "id": "rss:65fa2a0ab6db13bb",
-      "kind": "news",
-      "title": "Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms",
-      "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-price-geopolitics",
-      "ts": 1791542662
-    },
-    {
-      "id": "rss:cc735b0562475505",
-      "kind": "news",
-      "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
-      "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "thailand-btc-eth-etf",
-      "ts": 1791541015
-    },
-    {
-      "id": "rss:86d004458978637d",
-      "kind": "news",
-      "title": "UK slaps sanctions on three crypto exchanges over alleged Russia links",
-      "url": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "uk-crypto-sanctions-russia",
-      "ts": 1791540899
-    },
-    {
-      "id": "rss:2dd5dc00e4bcbc99",
-      "kind": "news",
-      "title": "Base creator Jesse Pollak says equities and non-dollar stablecoins will lead upcoming ‘tokenization supercycle’",
-      "url": "https://www.theblock.co/news/defi/2026-10-09-tokenization-supercycle-base-jesse-pollak-418144",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "base-tokenization-supercycle",
-      "ts": 1791551577
-    },
-    {
-      "id": "rss:660b8c462b05073a",
-      "kind": "news",
-      "title": "Thailand SEC issues bitcoin and ether ETF rules set to take effect Oct. 16",
-      "url": "https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "thailand-btc-eth-etf",
-      "ts": 1791542459
-    },
-    {
-      "id": "rss:a2e6c24047cd0080",
-      "kind": "news",
-      "title": "Sam Altman-backed bitcoin life insurer Meanwhile raises $37.5 million round led by Bain Capital Crypto",
-      "url": "https://www.theblock.co/news/deals/2026-10-09-sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-37-5-million-round-led-by-bain-capital-crypto-418131",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "bitcoin-insurance-funding",
-      "ts": 1791542026
-    },
-    {
-      "id": "rss:076f49f990e69c6b",
-      "kind": "news",
-      "title": "Bitcoin Bleeds in Uptober—How Low Can It Go? Experts Weigh In",
-      "url": "https://decrypt.co/380574/bitcoin-bleeds-in-uptober-how-low-can-it-go-experts-weigh-in",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-price-analysis",
-      "ts": 1791552012
-    },
-    {
-      "id": "rss:c49cf4d10eba653e",
-      "kind": "news",
-      "title": "UK Targets Cryptomus and TokenSpot in New Russia Sanctions Package",
-      "url": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "uk-crypto-sanctions-russia",
-      "ts": 1791547447
-    },
-    {
-      "id": "rss:7c47a8a3486acaea",
-      "kind": "news",
-      "title": "Morning Minute: Uptober Turns Sour as Crypto Majors Slide",
-      "url": "https://decrypt.co/380569/morning-minute-uptober-turns-sour-as-crypto-majors-slide",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-price-analysis",
-      "ts": 1791546075
-    },
-    {
-      "id": "rss:d620613dd8dd91af",
-      "kind": "news",
-      "title": "Empire Market Co-Creator Sentenced to 40 Years Over $430M Dark Web Bazaar",
-      "url": "https://decrypt.co/380561/empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web-bazaar",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "dark-web-sentencing",
-      "ts": 1791540711
-    },
-    {
-      "id": "rss:508ac65895fa106b",
-      "kind": "news",
-      "title": "France is world’s most dangerous place for Bitcoiners: 90 attacks in 7 months",
-      "url": "https://cointelegraph.com/magazine/france-is-worlds-most-dangerous-place-for-bitcoiners-90-attacks-in-7-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "france-crypto-violence",
-      "ts": 1791552600
-    },
-    {
-      "id": "rss:6f4d13d05997cfeb",
-      "kind": "news",
-      "title": "ESMA seeks evidence tokenized collateral can be cashed out in crisis",
-      "url": "https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "esma-tokenized-collateral",
-      "ts": 1791542964
-    },
-    {
-      "id": "rss:da57e54675a7515e",
-      "kind": "news",
-      "title": "UK sanctions three crypto exchanges tied to Russian illicit funds",
-      "url": "https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "uk-crypto-sanctions-russia",
-      "ts": 1791542077
-    },
-    {
-      "id": "rss:14b7f18dc511790c",
-      "kind": "news",
-      "title": "French lawmakers back stablecoin swap tax in 2027 budget bill",
-      "url": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "france-stablecoin-tax",
-      "ts": 1791541008
-    },
-    {
-      "id": "rss:40ff773c9da7fabf",
-      "kind": "news",
-      "title": "Bitcoin speculators move 55K BTC to exchanges amid $1.1B liquidations",
-      "url": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-crypto-liquidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "btc-exchange-inflows-liquidations",
-      "ts": 1791539401
-    },
     {
       "id": "rss:11cfc4490d649236",
       "kind": "news",
@@ -407,28 +187,6 @@
       "xRole": null,
       "cluster": "robinhood-chain-priority",
       "ts": 1791569460
-    },
-    {
-      "id": "rss:435037fd6b967a71",
-      "kind": "news",
-      "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
-      "url": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "celsius-mashinsky-settlement",
-      "ts": 1791557723
-    },
-    {
-      "id": "rss:17530c9606041ab2",
-      "kind": "news",
-      "title": "Ledger investigates potential wallet tampering after reports of $86 million in crypto stolen",
-      "url": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ledger-wallet-tampering",
-      "ts": 1791557247
     },
     {
       "id": "rss:6a8cf436737f6757",
@@ -451,39 +209,6 @@
       "xRole": null,
       "cluster": "blockchain-cftc-prediction-markets",
       "ts": 1791561922
-    },
-    {
-      "id": "rss:2f26afb5e72e4dab",
-      "kind": "news",
-      "title": "Ledger investigates wallet drains involving CryptoBilis buyers; estimate tops $86 million in losses",
-      "url": "https://www.theblock.co/news/business/2026-10-09-ledger-cryptobilis-fund-losses-418163",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ledger-wallet-tampering",
-      "ts": 1791557575
-    },
-    {
-      "id": "rss:f260e22fb18015e6",
-      "kind": "news",
-      "title": "US targets $1 billion Iran-linked crypto seizure, Bessent says ‘we know where it is’",
-      "url": "https://www.theblock.co/news/regulation/2026-10-09-us-targets-1-billion-iran-linked-crypto-seizure-bessent-says-we-know-where-it-is-418151",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "iran-crypto-seizure",
-      "ts": 1791556869
-    },
-    {
-      "id": "rss:4d533d0e63549053",
-      "kind": "news",
-      "title": "New York AG secures up to $35 million from former Celsius CEO Alex Mashinsky",
-      "url": "https://www.theblock.co/news/regulation/2026-10-09-ny-attorney-general-alex-mashinsky-celsius-35-million-ban-418154",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "celsius-mashinsky-settlement",
-      "ts": 1791555375
     },
     {
       "id": "rss:bc6eab7c7359686f",
@@ -552,17 +277,6 @@
       "ts": 1791562027
     },
     {
-      "id": "rss:ce78bdda30b40651",
-      "kind": "news",
-      "title": "Ledger Probes Potential Theft of $87M in User Funds Tied to Crypto Wallet Reseller",
-      "url": "https://decrypt.co/380582/ledger-probes-87m-theft-crypto-wallet-reseller",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ledger-wallet-tampering",
-      "ts": 1791559836
-    },
-    {
       "id": "rss:d89e230ad98af49b",
       "kind": "news",
       "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
@@ -616,39 +330,6 @@
       "xRole": null,
       "cluster": "general-market-news",
       "ts": 1791561113
-    },
-    {
-      "id": "rss:4f49ff2881060552",
-      "kind": "news",
-      "title": "Bitcoin consolidates near $82.5K as crypto weathers Ledger theft reports",
-      "url": "https://cointelegraph.com/markets/bitcoin-consolidates-crypto-weathers-ledger-theft-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "ledger-wallet-tampering",
-      "ts": 1791559236
-    },
-    {
-      "id": "rss:2825fec016939acb",
-      "kind": "news",
-      "title": "Dragonfly partner rejects ‘bunker mode’ doomerism, calls for proactive blockchain measures",
-      "url": "https://cointelegraph.com/news/dragonfly-bunker-mode-doomerism-proactive-blockchain-measures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "quantum-crypto-threat",
-      "ts": 1791553762
-    },
-    {
-      "id": "rss:215622ff975df9d1",
-      "kind": "news",
-      "title": "SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-104-sec-proposes-expanding-securities-eligible-cross-trading-registered-funds",
-      "source": "SEC (communiqués)",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "sec-cross-trading",
-      "ts": 1791557940
     },
     {
       "id": "rss:a1e21b7c6fecbf22",
@@ -792,6 +473,83 @@
       "xRole": null,
       "cluster": "bitcoin-insurance-funding",
       "ts": 1791616243
+    },
+    {
+      "id": "rss:fcc2367bea59fa8d",
+      "kind": "news",
+      "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
+      "url": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-eth-liquidity-recovery",
+      "ts": 1791633600
+    },
+    {
+      "id": "rss:51cb87d5b15808be",
+      "kind": "news",
+      "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
+      "url": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "tokenized-commodities-expansion",
+      "ts": 1791633600
+    },
+    {
+      "id": "rss:db8104c06c85d695",
+      "kind": "news",
+      "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
+      "url": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-eth-liquidity-recovery",
+      "ts": 1791630000
+    },
+    {
+      "id": "rss:64fd54d7004c1c89",
+      "kind": "news",
+      "title": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
+      "url": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "etf-flows-volatility",
+      "ts": 1791645037
+    },
+    {
+      "id": "rss:4ae4190d274def16",
+      "kind": "news",
+      "title": "Here’s a Way to Predict When AI Chatbots Will Turn Bad",
+      "url": "https://decrypt.co/380624/formula-predicts-when-ai-chatbot-turn-bad",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791644463
+    },
+    {
+      "id": "rss:a682e18a47df4d5e",
+      "kind": "news",
+      "title": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget",
+      "url": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "france-stablecoin-tax",
+      "ts": 1791637263
+    },
+    {
+      "id": "rss:3f8fd047416121e2",
+      "kind": "news",
+      "title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
+      "url": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "quantum-crypto-threat",
+      "ts": 1791633134
     }
   ],
   "digest_queue": [
