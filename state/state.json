@@ -1,10 +1,5 @@
 {
   "seen": {
-    "rss:0aa3ebb1136cac1a": 1791334782.5969062,
-    "rss:9dac9d5751c28104": 1791334782.5969076,
-    "rss:9f1933099600c082": 1791334782.596908,
-    "rss:3d863da987bf89a6": 1791334782.5969083,
-    "rss:9f4b4633fbb9aa46": 1791334782.5969086,
     "rss:8c8e1676cf524aa3": 1791357104.4191077,
     "rss:6d04fd6a1eadae94": 1791357104.419109,
     "rss:79b4e06db1d9ddb1": 1791357104.4191093,
@@ -273,17 +268,6 @@
       "xRole": null,
       "cluster": "thailand-btc-eth-etf",
       "ts": 1791515331
-    },
-    {
-      "id": "rss:03ccb542134e9856",
-      "kind": "news",
-      "title": "Cantor Fitzgerald faces Senate Democrat’s questions over Tether ties",
-      "url": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "tether-regulatory-scrutiny",
-      "ts": 1791506787
     },
     {
       "id": "rss:d250fd77b07a2568",
