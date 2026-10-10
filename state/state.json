@@ -173,208 +173,14 @@
     "rss:64fd54d7004c1c89": 1791647421.616035,
     "rss:4ae4190d274def16": 1791647421.6160352,
     "rss:a682e18a47df4d5e": 1791647421.6160352,
-    "rss:3f8fd047416121e2": 1791647421.6160357
+    "rss:3f8fd047416121e2": 1791647421.6160357,
+    "rss:c1f8a2c3679ec642": 1791662427.2278206,
+    "rss:1bc95438f14ff131": 1791662427.2278216,
+    "rss:7aa28add94f13aa6": 1791662427.227822,
+    "move24:starknet:20736": 1791662427.2279086
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:11cfc4490d649236",
-      "kind": "news",
-      "title": "Robinhood Chain considers technology that gives paying traders priority",
-      "url": "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "robinhood-chain-priority",
-      "ts": 1791569460
-    },
-    {
-      "id": "rss:6a8cf436737f6757",
-      "kind": "news",
-      "title": "Former FTX COO says Netflix’s ‘Altruists’ trailer ‘made me physically throw up’",
-      "url": "https://www.theblock.co/news/business/2026-10-09-former-ftx-coo-netflix-the-altruists-trailer-418208",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ftx-netflix-documentary",
-      "ts": 1791571905
-    },
-    {
-      "id": "rss:077b9cd3e8b22a0d",
-      "kind": "news",
-      "title": "Blockchain.com seeks CFTC greenlight for US prediction markets, crypto derivatives trading: CNBC",
-      "url": "https://www.theblock.co/news/business/2026-10-09-blockchain-com-cftc-license-prediction-markets-derivatives-418192",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "blockchain-cftc-prediction-markets",
-      "ts": 1791561922
-    },
-    {
-      "id": "rss:bc6eab7c7359686f",
-      "kind": "news",
-      "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
-      "url": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "tether-regulatory-scrutiny",
-      "ts": 1791571563
-    },
-    {
-      "id": "rss:4f94684e04ea171d",
-      "kind": "news",
-      "title": "Blockchain.com Seeks Approval for US Prediction Markets and Crypto Derivatives",
-      "url": "https://decrypt.co/380612/blockchain-cftc-prediction-markets-crypto-derivatives",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "blockchain-cftc-prediction-markets",
-      "ts": 1791569163
-    },
-    {
-      "id": "rss:7de80d11e13b1c38",
-      "kind": "news",
-      "title": "Bitcoin Rebounds After Rough Week, But Traders Are Pricing In More Downside",
-      "url": "https://decrypt.co/380599/bitcoin-rebounds-traders-predict-more-downside",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-price-analysis",
-      "ts": 1791567386
-    },
-    {
-      "id": "rss:828a6c2812b66fee",
-      "kind": "news",
-      "title": "Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1",
-      "url": "https://decrypt.co/380585/ethereum-l2-starknet-jumps-20-after-saying-it-wants-to-become-an-l1",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "starknet-l1-transition",
-      "ts": 1791563763
-    },
-    {
-      "id": "rss:49b459ede3d03858",
-      "kind": "news",
-      "title": "DWF Labs Subsidiaries Sue BitGo for $141 Million Over Early Token Sales",
-      "url": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "dwf-labs-bitgo-lawsuit",
-      "ts": 1791562103
-    },
-    {
-      "id": "rss:666f6bb9eded5f12",
-      "kind": "news",
-      "title": "New York AG Secures Up to $35M and Industry Ban From Ex-Celsius CEO Alex Mashinsky",
-      "url": "https://decrypt.co/380592/new-york-ag-secures-up-to-35m-and-industry-ban-from-ex-celsius-ceo-alex-mashinsky",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "celsius-mashinsky-settlement",
-      "ts": 1791562027
-    },
-    {
-      "id": "rss:d89e230ad98af49b",
-      "kind": "news",
-      "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
-      "url": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "tether-thorchain-freeze",
-      "ts": 1791572643
-    },
-    {
-      "id": "rss:5344b7d588d5577a",
-      "kind": "news",
-      "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
-      "url": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "hsbc-ant-tokenized-deposits",
-      "ts": 1791566467
-    },
-    {
-      "id": "rss:610aa259b31fc006",
-      "kind": "news",
-      "title": "Ledger investigates fund losses linked to Southeast Asian reseller, warns users",
-      "url": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "ledger-wallet-tampering",
-      "ts": 1791565367
-    },
-    {
-      "id": "rss:96e547b1bddefb14",
-      "kind": "news",
-      "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
-      "url": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "blockchain-cftc-prediction-markets",
-      "ts": 1791562965
-    },
-    {
-      "id": "rss:fdcc1ade82c4fd97",
-      "kind": "news",
-      "title": "Crypto Biz: Wealthy investors are buying crypto, but their advisers aren’t sold",
-      "url": "https://cointelegraph.com/news/wealthy-investors-crypto-advisers-okx-strategy-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791561113
-    },
-    {
-      "id": "rss:a1e21b7c6fecbf22",
-      "kind": "news",
-      "title": "Risk Stewards: Cap and IRM Changes on Aave V4 / 2026.10.09",
-      "url": "https://governance.aave.com/t/risk-stewards-cap-and-irm-changes-on-aave-v4-2026-10-09/25820",
-      "source": "Aave gouvernance",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "aave-governance-parameters",
-      "ts": 1791571912
-    },
-    {
-      "id": "rss:182967f866b71426",
-      "kind": "news",
-      "title": "Enable General Collaterals for POL Borrowing on Polygon v3",
-      "url": "https://governance.aave.com/t/enable-general-collaterals-for-pol-borrowing-on-polygon-v3/25819",
-      "source": "Aave gouvernance",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "aave-governance-parameters",
-      "ts": 1791566713
-    },
-    {
-      "id": "rss:a5b9f50aa39c9050",
-      "kind": "news",
-      "title": "Risk Stewards: Supply Cap Increases on Aave V3 / 2026.10.09",
-      "url": "https://governance.aave.com/t/risk-stewards-supply-cap-increases-on-aave-v3-2026-10-09/25818",
-      "source": "Aave gouvernance",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "aave-governance-parameters",
-      "ts": 1791562908
-    },
-    {
-      "id": "rss:4767cdba310a6e09",
-      "kind": "news",
-      "title": "[ARFC] Onboard USAT to Aave V3 Core Instance and Aave V4 Core Hub on Ethereum",
-      "url": "https://governance.aave.com/t/arfc-onboard-usat-to-aave-v3-core-instance-and-aave-v4-core-hub-on-ethereum/25817",
-      "source": "Aave gouvernance",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "aave-governance-parameters",
-      "ts": 1791562435
-    },
     {
       "id": "rss:0752e18b3c5d1b5f",
       "kind": "news",
@@ -385,17 +191,6 @@
       "xRole": null,
       "cluster": "blockchain-cftc-prediction-markets",
       "ts": 1791580914
-    },
-    {
-      "id": "rss:64c57b6d512c3c32",
-      "kind": "news",
-      "title": "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe",
-      "url": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791575221
     },
     {
       "id": "rss:78d757246a9a770f",
@@ -550,6 +345,39 @@
       "xRole": null,
       "cluster": "quantum-crypto-threat",
       "ts": 1791633134
+    },
+    {
+      "id": "rss:c1f8a2c3679ec642",
+      "kind": "news",
+      "title": "Kalshi is investigating bets on Trump’s press secretary pick placed before announcement: WSJ",
+      "url": "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "blockchain-cftc-prediction-markets",
+      "ts": 1791657325
+    },
+    {
+      "id": "rss:1bc95438f14ff131",
+      "kind": "news",
+      "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
+      "url": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "blockchain-cftc-prediction-markets",
+      "ts": 1791651663
+    },
+    {
+      "id": "rss:7aa28add94f13aa6",
+      "kind": "news",
+      "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
+      "url": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "bitcoin-insurance-funding",
+      "ts": 1791648064
     }
   ],
   "digest_queue": [
@@ -607,7 +435,7 @@
     },
     "2026-10-10": {
       "critical": 0,
-      "important": 1,
+      "important": 2,
       "digests": []
     }
   },
