@@ -1,0 +1,501 @@
+{
+  "date": "2026-10-11",
+  "edition": "06:30",
+  "tldr": [
+    {
+      "impact": "neg",
+      "text": "Le marché reste sous pression : BTC et ETH sont stables sur 24h mais nettement dans le rouge sur 7 jours, dans un contexte de Fed restrictive."
+    },
+    {
+      "impact": "neg",
+      "text": "La Fed a relevé ses taux à 3,75-4,00% en septembre ; la prochaine réunion est le 28 octobre, avec un marché qui price surtout un statu quo mais garde une probabilité non nulle de hausse."
+    },
+    {
+      "impact": "neg",
+      "text": "Les ETF Ether enchaînent 9 jours de sorties nettes (697 M$ cumulés) et les ETF Solana cassent leur série record de 14 semaines d'entrées."
+    },
+    {
+      "impact": "neg",
+      "text": "Ledger confirme un implant matériel non autorisé sur un wallet vendu par un revendeur d'Asie du Sud-Est ; pertes estimées entre 86 et 93 M$."
+    },
+    {
+      "impact": "neg",
+      "text": "Un sénateur démocrate ouvre une enquête sur les liens entre Cantor Fitzgerald et Tether, avec une échéance de réponse au 23 octobre."
+    },
+    {
+      "impact": "neu",
+      "text": "La CFTC publie deux règles qui séparent formellement les marchés prédictifs (Kalshi, Polymarket) des jeux d'argent classiques."
+    },
+    {
+      "impact": "neu",
+      "text": "La France avance sur une taxe sur les swaps vers stablecoins et un exit tax crypto, mais le budget entier a été rejeté en commission : rien n'est encore voté."
+    },
+    {
+      "impact": "pos",
+      "text": "STRK (Starknet) bondit de plus de 50% en 24h sur fond de rumeurs de passage en Layer 1, mais une grosse part du volume est signalée comme du wash trading et un unlock arrive le 15 octobre."
+    },
+    {
+      "impact": "neu",
+      "text": "Indice Fear & Greed à 61 (Greed), en léger repli par rapport à hier (64)."
+    }
+  ],
+  "news": [
+    {
+      "title": "Ledger confirme un implant matériel non autorisé, pertes estimées à plus de 86 M$",
+      "impact": "neg",
+      "confidence": "confirmed",
+      "what": "Ledger a confirmé le 10 octobre qu'un appareil appartenant à un client touché contenait un implant matériel non autorisé, renforçant les soupçons d'une attaque sur la chaîne d'approvisionnement liée au revendeur sud-asiatique CryptoBilis. <cite index=\"3-1\">Ledger confirmed Saturday, Oct. 10, 2026, that a hardware wallet belonging to one affected customer contained an unauthorized implant, lending credibility to suspicions of a supply chain attack involving Southeast Asian reseller CryptoBilis.</cite> Les pertes estimées varient selon les analystes on-chain. <cite index=\"6-13,6-14\">Yfarmx put suspected losses at $93.4 million across 471 addresses. Bitquery estimated about $92.9 million across 311 addresses, and researcher Specter said losses topped $86 million.</cite>",
+      "why": "C'est la première confirmation officielle d'une altération physique de hardware wallets, un coup dur pour la confiance dans le stockage \"cold\". <cite index=\"2-8\">The company said it believes the drained funds are limited to devices sold through the reseller and that it has no indication its own security infrastructure, systems or services were compromised.</cite>",
+      "assets": [
+        "BTC",
+        "ETH"
+      ],
+      "shortTerm": "Pas d'impact prix direct attendu sur BTC/ETH, mais regain de méfiance envers les wallets matériels achetés hors canaux officiels.",
+      "longTerm": "Pression accrue sur les fabricants de hardware wallets pour sécuriser leur chaîne de distribution ; risque de contagion si d'autres implants sont découverts.",
+      "sources": [
+        {
+          "name": "Bitcoin.com News",
+          "url": "https://news.bitcoin.com/security/ledger-confirms-hidden-hardware-implant-in-affected-users-wallet/",
+          "publishedAt": "2026-10-10 00:00 UTC"
+        },
+        {
+          "name": "CoinCentral",
+          "url": "https://coincentral.com/ledger-confirms-hidden-implant-in-hardware-wallet-as-93-million-theft-probe-grows",
+          "publishedAt": "2026-10-10 00:00 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "Un sénateur démocrate ouvre une enquête sur les liens Cantor Fitzgerald–Tether",
+      "impact": "neg",
+      "confidence": "confirmed",
+      "what": "Le sénateur Richard Blumenthal, membre démocrate de haut rang de la sous-commission d'enquête du Sénat, a envoyé le 8 octobre une lettre à Cantor Fitzgerald demandant des informations sur sa relation financière avec Tether, avec une échéance de réponse au 23 octobre. <cite index=\"21-3,21-4\">The October 8 letter from Senator Richard Blumenthal asks Cantor Fitzgerald for records on its business with the issuer of USDT. Its questions cover the Treasury assets held for Tether, the firm's reported ownership stake, due diligence and possible exposure to sanctions violations.</cite> La lettre fait suite à un rapport démocrate selon lequel <cite index=\"22-8\">Their analysis found that 84% had conducted transactions exclusively or almost exclusively using Tether's USDT stablecoin</cite> parmi des wallets liés à l'Iran.",
+      "why": "Tether est le plus gros émetteur de stablecoin et un pilier de liquidité crypto ; toute remise en cause de ses pratiques de conformité ou de son partenaire de custody pourrait avoir des répercussions systémiques. <cite index=\"21-6\">It is an inquiry, not a finding that either company breached the law.</cite>",
+      "assets": [
+        "BTC",
+        "ETH"
+      ],
+      "shortTerm": "Aucun impact prix immédiat ; c'est une demande d'information, pas une accusation formelle.",
+      "longTerm": "Si les Démocrates reprennent la majorité au Sénat en novembre, ce type d'enquête pourrait gagner en pouvoir de subpoena.",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
+          "publishedAt": "2026-10-10 00:00 UTC"
+        },
+        {
+          "name": "crypto.news",
+          "url": "https://crypto.news/cantor-fitzgerald-questioned-over-tether-ties/",
+          "publishedAt": "2026-10-09 00:00 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "Les ETF Ether enchaînent 9 jours de sorties, les ETF Solana cassent leur série record d'entrées",
+      "impact": "neg",
+      "confidence": "confirmed",
+      "what": "<cite index=\"38-1,38-2\">U.S. spot ether ETFs posted $542.1 million in net outflows last week, extending their losing streak to nine straight trading days. Spot Solana ETFs lost $24.8 million, ending a 14-week inflow streak that was the longest since the products launched</cite> en octobre 2025. <cite index=\"38-7\">Spot bitcoin ETFs shed $681.1 million, snapping a three-week inflow run.</cite>",
+      "why": "Ce renversement de flux institutionnels coïncide avec la baisse de 7 jours d'ETH (-7,6%) et SOL (-9,6%) observée dans les données de marché : la demande ETF s'essouffle au même moment que le repli des prix.",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "shortTerm": "Pression vendeuse supplémentaire si la tendance de rachats se poursuit, en particulier sur ETHA (BlackRock).",
+      "longTerm": "Un retournement durable des flux ETF pourrait signaler un changement de régime pour l'adoption institutionnelle d'ETH/SOL.",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215",
+          "publishedAt": "2026-10-10 15:10 UTC"
+        }
+      ],
+      "singleSource": true
+    },
+    {
+      "title": "La CFTC sépare formellement marchés prédictifs et jeux d'argent",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "what": "<cite index=\"37-2,37-3\">The Commodity Futures Trading Commission proposed rules that would classify prediction-market event contracts as swaps while excluding traditional casino gambling from the same federal definition.</cite> <cite index=\"37-6,37-7\">The second proposal would clarify that sportsbook wagers and casino games are not swaps or derivatives, leaving those products outside the agency's regulatory remit. Both proposals filed Friday include 30-day comment periods.</cite>",
+      "why": "Clarifie le cadre fédéral pour les plateformes de marchés prédictifs type Kalshi et Polymarket, mais <cite index=\"37-9\">The proposals could sharpen the jurisdictional dispute between federal regulators and states and help frame a potential Supreme Court case.</cite>",
+      "assets": [],
+      "shortTerm": "Pas d'effet direct sur BTC/ETH/SOL ; concerne surtout l'écosystème des marchés prédictifs.",
+      "longTerm": "Une clarification réglementaire durable pourrait légitimer davantage les marchés on-chain de type Polymarket, mais le conflit avec les États n'est pas résolu.",
+      "sources": [
+        {
+          "name": "TokenPost",
+          "url": "https://www.tokenpost.com/news/regulation/29734",
+          "publishedAt": "2026-10-11 03:58 UTC"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-09/cftc-defends-prediction-markets-turf-with-new-swap-definition",
+          "publishedAt": "2026-10-09 21:43 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "France : taxe sur les swaps de stablecoins et exit tax crypto adoptées en commission, puis budget rejeté",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "what": "<cite index=\"57-5,57-6\">A National Assembly committee adopted amendments taxing stablecoin swaps and crypto exits by wealthy holders, then rejected the 2027 budget's revenue section. A third adopted amendment would let investors carry crypto losses forward for 10 years; the Assembly debates the revenue section from Oct. 13 and votes Oct. 20.</cite> <cite index=\"57-8\">The committee's amendments do not carry over to that text, so their backers would have to table them again for the floor debate that begins Oct. 13.</cite>",
+      "why": "Si elles passent, ces mesures taxeraient les conversions vers stablecoins comme des cessions dès 2027 et élargiraient l'exit tax aux détenteurs de plus de 800 000€ de crypto quittant la France.",
+      "assets": [],
+      "shortTerm": "Aucun effet de marché immédiat, mesures non votées.",
+      "longTerm": "Pourrait créer un précédent fiscal européen sur la taxation des stablecoins si adopté lors du vote du 20 octobre.",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
+          "publishedAt": "2026-10-10 13:01 UTC"
+        },
+        {
+          "name": "KuCoin News",
+          "url": "https://www.kucoin.com/news/flash/french-national-assembly-committee-approves-stablecoin-tax-and-crypto-exit-tax-amendments",
+          "publishedAt": "2026-10-10 00:00 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "STRK bondit de plus de 50% en 24h : narratif Layer 1 contre signaux de wash trading",
+      "impact": "pos",
+      "confidence": "unconfirmed",
+      "what": "<cite index=\"17-1,17-2\">Starknet (STRK) has surged 59% to $0.1192 as traders respond to the project's proposed shift toward an independent blockchain. StarkWare is considering making Starknet a Layer 1 network to pursue quantum-resistant security by 2027, although</cite> aucune décision finale n'a été prise. Mais une analyse pointe que <cite index=\"12-1,12-2\">$0.60 billion trading volume was flagged as wash trading, casting doubt on genuine demand. No confirmed announcements or ecosystem developments explain the rally</cite>. Un unlock est prévu le 15 octobre : <cite index=\"16-5,16-6\">The biggest risk hanging over the rally is the scheduled October 15, 2026 token unlock. According to TokenUnlocks data, 127 million STRK tokens, about 1.3% of total supply, are set to be released to early contributors and investors.</cite>",
+      "why": "Mouvement anormal détecté dans le top 100 (+54% sur nos données) : mélange de narratif réel (pivot L1) et de volume suspect, à traiter avec prudence.",
+      "assets": [],
+      "shortTerm": "Forte volatilité probable ; risque de retournement brutal si le volume de wash trading se retire ou si l'unlock du 15 octobre pèse sur le prix.",
+      "longTerm": "Si le pivot vers une Layer 1 indépendante se confirme officiellement, cela changerait fondamentalement la thèse d'investissement de STRK (fin de la dépendance à Ethereum).",
+      "sources": [
+        {
+          "name": "UseTheBitcoin",
+          "url": "https://usethebitcoin.com/news/starknet-price-surge-layer-1-quantum-security/",
+          "publishedAt": "2026-10-11 00:00 UTC"
+        },
+        {
+          "name": "Pluang (Coincu)",
+          "url": "https://pluang.com/en/news-feed/kenapa-harga-starknet-strk-naik-hari-ini-pemicu-utama",
+          "publishedAt": "2026-10-10 00:00 UTC"
+        }
+      ],
+      "singleSource": false
+    }
+  ],
+  "market": [
+    {
+      "symbol": "BTC",
+      "sentiment": "neu",
+      "driver": "Macro restrictif (Fed) et sorties ETF pèsent, mais BTC reste le plus stable du marché un an après le flash crash du 10/10.",
+      "events": [
+        "ETF BTC : 681,1 M$ de sorties la semaine passée, fin d'une série de 3 semaines d'entrées",
+        "Réunion Fed les 27-28 octobre"
+      ],
+      "watch": [
+        "Décision Fed du 28 octobre",
+        "Niveau de support autour de 80 000-81 000$"
+      ],
+      "name": "Bitcoin",
+      "price": 83009,
+      "change24h": 0.20606,
+      "change7d": -2.4711,
+      "volume": 13187298600,
+      "asOf": "11/10 11:13",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "ETH",
+      "sentiment": "neg",
+      "driver": "9e jour consécutif de sorties nettes sur les ETF spot Ether, le pire épisode depuis janvier.",
+      "events": [
+        "ETHA (BlackRock) a subi son plus gros retrait hebdomadaire depuis décembre 2025",
+        "Split inverse 1-pour-3 d'ETHA entré en vigueur mardi"
+      ],
+      "watch": [
+        "Poursuite ou non de la série de sorties ETF",
+        "Support psychologique à 2 500$"
+      ],
+      "name": "Ethereum",
+      "price": 2503.22,
+      "change24h": 0.29956,
+      "change7d": -7.6102,
+      "volume": 6926929566,
+      "asOf": "11/10 11:13",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "SOL",
+      "sentiment": "neg",
+      "driver": "Fin de la série record de 14 semaines d'entrées sur les ETF Solana, plus forte sortie hebdomadaire depuis leur lancement.",
+      "events": [
+        "BSOL (Bitwise) a concentré l'essentiel des sorties"
+      ],
+      "watch": [
+        "Reprise ou non des flux entrants sur les ETF SOL"
+      ],
+      "name": "Solana",
+      "price": 109.64,
+      "change24h": -0.33257,
+      "change7d": -9.6406,
+      "volume": 1536699452,
+      "asOf": "11/10 11:13",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "HYPE",
+      "sentiment": "neu",
+      "driver": "Rachats/burns quotidiens via le programme AQAv2 (financé par les revenus Circle) soutiennent le prix, mais le statut réglementaire à Singapour reste flou.",
+      "events": [
+        "Burn continu de HYPE financé par les intérêts USDC du trésor",
+        "MAS Singapour dit ne pas reconnaître Hyperliquid comme régulé dans une juridiction majeure",
+        "Distribution de 330M$ de HYPE depuis un wallet labellisé 'Hyperliquid Labs' (non vérifié de façon indépendante)"
+      ],
+      "watch": [
+        "Résistance historique proche de 98$",
+        "Clarification réglementaire à Singapour"
+      ],
+      "name": "Hyperliquid",
+      "price": 85.21,
+      "change24h": 0.70801,
+      "change7d": -5.7052,
+      "volume": 519197776,
+      "asOf": "11/10 11:13",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "AAVE",
+      "sentiment": "neg",
+      "driver": "Baisse de 3,65% sans catalyseur spécifique identifié aujourd'hui, dans un contexte de rotation hors altcoins et malgré la croissance du protocole V4.",
+      "events": [
+        "Dépôts V4 ayant dépassé 1 milliard $ en septembre",
+        "Relèvement récent du taux d'emprunt GHO faute de réserves de rachat suffisantes"
+      ],
+      "watch": [
+        "Support autour de 160$",
+        "Évolution de la TVL et de la capacité de prêt"
+      ],
+      "name": "Aave",
+      "price": 167.62,
+      "change24h": -3.65445,
+      "change7d": -8.3666,
+      "volume": 186555378,
+      "asOf": "11/10 11:13",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "PUMP",
+      "sentiment": "neg",
+      "driver": "Le programme de rachat/burn (50% des revenus) perd de la puissance car les revenus quotidiens du protocole reculent.",
+      "events": [
+        "Revenu quotidien passé de 1,89M$ (5 oct.) à 1,59M$ (9 oct.), soit -16%",
+        "Lancement de 'Custom Pairs' pour concentrer la liquidité"
+      ],
+      "watch": [
+        "Évolution du revenu quotidien et donc du montant des rachats",
+        "Niveau de support ~0,0054$"
+      ],
+      "name": "Pump.fun",
+      "price": 0.00557937,
+      "change24h": -0.30396,
+      "change7d": -13.5154,
+      "volume": 127935933,
+      "asOf": "11/10 11:13",
+      "source": "CoinGecko"
+    }
+  ],
+  "x": [],
+  "projects": [
+    {
+      "name": "Starknet (STRK)",
+      "conviction": "spec",
+      "funding": "N/A (token déjà listé, pas de levée récente identifiée)",
+      "investors": "Allocation initiale aux contributeurs et investisseurs early-stage, avec vesting mensuel en cours",
+      "team": "StarkWare, fondé par Eli Ben-Sasson",
+      "tech": "Rollup zk-STARK sur Ethereum ; proposition (non actée) de devenir une Layer 1 indépendante pour accélérer la sécurité post-quantique",
+      "tokenomics": "127 millions de STRK (environ 1,3 à 1,7% de l'offre en circulation) à débloquer chaque mois jusqu'en mars 2027, destinés aux contributeurs et investisseurs initiaux",
+      "catalysts": "Décision officielle ou non sur le pivot Layer 1 ; unlock du 15 octobre",
+      "why": "Technologie zk-rollup reconnue et équipe identifiable (StarkWare), narratif fort autour de la sécurité post-quantique.",
+      "risk": "Une large part du volume de la récente envolée est signalée comme wash trading ; gros unlocks mensuels à venir jusqu'en 2027 qui pourraient peser sur le cours ; le pivot L1 n'est qu'à l'étude, pas confirmé."
+    }
+  ],
+  "smartMoney": [
+    {
+      "title": "Distribution de 330M$ de HYPE depuis un wallet labellisé 'Hyperliquid Labs'",
+      "token": "HYPE",
+      "amount": "3,75 millions de HYPE (~330M$)",
+      "from": "wallet non identifié (étiqueté publiquement 'Hyperliquid Labs' mais non vérifié de façon indépendante)",
+      "to": "cinq adresses intermédiaires puis dispersion",
+      "confidence": "unconfirmed",
+      "interpretation": "Mouvement important à surveiller pour un éventuel impact sur l'offre circulante, mais on ignore encore les intentions du ou des destinataires finaux ; aucune preuve publique ne permet d'attribuer ce wallet à une personne précise.",
+      "sources": [
+        {
+          "name": "CoinDoo",
+          "url": "https://coindoo.com/hyperliquids-330m-hype-deal-leaves-a-wallet-trail"
+        }
+      ]
+    }
+  ],
+  "unlocks": [
+    {
+      "date": "2026-10-15",
+      "token": "STRK",
+      "amount": "127 millions de STRK",
+      "value": "~9-15M$ selon le cours au moment du déblocage",
+      "pct": "~1,3-1,7% de l'offre en circulation",
+      "who": "contributeurs et investisseurs initiaux",
+      "risk": "high",
+      "priority": true,
+      "confidence": "likely"
+    }
+  ],
+  "unlocksSource": {
+    "name": "Interactive Crypto / TokenUnlocks",
+    "url": "https://www.interactivecrypto.com/starknet-s-strk-rally-meets-its-first-serious-supply-test"
+  },
+  "regulation": [
+    {
+      "region": "États-Unis (Sénat)",
+      "title": "Enquête sénatoriale sur Cantor Fitzgerald et Tether",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "summary": "Le sénateur Blumenthal demande à Cantor Fitzgerald de détailler sa relation financière et de conformité avec Tether, avec une échéance au 23 octobre.",
+      "sources": [
+        {
+          "name": "crypto.news",
+          "url": "https://crypto.news/cantor-fitzgerald-questioned-over-tether-ties/"
+        }
+      ]
+    },
+    {
+      "region": "États-Unis (CFTC)",
+      "title": "Nouvelles règles séparant marchés prédictifs et jeux d'argent",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "summary": "La CFTC propose de classer les contrats événementiels (sport, politique, météo) comme des swaps, tout en excluant les jeux de casino classiques de cette définition.",
+      "sources": [
+        {
+          "name": "TokenPost",
+          "url": "https://www.tokenpost.com/news/regulation/29734"
+        }
+      ]
+    },
+    {
+      "region": "France",
+      "title": "Taxe sur les swaps vers stablecoins et exit tax crypto",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "summary": "Une commission de l'Assemblée nationale a adopté des amendements taxant les swaps vers stablecoins MiCA comme des cessions dès 2027 et élargissant l'exit tax aux portefeuilles crypto de plus de 800 000€, mais le budget entier a été rejeté ; vote prévu le 20 octobre.",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "title": "La Fed a relevé ses taux en septembre, prochaine décision le 28 octobre",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "date": "2026-10-28 (prochaine décision)",
+      "summary": "La Fed a relevé sa fourchette de taux à 3,75-4,00% lors de sa réunion de septembre. Le marché price actuellement très majoritairement un statu quo pour le 28 octobre, avec toutefois une probabilité minoritaire non négligeable de hausse supplémentaire, un contexte plus restrictif qu'attendu en début d'année pour les actifs risqués dont les cryptos.",
+      "sources": [
+        {
+          "name": "Fed Rate Calc",
+          "url": "https://fedratecalc.com/fomc-meeting-schedule/"
+        },
+        {
+          "name": "Polymarket Fed Dashboard",
+          "url": "https://polymarket.com/dashboards/fed-rates"
+        }
+      ]
+    }
+  ],
+  "onchain": [
+    {
+      "metric": "TVL chaîne BTC (apps on-chain)",
+      "value": "~4,43 Md$",
+      "note": "Donnée injectée",
+      "source": "Données internes"
+    },
+    {
+      "metric": "TVL chaîne ETH",
+      "value": "~51,44 Md$",
+      "note": "Donnée injectée",
+      "source": "Données internes"
+    },
+    {
+      "metric": "TVL chaîne SOL",
+      "value": "~6,20 Md$",
+      "note": "Donnée injectée",
+      "source": "Données internes"
+    },
+    {
+      "metric": "TVL protocole Aave",
+      "value": "~18,44 Md$",
+      "note": "Donnée injectée",
+      "source": "Données internes"
+    },
+    {
+      "metric": "TVL protocole Hyperliquid",
+      "value": "~7,12 Md$",
+      "note": "Donnée injectée",
+      "source": "Données internes"
+    },
+    {
+      "metric": "Capitalisation stablecoins totale",
+      "value": "~312,1 Md$",
+      "note": "Donnée injectée",
+      "source": "Données internes"
+    },
+    {
+      "metric": "Volume DEX 24h",
+      "value": "~5,52 Md$",
+      "note": "Donnée injectée",
+      "source": "Données internes"
+    }
+  ],
+  "watchlist": [
+    {
+      "impact": "neg",
+      "text": "Décision de la Fed le 28 octobre : un statu quo est attendu mais une hausse de taux reste possible selon le marché."
+    },
+    {
+      "impact": "neg",
+      "text": "Unlock STRK du 15 octobre (127M tokens) après une envolée en partie suspecte (wash trading)."
+    },
+    {
+      "impact": "neg",
+      "text": "Évolution de l'enquête Ledger/CryptoBilis : le montant total des pertes (86-93M$) pourrait encore grimper."
+    },
+    {
+      "impact": "neu",
+      "text": "Réponse de Cantor Fitzgerald au Sénat attendue avant le 23 octobre sur ses liens avec Tether."
+    },
+    {
+      "impact": "neu",
+      "text": "Vote de l'Assemblée nationale française sur les amendements fiscaux crypto, prévu le 20 octobre."
+    }
+  ],
+  "breaking": [
+    {
+      "id": "ledger-hardware-implant:2026-10-11",
+      "level": "important",
+      "time": "11:18",
+      "title": "Ledger confirme une implantation matérielle non autorisée (en attente de confirmation)",
+      "summary": "Ledger a confirmé un incident de sécurité impliquant une implantation matérielle non autorisée, avec des pertes potentielles dépassant 86 millions de dollars. L'incident semble limité à un revendeur unique et au marché d'Asie du Sud-Est.",
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-10-11T09:18:22Z",
+  "updatedAt": "2026-10-11T09:18:29Z"
+}
