@@ -482,6 +482,38 @@
   ],
   "breaking": [
     {
+      "id": "tokenized-commodities-expansion:2026-10-11",
+      "level": "important",
+      "time": "22:10",
+      "title": "Les actions tokenisées montrent une demande réelle mais restent volatiles",
+      "summary": "Le FMI confirme la demande pour les stocks tokenisés (marché de 2,3 milliards $), mais note une volatilité et une liquidité supérieures aux marchés traditionnels, avec plus de 50 % des échanges hors heures US.",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid"
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds"
+        }
+      ]
+    },
+    {
+      "id": "xrpl-overflow-bug:2026-10-11",
+      "level": "important",
+      "time": "22:10",
+      "title": "XRP Ledger corrige un bug critique de 10 ans (en attente de confirmation)",
+      "summary": "Un débordement dans le moteur de paiement du XRP Ledger aurait pu permettre de frapper jusqu'à 18 trilliards de XRP en une seule transaction. La faille a été patchée avant exploitation.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230"
+        }
+      ]
+    },
+    {
       "id": "ledger-hardware-implant:2026-10-11",
       "level": "important",
       "time": "11:18",
@@ -497,5 +529,5 @@
     }
   ],
   "generatedAt": "2026-10-11T09:18:22Z",
-  "updatedAt": "2026-10-11T09:18:29Z"
+  "updatedAt": "2026-10-11T20:10:57Z"
 }

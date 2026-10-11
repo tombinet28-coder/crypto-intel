@@ -1,37 +1,5 @@
 {
   "seen": {
-    "rss:6dd6fa0904070d2a": 1791489012.951977,
-    "rss:770073ce2ca78525": 1791489012.9519792,
-    "rss:d72309e78648071b": 1791489012.9519799,
-    "rss:e9c760d0b71aa117": 1791489012.9519799,
-    "rss:7bd69f40f27f1273": 1791489012.9519804,
-    "rss:974b45230601ff99": 1791489012.9519804,
-    "rss:b9ab25a66eda4ef8": 1791489012.9519806,
-    "rss:1c05de4f423013e0": 1791489012.9519808,
-    "rss:cd063406921db31e": 1791489012.9519808,
-    "rss:a218f84dc6b29707": 1791489012.951981,
-    "rss:4d8d5b33baa33224": 1791489012.951981,
-    "rss:8e613deaf3d58eef": 1791489012.9519813,
-    "rss:4f6fdf1a77bfefe0": 1791489012.9519815,
-    "rss:8f3dac3fbf465f47": 1791489012.9519815,
-    "rss:37250443d5b4351e": 1791489012.9519815,
-    "rss:d4f96a0c17205194": 1791489012.9519818,
-    "rss:f71face67a5373c2": 1791489012.9519818,
-    "rss:1ddc7048d97d6d63": 1791489012.951982,
-    "rss:43d7baac98e23f7f": 1791489012.951982,
-    "rss:4d628768f1c86b42": 1791489012.9519823,
-    "rss:954be1d3a3935456": 1791489012.9519823,
-    "rss:bf4a9738494048db": 1791489012.9519827,
-    "rss:3ad39b0f99fb64f6": 1791489012.9519832,
-    "rss:5f0aa9acc8e24b4c": 1791489012.9519832,
-    "rss:c8f17caccee23c4f": 1791489012.9519835,
-    "rss:f7e76f3a8aca012b": 1791489012.9519835,
-    "rss:523cfc06d1b224cd": 1791489012.9519837,
-    "rss:87cecb860ae80121": 1791489012.9519837,
-    "rss:42100598dc32f5d3": 1791489012.951984,
-    "rss:d34e20583cefa27f": 1791489012.951984,
-    "rss:6cfaaa555d862e65": 1791489012.9519842,
-    "rss:978b2e97cf4f98d3": 1791489012.9519842,
     "rss:277a0c6ad7ab464b": 1791504960.8663547,
     "rss:372e2f328fd51e63": 1791504960.8663561,
     "rss:4e67d3aeba490c88": 1791504960.8663564,
@@ -120,43 +88,16 @@
     "rss:9b60eb3d1fde5a60": 1791734151.9138322,
     "rss:fc0e7a1d3d91ed85": 1791734151.9138327,
     "rss:043a2bf5f6f78168": 1791734151.9138327,
-    "rss:094fee8ea6700f9b": 1791734151.913833
+    "rss:094fee8ea6700f9b": 1791734151.913833,
+    "rss:1012fd3eee26e17b": 1791749448.571669,
+    "rss:6a491dab12425339": 1791749448.5716703,
+    "rss:f28c853391d21a48": 1791749448.5716708,
+    "rss:c299be6cd89cf4e8": 1791749448.571671,
+    "rss:d0a0603c90ef82cc": 1791749448.5716712,
+    "rss:bb06ad7d28e26eb7": 1791749448.5716715
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:c1f8a2c3679ec642",
-      "kind": "news",
-      "title": "Kalshi is investigating bets on Trump’s press secretary pick placed before announcement: WSJ",
-      "url": "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "blockchain-cftc-prediction-markets",
-      "ts": 1791657325
-    },
-    {
-      "id": "rss:1bc95438f14ff131",
-      "kind": "news",
-      "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
-      "url": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "blockchain-cftc-prediction-markets",
-      "ts": 1791651663
-    },
-    {
-      "id": "rss:7aa28add94f13aa6",
-      "kind": "news",
-      "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
-      "url": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "bitcoin-insurance-funding",
-      "ts": 1791648064
-    },
     {
       "id": "rss:dda956e44f336060",
       "kind": "news",
@@ -233,6 +174,72 @@
       "xRole": null,
       "cluster": "general-market-news",
       "ts": 1791714720
+    },
+    {
+      "id": "rss:1012fd3eee26e17b",
+      "kind": "news",
+      "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "blockchain-cftc-prediction-markets",
+      "ts": 1791743400
+    },
+    {
+      "id": "rss:6a491dab12425339",
+      "kind": "news",
+      "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
+      "url": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791734400
+    },
+    {
+      "id": "rss:f28c853391d21a48",
+      "kind": "news",
+      "title": "XRP Ledger patches decade-old bug that could have minted trillions of XRP",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "xrpl-overflow-bug",
+      "ts": 1791742061
+    },
+    {
+      "id": "rss:c299be6cd89cf4e8",
+      "kind": "news",
+      "title": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
+      "url": "https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "tokenized-commodities-expansion",
+      "ts": 1791738663
+    },
+    {
+      "id": "rss:d0a0603c90ef82cc",
+      "kind": "news",
+      "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
+      "url": "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "etf-flows-october",
+      "ts": 1791734463
+    },
+    {
+      "id": "rss:bb06ad7d28e26eb7",
+      "kind": "news",
+      "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
+      "url": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791738660
     }
   ],
   "digest_queue": [],
@@ -271,7 +278,7 @@
     },
     "2026-10-11": {
       "critical": 0,
-      "important": 1,
+      "important": 3,
       "digests": []
     }
   },
@@ -408,7 +415,9 @@
     "starknet-l1-transition": "important",
     "tether-thorchain-freeze": "important",
     "xrp-ledger-bug": "important",
-    "ledger-hardware-implant": "important"
+    "ledger-hardware-implant": "important",
+    "xrpl-overflow-bug": "important",
+    "tokenized-commodities-expansion": "important"
   },
   "briefing_attempts": {
     "2026-10-05": 1,
