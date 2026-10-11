@@ -94,7 +94,9 @@
     "rss:f28c853391d21a48": 1791749448.5716708,
     "rss:c299be6cd89cf4e8": 1791749448.571671,
     "rss:d0a0603c90ef82cc": 1791749448.5716712,
-    "rss:bb06ad7d28e26eb7": 1791749448.5716715
+    "rss:bb06ad7d28e26eb7": 1791749448.5716715,
+    "rss:995b84c64b3c00de": 1791762903.4165502,
+    "rss:e002b2ad3de2bd10": 1791762903.416551
   },
   "x_since": {},
   "recent": [
@@ -240,15 +242,32 @@
       "xRole": null,
       "cluster": "general-market-news",
       "ts": 1791738660
+    },
+    {
+      "id": "rss:995b84c64b3c00de",
+      "kind": "news",
+      "title": "Trader nets $1.28 million on new 1,000x exchange Papertrade by moving Hyperliquid’s ETH prices",
+      "url": "https://www.theblock.co/news/defi/2026-10-11-trader-nets-1-28-million-on-new-1000x-exchange-papertrade-by-moving-hyperliquids-eth-prices-418239",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791757562
+    },
+    {
+      "id": "rss:e002b2ad3de2bd10",
+      "kind": "news",
+      "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
+      "url": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "ledger-hardware-implant",
+      "ts": 1791759473
     }
   ],
   "digest_queue": [],
   "sent": {
-    "2026-10-05": {
-      "critical": 0,
-      "important": 4,
-      "digests": []
-    },
     "2026-10-06": {
       "critical": 0,
       "important": 5,
@@ -279,6 +298,11 @@
     "2026-10-11": {
       "critical": 0,
       "important": 3,
+      "digests": []
+    },
+    "2026-10-12": {
+      "critical": 0,
+      "important": 0,
       "digests": []
     }
   },
