@@ -539,6 +539,88 @@
   ],
   "breaking": [
     {
+      "id": "kraken-dubai-expansion:2026-10-12",
+      "level": "important",
+      "time": "17:12",
+      "title": "Kraken obtient l'approbation finale de Dubaï pour trading en dirham",
+      "summary": "Payward, société mère de Kraken, reçoit l'approbation complète du marché de Dubaï (VARA) pour élargir ses services d'actifs numériques aux Émirats arabes unis.",
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/kraken-receives-vara-approval-uae-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "id": "australia-crypto-regulation:2026-10-12",
+      "level": "important",
+      "time": "17:12",
+      "title": "L'Australie propose des plafonds de levier pour les dérivés réglés en crypto",
+      "summary": "L'ASIC propose d'étendre les limites de levier et les protections contre les soldes négatifs aux dérivés réglés en actifs numériques.",
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "id": "xrp-institutional-adoption:2026-10-12",
+      "level": "important",
+      "time": "17:12",
+      "title": "Evernorth nomme ex-cadre Coinbase pour gérer trésor XRP avant IPO Nasdaq",
+      "summary": "Evernorth, qui prépare son entrée au Nasdaq, confie à un ancien dirigeant de Coinbase la gestion de son portefeuille XRP.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/business/2026-10-12-evernorth-former-coinbase-investment-chief-steer-473-million-xrp-treasury-nasdaq-debut-418225"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/xrp-treasury-evernorth-rise-nasdaq-opening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-institutional-adoption:2026-10-12",
+      "level": "important",
+      "time": "17:12",
+      "title": "Première banque traditionnelle sud-coréenne offre des prêts adossés au bitcoin",
+      "summary": "La Corée du Sud obtient sa première banque traditionnelle proposant des prêts adossés au bitcoin.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/10/12/south-korea-just-got-its-first-traditional-bank-loans-backed-by-bitcoin"
+        }
+      ]
+    },
+    {
+      "id": "standard-chartered-rlusd:2026-10-12",
+      "level": "important",
+      "time": "17:12",
+      "title": "Standard Chartered propose la garde RLUSD à Dubaï",
+      "summary": "Standard Chartered lance la garde pour RLUSD de Ripple et envisage un partenariat de collatéral avec LMAX à Dubaï.",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link"
+        },
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/business/2026-10-12-standard-chartered-custody-ripple-rlusd-418258"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/standard-chartered-rlusd-custody-lmax-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
       "id": "france-crypto-regulation:2026-10-12",
       "level": "important",
       "time": "07:49",
@@ -586,5 +668,5 @@
     }
   ],
   "generatedAt": "2026-10-12T05:49:06Z",
-  "updatedAt": "2026-10-12T05:49:19Z"
+  "updatedAt": "2026-10-12T15:12:49Z"
 }
