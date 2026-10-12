@@ -1,0 +1,590 @@
+{
+  "date": "2026-10-12",
+  "edition": "06:30",
+  "tldr": [
+    {
+      "impact": "pos",
+      "text": "BTC tient au-dessus de 84 000 $ malgré des sorties nettes des ETF spot en octobre, soutenu par le retour aux achats de Strategy (Saylor)."
+    },
+    {
+      "impact": "neg",
+      "text": "ETH et SOL rebondissent sur 24h mais restent dans le rouge sur 7 jours ; les ETF ETH enchaînent 9 jours de sorties consécutives."
+    },
+    {
+      "impact": "neg",
+      "text": "Ledger confirme un implant matériel non autorisé sur des wallets vendus par un revendeur d'Asie du Sud-Est : pertes estimées à plus de 86 millions $."
+    },
+    {
+      "impact": "neu",
+      "text": "La XRP Ledger a corrigé en urgence une faille vieille de 10 ans qui aurait pu permettre de créer 18 000 milliards de XRP ; aucune exploitation détectée."
+    },
+    {
+      "impact": "neg",
+      "text": "En France, la commission des Finances adopte une proposition obligeant à déclarer les wallets auto-hébergés de plus de 100 000 € ; ce n'est pas encore une loi."
+    },
+    {
+      "impact": "neu",
+      "text": "Le CLARITY Act reste bloqué au Sénat américain ; la CFTC avance ses propres règles sur les marchés de prédiction et les crypto-actifs."
+    },
+    {
+      "impact": "neg",
+      "text": "Pump.fun voit ses revenus quotidiens chuter de 16% en une semaine, réduisant la puissance de feu de son programme de rachat/burn."
+    },
+    {
+      "impact": "neu",
+      "text": "La Fed a relevé ses taux de 25 pb en septembre (hausse surprise) ; la réunion du 27-28 octobre est attendue sans changement par le marché (~80%)."
+    },
+    {
+      "impact": "pos",
+      "text": "L'indice Fear & Greed grimpe à 69 (« Greed »), contre 61 la veille : optimisme en hausse, à surveiller pour risque de surchauffe."
+    }
+  ],
+  "news": [
+    {
+      "title": "Ledger confirme un implant matériel non autorisé, pertes estimées à plus de 86 M$",
+      "impact": "neg",
+      "confidence": "confirmed",
+      "what": "Ledger a examiné l'appareil d'un client touché par l'affaire du revendeur CryptoBilis (Asie du Sud-Est) et confirmé la présence d'un implant matériel non autorisé. <cite index=\"1-5\">Ledger a confirmé qu'un portefeuille matériel appartenant à un client concerné contenait un implant matériel non autorisé</cite>. <cite index=\"1-7\">L'enquêteur on-chain Specter estime que les pertes suspectées sur Bitcoin, Ethereum et Tron pourraient dépasser 86 millions de dollars</cite>.",
+      "why": "C'est la confirmation matérielle d'une attaque physique sur la chaîne de distribution, pas un bug logiciel ni un piratage de Ledger lui-même. <cite index=\"1-8\">Ledger affirme n'avoir aucune indication que son infrastructure de sécurité, ses systèmes ou ses services aient été compromis</cite>, mais l'incident fragilise la confiance dans les wallets matériels achetés hors canaux officiels.",
+      "assets": [
+        "BTC",
+        "ETH"
+      ],
+      "shortTerm": "Pression négative limitée sur le marché global, mais risque de réputation pour Ledger et les revendeurs tiers ; possible vague de transferts de précaution vers de nouveaux wallets.",
+      "longTerm": "Renforcement attendu des contrôles sur la chaîne d'approvisionnement des wallets matériels ; pourrait accélérer l'adoption de solutions de vérification d'authenticité.",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m",
+          "publishedAt": "2026-10-11 09:05 UTC"
+        },
+        {
+          "name": "FinanceFeeds",
+          "url": "https://financefeeds.com/ledger-probe-finds-hardware-implant-as-reported-crypto-losses-top-86-million/",
+          "publishedAt": "2026-10-12 00:00 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "La XRP Ledger corrige en urgence une faille vieille de 10 ans",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "what": "<cite index=\"10-1,10-2\">La XRP Ledger a corrigé une vulnérabilité de haute sévérité dans son moteur de paiement, un défaut datant de 2015, qui aurait pu permettre de créer des trillions de XRP, dépassant le plafond de 100 milliards</cite>. <cite index=\"10-6\">RippleX a publié un correctif d'urgence dans xrpld 3.4.1 le 25 septembre, en contournant le processus habituel de vote des validateurs</cite>.",
+      "why": "Une faille de cette ampleur aurait pu détruire la confiance dans l'intégrité de l'offre de XRP. <cite index=\"10-8\">Aucune exploitation n'a été détectée sur le réseau public</cite>, mais la méthode de correction (sans vote, sans code source public immédiat) a suscité des critiques sur la transparence open-source du projet.",
+      "assets": [
+        "XRP"
+      ],
+      "shortTerm": "Volatilité limitée désormais que le correctif est largement déployé et confirmé sans exploitation.",
+      "longTerm": "RippleX indique vouloir renforcer les audits via IA et vérification formelle, ce qui pourrait devenir un standard pour d'autres blockchains majeures.",
+      "sources": [
+        {
+          "name": "The Block / KuCoin",
+          "url": "https://www.kucoin.com/news/flash/xrp-ledger-patches-10-year-old-overflow-vulnerability-that-could-mint-trillions-of-xrp",
+          "publishedAt": "2026-10-11 18:07 UTC"
+        },
+        {
+          "name": "Cryptonomist",
+          "url": "https://en.cryptonomist.ch/2026/10/11/xrp-ledger-security-bug/",
+          "publishedAt": "2026-10-11 00:00 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "France : la commission des Finances approuve une obligation de déclaration des wallets auto-hébergés >100 000 €",
+      "impact": "neg",
+      "confidence": "confirmed",
+      "what": "<cite index=\"20-3,20-4\">Les députés français ont approuvé une mesure obligeant à déclarer les avoirs crypto auto-hébergés d'au moins 100 000 euros ; la commission des Finances de l'Assemblée nationale a adopté la mesure vendredi</cite>. <cite index=\"20-7\">Le défaut de déclaration des actifs concernés pourrait entraîner des amendes allant jusqu'à 10 000 euros</cite>.",
+      "why": "C'est une étape législative, pas une loi définitive. <cite index=\"20-9,20-10\">La mesure doit encore franchir une étape législative après le rejet par les députés de la partie recettes du budget 2027 ; le débat sur cette partie doit débuter à l'Assemblée nationale mardi 13 octobre</cite>.",
+      "assets": [],
+      "shortTerm": "Pas d'impact prix immédiat, mais signal réglementaire à suivre pour les détenteurs français de crypto en self-custody.",
+      "longTerm": "Si adoptée définitivement, cette règle comblerait un vide fiscal identifié par les parlementaires et pourrait inspirer d'autres pays européens.",
+      "sources": [
+        {
+          "name": "TokenPost",
+          "url": "https://www.tokenpost.com/news/regulation/30040",
+          "publishedAt": "2026-10-12 00:56 UTC"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k",
+          "publishedAt": "2026-10-12 04:45 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "ETF crypto : BTC, ETH et SOL tous dans le rouge en octobre, mais BTC résiste",
+      "impact": "neg",
+      "confidence": "confirmed",
+      "what": "<cite index=\"38-1\">Les ETF spot Bitcoin américains affichent 386,3 millions de dollars de sorties nettes sur les sept premières séances d'octobre, après une sortie de 484,9 millions mercredi, leur pire journée depuis juin</cite>. <cite index=\"38-2,38-6,38-7\">Les ETF Ethereum ont prolongé leur série de sorties à neuf jours, perdant 56,1 millions vendredi</cite>.",
+      "why": "Malgré ces sorties, le prix du BTC reste résilient au-dessus de 84 000 $, ce qui suggère que la demande spot/institutionnelle hors ETF compense partiellement, ou que la baisse du pétrole et l'apaisement géopolitique soutiennent le sentiment.",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "shortTerm": "Si les sorties ETF persistent, la pression vendeuse pourrait s'accentuer sur ETH plus que sur BTC.",
+      "longTerm": "Une inversion durable des flux ETF serait un signal clé pour confirmer un retour de l'appétit institutionnel.",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october",
+          "publishedAt": "2026-10-11 16:01 UTC"
+        },
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
+          "publishedAt": "2026-10-12 04:49 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "Strategy (Saylor) reprend ses achats de Bitcoin après les rachats de STRC",
+      "impact": "pos",
+      "confidence": "confirmed",
+      "what": "<cite index=\"32-5,32-6\">Strategy a acquis 334 Bitcoin pour 28,7 millions de dollars entre le 28 septembre et le 4 octobre, portant ses avoirs totaux à 848 000 BTC selon les dépôts SEC ; la société a aussi racheté 1,77 million d'actions de son action préférée STRC pour 176,3 millions de dollars</cite>. Saylor a ensuite teasé sur X la poursuite des achats.",
+      "why": "Strategy reste le plus gros détenteur corporate de BTC ; un retour à l'accumulation régulière est un signal d'appétit institutionnel, même si <cite index=\"33-8\">seulement 9,5% des 5,41 milliards de dollars levés au T3 ont été explicitement alloués aux achats de Bitcoin</cite>, le reste servant aux réserves et aux rachats de préférentielles.",
+      "assets": [
+        "BTC"
+      ],
+      "shortTerm": "Support psychologique pour le prix du BTC si les achats se confirment par dépôt SEC officiel (attendu après le jour férié américain).",
+      "longTerm": "La stratégie de Strategy reste étroitement liée au prix du BTC ; une poursuite de l'accumulation renforce la thèse de la détention corporate, mais expose aussi la société à un risque de levier en cas de forte baisse.",
+      "sources": [
+        {
+          "name": "TradersUnion",
+          "url": "https://tradersunion.com/news/cryptocurrency-news/show/3760048-strategy-bitcoin-signals-stock-buybacks/",
+          "publishedAt": "2026-10-12 00:00 UTC"
+        }
+      ],
+      "singleSource": true
+    },
+    {
+      "title": "Pump.fun : les revenus chutent de 16% en une semaine, le rachat de PUMP ralentit",
+      "impact": "neg",
+      "confidence": "likely",
+      "what": "<cite index=\"65-1\">Les revenus quotidiens de Pump.fun, qui financent la moitié de son programme de rachat et de burn, sont tombés de 1,89 million de dollars le 5 octobre à 1,59 million le 9 octobre, soit une baisse de 16%, accompagnant une chute de prix de 16,8% depuis le plus haut hebdomadaire</cite>.",
+      "why": "<cite index=\"66-6,66-7\">Le programme de rachat, qui alloue environ 50% des revenus du protocole à des achats et burns sur le marché ouvert, est verrouillé jusqu'en avril 2027</cite> ; une baisse de revenus réduit mécaniquement ce soutien de prix.",
+      "assets": [
+        "PUMP"
+      ],
+      "shortTerm": "Le token reste volatil et dépendant de l'activité spéculative sur les memecoins Solana ; +9% sur 24h aujourd'hui malgré la baisse de revenus hebdomadaire.",
+      "longTerm": "La durabilité du modèle de rachat dépend entièrement du flux de nouveaux lancements de tokens, un secteur par nature cyclique et très spéculatif.",
+      "sources": [
+        {
+          "name": "CryptoTicker",
+          "url": "https://cryptoticker.io/en/pump-fun-revenue-buyback/",
+          "publishedAt": "2026-10-11 00:00 UTC"
+        },
+        {
+          "name": "Pluang",
+          "url": "https://pluang.com/en/news-feed/pump-fun-pendapatan-turun-16-persen-harga-rendah",
+          "publishedAt": "2026-10-10 00:00 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "CLARITY Act toujours bloqué, la CFTC avance seule sur la régulation crypto",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "what": "<cite index=\"78-3,78-4\">Le CLARITY Act a échoué à un vote de procédure au Sénat le 15 septembre 2026 par 49 voix contre 50, loin des 60 nécessaires</cite>. <cite index=\"77-7,77-8\">La CFTC a depuis envoyé ses propres propositions de règles crypto au bureau budgétaire de la Maison Blanche pour examen</cite>, cherchant à codifier un cadre avec ses pouvoirs existants.",
+      "why": "Sans loi fédérale, la régulation crypto américaine continue de se faire agence par agence (SEC, CFTC), ce qui maintient une incertitude structurelle pour les acteurs du secteur, même si certains y voient une opportunité d'innovation plus rapide le temps que les règles se clarifient.",
+      "assets": [],
+      "shortTerm": "Pas d'impact prix direct immédiat, mais le sujet reste suivi de près par les investisseurs institutionnels US.",
+      "longTerm": "Un nouveau cycle législatif n'est pas attendu avant les élections de mi-mandat de novembre 2026, repoussant une clarté réglementaire complète à 2027 au plus tôt.",
+      "sources": [
+        {
+          "name": "FinTech Weekly",
+          "url": "https://www.fintechweekly.com/news/what-is-the-clarity-act-digital-asset-market-structure-explained-2026",
+          "publishedAt": "2026-09-26 00:00 UTC"
+        },
+        {
+          "name": "Finextra",
+          "url": "https://www.finextra.com/blogposting/33035/is-the-us-clarity-act-dead-no",
+          "publishedAt": "2026-10-01 00:00 UTC"
+        }
+      ],
+      "singleSource": false
+    }
+  ],
+  "market": [
+    {
+      "symbol": "BTC",
+      "sentiment": "pos",
+      "driver": "Résilience face aux sorties ETF, soutenue par le retour aux achats de Strategy et un apaisement géopolitique (cessez-le-feu énergétique Russie-Ukraine évoqué par Trump) qui fait baisser le pétrole.",
+      "events": [
+        "Sorties ETF BTC d'octobre (~386 M$ net)",
+        "Strategy a acheté 334 BTC fin sept/début oct, portant ses avoirs à 848 000 BTC",
+        "Réunion FOMC les 27-28 octobre"
+      ],
+      "watch": [
+        "Zone de support ~84 000 $",
+        "Dépôt SEC confirmant ou non de nouveaux achats de Strategy",
+        "Décision de la Fed le 28 octobre"
+      ],
+      "name": "Bitcoin",
+      "price": 83855,
+      "change24h": 1.05573,
+      "change7d": -2.3473,
+      "volume": 18254316942,
+      "asOf": "12/10 07:44",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "ETH",
+      "sentiment": "neg",
+      "driver": "Série de 9 jours de sorties nettes sur les ETF Ethereum, malgré un rebond de prix sur 24h.",
+      "events": [
+        "9e jour consécutif de sorties ETF ETH",
+        "Perte de 5,6% sur 7 jours malgré +2% sur 24h"
+      ],
+      "watch": [
+        "Fin ou poursuite de la série de sorties ETF",
+        "Niveau psychologique 2 500 $"
+      ],
+      "name": "Ethereum",
+      "price": 2555.13,
+      "change24h": 2.09388,
+      "change7d": -5.5926,
+      "volume": 9513600412,
+      "asOf": "12/10 07:44",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "SOL",
+      "sentiment": "neu",
+      "driver": "Sorties ETF plus modestes que BTC/ETH, mais plusieurs unlocks importants dans l'écosystème Solana ce mois-ci (DoubleZero, TRUMP, PUMP).",
+      "events": [
+        "5e jour consécutif de sorties ETF SOL (~25 M$ en octobre)",
+        "Unlocks multiples dans l'écosystème Solana en octobre"
+      ],
+      "watch": [
+        "Support ~110 $",
+        "Impact cumulé des unlocks de l'écosystème sur la liquidité"
+      ],
+      "name": "Solana",
+      "price": 112.49,
+      "change24h": 2.8994,
+      "change7d": -6.0188,
+      "volume": 2262262002,
+      "asOf": "12/10 07:44",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "HYPE",
+      "sentiment": "neu",
+      "driver": "Rachats financés par les revenus de la plateforme, mais un exploit sur une plateforme tierce (Papertrade) soulève des questions sur la fiabilité des flux de prix utilisés par les apps satellites de Hyperliquid.",
+      "events": [
+        "Trader a empoché 1,28 M$ en manipulant le prix ETH affiché par Hyperliquid sur l'exchange tiers Papertrade",
+        "Unlock d'équipe d'octobre (3,75M HYPE) placé en OTC auprès d'un seul acheteur institutionnel, limitant la pression de vente immédiate"
+      ],
+      "watch": [
+        "Réponse de Hyperliquid/Papertrade sur la fiabilité des oracles de prix",
+        "Rythme des rachats HYPE financés par les revenus de la plateforme"
+      ],
+      "name": "Hyperliquid",
+      "price": 87.56,
+      "change24h": 3.24658,
+      "change7d": -2.8042,
+      "volume": 488304421,
+      "asOf": "12/10 07:44",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "AAVE",
+      "sentiment": "neu",
+      "driver": "TVL stable autour de 18,6 Md$, discussions en cours sur un mécanisme de burn permanent plutôt que d'accumulation de réserve.",
+      "events": [
+        "Discussion communautaire sur un modèle de burn pour AAVE"
+      ],
+      "watch": [
+        "Issue du débat gouvernance sur le burn",
+        "Évolution des frais générés (24h: ~1,2 M$)"
+      ],
+      "name": "Aave",
+      "price": 168.93,
+      "change24h": 0.7664,
+      "change7d": -5.5501,
+      "volume": 219090913,
+      "asOf": "12/10 07:44",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "PUMP",
+      "sentiment": "neg",
+      "driver": "Revenus quotidiens en baisse de 16% sur une semaine, ce qui réduit la puissance de feu du programme de rachat/burn verrouillé jusqu'en avril 2027.",
+      "events": [
+        "Revenu quotidien passé de 1,89 M$ (5 oct) à 1,59 M$ (9 oct)",
+        "Lancement de la fonctionnalité « Custom Pairs » le 9 octobre pour stimuler l'activité"
+      ],
+      "watch": [
+        "Tendance des revenus quotidiens de la plateforme",
+        "Montant des rachats quotidiens de PUMP"
+      ],
+      "name": "Pump.fun",
+      "price": 0.0059371,
+      "change24h": 9.20376,
+      "change7d": -6.6721,
+      "volume": 196668507,
+      "asOf": "12/10 07:44",
+      "source": "CoinGecko"
+    }
+  ],
+  "x": [
+    {
+      "author": "Michael Saylor",
+      "handle": "@saylor",
+      "time": "2026-10-11",
+      "asset": "BTC",
+      "sentiment": "pos",
+      "kind": "person",
+      "summary": "Saylor a publié sur X : \"There's always room for more orange\", interprété par le marché comme un signal d'achats de Bitcoin à venir par Strategy.",
+      "why": "Saylor est le dirigeant de Strategy, plus gros détenteur corporate de BTC ; ses messages influencent souvent le sentiment de marché à court terme, mais ce post n'est pas une annonce officielle chiffrée — la confirmation passe par un dépôt SEC."
+    }
+  ],
+  "projects": [
+    {
+      "name": "DATA Network (migration vers Sui)",
+      "conviction": "spec",
+      "funding": "Investissement annoncé de 30 millions $ par la Sui Foundation",
+      "investors": "Sui Foundation (annonce officielle rapportée par The Block)",
+      "team": "Équipe non détaillée dans les sources disponibles à ce stade",
+      "tech": "Protocole de données pour l'IA qui migre de sa propre chaîne vers Sui et prévoit de retirer sa chaîne existante",
+      "tokenomics": "Non détaillé dans les sources disponibles",
+      "catalysts": "Migration technique vers Sui, soutien financier de la Sui Foundation",
+      "why": "Un soutien direct d'une fondation de L1 reconnue peut accélérer l'adoption technique et la liquidité, et illustre la tendance des protocoles IA à choisir des chaînes à forte performance.",
+      "risk": "Peu d'informations vérifiables sur l'équipe, les revenus ou la traction actuelle ; abandon d'une chaîne propre est un pivot technique risqué qui peut fragiliser la confiance des utilisateurs existants."
+    }
+  ],
+  "smartMoney": [],
+  "unlocks": [
+    {
+      "date": "2026-10-17",
+      "token": "DBR (deBridge)",
+      "amount": "618,33 millions de tokens",
+      "value": "~12,5 M$",
+      "pct": "~10,42% de la circulation",
+      "who": "Non précisé dans la source",
+      "risk": "med",
+      "priority": false,
+      "confidence": "likely"
+    },
+    {
+      "date": "2026-10-18 (estimation)",
+      "token": "ARB (Arbitrum)",
+      "amount": "92,65 millions de tokens",
+      "value": "~41,2 M$",
+      "pct": "~2,14% de la circulation",
+      "who": "Investisseurs (48,5M ARB), équipe (32,1M ARB), trésorerie DAO (12,05M ARB)",
+      "risk": "med",
+      "priority": false,
+      "confidence": "unconfirmed"
+    },
+    {
+      "date": "2026-10-31 (fin de mois, vesting linéaire)",
+      "token": "PUMP",
+      "amount": "~7 milliards de tokens sur le mois",
+      "value": "~40,25 M$",
+      "pct": "n/a (vesting linéaire)",
+      "who": "Vesting linéaire programmé",
+      "risk": "low",
+      "priority": true,
+      "confidence": "likely"
+    }
+  ],
+  "unlocksSource": {
+    "name": "Tokenomist / CryptoBriefing",
+    "url": "https://cryptobriefing.com/solana-ecosystem-token-unlocks-october-2026/"
+  },
+  "regulation": [
+    {
+      "region": "France",
+      "title": "Déclaration obligatoire des wallets auto-hébergés >100 000 €",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "summary": "La commission des Finances a adopté l'amendement I-CF821 imposant la déclaration annuelle des cryptoactifs en self-custody au-delà de 100 000 €, avec des amendes jusqu'à 10 000 €. Le texte doit encore franchir l'examen en séance plénière à partir du 13 octobre.",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k"
+        }
+      ]
+    },
+    {
+      "region": "États-Unis",
+      "title": "CLARITY Act bloqué, la CFTC avance ses propres règles",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "summary": "Après l'échec du vote de procédure au Sénat en septembre, le projet de loi sur la structure de marché crypto reste gelé au moins jusqu'après les élections de mi-mandat de novembre. La CFTC a soumis ses propres propositions de règles pour les marchés crypto et les marchés de prédiction.",
+      "sources": [
+        {
+          "name": "FinTech Weekly",
+          "url": "https://www.fintechweekly.com/news/what-is-the-clarity-act-digital-asset-market-structure-explained-2026"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "title": "La Fed a relevé ses taux en septembre, réunion décisive le 27-28 octobre",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "date": "2026-10-09",
+      "summary": "La Fed a relevé son taux directeur de 25 points de base le 16 septembre 2026, le portant à 3,75-4,00%, une première hausse depuis 2023 justifiée par une inflation jugée encore élevée. Les marchés anticipent désormais une pause lors de la réunion des 27-28 octobre, avec environ 80% de probabilité de statu quo selon les contrats à terme sur les Fed funds.",
+      "sources": [
+        {
+          "name": "Admiral Markets",
+          "url": "https://admiralmarkets.com/analytics/traders-blog/fed-rate-decision-october-2026"
+        },
+        {
+          "name": "Polymarket",
+          "url": "https://polymarket.com/dashboards/fed-rates"
+        }
+      ]
+    },
+    {
+      "title": "Trump annonce un « cessez-le-feu énergétique » Russie-Ukraine",
+      "impact": "neu",
+      "confidence": "likely",
+      "date": "2026-10-11",
+      "summary": "Le président Trump a annoncé un cessez-le-feu énergétique entre la Russie et l'Ukraine, ce qui a contribué à faire baisser les prix du pétrole et pourrait avoir soutenu indirectement le sentiment sur les marchés risqués dont le Bitcoin.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine"
+        }
+      ]
+    }
+  ],
+  "onchain": [
+    {
+      "metric": "TVL Ethereum",
+      "value": "~51,78 Md$",
+      "note": "Chaîne la plus large en TVL parmi les actifs prioritaires suivis",
+      "source": "Données on-chain fournies"
+    },
+    {
+      "metric": "TVL Solana",
+      "value": "~6,26 Md$",
+      "note": "",
+      "source": "Données on-chain fournies"
+    },
+    {
+      "metric": "TVL Bitcoin (DeFi)",
+      "value": "~4,46 Md$",
+      "note": "",
+      "source": "Données on-chain fournies"
+    },
+    {
+      "metric": "TVL protocole Aave",
+      "value": "~18,63 Md$",
+      "note": "Premier protocole de prêt par TVL parmi les actifs suivis",
+      "source": "Données on-chain fournies"
+    },
+    {
+      "metric": "TVL protocole Hyperliquid",
+      "value": "~7,15 Md$",
+      "note": "",
+      "source": "Données on-chain fournies"
+    },
+    {
+      "metric": "Frais 24h (HYPE / AAVE / PUMP)",
+      "value": "~2,0 M$ / ~1,2 M$ / ~2,0 M$",
+      "note": "Revenus protocolaires sur 24h",
+      "source": "Données on-chain fournies"
+    },
+    {
+      "metric": "Capitalisation stablecoins totale",
+      "value": "~313,2 Md$",
+      "note": "",
+      "source": "Données on-chain fournies"
+    },
+    {
+      "metric": "Volume DEX 24h",
+      "value": "~5,62 Md$",
+      "note": "",
+      "source": "Données on-chain fournies"
+    },
+    {
+      "metric": "Fear & Greed Index",
+      "value": "69 (Greed)",
+      "note": "En hausse depuis 61 la veille, signe d'un optimisme croissant du marché",
+      "source": "Données fournies"
+    }
+  ],
+  "watchlist": [
+    {
+      "impact": "neu",
+      "text": "Décision de la Fed le 28 octobre : statu quo largement anticipé (~80%), mais une surprise hawkish pèserait sur le marché crypto."
+    },
+    {
+      "impact": "neg",
+      "text": "Débat budgétaire français à partir du 13 octobre : suivre si l'amendement sur la déclaration des wallets >100 000 € est maintenu."
+    },
+    {
+      "impact": "neg",
+      "text": "Poursuite ou non de la série de sorties ETF sur Ethereum (9 jours consécutifs à ce stade)."
+    },
+    {
+      "impact": "neu",
+      "text": "Avancement de l'enquête Ledger sur l'ampleur réelle des pertes (86 M$ pourrait être un plancher, pas un plafond)."
+    },
+    {
+      "impact": "neu",
+      "text": "Rotation sectorielle visible sur FIL, ICP, NEAR, AVAX (+7 à +15% sur 24h) sans catalyseur unique clairement identifié à ce stade — à confirmer dans les prochains jours."
+    }
+  ],
+  "breaking": [
+    {
+      "id": "france-crypto-regulation:2026-10-12",
+      "level": "important",
+      "time": "07:49",
+      "title": "La France impose la déclaration des portefeuilles crypto au-delà de €112K",
+      "summary": "Les parlementaires français ont approuvé une règle obligeant la déclaration des portefeuilles crypto dépassant €112,000, avec des amendes jusqu'à €10,000 en cas de non-respect.",
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "id": "sui-data-migration:2026-10-12",
+      "level": "important",
+      "time": "07:49",
+      "title": "Sui Foundation investit $30M dans DATA Network pour sa migration",
+      "summary": "La Sui Foundation investit $30 millions pour que DATA Network, un protocole d'IA, migrate vers Sui en tant que protocole natif et retire sa propre blockchain.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "id": "general-cftc-regulation:2026-10-12",
+      "level": "important",
+      "time": "07:49",
+      "title": "L'ancienne présidente de la CFTC défend la régulation crypto",
+      "summary": "Caroline Pham, ancienne présidente par intérim de la CFTC, estime que l'agence peut réguler pratiquement tous les crypto-actifs et juge ses récentes propositions essentielles pour protéger les traders retail américains.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-10-12T05:49:06Z",
+  "updatedAt": "2026-10-12T05:49:19Z"
+}

@@ -1,10 +1,5 @@
 {
   "seen": {
-    "rss:277a0c6ad7ab464b": 1791504960.8663547,
-    "rss:372e2f328fd51e63": 1791504960.8663561,
-    "rss:4e67d3aeba490c88": 1791504960.8663564,
-    "rss:bed8e4682e3df8f8": 1791504960.866357,
-    "rss:a7baed191b622915": 1791504960.866357,
     "rss:a0b0d7159c04f9c6": 1791528039.7819319,
     "rss:edecc250b3e9ffde": 1791528039.7819328,
     "rss:fccba4b31ff39792": 1791528039.781933,
@@ -96,7 +91,13 @@
     "rss:d0a0603c90ef82cc": 1791749448.5716712,
     "rss:bb06ad7d28e26eb7": 1791749448.5716715,
     "rss:995b84c64b3c00de": 1791762903.4165502,
-    "rss:e002b2ad3de2bd10": 1791762903.416551
+    "rss:e002b2ad3de2bd10": 1791762903.416551,
+    "rss:84a7c4b7fd49cc56": 1791784150.5570004,
+    "rss:f58f262079343901": 1791784150.5570016,
+    "rss:be783888cdb601a3": 1791784150.557002,
+    "rss:a378c6428e1fcd53": 1791784150.5570023,
+    "rss:5c496a4df851f446": 1791784150.5570025,
+    "rss:8bf15705560d13c8": 1791784150.5570028
   },
   "x_since": {},
   "recent": [
@@ -264,6 +265,72 @@
       "xRole": null,
       "cluster": "ledger-hardware-implant",
       "ts": 1791759473
+    },
+    {
+      "id": "rss:84a7c4b7fd49cc56",
+      "kind": "news",
+      "title": "Bitcoin shrugs off ETF outflows to trade above $84,000 as oil falls",
+      "url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "etf-flows-october",
+      "ts": 1791780570
+    },
+    {
+      "id": "rss:f58f262079343901",
+      "kind": "news",
+      "title": "Former Acting Chair Caroline Pham says CFTC can regulate almost everything except ‘onions and box office receipts’",
+      "url": "https://www.theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-cftc-regulation",
+      "ts": 1791779637
+    },
+    {
+      "id": "rss:be783888cdb601a3",
+      "kind": "news",
+      "title": "Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "sui-data-migration",
+      "ts": 1791770400
+    },
+    {
+      "id": "rss:a378c6428e1fcd53",
+      "kind": "news",
+      "title": "DATA Network to migrate to Sui, retire own chain",
+      "url": "https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "sui-data-migration",
+      "ts": 1791782143
+    },
+    {
+      "id": "rss:5c496a4df851f446",
+      "kind": "news",
+      "title": "French lawmakers back reporting rule for crypto wallets over $112K",
+      "url": "https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "france-crypto-regulation",
+      "ts": 1791780315
+    },
+    {
+      "id": "rss:8bf15705560d13c8",
+      "kind": "news",
+      "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
+      "url": "https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "xrpl-overflow-bug",
+      "ts": 1791768089
     }
   ],
   "digest_queue": [],
@@ -302,7 +369,7 @@
     },
     "2026-10-12": {
       "critical": 0,
-      "important": 0,
+      "important": 3,
       "digests": []
     }
   },
@@ -441,15 +508,18 @@
     "xrp-ledger-bug": "important",
     "ledger-hardware-implant": "important",
     "xrpl-overflow-bug": "important",
-    "tokenized-commodities-expansion": "important"
+    "tokenized-commodities-expansion": "important",
+    "general-cftc-regulation": "important",
+    "sui-data-migration": "important",
+    "france-crypto-regulation": "important"
   },
   "briefing_attempts": {
-    "2026-10-05": 1,
     "2026-10-06": 1,
     "2026-10-07": 1,
     "2026-10-08": 1,
     "2026-10-09": 1,
     "2026-10-10": 1,
-    "2026-10-11": 1
+    "2026-10-11": 1,
+    "2026-10-12": 1
   }
 }
