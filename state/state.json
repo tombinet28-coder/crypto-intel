@@ -1,12 +1,5 @@
 {
   "seen": {
-    "rss:fcc2367bea59fa8d": 1791647421.6160336,
-    "rss:51cb87d5b15808be": 1791647421.6160345,
-    "rss:db8104c06c85d695": 1791647421.6160347,
-    "rss:64fd54d7004c1c89": 1791647421.616035,
-    "rss:4ae4190d274def16": 1791647421.6160352,
-    "rss:a682e18a47df4d5e": 1791647421.6160352,
-    "rss:3f8fd047416121e2": 1791647421.6160357,
     "rss:c1f8a2c3679ec642": 1791662427.2278206,
     "rss:1bc95438f14ff131": 1791662427.2278216,
     "rss:7aa28add94f13aa6": 1791662427.227822,
@@ -97,208 +90,29 @@
     "rss:cf0bff3d565afe1f": 1791889237.2755656,
     "rss:678889c6bcec4c8a": 1791889237.2755656,
     "rss:0e3d2cbd860982f5": 1791889237.2755659,
-    "rss:b4f5969dc2c0173e": 1791889237.2755659
+    "rss:b4f5969dc2c0173e": 1791889237.2755659,
+    "rss:f1c09738da0bf865": 1791914905.972252,
+    "rss:f2962a228facb302": 1791914905.972253,
+    "rss:f65ec83d2fb92b62": 1791914905.9722538,
+    "rss:ab8a5c61c4b8c875": 1791914905.972254,
+    "rss:3c90f7946d5024ef": 1791914905.9722543,
+    "rss:ed42c98438541b9f": 1791914905.9722545,
+    "rss:3e67942c134f247b": 1791914905.9722545,
+    "rss:0eb9d58473c0f2da": 1791914905.9722548,
+    "rss:46f361834264c631": 1791914905.972255,
+    "rss:52229ba8c202cbc5": 1791914905.972255,
+    "rss:59a5443bdb1c8e85": 1791914905.9722552,
+    "rss:618b1779f8c4a7ab": 1791914905.9722555,
+    "rss:9534ded28b5c98b4": 1791914905.9722555,
+    "rss:0000c841b29ec8a5": 1791914905.9722557,
+    "rss:453f8bfec1c77aee": 1791914905.9722557,
+    "rss:6d61909bf174e395": 1791914905.972256,
+    "rss:cd0620c29be0324f": 1791914905.9722562,
+    "rss:1e8389836321e07e": 1791914905.9722564,
+    "rss:528bbda0329ca46a": 1791914905.9722567
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:26bcd0b2194fed75",
-      "kind": "news",
-      "title": "Tokenized catastrophe bonds target the disaster-insurance gap",
-      "url": "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "tokenized-commodities-expansion",
-      "ts": 1791817200
-    },
-    {
-      "id": "rss:5c152f392d80ddd0",
-      "kind": "news",
-      "title": "Standard Chartered offers RLUSD custody in Dubai and plans LMAX collateral link",
-      "url": "https://www.coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "standard-chartered-rlusd",
-      "ts": 1791806949
-    },
-    {
-      "id": "rss:85f5aac61910f6ca",
-      "kind": "news",
-      "title": "Ledger claims CryptoBilis cases are limited as up to $93 million is traced, $10 million frozen",
-      "url": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ledger-hardware-implant",
-      "ts": 1791806513
-    },
-    {
-      "id": "rss:cd1cf09881237a66",
-      "kind": "news",
-      "title": "Bitcoin falls below $83,000 as dollar strength keeps markets on edge",
-      "url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791804071
-    },
-    {
-      "id": "rss:f187bfdcec145368",
-      "kind": "news",
-      "title": "Global financial watchdog calls for cross-border information sharing, planning for stablecoin crisis",
-      "url": "https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-cftc-regulation",
-      "ts": 1791802958
-    },
-    {
-      "id": "rss:06db7cbee1cbec5c",
-      "kind": "news",
-      "title": "DeFi Development grows SOL holdings 12% as CHAD hits record highs",
-      "url": "https://www.theblock.co/news/business/2026-10-12-defi-development-sol-holdings-2-59-million-chad-418307",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "sol-whale-accumulation",
-      "ts": 1791816805
-    },
-    {
-      "id": "rss:157d0747de54ddfe",
-      "kind": "news",
-      "title": "Bitmine adds 12,532 ETH as Tom Lee flags potential ‘largest-ever’ crypto bull market",
-      "url": "https://www.theblock.co/news/business/2026-10-12-bitmine-eth-holdings-6-million-ether-treasury-418296",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "eth-whale-accumulation",
-      "ts": 1791812612
-    },
-    {
-      "id": "rss:6ee6b56389883d36",
-      "kind": "news",
-      "title": "‘There’s always room for more orange’: Michael Saylor’s Strategy scoops up another 250 bitcoin for $21.5 million as holdings reach 848,250 BTC",
-      "url": "https://www.theblock.co/news/business/2026-10-12-theres-always-room-for-more-orange-michael-saylors-strategy-scoops-up-another-250-bitcoin-for-21-5-million-as-holdings-reach-848250-btc-418275",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-whale-accumulation",
-      "ts": 1791807225
-    },
-    {
-      "id": "rss:2035f305e1e9418d",
-      "kind": "news",
-      "title": "Evernorth names former Coinbase investment exec to steer 473 million XRP treasury ahead of Nasdaq debut",
-      "url": "https://www.theblock.co/news/business/2026-10-12-evernorth-former-coinbase-investment-chief-steer-473-million-xrp-treasury-nasdaq-debut-418225",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "xrp-institutional-adoption",
-      "ts": 1791806462
-    },
-    {
-      "id": "rss:ebe0763cc28be65d",
-      "kind": "news",
-      "title": "Bitmine Adds $32M in Ethereum as Tom Lee Says Firm Is Nearly 'Done Stacking'",
-      "url": "https://decrypt.co/380685/bitmine-adds-32m-in-ethereum-as-tom-lee-says-firm-is-nearly-done-stacking",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "eth-whale-accumulation",
-      "ts": 1791812008
-    },
-    {
-      "id": "rss:e6a291afdf896205",
-      "kind": "news",
-      "title": "Strategy Scoops Up $21.5M in Bitcoin, Buys Back $192M in STRC",
-      "url": "https://decrypt.co/380677/strategy-scoops-up-21-5m-in-bitcoin-buys-back-192m-in-strc",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-whale-accumulation",
-      "ts": 1791808775
-    },
-    {
-      "id": "rss:58f56357d9d4a741",
-      "kind": "news",
-      "title": "Bitcoin Ranges Near $83K as Traders Look to US Inflation Data",
-      "url": "https://decrypt.co/380669/bitcoin-ranges-near-83k-as-traders-look-to-us-inflation-data",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791805310
-    },
-    {
-      "id": "rss:ee4fe02b34cbab15",
-      "kind": "news",
-      "title": "XRP treasury Evernorth’s shares rise 5% at Nasdaq opening print",
-      "url": "https://cointelegraph.com/news/xrp-treasury-evernorth-rise-nasdaq-opening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "xrp-institutional-adoption",
-      "ts": 1791814729
-    },
-    {
-      "id": "rss:cc2adde860df1c7b",
-      "kind": "news",
-      "title": "Ledger implant tests Bitcoin ETFs as safer custodial solutions than hardware wallets",
-      "url": "https://cointelegraph.com/news/ledger-implant-bitcoin-etfs-hardware-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "ledger-hardware-implant",
-      "ts": 1791814020
-    },
-    {
-      "id": "rss:15530519283533a4",
-      "kind": "news",
-      "title": "Strategy adds 250 Bitcoin as holdings reach 848,250 BTC",
-      "url": "https://cointelegraph.com/news/michael-saylor-strategy-250-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "btc-whale-accumulation",
-      "ts": 1791808311
-    },
-    {
-      "id": "rss:9821764ae6e32d36",
-      "kind": "news",
-      "title": "Australia proposes leverage caps for crypto-settled derivatives",
-      "url": "https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "australia-crypto-regulation",
-      "ts": 1791805318
-    },
-    {
-      "id": "rss:5ee16c362f8875d5",
-      "kind": "news",
-      "title": "BTC price support holds ahead of US CPI data: Three things Bitcoin traders need to know this week",
-      "url": "https://cointelegraph.com/markets/btc-price-support-holds-ahead-of-us-cpi-data-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791803650
-    },
-    {
-      "id": "rss:34b686a41068edf4",
-      "kind": "news",
-      "title": "Ethena USDe on Aave X Layer Assessments",
-      "url": "https://governance.aave.com/t/ethena-usde-on-aave-x-layer-assessments/25827",
-      "source": "Aave gouvernance",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "aave-usde-listing",
-      "ts": 1791811234
-    },
     {
       "id": "rss:1a4b07a70ed99c5c",
       "kind": "news",
@@ -331,17 +145,6 @@
       "xRole": null,
       "cluster": "binance-ai-trading",
       "ts": 1791830650
-    },
-    {
-      "id": "rss:95ee7fa89ac15480",
-      "kind": "news",
-      "title": "StoneX raises Securitize price target 50% as tokenized stock platform opens new revenue stream",
-      "url": "https://www.theblock.co/news/markets/2026-10-12-stonex-raises-securitize-price-target-tokenized-stocks-418313",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "tokenized-commodities-expansion",
-      "ts": 1791824785
     },
     {
       "id": "rss:f1a06b912ceeed62",
@@ -410,17 +213,6 @@
       "ts": 1791828555
     },
     {
-      "id": "rss:3f4edcbc10ef8ad9",
-      "kind": "news",
-      "title": "Bitcoin Spooked? Crypto Fear and Greed Index Drops to Pre-Rally August Lows",
-      "url": "https://decrypt.co/380708/bitcoin-spooked-crypto-fear-greed-drops",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791823294
-    },
-    {
       "id": "rss:d6e77b5b1c2339b4",
       "kind": "news",
       "title": "FTX’s crypto mining venture is now used to advance AI",
@@ -452,17 +244,6 @@
       "xRole": null,
       "cluster": "general-market-news",
       "ts": 1791830294
-    },
-    {
-      "id": "rss:f7434a6c94db2d2b",
-      "kind": "news",
-      "title": "Bitcoin miners face widening AI financing costs as lenders scrutinize deals",
-      "url": "https://cointelegraph.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791823865
     },
     {
       "id": "rss:279b4fa555a5d65a",
@@ -727,6 +508,215 @@
       "xRole": null,
       "cluster": "binance-mining-shutdown",
       "ts": 1791869006
+    },
+    {
+      "id": "rss:f1c09738da0bf865",
+      "kind": "news",
+      "title": "Crypto exchange MNX takes on OKX, Bitget offering pre-IPO futures for AI giants",
+      "url": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791906729
+    },
+    {
+      "id": "rss:f2962a228facb302",
+      "kind": "news",
+      "title": "UK crypto trader says almost $800,000 lost in knife attack as wrench attacks proliferate",
+      "url": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791905092
+    },
+    {
+      "id": "rss:f65ec83d2fb92b62",
+      "kind": "news",
+      "title": "Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger",
+      "url": "https://www.theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "xrp-institutional-adoption",
+      "ts": 1791907200
+    },
+    {
+      "id": "rss:ab8a5c61c4b8c875",
+      "kind": "news",
+      "title": "Interactive Brokers expands crypto services with Ethereum staking via Zerohash",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-13-interactive-brokers-ethereum-staking-zerohash-418457",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791905054
+    },
+    {
+      "id": "rss:3c90f7946d5024ef",
+      "kind": "news",
+      "title": "DRW and Marex complete OTC swap referencing tokenized S&P iBoxx Index",
+      "url": "https://www.theblock.co/news/markets/2026-10-13-drw-marex-first-otc-swap-tokenized-sp-iboxx-index-canton-network-418440",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "tokenized-commodities-expansion",
+      "ts": 1791903629
+    },
+    {
+      "id": "rss:ed42c98438541b9f",
+      "kind": "news",
+      "title": "Ledger confirms hardware implant in CryptoBilis reseller units as MediaMarkt suspends sales in Europe",
+      "url": "https://www.theblock.co/news/business/2026-10-13-ledger-confirms-hardware-implant-cryptobilis-reseller-units-mediamarkt-suspends-sales-europe-418442",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ledger-tampering-exploit",
+      "ts": 1791902708
+    },
+    {
+      "id": "rss:3e67942c134f247b",
+      "kind": "news",
+      "title": "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January",
+      "url": "https://www.theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-whale-accumulation",
+      "ts": 1791898945
+    },
+    {
+      "id": "rss:0eb9d58473c0f2da",
+      "kind": "news",
+      "title": "AI Researchers Are Smoking Cigarettes to Prove AI Will Cure Cancer, Says Palantir Exec",
+      "url": "https://decrypt.co/380857/ai-researchers-smoking-cigarettes-prove-ai-cure-cancer",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791913066
+    },
+    {
+      "id": "rss:46f361834264c631",
+      "kind": "news",
+      "title": "Bitcoin Shakes Off Spooky Season Jitters: Can Bulls Keep It Going?",
+      "url": "https://decrypt.co/380842/bitcoin-shakes-off-spooky-season-jitters",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791909965
+    },
+    {
+      "id": "rss:52229ba8c202cbc5",
+      "kind": "news",
+      "title": "Trezor Cuts Its Resellers After Ledger Finds Spy Implant in Crypto Wallets",
+      "url": "https://decrypt.co/380848/trezor-cuts-resellers-ledger-finds-spy-implant-crypto-wallets",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ledger-tampering-exploit",
+      "ts": 1791908090
+    },
+    {
+      "id": "rss:59a5443bdb1c8e85",
+      "kind": "news",
+      "title": "AI Powered PlayStation Crack Could Let You Play GTA 6 on PC at Launch",
+      "url": "https://decrypt.co/380833/ai-powered-playstation-crack-could-let-you-play-gta-6-on-pc-at-launch",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791903088
+    },
+    {
+      "id": "rss:618b1779f8c4a7ab",
+      "kind": "news",
+      "title": "How the SEC’s lack of leadership could facilitate crypto rulemaking",
+      "url": "https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-cftc-regulation",
+      "ts": 1791910285
+    },
+    {
+      "id": "rss:9534ded28b5c98b4",
+      "kind": "news",
+      "title": "Strive reports $208M in warrant exercises as Bitcoin holdings jump 11%",
+      "url": "https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "btc-whale-accumulation",
+      "ts": 1791907075
+    },
+    {
+      "id": "rss:0000c841b29ec8a5",
+      "kind": "news",
+      "title": "Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off",
+      "url": "https://cointelegraph.com/markets/bitcoin-keeps-up-pressure-on-84k-as-us-stocks-sidestep-korea-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791905252
+    },
+    {
+      "id": "rss:453f8bfec1c77aee",
+      "kind": "news",
+      "title": "Anthropic warns ‘AI worms’ may autonomously spread across devices like a virus",
+      "url": "https://cointelegraph.com/news/anthropic-ai-worms-autonomously-spread-devices-virus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791899709
+    },
+    {
+      "id": "rss:6d61909bf174e395",
+      "kind": "news",
+      "title": "Is Bitcoin kidding itself about the Lightning Network?",
+      "url": "https://cointelegraph.com/magazine/is-bitcoin-kidding-itself-about-the-lightning-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791898200
+    },
+    {
+      "id": "rss:cd0620c29be0324f",
+      "kind": "news",
+      "title": "Digital cash offers ‘cash-like privacy,’ but bank data breaches threaten users: BIS",
+      "url": "https://cointelegraph.com/news/bis-digital-cash-privacy-bank-data-breaches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791897437
+    },
+    {
+      "id": "rss:1e8389836321e07e",
+      "kind": "news",
+      "title": "Russia clears Sberbank for crypto trading ahead of December launch",
+      "url": "https://cointelegraph.com/news/sberbank-russia-crypto-trading-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791894144
+    },
+    {
+      "id": "rss:528bbda0329ca46a",
+      "kind": "news",
+      "title": "[Direct-to-AIP] CAPO SnapshotRatio Update Across Aave V3: October 2026",
+      "url": "https://governance.aave.com/t/direct-to-aip-capo-snapshotratio-update-across-aave-v3-october-2026/25837",
+      "source": "Aave gouvernance",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "aave-listing-assessment",
+      "ts": 1791913366
     }
   ],
   "digest_queue": [],
@@ -764,8 +754,8 @@
       "digests": []
     },
     "2026-10-13": {
-      "critical": 0,
-      "important": 3,
+      "critical": 1,
+      "important": 4,
       "digests": []
     }
   },
@@ -913,9 +903,10 @@
     "xrp-institutional-adoption": "important",
     "australia-crypto-regulation": "important",
     "kraken-dubai-expansion": "important",
-    "ledger-tampering-exploit": "important",
+    "ledger-tampering-exploit": "critical",
     "uk-bitcoin-seizure": "important",
-    "binance-mining-shutdown": "important"
+    "binance-mining-shutdown": "important",
+    "btc-whale-accumulation": "important"
   },
   "briefing_attempts": {
     "2026-10-06": 1,
