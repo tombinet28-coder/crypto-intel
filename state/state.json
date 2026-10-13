@@ -1,10 +1,5 @@
 {
   "seen": {
-    "rss:08bd412d4a9d5b33": 1791625586.892921,
-    "rss:f4d930f7ebe8d6e4": 1791625586.8929224,
-    "rss:dbf9a913d79f9196": 1791625586.8929229,
-    "rss:423d6238933320ae": 1791625586.892923,
-    "rss:0d5705e0ecd662de": 1791625586.8929234,
     "rss:fcc2367bea59fa8d": 1791647421.6160336,
     "rss:51cb87d5b15808be": 1791647421.6160345,
     "rss:db8104c06c85d695": 1791647421.6160347,
@@ -85,54 +80,27 @@
     "rss:9822bb90f7fa04d7": 1791860948.952429,
     "rss:ce7f2332290fba3b": 1791860948.9524295,
     "rss:80c6b787cf807ec5": 1791860948.9524298,
-    "rss:82eccde6e5020f46": 1791860948.95243
+    "rss:82eccde6e5020f46": 1791860948.95243,
+    "rss:31f185b7d3636801": 1791889237.2755623,
+    "rss:af6388ddad504015": 1791889237.2755632,
+    "rss:9af5acea5c334ce7": 1791889237.2755637,
+    "rss:481f82b7bcf72a82": 1791889237.275564,
+    "rss:597749421a7535a4": 1791889237.2755642,
+    "rss:271982e5316a9f3d": 1791889237.2755642,
+    "rss:a0c6e77971630672": 1791889237.2755644,
+    "rss:8a2cdd5111bde422": 1791889237.2755644,
+    "rss:bfa092e89c731d5f": 1791889237.275565,
+    "rss:e2e38167a8f76314": 1791889237.275565,
+    "rss:db4e2327e376b6a8": 1791889237.2755651,
+    "rss:4f26bb34c17c4fcc": 1791889237.2755654,
+    "rss:34ae3713a9393f98": 1791889237.2755656,
+    "rss:cf0bff3d565afe1f": 1791889237.2755656,
+    "rss:678889c6bcec4c8a": 1791889237.2755656,
+    "rss:0e3d2cbd860982f5": 1791889237.2755659,
+    "rss:b4f5969dc2c0173e": 1791889237.2755659
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:84a7c4b7fd49cc56",
-      "kind": "news",
-      "title": "Bitcoin shrugs off ETF outflows to trade above $84,000 as oil falls",
-      "url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "etf-flows-october",
-      "ts": 1791780570
-    },
-    {
-      "id": "rss:f58f262079343901",
-      "kind": "news",
-      "title": "Former Acting Chair Caroline Pham says CFTC can regulate almost everything except ‘onions and box office receipts’",
-      "url": "https://www.theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-cftc-regulation",
-      "ts": 1791779637
-    },
-    {
-      "id": "rss:a378c6428e1fcd53",
-      "kind": "news",
-      "title": "DATA Network to migrate to Sui, retire own chain",
-      "url": "https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "sui-data-migration",
-      "ts": 1791782143
-    },
-    {
-      "id": "rss:5c496a4df851f446",
-      "kind": "news",
-      "title": "French lawmakers back reporting rule for crypto wallets over $112K",
-      "url": "https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "france-crypto-regulation",
-      "ts": 1791780315
-    },
     {
       "id": "rss:26bcd0b2194fed75",
       "kind": "news",
@@ -189,39 +157,6 @@
       "ts": 1791802958
     },
     {
-      "id": "rss:4f19fd6d85468ee5",
-      "kind": "news",
-      "title": "South Korea just got its first traditional bank loans backed by bitcoin",
-      "url": "https://www.coindesk.com/business/2026/10/12/south-korea-just-got-its-first-traditional-bank-loans-backed-by-bitcoin",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "bitcoin-institutional-adoption",
-      "ts": 1791802657
-    },
-    {
-      "id": "rss:366bd4d924173034",
-      "kind": "news",
-      "title": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
-      "url": "https://www.coindesk.com/business/2026/10/12/swi-raises-usd894-million-to-repurpose-former-ftx-bitcoin-miner-genesis-digital-to-ai",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791800820
-    },
-    {
-      "id": "rss:3ce0368baf3ff64e",
-      "kind": "news",
-      "title": "Altcoins rally on thin trading as bitcoin holds below $83,500",
-      "url": "https://www.coindesk.com/markets/2026/10/12/altcoins-rally-on-thin-trading-as-bitcoin-holds-near-usd84-000",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791800454
-    },
-    {
       "id": "rss:06db7cbee1cbec5c",
       "kind": "news",
       "title": "DeFi Development grows SOL holdings 12% as CHAD hits record highs",
@@ -266,28 +201,6 @@
       "ts": 1791806462
     },
     {
-      "id": "rss:1f4590158c597f69",
-      "kind": "news",
-      "title": "Morgan Stanley expects to support tokenized equities in Q1 2027, digital asset strategy head says",
-      "url": "https://www.theblock.co/news/markets/2026-10-12-morgan-stanley-tokenized-equities-q1-2027-418256",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "tokenized-commodities-expansion",
-      "ts": 1791799813
-    },
-    {
-      "id": "rss:b748d36f0734b414",
-      "kind": "news",
-      "title": "Standard Chartered launches custody for Ripple’s RLUSD on XRP Ledger",
-      "url": "https://www.theblock.co/news/business/2026-10-12-standard-chartered-custody-ripple-rlusd-418258",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "standard-chartered-rlusd",
-      "ts": 1791797721
-    },
-    {
       "id": "rss:ebe0763cc28be65d",
       "kind": "news",
       "title": "Bitmine Adds $32M in Ethereum as Tom Lee Says Firm Is Nearly 'Done Stacking'",
@@ -319,17 +232,6 @@
       "xRole": null,
       "cluster": "general-market-news",
       "ts": 1791805310
-    },
-    {
-      "id": "rss:c0e8b67c6ed09769",
-      "kind": "news",
-      "title": "UK Freezes $12M London Penthouse of Alleged Prince Group Finance Chief",
-      "url": "https://decrypt.co/380661/uk-freezes-12m-london-penthouse-of-alleged-prince-group-finance-chief",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "prince-group-investigation",
-      "ts": 1791799968
     },
     {
       "id": "rss:ee4fe02b34cbab15",
@@ -385,28 +287,6 @@
       "xRole": null,
       "cluster": "general-market-news",
       "ts": 1791803650
-    },
-    {
-      "id": "rss:20ddeac3ad43ffbc",
-      "kind": "news",
-      "title": "Kraken parent clears Dubai’s final hurdle for dirham trading rollout",
-      "url": "https://cointelegraph.com/news/kraken-receives-vara-approval-uae-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "kraken-dubai-expansion",
-      "ts": 1791798077
-    },
-    {
-      "id": "rss:24f5c6808b6af9c4",
-      "kind": "news",
-      "title": "Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal",
-      "url": "https://cointelegraph.com/news/standard-chartered-rlusd-custody-lmax-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "standard-chartered-rlusd",
-      "ts": 1791797457
     },
     {
       "id": "rss:34b686a41068edf4",
@@ -660,6 +540,193 @@
       "xRole": null,
       "cluster": "general-market-news",
       "ts": 1791860377
+    },
+    {
+      "id": "rss:31f185b7d3636801",
+      "kind": "news",
+      "title": "Live updates: Bitcoin whipsaws between $81,000 and $84,000 as altcoins slide",
+      "url": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791888417
+    },
+    {
+      "id": "rss:af6388ddad504015",
+      "kind": "news",
+      "title": "Bitcoin diverges from South Korean stocks as AI concerns deepen the Kospi selloff",
+      "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-diverges-from-south-korean-stocks-as-ai-concerns-deepen-the-kospi-selloff",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791887931
+    },
+    {
+      "id": "rss:9af5acea5c334ce7",
+      "kind": "news",
+      "title": "Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network",
+      "url": "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ledger-tampering-exploit",
+      "ts": 1791883667
+    },
+    {
+      "id": "rss:481f82b7bcf72a82",
+      "kind": "news",
+      "title": "UK court ruling boosts government’s chances of keeping $5 billion in seized bitcoin",
+      "url": "https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "uk-bitcoin-seizure",
+      "ts": 1791883503
+    },
+    {
+      "id": "rss:597749421a7535a4",
+      "kind": "news",
+      "title": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
+      "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-whale-accumulation",
+      "ts": 1791870310
+    },
+    {
+      "id": "rss:271982e5316a9f3d",
+      "kind": "news",
+      "title": "Tokenized SanDisk bets saw more liquidations than XRP as Asia’s chip rout wipes out $800 million",
+      "url": "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791869237
+    },
+    {
+      "id": "rss:a0c6e77971630672",
+      "kind": "news",
+      "title": "Binance VIP head says hedge funds are actively exploring arbitrage opportunities on crypto venues",
+      "url": "https://www.theblock.co/news/business/2026-10-13-binance-vip-head-hedge-funds-exploring-arbitrage-418389",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791870254
+    },
+    {
+      "id": "rss:8a2cdd5111bde422",
+      "kind": "news",
+      "title": "UK Moves Closer to Keeping $5B Bitcoin Haul After High Court Ruling",
+      "url": "https://decrypt.co/380818/uk-moves-closer-to-keeping-5b-bitcoin-haul-after-high-court-ruling",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "uk-bitcoin-seizure",
+      "ts": 1791888693
+    },
+    {
+      "id": "rss:bfa092e89c731d5f",
+      "kind": "news",
+      "title": "‘Leave’: Crypto Backlash Over French Proposal to Report Wallets Over $112K",
+      "url": "https://decrypt.co/380808/leave-crypto-backlash-over-french-proposal-to-report-wallets-over-112k",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "france-crypto-regulation",
+      "ts": 1791887437
+    },
+    {
+      "id": "rss:e2e38167a8f76314",
+      "kind": "news",
+      "title": "NFT Marketplace Blur to Shut Down Website, Stop New Blend Loans Next Month",
+      "url": "https://decrypt.co/380802/nft-marketplace-blur-to-shut-down-website-stop-new-blend-loans-next-month",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "blur-shutdown",
+      "ts": 1791882765
+    },
+    {
+      "id": "rss:db4e2327e376b6a8",
+      "kind": "news",
+      "title": "Metaplanet to issue $329M convertible bonds to pay debt, fund share buybacks",
+      "url": "https://cointelegraph.com/news/metaplanet-329m-convertible-bonds-pay-debt-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791886987
+    },
+    {
+      "id": "rss:4f26bb34c17c4fcc",
+      "kind": "news",
+      "title": "MediaMarktSaturn pulls Ledger products amid tampering reports",
+      "url": "https://cointelegraph.com/news/mediamarkt-pulls-ledger-wallet-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "ledger-tampering-exploit",
+      "ts": 1791886141
+    },
+    {
+      "id": "rss:34ae3713a9393f98",
+      "kind": "news",
+      "title": "Bitcoin hits $84K resistance as Korean tech rout deepens KOSPI losses",
+      "url": "https://cointelegraph.com/markets/bitcoin-hits-84k-resistance-as-korea-tech-sell-off-sends-kospi-down-74?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791884520
+    },
+    {
+      "id": "rss:cf0bff3d565afe1f",
+      "kind": "news",
+      "title": "Chinese fraud victims lose key court battle over 61,000 Bitcoin",
+      "url": "https://cointelegraph.com/news/uk-court-chinese-law-61k-bitcoin-fraud-victims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "uk-bitcoin-seizure",
+      "ts": 1791882186
+    },
+    {
+      "id": "rss:678889c6bcec4c8a",
+      "kind": "news",
+      "title": "Ledger details LTE-enabled spy implants in wallets sold by CryptoBilis",
+      "url": "https://cointelegraph.com/news/ledger-cellular-implants-wallets-sold-cryptobilis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "ledger-tampering-exploit",
+      "ts": 1791881110
+    },
+    {
+      "id": "rss:0e3d2cbd860982f5",
+      "kind": "news",
+      "title": "Blur is shutting down its website, so why are NFT collectors cheering?",
+      "url": "https://cointelegraph.com/news/blur-is-shutting-down-its-website-so-why-are-nft-collectors-cheering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "blur-shutdown",
+      "ts": 1791869917
+    },
+    {
+      "id": "rss:b4f5969dc2c0173e",
+      "kind": "news",
+      "title": "Binance to shut down crypto mining pool services in November",
+      "url": "https://cointelegraph.com/news/binance-shut-down-crypto-mining-pool-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "binance-mining-shutdown",
+      "ts": 1791869006
     }
   ],
   "digest_queue": [],
@@ -698,7 +765,7 @@
     },
     "2026-10-13": {
       "critical": 0,
-      "important": 0,
+      "important": 3,
       "digests": []
     }
   },
@@ -845,7 +912,10 @@
     "bitcoin-institutional-adoption": "important",
     "xrp-institutional-adoption": "important",
     "australia-crypto-regulation": "important",
-    "kraken-dubai-expansion": "important"
+    "kraken-dubai-expansion": "important",
+    "ledger-tampering-exploit": "important",
+    "uk-bitcoin-seizure": "important",
+    "binance-mining-shutdown": "important"
   },
   "briefing_attempts": {
     "2026-10-06": 1,
