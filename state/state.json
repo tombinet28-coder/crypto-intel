@@ -1,9 +1,5 @@
 {
   "seen": {
-    "rss:0752e18b3c5d1b5f": 1791588414.2160056,
-    "rss:64c57b6d512c3c32": 1791588414.216007,
-    "rss:78d757246a9a770f": 1791588414.2160072,
-    "rss:01764f9f1ebb23fc": 1791588414.2160075,
     "rss:08bd412d4a9d5b33": 1791625586.892921,
     "rss:f4d930f7ebe8d6e4": 1791625586.8929224,
     "rss:dbf9a913d79f9196": 1791625586.8929229,
@@ -84,21 +80,15 @@
     "rss:24db041749ee46b1": 1791844472.9661312,
     "rss:f7434a6c94db2d2b": 1791844472.9661312,
     "rss:279b4fa555a5d65a": 1791844472.9661314,
-    "rss:d0e863682cd5aaaa": 1791844472.9661314
+    "rss:d0e863682cd5aaaa": 1791844472.9661314,
+    "rss:54a03403fbf5d3a6": 1791860948.9524255,
+    "rss:9822bb90f7fa04d7": 1791860948.952429,
+    "rss:ce7f2332290fba3b": 1791860948.9524295,
+    "rss:80c6b787cf807ec5": 1791860948.9524298,
+    "rss:82eccde6e5020f46": 1791860948.95243
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:e002b2ad3de2bd10",
-      "kind": "news",
-      "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
-      "url": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "ledger-hardware-implant",
-      "ts": 1791759473
-    },
     {
       "id": "rss:84a7c4b7fd49cc56",
       "kind": "news",
@@ -122,17 +112,6 @@
       "ts": 1791779637
     },
     {
-      "id": "rss:be783888cdb601a3",
-      "kind": "news",
-      "title": "Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui",
-      "url": "https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "sui-data-migration",
-      "ts": 1791770400
-    },
-    {
       "id": "rss:a378c6428e1fcd53",
       "kind": "news",
       "title": "DATA Network to migrate to Sui, retire own chain",
@@ -153,17 +132,6 @@
       "xRole": null,
       "cluster": "france-crypto-regulation",
       "ts": 1791780315
-    },
-    {
-      "id": "rss:8bf15705560d13c8",
-      "kind": "news",
-      "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
-      "url": "https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "xrpl-overflow-bug",
-      "ts": 1791768089
     },
     {
       "id": "rss:26bcd0b2194fed75",
@@ -637,6 +605,61 @@
       "xRole": null,
       "cluster": "aave-listing-assessment",
       "ts": 1791829646
+    },
+    {
+      "id": "rss:54a03403fbf5d3a6",
+      "kind": "news",
+      "title": "Bitcoin slides below $82,000 as crypto liquidations surge past $770 million",
+      "url": "https://www.theblock.co/news/markets/2026-10-12-bitcoin-slides-crypto-liquidations-surge-418374",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791856669
+    },
+    {
+      "id": "rss:9822bb90f7fa04d7",
+      "kind": "news",
+      "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
+      "url": "https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-cftc-regulation",
+      "ts": 1791859290
+    },
+    {
+      "id": "rss:ce7f2332290fba3b",
+      "kind": "news",
+      "title": "Meta claims new Muse Wonder AI models rival OpenAI, Anthropic",
+      "url": "https://cointelegraph.com/news/meta-launches-muse-wonder-ai-models-challenging-top-rivals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791856471
+    },
+    {
+      "id": "rss:80c6b787cf807ec5",
+      "kind": "news",
+      "title": "Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks",
+      "url": "https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791852772
+    },
+    {
+      "id": "rss:82eccde6e5020f46",
+      "kind": "news",
+      "title": "Grant Streamer: On-chain grant disbursement prototype",
+      "url": "https://governance.aave.com/t/grant-streamer-on-chain-grant-disbursement-prototype/25833",
+      "source": "Aave gouvernance",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791860377
     }
   ],
   "digest_queue": [],
