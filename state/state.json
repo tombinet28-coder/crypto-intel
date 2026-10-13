@@ -1,9 +1,5 @@
 {
   "seen": {
-    "rss:c1f8a2c3679ec642": 1791662427.2278206,
-    "rss:1bc95438f14ff131": 1791662427.2278216,
-    "rss:7aa28add94f13aa6": 1791662427.227822,
-    "move24:starknet:20736": 1791662427.2279086,
     "move24:starknet:20737": 1791684474.2192934,
     "rss:dda956e44f336060": 1791710305.6746986,
     "rss:854d10696fdd5074": 1791710305.6746998,
@@ -109,164 +105,19 @@
     "rss:6d61909bf174e395": 1791914905.972256,
     "rss:cd0620c29be0324f": 1791914905.9722562,
     "rss:1e8389836321e07e": 1791914905.9722564,
-    "rss:528bbda0329ca46a": 1791914905.9722567
+    "rss:528bbda0329ca46a": 1791914905.9722567,
+    "rss:19409389d8d9e991": 1791932692.2109892,
+    "rss:eeaaa643b25f8ad7": 1791932692.2109902,
+    "rss:b70292def3203d09": 1791932692.2109904,
+    "rss:77dfc160bd3365cf": 1791932692.2109907,
+    "rss:b7a81299b716b5c7": 1791932692.210991,
+    "rss:fbd947543d8525c8": 1791932692.2109911,
+    "rss:fe5efe689c8205ce": 1791932692.2109911,
+    "rss:3d3c869f46aa6162": 1791932692.2109914,
+    "rss:456d5fff387eccbe": 1791932692.2109914
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:1a4b07a70ed99c5c",
-      "kind": "news",
-      "title": "Blur to shut down frontend next month as NFT trading volume dwindles",
-      "url": "https://www.theblock.co/news/ecosystems/2026-10-12-blur-nft-marketplace-shutting-down-frontend-blend-418363",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "blur-shutdown",
-      "ts": 1791841742
-    },
-    {
-      "id": "rss:c89c5a620c2dc0fe",
-      "kind": "news",
-      "title": "CFTC’s new crypto framework could face 2028 election deadline, says TD Cowen",
-      "url": "https://www.theblock.co/news/regulation/2026-10-12-cftcs-new-crypto-framework-could-face-2028-election-deadline-td-cowen-418358",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-cftc-regulation",
-      "ts": 1791838434
-    },
-    {
-      "id": "rss:f1ede1d5d7766617",
-      "kind": "news",
-      "title": "Binance launches AI trading tool after 150,000-user beta",
-      "url": "https://www.theblock.co/news/business/2026-10-12-binance-ai-trading-interface-global-rollout-418349",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "binance-ai-trading",
-      "ts": 1791830650
-    },
-    {
-      "id": "rss:f1a06b912ceeed62",
-      "kind": "news",
-      "title": "AI Will Hit 40% of Jobs, IMF Warns. Young People Are First in Line",
-      "url": "https://decrypt.co/380789/ai-hit-40-percent-jobs-imf-warns-young-people-first",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791841563
-    },
-    {
-      "id": "rss:c792df29bdf1d609",
-      "kind": "news",
-      "title": "Standard Chartered Will Hold Ripple's Stablecoin in Dubai—And Let Clients Trade With It Without Moving It",
-      "url": "https://decrypt.co/380776/standard-chartered-hold-ripple-rlusd-stablecoin-dubai",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "standard-chartered-rlusd",
-      "ts": 1791839763
-    },
-    {
-      "id": "rss:6700c14530e38bf6",
-      "kind": "news",
-      "title": "Meta's New Muse Wonder Finally Puts Zuckerberg in the Frontier AI Race",
-      "url": "https://decrypt.co/380768/meta-muse-wonder-zuckerberg-frontier-ai-race",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791837964
-    },
-    {
-      "id": "rss:100f24240d80133b",
-      "kind": "news",
-      "title": "From GTA V on iPhone to Free Photoshop: This AI Tool Is Upending Software",
-      "url": "https://decrypt.co/380741/gta-v-iphone-free-photoshop-ai-tool-rea-upending-software",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791834363
-    },
-    {
-      "id": "rss:2b34e143e3a19c2d",
-      "kind": "news",
-      "title": "Solana Treasury Firm DeFi Development Keeps Buying SOL as CHAD Preferred Stock Hits Record",
-      "url": "https://decrypt.co/380752/solana-treasury-firm-defi-development-keeps-buying-sol",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "sol-whale-accumulation",
-      "ts": 1791832050
-    },
-    {
-      "id": "rss:a04e4620a553948b",
-      "kind": "news",
-      "title": "Ripple-Backed Evernorth Hits Nasdaq Holding 473 Million XRP Worth Far Less Than It Paid",
-      "url": "https://decrypt.co/380728/ripple-backed-evernorth-hits-nasdaq-holding-473-million-xrp",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "xrp-institutional-adoption",
-      "ts": 1791828555
-    },
-    {
-      "id": "rss:d6e77b5b1c2339b4",
-      "kind": "news",
-      "title": "FTX’s crypto mining venture is now used to advance AI",
-      "url": "https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791839486
-    },
-    {
-      "id": "rss:bbaa8008cd46e95a",
-      "kind": "news",
-      "title": "Crypto PACs report $2.7M spending blitz on House races as midterms loom",
-      "url": "https://cointelegraph.com/news/crypto-pac-spending-house-races-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791831349
-    },
-    {
-      "id": "rss:24db041749ee46b1",
-      "kind": "news",
-      "title": "US accounting overhaul could make stablecoins more attractive to corporations: Tempo",
-      "url": "https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791830294
-    },
-    {
-      "id": "rss:279b4fa555a5d65a",
-      "kind": "news",
-      "title": "Tether America USD (USAT) on Aave Ethereum Assessments",
-      "url": "https://governance.aave.com/t/tether-america-usd-usat-on-aave-ethereum-assessments/25832",
-      "source": "Aave gouvernance",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "aave-listing-assessment",
-      "ts": 1791830652
-    },
-    {
-      "id": "rss:d0e863682cd5aaaa",
-      "kind": "news",
-      "title": "PAXGy on Aave Ethereum Assessments",
-      "url": "https://governance.aave.com/t/paxgy-on-aave-ethereum-assessments/25831",
-      "source": "Aave gouvernance",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "aave-listing-assessment",
-      "ts": 1791829646
-    },
     {
       "id": "rss:54a03403fbf5d3a6",
       "kind": "news",
@@ -717,15 +568,109 @@
       "xRole": null,
       "cluster": "aave-listing-assessment",
       "ts": 1791913366
+    },
+    {
+      "id": "rss:19409389d8d9e991",
+      "kind": "news",
+      "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
+      "url": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "tokenized-commodities-expansion",
+      "ts": 1791928320
+    },
+    {
+      "id": "rss:eeaaa643b25f8ad7",
+      "kind": "news",
+      "title": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",
+      "url": "https://decrypt.co/380896/openai-engineer-arrested-bugging-office-ai-caught-him",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791927964
+    },
+    {
+      "id": "rss:b70292def3203d09",
+      "kind": "news",
+      "title": "Character.AI Files for Bankruptcy as Disney Bids $20 Million—And Users Get Grief Resources",
+      "url": "https://decrypt.co/380894/character-ai-bankruptcy-disney-users-grief-resources",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791926164
+    },
+    {
+      "id": "rss:77dfc160bd3365cf",
+      "kind": "news",
+      "title": "Binance Is Shutting Down Its Bitcoin Mining Pool After Six Years",
+      "url": "https://decrypt.co/380870/binance-shutting-down-bitcoin-mining-pool",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "binance-mining-shutdown",
+      "ts": 1791922563
+    },
+    {
+      "id": "rss:b7a81299b716b5c7",
+      "kind": "news",
+      "title": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
+      "url": "https://decrypt.co/380867/bitcoin-whale-every-crash-2020-moves-377m",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-whale-accumulation",
+      "ts": 1791920292
+    },
+    {
+      "id": "rss:fbd947543d8525c8",
+      "kind": "news",
+      "title": "Strive Buys $280 Million in Bitcoin, Its Largest Purchase in Months",
+      "url": "https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-whale-accumulation",
+      "ts": 1791915305
+    },
+    {
+      "id": "rss:fe5efe689c8205ce",
+      "kind": "news",
+      "title": "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
+      "url": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "tokenized-commodities-expansion",
+      "ts": 1791920886
+    },
+    {
+      "id": "rss:3d3c869f46aa6162",
+      "kind": "news",
+      "title": "Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports",
+      "url": "https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "ledger-tampering-exploit",
+      "ts": 1791918424
+    },
+    {
+      "id": "rss:456d5fff387eccbe",
+      "kind": "news",
+      "title": "Risk Stewards: Cap and IRM Changes on Aave V3 / 2026.10.13",
+      "url": "https://governance.aave.com/t/risk-stewards-cap-and-irm-changes-on-aave-v3-2026-10-13/25839",
+      "source": "Aave gouvernance",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "aave-listing-assessment",
+      "ts": 1791920233
     }
   ],
   "digest_queue": [],
   "sent": {
-    "2026-10-07": {
-      "critical": 0,
-      "important": 9,
-      "digests": []
-    },
     "2026-10-08": {
       "critical": 1,
       "important": 12,
@@ -756,6 +701,11 @@
     "2026-10-13": {
       "critical": 1,
       "important": 4,
+      "digests": []
+    },
+    "2026-10-14": {
+      "critical": 0,
+      "important": 0,
       "digests": []
     }
   },
