@@ -1,11 +1,5 @@
 {
   "seen": {
-    "rss:1012fd3eee26e17b": 1791749448.571669,
-    "rss:6a491dab12425339": 1791749448.5716703,
-    "rss:f28c853391d21a48": 1791749448.5716708,
-    "rss:c299be6cd89cf4e8": 1791749448.571671,
-    "rss:d0a0603c90ef82cc": 1791749448.5716712,
-    "rss:bb06ad7d28e26eb7": 1791749448.5716715,
     "rss:995b84c64b3c00de": 1791762903.4165502,
     "rss:e002b2ad3de2bd10": 1791762903.416551,
     "rss:84a7c4b7fd49cc56": 1791784150.5570004,
@@ -171,7 +165,17 @@
     "rss:c8f65d0956ca5a64": 1792000644.7511246,
     "rss:ed30d293ed139c63": 1792000644.7511246,
     "rss:f3e86de4961eccc7": 1792000644.751125,
-    "rss:488ce4637d82f5b0": 1792000644.751125
+    "rss:488ce4637d82f5b0": 1792000644.751125,
+    "rss:dcc84f91bba4e9df": 1792013707.6844943,
+    "rss:7d4a3448cb71f249": 1792013707.6844962,
+    "rss:0de720379603ec1c": 1792013707.6844966,
+    "rss:4b576f672e7b9fba": 1792013707.6844966,
+    "rss:9cf3418901cc3d65": 1792013707.6844969,
+    "rss:3a9eec6125be3c35": 1792013707.684497,
+    "rss:8b4c40dc2fdc9bd4": 1792013707.6844974,
+    "rss:043a2bf5f6f78168": 1792013707.6844976,
+    "rss:e4f781bb5131fcb3": 1792013707.6844976,
+    "rss:94f7e6b67dd41a08": 1792013707.6844978
   },
   "x_since": {},
   "recent": [
@@ -196,83 +200,6 @@
       "xRole": null,
       "cluster": "general-market-news",
       "ts": 1791927964
-    },
-    {
-      "id": "rss:b70292def3203d09",
-      "kind": "news",
-      "title": "Character.AI Files for Bankruptcy as Disney Bids $20 Million—And Users Get Grief Resources",
-      "url": "https://decrypt.co/380894/character-ai-bankruptcy-disney-users-grief-resources",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791926164
-    },
-    {
-      "id": "rss:77dfc160bd3365cf",
-      "kind": "news",
-      "title": "Binance Is Shutting Down Its Bitcoin Mining Pool After Six Years",
-      "url": "https://decrypt.co/380870/binance-shutting-down-bitcoin-mining-pool",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "binance-mining-shutdown",
-      "ts": 1791922563
-    },
-    {
-      "id": "rss:b7a81299b716b5c7",
-      "kind": "news",
-      "title": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
-      "url": "https://decrypt.co/380867/bitcoin-whale-every-crash-2020-moves-377m",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-whale-accumulation",
-      "ts": 1791920292
-    },
-    {
-      "id": "rss:fbd947543d8525c8",
-      "kind": "news",
-      "title": "Strive Buys $280 Million in Bitcoin, Its Largest Purchase in Months",
-      "url": "https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-whale-accumulation",
-      "ts": 1791915305
-    },
-    {
-      "id": "rss:fe5efe689c8205ce",
-      "kind": "news",
-      "title": "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
-      "url": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "tokenized-commodities-expansion",
-      "ts": 1791920886
-    },
-    {
-      "id": "rss:3d3c869f46aa6162",
-      "kind": "news",
-      "title": "Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports",
-      "url": "https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "ledger-tampering-exploit",
-      "ts": 1791918424
-    },
-    {
-      "id": "rss:456d5fff387eccbe",
-      "kind": "news",
-      "title": "Risk Stewards: Cap and IRM Changes on Aave V3 / 2026.10.13",
-      "url": "https://governance.aave.com/t/risk-stewards-cap-and-irm-changes-on-aave-v3-2026-10-13/25839",
-      "source": "Aave gouvernance",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "aave-listing-assessment",
-      "ts": 1791920233
     },
     {
       "id": "rss:bf50539552896c08",
@@ -977,6 +904,116 @@
       "xRole": null,
       "cluster": "aave-listing-assessment",
       "ts": 1791987965
+    },
+    {
+      "id": "rss:dcc84f91bba4e9df",
+      "kind": "news",
+      "title": "Patrick Witt exits White House crypto role as Clarity Act stalls",
+      "url": "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "us-crypto-policy-shift",
+      "ts": 1792009815
+    },
+    {
+      "id": "rss:7d4a3448cb71f249",
+      "kind": "news",
+      "title": "Major shareholder presses SkyAI on Solana sales after treasury shrinks 70% in a month",
+      "url": "https://www.theblock.co/news/business/2026-10-14-solana-treasury-skyai-bastion-sol-sales-tender-offer-418598",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "skyai-treasury-crisis",
+      "ts": 1792002354
+    },
+    {
+      "id": "rss:0de720379603ec1c",
+      "kind": "news",
+      "title": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office",
+      "url": "https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1792012563
+    },
+    {
+      "id": "rss:4b576f672e7b9fba",
+      "kind": "news",
+      "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
+      "url": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ai-agents-adoption",
+      "ts": 1792008965
+    },
+    {
+      "id": "rss:9cf3418901cc3d65",
+      "kind": "news",
+      "title": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
+      "url": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "institutional-adoption",
+      "ts": 1792007163
+    },
+    {
+      "id": "rss:3a9eec6125be3c35",
+      "kind": "news",
+      "title": "Solana Sets a Date for Its Next Major Upgrade",
+      "url": "https://decrypt.co/380974/solana-alpenglow-upgrade-date",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "sol-network-upgrade",
+      "ts": 1792005364
+    },
+    {
+      "id": "rss:8b4c40dc2fdc9bd4",
+      "kind": "news",
+      "title": "Organizations join forces to fight Illinois crypto tax, after 6-month pause",
+      "url": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "illinois-crypto-tax",
+      "ts": 1792011382
+    },
+    {
+      "id": "rss:043a2bf5f6f78168",
+      "kind": "news",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1792005204
+    },
+    {
+      "id": "rss:e4f781bb5131fcb3",
+      "kind": "news",
+      "title": "EU authority classifies Circle’s USDC as ‘significant’ under MiCA",
+      "url": "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "eu-stablecoin-regulation",
+      "ts": 1792004632
+    },
+    {
+      "id": "rss:94f7e6b67dd41a08",
+      "kind": "news",
+      "title": "US authorities dismantle crypto scam network that stole tens of millions",
+      "url": "https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1792000605
     }
   ],
   "digest_queue": [
@@ -995,6 +1032,62 @@
         }
       ],
       "digested": true
+    },
+    {
+      "id": "us-crypto-policy-shift:2026-10-14",
+      "level": "important",
+      "time": "23:35",
+      "title": "Patrick Witt quitte son rôle de conseiller crypto à la Maison-Blanche",
+      "summary": "Patrick Witt, principal conseiller crypto de l'administration américaine, quitte ses fonctions alors que le Clarity Act stagne. Ce changement de leadership pourrait affecter la trajectoire réglementaire du secteur crypto aux États-Unis.",
+      "assets": [
+        "BTC",
+        "ETH"
+      ],
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "skyai-treasury-crisis:2026-10-14",
+      "level": "important",
+      "time": "23:35",
+      "title": "Un actionnaire majeur presse SkyAI après une baisse de 70% de sa trésorerie Solana",
+      "summary": "La trésorerie SOL de SkyAI a chuté de 70% en moins d'un mois, avec 400 000 SOL sans justification. L'actionnaire Bastion Trading refuse l'offre actuelle et réclame une revalorisation.",
+      "assets": [
+        "SOL"
+      ],
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/business/2026-10-14-solana-treasury-skyai-bastion-sol-sales-tender-offer-418598"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "ai-agents-adoption:2026-10-14",
+      "level": "important",
+      "time": "23:35",
+      "title": "Les agents IA ont effectué 138 millions de paiements crypto en un an",
+      "summary": "Selon Chainalysis, les paiements via le protocole x402 de Coinbase ont surgi de 1 500 en mi-2025 à plus de 138 millions en Q3 2026, les portefeuilles américains dominant les dépenses en modèles IA.",
+      "assets": [
+        "BTC",
+        "ETH"
+      ],
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year"
+        }
+      ],
+      "digested": false
     }
   ],
   "sent": {
@@ -1194,7 +1287,10 @@
     "polygon-coinme-acquisition": "important",
     "kraken-expansion": "important",
     "aave-rlusd-audit": "important",
-    "aave-listing-assessment": "important"
+    "aave-listing-assessment": "important",
+    "us-crypto-policy-shift": "important",
+    "skyai-treasury-crisis": "important",
+    "ai-agents-adoption": "important"
   },
   "briefing_attempts": {
     "2026-10-07": 1,
