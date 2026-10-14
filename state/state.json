@@ -1,6 +1,5 @@
 {
   "seen": {
-    "move24:starknet:20737": 1791684474.2192934,
     "rss:dda956e44f336060": 1791710305.6746986,
     "rss:854d10696fdd5074": 1791710305.6746998,
     "rss:f2dd45955a7df84c": 1791734151.913831,
@@ -117,54 +116,19 @@
     "rss:456d5fff387eccbe": 1791932692.2109914,
     "rss:bf50539552896c08": 1791942618.6224096,
     "rss:5839a6e29be01efd": 1791942618.6224105,
-    "rss:cebc4e95b6bdee87": 1791942618.622411
+    "rss:cebc4e95b6bdee87": 1791942618.622411,
+    "rss:d9dac2b65e0d8596": 1791963130.655705,
+    "rss:16f364943b495d8d": 1791963130.6557071,
+    "rss:eecfb8d2f6b303a9": 1791963130.6557076,
+    "rss:6d941332be78f29c": 1791963130.6557078,
+    "rss:429f8f6be8883f62": 1791963130.655708,
+    "rss:8e557d3a5c88903d": 1791963130.6557083,
+    "rss:7bd02f7a9d24a229": 1791963130.6557088,
+    "rss:c2a441cbf6d3d387": 1791963130.6557088,
+    "move24:bitway:20740": 1791963130.6558213
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:54a03403fbf5d3a6",
-      "kind": "news",
-      "title": "Bitcoin slides below $82,000 as crypto liquidations surge past $770 million",
-      "url": "https://www.theblock.co/news/markets/2026-10-12-bitcoin-slides-crypto-liquidations-surge-418374",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791856669
-    },
-    {
-      "id": "rss:9822bb90f7fa04d7",
-      "kind": "news",
-      "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
-      "url": "https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-cftc-regulation",
-      "ts": 1791859290
-    },
-    {
-      "id": "rss:ce7f2332290fba3b",
-      "kind": "news",
-      "title": "Meta claims new Muse Wonder AI models rival OpenAI, Anthropic",
-      "url": "https://cointelegraph.com/news/meta-launches-muse-wonder-ai-models-challenging-top-rivals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791856471
-    },
-    {
-      "id": "rss:82eccde6e5020f46",
-      "kind": "news",
-      "title": "Grant Streamer: On-chain grant disbursement prototype",
-      "url": "https://governance.aave.com/t/grant-streamer-on-chain-grant-disbursement-prototype/25833",
-      "source": "Aave gouvernance",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791860377
-    },
     {
       "id": "rss:31f185b7d3636801",
       "kind": "news",
@@ -208,39 +172,6 @@
       "xRole": null,
       "cluster": "uk-bitcoin-seizure",
       "ts": 1791883503
-    },
-    {
-      "id": "rss:597749421a7535a4",
-      "kind": "news",
-      "title": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
-      "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-whale-accumulation",
-      "ts": 1791870310
-    },
-    {
-      "id": "rss:271982e5316a9f3d",
-      "kind": "news",
-      "title": "Tokenized SanDisk bets saw more liquidations than XRP as Asia’s chip rout wipes out $800 million",
-      "url": "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791869237
-    },
-    {
-      "id": "rss:a0c6e77971630672",
-      "kind": "news",
-      "title": "Binance VIP head says hedge funds are actively exploring arbitrage opportunities on crypto venues",
-      "url": "https://www.theblock.co/news/business/2026-10-13-binance-vip-head-hedge-funds-exploring-arbitrage-418389",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791870254
     },
     {
       "id": "rss:8a2cdd5111bde422",
@@ -329,28 +260,6 @@
       "xRole": null,
       "cluster": "ledger-tampering-exploit",
       "ts": 1791881110
-    },
-    {
-      "id": "rss:0e3d2cbd860982f5",
-      "kind": "news",
-      "title": "Blur is shutting down its website, so why are NFT collectors cheering?",
-      "url": "https://cointelegraph.com/news/blur-is-shutting-down-its-website-so-why-are-nft-collectors-cheering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "blur-shutdown",
-      "ts": 1791869917
-    },
-    {
-      "id": "rss:b4f5969dc2c0173e",
-      "kind": "news",
-      "title": "Binance to shut down crypto mining pool services in November",
-      "url": "https://cointelegraph.com/news/binance-shut-down-crypto-mining-pool-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "binance-mining-shutdown",
-      "ts": 1791869006
     },
     {
       "id": "rss:f1c09738da0bf865",
@@ -692,6 +601,94 @@
       "xRole": null,
       "cluster": "ledger-tampering-exploit",
       "ts": 1791934099
+    },
+    {
+      "id": "rss:d9dac2b65e0d8596",
+      "kind": "news",
+      "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
+      "url": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-post-quantum-security",
+      "ts": 1791956691
+    },
+    {
+      "id": "rss:16f364943b495d8d",
+      "kind": "news",
+      "title": "Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million",
+      "url": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "xrp-institutional-adoption",
+      "ts": 1791955452
+    },
+    {
+      "id": "rss:eecfb8d2f6b303a9",
+      "kind": "news",
+      "title": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
+      "url": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "sol-network-upgrade",
+      "ts": 1791951076
+    },
+    {
+      "id": "rss:6d941332be78f29c",
+      "kind": "news",
+      "title": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
+      "url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791949854
+    },
+    {
+      "id": "rss:429f8f6be8883f62",
+      "kind": "news",
+      "title": "Coinbase lays out flexible designs as key priority for Bitcoin’s post-quantum migration",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-post-quantum-security",
+      "ts": 1791946174
+    },
+    {
+      "id": "rss:8e557d3a5c88903d",
+      "kind": "news",
+      "title": "Starknet introduces wallet privacy feature for DeFi activity",
+      "url": "https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791955934
+    },
+    {
+      "id": "rss:7bd02f7a9d24a229",
+      "kind": "news",
+      "title": "Fed’s Williams sees AI supply squeeze lasting beyond 2 years",
+      "url": "https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791955810
+    },
+    {
+      "id": "rss:c2a441cbf6d3d387",
+      "kind": "news",
+      "title": "Bitwise’s Hougan says Q3 charts point to ‘crypto spring’",
+      "url": "https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1791944396
     }
   ],
   "digest_queue": [
@@ -747,7 +744,7 @@
     },
     "2026-10-14": {
       "critical": 0,
-      "important": 0,
+      "important": 3,
       "digests": []
     }
   },
@@ -899,15 +896,17 @@
     "uk-bitcoin-seizure": "important",
     "binance-mining-shutdown": "important",
     "btc-whale-accumulation": "important",
-    "philippines-crypto-regulation": "important"
+    "philippines-crypto-regulation": "important",
+    "btc-post-quantum-security": "important",
+    "sol-network-upgrade": "important"
   },
   "briefing_attempts": {
-    "2026-10-06": 1,
     "2026-10-07": 1,
     "2026-10-08": 1,
     "2026-10-09": 1,
     "2026-10-10": 1,
     "2026-10-11": 1,
-    "2026-10-12": 1
+    "2026-10-12": 1,
+    "2026-10-14": 1
   }
 }
