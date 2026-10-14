@@ -114,7 +114,10 @@
     "rss:fbd947543d8525c8": 1791932692.2109911,
     "rss:fe5efe689c8205ce": 1791932692.2109911,
     "rss:3d3c869f46aa6162": 1791932692.2109914,
-    "rss:456d5fff387eccbe": 1791932692.2109914
+    "rss:456d5fff387eccbe": 1791932692.2109914,
+    "rss:bf50539552896c08": 1791942618.6224096,
+    "rss:5839a6e29be01efd": 1791942618.6224105,
+    "rss:cebc4e95b6bdee87": 1791942618.622411
   },
   "x_since": {},
   "recent": [
@@ -150,17 +153,6 @@
       "xRole": null,
       "cluster": "general-market-news",
       "ts": 1791856471
-    },
-    {
-      "id": "rss:80c6b787cf807ec5",
-      "kind": "news",
-      "title": "Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks",
-      "url": "https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791852772
     },
     {
       "id": "rss:82eccde6e5020f46",
@@ -667,9 +659,59 @@
       "xRole": null,
       "cluster": "aave-listing-assessment",
       "ts": 1791920233
+    },
+    {
+      "id": "rss:bf50539552896c08",
+      "kind": "news",
+      "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+      "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "philippines-crypto-regulation",
+      "ts": 1791939600
+    },
+    {
+      "id": "rss:5839a6e29be01efd",
+      "kind": "news",
+      "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
+      "url": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-whale-accumulation",
+      "ts": 1791933785
+    },
+    {
+      "id": "rss:cebc4e95b6bdee87",
+      "kind": "news",
+      "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
+      "url": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "ledger-tampering-exploit",
+      "ts": 1791934099
     }
   ],
-  "digest_queue": [],
+  "digest_queue": [
+    {
+      "id": "philippines-crypto-regulation:2026-10-14",
+      "level": "important",
+      "time": "03:50",
+      "title": "Coins.ph face une action réglementaire de la banque centrale philippine",
+      "summary": "Coins.ph, le plus grand exchange de crypto aux Philippines, serait soumis à une action réglementaire de la banque centrale du pays. Cela pourrait affecter l'accès aux services crypto pour les utilisateurs philippins.",
+      "assets": [],
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action"
+        }
+      ],
+      "digested": false
+    }
+  ],
   "sent": {
     "2026-10-08": {
       "critical": 1,
@@ -856,7 +898,8 @@
     "ledger-tampering-exploit": "critical",
     "uk-bitcoin-seizure": "important",
     "binance-mining-shutdown": "important",
-    "btc-whale-accumulation": "important"
+    "btc-whale-accumulation": "important",
+    "philippines-crypto-regulation": "important"
   },
   "briefing_attempts": {
     "2026-10-06": 1,
