@@ -203,98 +203,15 @@
     "rss:d89f8e5648d0fa67": 1792089351.9481795,
     "rss:9dfafa0b7518a4f9": 1792089351.9481797,
     "rss:b51461849bb09b44": 1792089351.9481797,
-    "rss:ba7742d9ddfb6591": 1792089351.9481797
+    "rss:ba7742d9ddfb6591": 1792089351.9481797,
+    "rss:263fd2cbc83bfee0": 1792100662.6916058,
+    "rss:ca094c61d78a55f7": 1792100662.691607,
+    "rss:f7fdab16f6409f27": 1792100662.6916077,
+    "rss:9339c9f42dd9f20d": 1792100662.691608,
+    "rss:1922a812c6aeada8": 1792100662.6916084
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:dcc84f91bba4e9df",
-      "kind": "news",
-      "title": "Patrick Witt exits White House crypto role as Clarity Act stalls",
-      "url": "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "us-crypto-policy-shift",
-      "ts": 1792009815
-    },
-    {
-      "id": "rss:0de720379603ec1c",
-      "kind": "news",
-      "title": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office",
-      "url": "https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1792012563
-    },
-    {
-      "id": "rss:4b576f672e7b9fba",
-      "kind": "news",
-      "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
-      "url": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ai-agents-adoption",
-      "ts": 1792008965
-    },
-    {
-      "id": "rss:9cf3418901cc3d65",
-      "kind": "news",
-      "title": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
-      "url": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "institutional-adoption",
-      "ts": 1792007163
-    },
-    {
-      "id": "rss:3a9eec6125be3c35",
-      "kind": "news",
-      "title": "Solana Sets a Date for Its Next Major Upgrade",
-      "url": "https://decrypt.co/380974/solana-alpenglow-upgrade-date",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "sol-network-upgrade",
-      "ts": 1792005364
-    },
-    {
-      "id": "rss:8b4c40dc2fdc9bd4",
-      "kind": "news",
-      "title": "Organizations join forces to fight Illinois crypto tax, after 6-month pause",
-      "url": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "illinois-crypto-tax",
-      "ts": 1792011382
-    },
-    {
-      "id": "rss:043a2bf5f6f78168",
-      "kind": "news",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1792005204
-    },
-    {
-      "id": "rss:e4f781bb5131fcb3",
-      "kind": "news",
-      "title": "EU authority classifies Circle’s USDC as ‘significant’ under MiCA",
-      "url": "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "eu-stablecoin-regulation",
-      "ts": 1792004632
-    },
     {
       "id": "rss:bf6483a07ef13ebc",
       "kind": "news",
@@ -965,6 +882,61 @@
       "xRole": null,
       "cluster": "aave-governance",
       "ts": 1792076417
+    },
+    {
+      "id": "rss:263fd2cbc83bfee0",
+      "kind": "news",
+      "title": "At the White House, crypto policy vacancy looms large",
+      "url": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "us-crypto-policy-shift",
+      "ts": 1792090082
+    },
+    {
+      "id": "rss:ca094c61d78a55f7",
+      "kind": "news",
+      "title": "Farcaster acquired by Balaji’s Network School, with new ‘social smart contract’ for users",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-15-network-school-acquires-farcaster-from-neynar-418720",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "farcaster-acquisition",
+      "ts": 1792100474
+    },
+    {
+      "id": "rss:f7fdab16f6409f27",
+      "kind": "news",
+      "title": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
+      "url": "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "russia-crypto-regulation",
+      "ts": 1792096264
+    },
+    {
+      "id": "rss:9339c9f42dd9f20d",
+      "kind": "news",
+      "title": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
+      "url": "https://decrypt.co/381077/bitwise-cio-bitcoin-wins-ai-boom-or-bust",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1792091764
+    },
+    {
+      "id": "rss:1922a812c6aeada8",
+      "kind": "news",
+      "title": "Binance.US seeks $1B valuation in potential $100M funding round: Report",
+      "url": "https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "binance-us-funding",
+      "ts": 1792095671
     }
   ],
   "digest_queue": [],
