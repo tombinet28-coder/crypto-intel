@@ -545,6 +545,52 @@
   ],
   "breaking": [
     {
+      "id": "russia-crypto-regulation:2026-10-15",
+      "level": "important",
+      "time": "20:35",
+      "title": "La Russie interdira les échanges crypto peer-to-peer à partir de juillet 2027",
+      "summary": "La Russie prévoit d'interdire les échanges directs P2P de crypto à partir du 1er juillet 2027, complétant les restrictions déjà en place sur les transferts vers l'auto-garde.",
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/russia-ban-p2p-crypto-trades-july-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "id": "cbdc-regulation:2026-10-15",
+      "level": "important",
+      "time": "20:35",
+      "title": "La Suède réexamine la couronne numérique alors que la BCE avance sur les plans de l'euro numérique",
+      "summary": "La Riksbank suédoise recommande aux législateurs de se préparer à une possible couronne numérique en réponse aux préoccupations concernant les stablecoins en devises étrangères.",
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "id": "mastercard-stablecoin-integration:2026-10-15",
+      "level": "important",
+      "time": "20:35",
+      "title": "Mastercard et BVNK lancent une 'plateforme d'argent global' fusionnant fiat et stablecoins",
+      "summary": "Première intégration majeure post-acquisition de BVNK par Mastercard : une API unifiée permettant aux banques et fintechs de détenir, convertir et dépenser fiat et stablecoins.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/381057/mastercard-bvnk-global-money-platform-fiat-stablecoins"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
       "id": "hex-founder-arrest:2026-10-15",
       "level": "important",
       "time": "16:22",
@@ -578,5 +624,5 @@
     }
   ],
   "generatedAt": "2026-10-15T09:17:21Z",
-  "updatedAt": "2026-10-15T14:22:57Z"
+  "updatedAt": "2026-10-15T18:36:24Z"
 }
