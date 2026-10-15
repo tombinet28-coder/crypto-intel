@@ -1,7 +1,5 @@
 {
   "seen": {
-    "rss:995b84c64b3c00de": 1791762903.4165502,
-    "rss:e002b2ad3de2bd10": 1791762903.416551,
     "rss:84a7c4b7fd49cc56": 1791784150.5570004,
     "rss:f58f262079343901": 1791784150.5570016,
     "rss:be783888cdb601a3": 1791784150.557002,
@@ -175,32 +173,11 @@
     "rss:8b4c40dc2fdc9bd4": 1792013707.6844974,
     "rss:043a2bf5f6f78168": 1792013707.6844976,
     "rss:e4f781bb5131fcb3": 1792013707.6844976,
-    "rss:94f7e6b67dd41a08": 1792013707.6844978
+    "rss:94f7e6b67dd41a08": 1792013707.6844978,
+    "rss:bf6483a07ef13ebc": 1792022667.0061026
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:19409389d8d9e991",
-      "kind": "news",
-      "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
-      "url": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "tokenized-commodities-expansion",
-      "ts": 1791928320
-    },
-    {
-      "id": "rss:eeaaa643b25f8ad7",
-      "kind": "news",
-      "title": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",
-      "url": "https://decrypt.co/380896/openai-engineer-arrested-bugging-office-ai-caught-him",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791927964
-    },
     {
       "id": "rss:bf50539552896c08",
       "kind": "news",
@@ -211,28 +188,6 @@
       "xRole": null,
       "cluster": "philippines-crypto-regulation",
       "ts": 1791939600
-    },
-    {
-      "id": "rss:5839a6e29be01efd",
-      "kind": "news",
-      "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
-      "url": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-whale-accumulation",
-      "ts": 1791933785
-    },
-    {
-      "id": "rss:cebc4e95b6bdee87",
-      "kind": "news",
-      "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
-      "url": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "ledger-tampering-exploit",
-      "ts": 1791934099
     },
     {
       "id": "rss:d9dac2b65e0d8596",
@@ -1014,6 +969,17 @@
       "xRole": null,
       "cluster": "general-market-news",
       "ts": 1792000605
+    },
+    {
+      "id": "rss:bf6483a07ef13ebc",
+      "kind": "news",
+      "title": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",
+      "url": "https://decrypt.co/380998/scientists-want-ai-cut-off-from-internet",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1792014364
     }
   ],
   "digest_queue": [
@@ -1091,11 +1057,6 @@
     }
   ],
   "sent": {
-    "2026-10-08": {
-      "critical": 1,
-      "important": 12,
-      "digests": []
-    },
     "2026-10-09": {
       "critical": 1,
       "important": 13,
@@ -1129,6 +1090,11 @@
       "digests": [
         "12:30"
       ]
+    },
+    "2026-10-15": {
+      "critical": 0,
+      "important": 0,
+      "digests": []
     }
   },
   "alerted": {
