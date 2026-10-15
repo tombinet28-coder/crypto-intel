@@ -174,21 +174,16 @@
     "rss:043a2bf5f6f78168": 1792013707.6844976,
     "rss:e4f781bb5131fcb3": 1792013707.6844976,
     "rss:94f7e6b67dd41a08": 1792013707.6844978,
-    "rss:bf6483a07ef13ebc": 1792022667.0061026
+    "rss:bf6483a07ef13ebc": 1792022667.0061026,
+    "rss:6e18f2fe0cefb4ab": 1792038694.4142673,
+    "rss:cdcb0f4db35bc650": 1792038694.4142685,
+    "rss:53f58e1c11f8fb6d": 1792038694.4142687,
+    "rss:4549dee3fc32f185": 1792038694.414269,
+    "rss:3095705f763452ba": 1792038694.414269,
+    "rss:2a567af6b9442c2a": 1792038694.4142692
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:bf50539552896c08",
-      "kind": "news",
-      "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
-      "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "philippines-crypto-regulation",
-      "ts": 1791939600
-    },
     {
       "id": "rss:d9dac2b65e0d8596",
       "kind": "news",
@@ -212,39 +207,6 @@
       "ts": 1791955452
     },
     {
-      "id": "rss:eecfb8d2f6b303a9",
-      "kind": "news",
-      "title": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
-      "url": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "sol-network-upgrade",
-      "ts": 1791951076
-    },
-    {
-      "id": "rss:6d941332be78f29c",
-      "kind": "news",
-      "title": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
-      "url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791949854
-    },
-    {
-      "id": "rss:429f8f6be8883f62",
-      "kind": "news",
-      "title": "Coinbase lays out flexible designs as key priority for Bitcoin’s post-quantum migration",
-      "url": "https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-post-quantum-security",
-      "ts": 1791946174
-    },
-    {
       "id": "rss:8e557d3a5c88903d",
       "kind": "news",
       "title": "Starknet introduces wallet privacy feature for DeFi activity",
@@ -265,17 +227,6 @@
       "xRole": null,
       "cluster": "general-market-news",
       "ts": 1791955810
-    },
-    {
-      "id": "rss:c2a441cbf6d3d387",
-      "kind": "news",
-      "title": "Bitwise’s Hougan says Q3 charts point to ‘crypto spring’",
-      "url": "https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791944396
     },
     {
       "id": "rss:079d20ddfde0d0ed",
@@ -980,6 +931,72 @@
       "xRole": null,
       "cluster": "general-market-news",
       "ts": 1792014364
+    },
+    {
+      "id": "rss:6e18f2fe0cefb4ab",
+      "kind": "news",
+      "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+      "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1792038315
+    },
+    {
+      "id": "rss:cdcb0f4db35bc650",
+      "kind": "news",
+      "title": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
+      "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1792037636
+    },
+    {
+      "id": "rss:53f58e1c11f8fb6d",
+      "kind": "news",
+      "title": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
+      "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1792036665
+    },
+    {
+      "id": "rss:4549dee3fc32f185",
+      "kind": "news",
+      "title": "Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July",
+      "url": "https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1792034962
+    },
+    {
+      "id": "rss:3095705f763452ba",
+      "kind": "news",
+      "title": "VanEck seeks to withdraw application for Lido staked Ether ETF",
+      "url": "https://cointelegraph.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1792027312
+    },
+    {
+      "id": "rss:2a567af6b9442c2a",
+      "kind": "news",
+      "title": "Polygon gains US payments licenses after closing Coinme deal",
+      "url": "https://cointelegraph.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "polygon-coinme-acquisition",
+      "ts": 1792025721
     }
   ],
   "digest_queue": [
@@ -1259,12 +1276,12 @@
     "ai-agents-adoption": "important"
   },
   "briefing_attempts": {
-    "2026-10-07": 1,
     "2026-10-08": 1,
     "2026-10-09": 1,
     "2026-10-10": 1,
     "2026-10-11": 1,
     "2026-10-12": 1,
-    "2026-10-14": 1
+    "2026-10-14": 1,
+    "2026-10-15": 1
   }
 }
