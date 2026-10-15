@@ -1,11 +1,5 @@
 {
   "seen": {
-    "rss:84a7c4b7fd49cc56": 1791784150.5570004,
-    "rss:f58f262079343901": 1791784150.5570016,
-    "rss:be783888cdb601a3": 1791784150.557002,
-    "rss:a378c6428e1fcd53": 1791784150.5570023,
-    "rss:5c496a4df851f446": 1791784150.5570025,
-    "rss:8bf15705560d13c8": 1791784150.5570028,
     "rss:26bcd0b2194fed75": 1791817933.7018416,
     "rss:5c152f392d80ddd0": 1791817933.7018428,
     "rss:85f5aac61910f6ca": 1791817933.7018433,
@@ -185,50 +179,6 @@
   "x_since": {},
   "recent": [
     {
-      "id": "rss:d9dac2b65e0d8596",
-      "kind": "news",
-      "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
-      "url": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-post-quantum-security",
-      "ts": 1791956691
-    },
-    {
-      "id": "rss:16f364943b495d8d",
-      "kind": "news",
-      "title": "Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million",
-      "url": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "xrp-institutional-adoption",
-      "ts": 1791955452
-    },
-    {
-      "id": "rss:8e557d3a5c88903d",
-      "kind": "news",
-      "title": "Starknet introduces wallet privacy feature for DeFi activity",
-      "url": "https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791955934
-    },
-    {
-      "id": "rss:7bd02f7a9d24a229",
-      "kind": "news",
-      "title": "Fed’s Williams sees AI supply squeeze lasting beyond 2 years",
-      "url": "https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1791955810
-    },
-    {
       "id": "rss:079d20ddfde0d0ed",
       "kind": "news",
       "title": "U.S. September CPI comes in hot, sending bitcoin sharply lower",
@@ -293,28 +243,6 @@
       "xRole": null,
       "cluster": "general-market-news",
       "ts": 1791971153
-    },
-    {
-      "id": "rss:1bfcee0b87fcb5e9",
-      "kind": "news",
-      "title": "Proposed 31.4% French tax on regulated stablecoins could drive crypto traders offshore",
-      "url": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "france-crypto-regulation",
-      "ts": 1791967691
-    },
-    {
-      "id": "rss:a014fcd8f6f363ad",
-      "kind": "news",
-      "title": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
-      "url": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "institutional-adoption",
-      "ts": 1791965407
     },
     {
       "id": "rss:6195aadc039fb953",
@@ -999,80 +927,7 @@
       "ts": 1792025721
     }
   ],
-  "digest_queue": [
-    {
-      "id": "philippines-crypto-regulation:2026-10-14",
-      "level": "important",
-      "time": "03:50",
-      "title": "Coins.ph face une action réglementaire de la banque centrale philippine",
-      "summary": "Coins.ph, le plus grand exchange de crypto aux Philippines, serait soumis à une action réglementaire de la banque centrale du pays. Cela pourrait affecter l'accès aux services crypto pour les utilisateurs philippins.",
-      "assets": [],
-      "confidence": "likely",
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action"
-        }
-      ],
-      "digested": true
-    },
-    {
-      "id": "us-crypto-policy-shift:2026-10-14",
-      "level": "important",
-      "time": "23:35",
-      "title": "Patrick Witt quitte son rôle de conseiller crypto à la Maison-Blanche",
-      "summary": "Patrick Witt, principal conseiller crypto de l'administration américaine, quitte ses fonctions alors que le Clarity Act stagne. Ce changement de leadership pourrait affecter la trajectoire réglementaire du secteur crypto aux États-Unis.",
-      "assets": [
-        "BTC",
-        "ETH"
-      ],
-      "confidence": "likely",
-      "sources": [
-        {
-          "name": "The Block",
-          "url": "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611"
-        }
-      ],
-      "digested": false
-    },
-    {
-      "id": "skyai-treasury-crisis:2026-10-14",
-      "level": "important",
-      "time": "23:35",
-      "title": "Un actionnaire majeur presse SkyAI après une baisse de 70% de sa trésorerie Solana",
-      "summary": "La trésorerie SOL de SkyAI a chuté de 70% en moins d'un mois, avec 400 000 SOL sans justification. L'actionnaire Bastion Trading refuse l'offre actuelle et réclame une revalorisation.",
-      "assets": [
-        "SOL"
-      ],
-      "confidence": "likely",
-      "sources": [
-        {
-          "name": "The Block",
-          "url": "https://www.theblock.co/news/business/2026-10-14-solana-treasury-skyai-bastion-sol-sales-tender-offer-418598"
-        }
-      ],
-      "digested": false
-    },
-    {
-      "id": "ai-agents-adoption:2026-10-14",
-      "level": "important",
-      "time": "23:35",
-      "title": "Les agents IA ont effectué 138 millions de paiements crypto en un an",
-      "summary": "Selon Chainalysis, les paiements via le protocole x402 de Coinbase ont surgi de 1 500 en mi-2025 à plus de 138 millions en Q3 2026, les portefeuilles américains dominant les dépenses en modèles IA.",
-      "assets": [
-        "BTC",
-        "ETH"
-      ],
-      "confidence": "likely",
-      "sources": [
-        {
-          "name": "Decrypt",
-          "url": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year"
-        }
-      ],
-      "digested": false
-    }
-  ],
+  "digest_queue": [],
   "sent": {
     "2026-10-09": {
       "critical": 1,
@@ -1282,6 +1137,6 @@
     "2026-10-11": 1,
     "2026-10-12": 1,
     "2026-10-14": 1,
-    "2026-10-15": 1
+    "2026-10-15": 2
   }
 }

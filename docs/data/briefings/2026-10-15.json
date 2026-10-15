@@ -1,0 +1,549 @@
+{
+  "date": "2026-10-15",
+  "edition": "06:30",
+  "tldr": [
+    {
+      "impact": "neg",
+      "text": "BTC passe sous 81 000$ et ETH sous 2 400$ : l'inflation américaine de septembre est ressortie plus forte que prévu, ravivant la crainte d'une Fed moins accommodante. Environ 1 Md$ de positions ont été liquidées en 24h."
+    },
+    {
+      "impact": "neg",
+      "text": "Le marché actions asiatique plonge (Kospi -8%), climat 'risk-off' généralisé qui pèse aussi sur les cryptos."
+    },
+    {
+      "impact": "neg",
+      "text": "Ledger demande à des revendeurs dans 7 marchés d'Asie du Sud-Est et à Hong Kong de retirer ses wallets de la vente après un possible vol de 86 M$ lié à des appareils piégés."
+    },
+    {
+      "impact": "neg",
+      "text": "La trésorerie Solana de la société SkyAI a fondu de 70% en un mois sans explication claire ; un actionnaire conteste la gestion."
+    },
+    {
+      "impact": "pos",
+      "text": "Solana programme sa plus grosse mise à jour technique (Alpenglow) le 21 octobre, pour viser une finalité des transactions en ~150 millisecondes."
+    },
+    {
+      "impact": "neg",
+      "text": "Le conseiller crypto de la Maison Blanche Patrick Witt démissionne alors que le projet de loi Clarity Act reste bloqué au Congrès."
+    },
+    {
+      "impact": "neg",
+      "text": "La France envisage une taxe de 31,4% sur les conversions vers des stablecoins conformes MiCA (ex: USDC, EURC) dès 2027 ; vote à l'Assemblée le 20 octobre."
+    },
+    {
+      "impact": "pos",
+      "text": "Kraken (via sa maison mère Payward) va racheter une banque européenne en Lituanie, une première pour un acteur crypto."
+    },
+    {
+      "impact": "neg",
+      "text": "L'indice Fear & Greed retombe de 62 à 53 (neutre), signe d'une prudence accrue des investisseurs."
+    }
+  ],
+  "news": [
+    {
+      "title": "Le marché crypto plonge après une inflation US plus forte que prévu",
+      "impact": "neg",
+      "confidence": "confirmed",
+      "what": "L'indice des prix à la consommation (CPI) de septembre aux Etats-Unis est ressorti au-dessus des attentes, faisant craindre que la Fed ne relève encore ses taux. Bitcoin est repassé sous 81 000$ et Ether sous 2 400$, avec près d'1 Md$ de positions à effet de levier liquidées en 24h. Les actions asiatiques ont aussi chuté fortement (Kospi -8%).",
+      "why": "Une inflation élevée réduit la probabilité que la Fed baisse ses taux, ce qui diminue la liquidité disponible pour les actifs risqués comme les cryptomonnaies. C'est le facteur macro qui domine la séance.",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL",
+        "HYPE",
+        "AAVE",
+        "PUMP"
+      ],
+      "shortTerm": "Volatilité et liquidations supplémentaires possibles jusqu'à la prochaine réunion de la Fed (27-28 octobre).",
+      "longTerm": "Si la Fed confirme une posture plus restrictive, cela pourrait peser sur l'appétit pour le risque plusieurs semaines.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
+          "publishedAt": "2026-10-15 03:57 UTC"
+        },
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623",
+          "publishedAt": "2026-10-15 04:38 UTC"
+        },
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
+          "publishedAt": "2026-10-15 04:25 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "Ledger : retrait de wallets dans 7 marchés après un vol présumé de 86 M$",
+      "impact": "neg",
+      "confidence": "confirmed",
+      "what": "Ledger a demandé aux revendeurs et distributeurs d'Indonésie, Singapour, Thaïlande, Philippines, Vietnam, Malaisie et Hong Kong de suspendre la vente de ses clés physiques et de les retirer des rayons. L'équipe sécurité de Ledger (Donjon) a trouvé un implant capable de lire la phrase de récupération à 24 mots pendant la configuration et de l'envoyer via le réseau mobile. L'enquêteur on-chain Specter évoque plus de 86 M$ de vols, chiffre que Ledger n'a pas confirmé.",
+      "why": "Un wallet physique (hardware wallet) est censé protéger les clés privées hors ligne. Une faille dans la chaîne de distribution remet en question la confiance dans ces produits, utilisés pour sécuriser de grosses sommes.",
+      "assets": [
+        "BTC",
+        "ETH"
+      ],
+      "shortTerm": "Pas d'impact direct sur les prix, mais climat de méfiance accru envers certains revendeurs non officiels.",
+      "longTerm": "Pourrait pousser le secteur à revoir les contrôles de la chaîne d'approvisionnement des wallets physiques ; le concurrent Trezor a déjà annoncé la fin de certaines autorisations de revendeurs au 1er janvier 2027.",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/380940/ledger-asks-resellers-in-seven-asian-markets-to-pull-devices-after-suspected-86m-drain",
+          "publishedAt": "2026-10-14 13:47 UTC"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/hardware-wallet-supply-chain-risk-ledger-incident",
+          "publishedAt": "2026-10-14 11:59 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "Solana fixe la date de sa plus grande mise à jour : Alpenglow le 21 octobre",
+      "impact": "pos",
+      "confidence": "confirmed",
+      "what": "Solana activera sa mise à jour de consensus Alpenglow sur le réseau principal le 21 octobre, à partir de l'epoch 1064 (~15h UTC). L'objectif est de réduire le temps de finalité des transactions d'environ 12,8 secondes à ~150 millisecondes, en remplaçant le système de vote actuel (TowerBFT) par un mécanisme de certificats.",
+      "why": "Une finalité plus rapide peut renforcer l'attractivité de Solana pour les paiements et les actifs tokenisés. Le nombre de transactions affiché pourrait chuter artificiellement après l'activation car les votes de validateurs sortiront des blocs, sans que cela traduise une baisse réelle d'activité.",
+      "assets": [
+        "SOL"
+      ],
+      "shortTerm": "Risque de confusion sur les métriques on-chain le jour de l'activation ; incident technique possible lors d'une migration de cette ampleur.",
+      "longTerm": "Si l'upgrade se déroule sans accroc, cela pourrait renforcer le positionnement de Solana face à la concurrence sur les cas d'usage nécessitant une confirmation quasi instantanée.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
+          "publishedAt": "2026-10-14"
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/380974/solana-alpenglow-upgrade-date",
+          "publishedAt": "2026-10-14 19:16 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "La trésorerie Solana de SkyAI s'effondre de 70% en un mois",
+      "impact": "neg",
+      "confidence": "likely",
+      "what": "La trésorerie en SOL détenue par la société SkyAI aurait chuté de 70% en moins d'un mois, environ 400 000 SOL ayant disparu sans justification claire. L'actionnaire Bastion Trading conteste l'offre de rachat proposée et réclame une revalorisation.",
+      "why": "Les trésoreries d'entreprises détenant de gros montants de crypto (treasury companies) sont scrutées comme indicateur de confiance institutionnelle. Une vente massive et peu transparente peut alimenter la méfiance envers ce type de véhicule.",
+      "assets": [
+        "SOL"
+      ],
+      "shortTerm": "Pression de vente ponctuelle possible si d'autres détails sur les ventes de SOL émergent.",
+      "longTerm": "Pourrait renforcer la prudence des investisseurs envers les 'trésoreries crypto' cotées en général, au-delà du seul SOL.",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/business/2026-10-14-solana-treasury-skyai-bastion-sol-sales-tender-offer-418598",
+          "publishedAt": "2026-10-14 18:25 UTC"
+        }
+      ],
+      "singleSource": true
+    },
+    {
+      "title": "Le conseiller crypto de la Maison Blanche démissionne, le Clarity Act stagne",
+      "impact": "neg",
+      "confidence": "likely",
+      "what": "Patrick Witt, principal conseiller crypto de l'administration américaine, quitte ses fonctions alors que le Clarity Act (projet de loi censé clarifier la régulation crypto aux Etats-Unis) reste bloqué au Congrès.",
+      "why": "Un changement de personnel clé sur le dossier crypto peut ralentir ou réorienter l'agenda réglementaire américain, dans un contexte où le secteur attend une clarté légale depuis plusieurs années.",
+      "assets": [
+        "BTC",
+        "ETH"
+      ],
+      "shortTerm": "Pas d'effet immédiat sur les prix, mais ajoute de l'incertitude sur le calendrier législatif.",
+      "longTerm": "Un retard supplémentaire du Clarity Act pourrait prolonger le flou réglementaire qui freine certains investisseurs institutionnels américains.",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611",
+          "publishedAt": "2026-10-14 20:30 UTC"
+        }
+      ],
+      "singleSource": true
+    },
+    {
+      "title": "La France envisage une taxe de 31,4% sur les conversions vers les stablecoins régulés MiCA",
+      "impact": "neg",
+      "confidence": "confirmed",
+      "what": "La commission des finances de l'Assemblée nationale a adopté un amendement (I-CF1826) qui soumettrait les conversions de crypto vers des stablecoins conformes à MiCA (comme USDC ou EURC) au taux de 31,4% de taxe sur les plus-values, à partir du 1er janvier 2027. USDT, DAI et PAXG seraient exclus. Le texte doit encore être voté en séance le 20 octobre.",
+      "why": "Si elle est adoptée, cette mesure supprimerait l'avantage fiscal actuel des conversions crypto-à-crypto pour les stablecoins les plus régulés, ce qui est contre-intuitif par rapport à l'objectif affiché de favoriser les acteurs conformes.",
+      "assets": [
+        "ETH"
+      ],
+      "shortTerm": "Pas d'effet direct sur les prix des cryptos prioritaires, mais pourrait affecter les volumes sur les plateformes françaises/européennes si adopté.",
+      "longTerm": "Le directeur France de Chainalysis prévient que cela pourrait pousser les utilisateurs vers des plateformes offshore ou des stablecoins non régulés, à l'inverse de l'objectif de traçabilité recherché.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
+          "publishedAt": "2026-10-14 08:48 UTC"
+        },
+        {
+          "name": "Cointribune (en)",
+          "url": "https://www.cointribune.com/en/solana-to-deploy-alpenglow-upgrade-on-october-21",
+          "publishedAt": "2026-10-14"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "Kraken (Payward) va racheter une banque européenne en Lituanie",
+      "impact": "pos",
+      "confidence": "confirmed",
+      "what": "Payward, maison mère de l'exchange Kraken, va acquérir Saldo Bank, une banque lituanienne, pour étendre ses services de dépôts et de prêts en Europe. Ce serait la première acquisition d'une banque par une entreprise crypto dans l'UE.",
+      "why": "Cela illustre la volonté d'acteurs crypto de s'intégrer plus profondément au système bancaire traditionnel européen, ce qui pourrait faciliter l'accès aux services financiers classiques pour les utilisateurs crypto.",
+      "assets": [
+        "BTC",
+        "ETH"
+      ],
+      "shortTerm": "Impact limité à court terme, l'opération nécessite des validations réglementaires.",
+      "longTerm": "Si finalisée, l'opération pourrait servir de modèle à d'autres exchanges cherchant une licence bancaire en Europe.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
+          "publishedAt": "2026-10-14 13:07 UTC"
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/380912/kraken-owner-payward-to-buy-lithuanias-saldo-bank-in-eu-push",
+          "publishedAt": "2026-10-14 10:21 UTC"
+        }
+      ],
+      "singleSource": false
+    }
+  ],
+  "market": [
+    {
+      "symbol": "BTC",
+      "sentiment": "neg",
+      "driver": "Inflation US plus forte que prévu fait craindre une Fed moins accommodante, dans un climat d'aversion au risque mondial (actions asiatiques en forte baisse).",
+      "events": [
+        "CPI de septembre au-dessus des attentes",
+        "~1 Md$ de liquidations en 24h",
+        "Une mining pool qui gérait jadis 2,3% du réseau a fermé après une chute de 65% de son hashrate"
+      ],
+      "watch": [
+        "Réunion de la Fed les 27-28 octobre",
+        "Support psychologique autour de 80 000$"
+      ],
+      "name": "Bitcoin",
+      "price": 81303,
+      "change24h": -2.50001,
+      "change7d": -2.0708,
+      "volume": 41098059572,
+      "asOf": "15/10 11:12",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "ETH",
+      "sentiment": "neg",
+      "driver": "Baisse plus marquée que BTC, dans un contexte de sorties sur les ETF et d'un retrait de demande de produit dérivé.",
+      "events": [
+        "VanEck retire sa demande d'ETF sur l'Ether staké via Lido"
+      ],
+      "watch": [
+        "Flux des ETF spot ETH",
+        "Support autour de 2 300$"
+      ],
+      "name": "Ethereum",
+      "price": 2375.6,
+      "change24h": -5.1383,
+      "change7d": -7.6693,
+      "volume": 19230434809,
+      "asOf": "15/10 11:12",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "SOL",
+      "sentiment": "neg",
+      "driver": "La mise à jour technique Alpenglow du 21 octobre est un catalyseur potentiellement positif à moyen terme, mais le climat de marché et la crise de trésorerie SkyAI pèsent à court terme.",
+      "events": [
+        "Alpenglow programmé pour le 21/10 (epoch 1064, ~15h UTC)",
+        "Trésorerie SOL de SkyAI en baisse de 70% en un mois"
+      ],
+      "watch": [
+        "Activation effective d'Alpenglow le 21 octobre",
+        "Issue du différend SkyAI/Bastion Trading"
+      ],
+      "name": "Solana",
+      "price": 103.2,
+      "change24h": -3.55612,
+      "change7d": -10.2568,
+      "volume": 3996927572,
+      "asOf": "15/10 11:12",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "HYPE",
+      "sentiment": "neg",
+      "driver": "Un déblocage mensuel de tokens (environ 2,6% de l'offre) approche fin octobre, dans un marché déjà sous pression ; en parallèle, l'activité sur l'exchange Hyperliquid reste soutenue (options sur le S&P 500 très demandées).",
+      "events": [
+        "Frais générés sur 24h parmi les plus élevés des cryptos suivies",
+        "Forte demande pour les options S&P 500 sur Hyperliquid"
+      ],
+      "watch": [
+        "Déblocage mensuel 'Core Contributors' attendu vers le 29 octobre (~2,6% de l'offre)"
+      ],
+      "name": "Hyperliquid",
+      "price": 80.08,
+      "change24h": -1.4764,
+      "change7d": -8.3211,
+      "volume": 864743399,
+      "asOf": "15/10 11:12",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "AAVE",
+      "sentiment": "neg",
+      "driver": "Baisse en ligne avec le marché, mais activité de gouvernance notable : une proposition (ARFC) vise à intégrer le BTC natif comme collatéral sur Aave V4 via les vaults trustless de Babylon.",
+      "events": [
+        "Proposition ARFC publiée le 14/10 sur le forum de gouvernance Aave",
+        "AAVE est entièrement émis : aucun unlock de tokens en attente"
+      ],
+      "watch": [
+        "Issue du vote de gouvernance sur l'intégration BTC/Babylon"
+      ],
+      "name": "Aave",
+      "price": 150.94,
+      "change24h": -5.57249,
+      "change7d": -12.5745,
+      "volume": 261679407,
+      "asOf": "15/10 11:12",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "PUMP",
+      "sentiment": "neg",
+      "driver": "Plus forte baisse des cryptos suivies, le marché digère un déblocage équipe/investisseurs de la mi-octobre dans un contexte général de repli.",
+      "events": [
+        "Déblocage de plusieurs milliards de PUMP distribué entre le 12 et le 14 octobre",
+        "Programme continu de rachat-destruction financé par les revenus du protocole"
+      ],
+      "watch": [
+        "Capacité du programme de rachat (buyback) à absorber la pression vendeuse liée aux unlocks"
+      ],
+      "name": "Pump.fun",
+      "price": 0.00430628,
+      "change24h": -13.8311,
+      "change7d": -29.0997,
+      "volume": 281748408,
+      "asOf": "15/10 11:12",
+      "source": "CoinGecko"
+    }
+  ],
+  "x": [
+    {
+      "author": "Ledger",
+      "handle": "@Ledger",
+      "time": "2026-10-13",
+      "asset": "Sécurité (wallets)",
+      "sentiment": "neg",
+      "kind": "official",
+      "summary": "Ledger a annoncé demander aux revendeurs d'Asie du Sud-Est et de Hong Kong de suspendre la vente de ses appareils pendant l'enquête sur des implants suspects.",
+      "why": "Annonce officielle de la marque elle-même, donc fiable sur le fait en lui-même ; le montant exact du vol (86 M$) n'est en revanche pas confirmé par Ledger."
+    },
+    {
+      "author": "Changpeng Zhao (fondateur de Binance)",
+      "handle": "@cz_binance",
+      "time": "2026-10-14 (environ)",
+      "asset": "Sécurité (wallets)",
+      "sentiment": "neu",
+      "kind": "person",
+      "summary": "A commenté que les éléments disponibles pointent vers une attaque de la chaîne d'approvisionnement limitée à un seul revendeur.",
+      "why": "Avis d'une personnalité reconnue du secteur, mais reste une opinion non vérifiée indépendamment ; à ne pas confondre avec une confirmation officielle de Ledger."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Babylon (Babylon Labs) — staking natif de Bitcoin",
+      "conviction": "watch",
+      "funding": "Environ 103 M$ levés sur plusieurs tours (seed à début VC), dont un tour de 70 M$ mené par Paradigm en 2024 et 15 M$ par a16z crypto en janvier 2026, valorisant le projet à 350 M$.",
+      "investors": "Polychain Capital, Paradigm, a16z crypto, Hack VC, Framework Ventures, Galaxy, entre autres — levées annoncées officiellement.",
+      "team": "Fondé en 2022 par David Tse, professeur à Stanford, et Fisher Yu.",
+      "tech": "Protocole permettant de 'staker' du BTC natif, sans bridge ni garde tierce, pour sécuriser des chaînes Proof-of-Stake, via des mécanismes de verrouillage temporel natifs à Bitcoin.",
+      "tokenomics": "Non détaillé dans les sources consultées pour cette édition ; vigilance recommandée sur une éventuelle émission de token et son calendrier de déblocage.",
+      "catalysts": "Une proposition de gouvernance Aave (ARFC) vise à intégrer les vaults trustless de Babylon comme collatéral natif BTC sur Aave V4.",
+      "why": "Si l'intégration avec Aave se concrétise, cela élargirait les cas d'usage du BTC en DeFi sans passer par des versions 'wrappées' plus risquées.",
+      "risk": "Le concept reste jeune à grande échelle ; la sécurité des mécanismes de verrouillage/déblocage de BTC natif n'a pas le même historique de résilience que les protocoles DeFi établis depuis plusieurs années."
+    }
+  ],
+  "smartMoney": [
+    {
+      "title": "Strive achète 235 M$ de bitcoin",
+      "token": "BTC",
+      "amount": "235 M$",
+      "from": "Produit d'exercices de warrants (369 M$ levés)",
+      "to": "Trésorerie Strive",
+      "confidence": "likely",
+      "interpretation": "Un achat institutionnel de cette taille confirme un appétit persistant de certaines sociétés cotées pour le bitcoin comme actif de trésorerie, mais un seul acteur n'indique pas une tendance de marché généralisée.",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/business/2026-10-14-strive-buys-235-million-in-bitcoin-warrant-yield-369-million-418556"
+        }
+      ]
+    }
+  ],
+  "unlocks": [
+    {
+      "date": "2026-10-29",
+      "token": "HYPE",
+      "amount": "~9,92 millions HYPE",
+      "value": "~2,6% de l'offre en circulation",
+      "pct": "2,6%",
+      "who": "Core Contributors (équipe/contributeurs historiques)",
+      "risk": "med",
+      "priority": true,
+      "confidence": "likely"
+    }
+  ],
+  "unlocksSource": {
+    "name": "Tokenomist",
+    "url": "https://tokenomist.ai/hyperliquid/unlock-events"
+  },
+  "regulation": [
+    {
+      "region": "France / UE",
+      "title": "Proposition de taxe à 31,4% sur les conversions vers stablecoins MiCA",
+      "impact": "neg",
+      "confidence": "confirmed",
+      "summary": "La commission des finances de l'Assemblée nationale a adopté un amendement taxant à 31,4% les conversions de crypto vers des stablecoins régulés MiCA (hors USDT, DAI, PAXG) dès 2027 ; vote en séance prévu le 20 octobre. D'autres mesures incluent la déclaration des wallets auto-hébergés de plus de 100 000€ et l'extension de l'exit tax aux cryptos.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore"
+        },
+        {
+          "name": "Cryptotimes",
+          "url": "https://www.cryptotimes.io/2026/10/14/french-lawmakers-back-31-4-tax-on-crypto-to-stablecoin-conversions/"
+        }
+      ]
+    },
+    {
+      "region": "États-Unis",
+      "title": "Démission du conseiller crypto de la Maison Blanche",
+      "impact": "neg",
+      "confidence": "likely",
+      "summary": "Patrick Witt quitte son rôle alors que le Clarity Act, censé clarifier la régulation crypto fédérale, reste bloqué au Congrès.",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611"
+        }
+      ]
+    },
+    {
+      "region": "Philippines",
+      "title": "Coins.ph sous surveillance de la banque centrale",
+      "impact": "neg",
+      "confidence": "likely",
+      "summary": "Le plus grand exchange crypto des Philippines ferait l'objet d'une action réglementaire de la banque centrale (BSP), même si Coins.ph affirme que sa licence reste valide.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "title": "Inflation américaine plus forte que prévu",
+      "impact": "neg",
+      "confidence": "confirmed",
+      "date": "2026-10-14",
+      "summary": "Le CPI de septembre est ressorti au-dessus des attentes, ravivant les craintes d'une hausse de taux de la Fed lors de sa réunion des 27-28 octobre, actuellement à 3,75%-4%.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower"
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/380950/bitcoin-falls-hot-inflation-fed-hike-odds"
+        }
+      ]
+    },
+    {
+      "title": "Aversion au risque mondiale : Kospi -8%, mise en garde de Larry Fink",
+      "impact": "neg",
+      "confidence": "confirmed",
+      "date": "2026-10-15",
+      "summary": "Les marchés actions asiatiques ont fortement chuté (Kospi -8%). Le patron de BlackRock, Larry Fink, a évoqué un déclencheur possible de récession lié à la dette publique américaine (40 000 Mds$) dans le contexte des dépenses en IA.",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623"
+        },
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/15/blackrock-s-larry-fink-names-a-u-s-recession-trigger-and-its-tied-to-ai"
+        }
+      ]
+    }
+  ],
+  "onchain": [
+    {
+      "metric": "Fear & Greed Index",
+      "value": "53 (neutre)",
+      "note": "En baisse par rapport à 62 la veille, signe d'une prudence accrue.",
+      "source": "Données agrégées fournies"
+    },
+    {
+      "metric": "Offre totale de stablecoins",
+      "value": "~306,6 Mds$",
+      "note": "Référence de liquidité globale du marché crypto.",
+      "source": "Données agrégées fournies"
+    },
+    {
+      "metric": "TVL Aave",
+      "value": "~17,78 Mds$",
+      "note": "Valeur totale verrouillée sur le protocole de prêt Aave.",
+      "source": "Données agrégées fournies"
+    },
+    {
+      "metric": "TVL Hyperliquid",
+      "value": "~6,97 Mds$",
+      "note": "Valeur verrouillée sur le protocole de perpétuels Hyperliquid.",
+      "source": "Données agrégées fournies"
+    },
+    {
+      "metric": "Revenus 24h",
+      "value": "HYPE ~3,46M$ / PUMP ~1,91M$ / AAVE ~1,18M$",
+      "note": "Pump.fun a récemment vu ses revenus approcher ceux de Hyperliquid selon un suivi externe.",
+      "source": "Données agrégées fournies ; CoinMarketCap AI"
+    }
+  ],
+  "watchlist": [
+    {
+      "impact": "neg",
+      "text": "Réunion de la Fed les 27-28 octobre : décision sur les taux après un CPI plus chaud que prévu."
+    },
+    {
+      "impact": "pos",
+      "text": "Activation de la mise à jour Solana Alpenglow le 21 octobre (epoch 1064, ~15h UTC)."
+    },
+    {
+      "impact": "neg",
+      "text": "Vote à l'Assemblée nationale française le 20 octobre sur la taxe de 31,4% visant les stablecoins MiCA."
+    },
+    {
+      "impact": "neg",
+      "text": "Déblocage mensuel HYPE attendu vers le 29 octobre (~2,6% de l'offre)."
+    },
+    {
+      "impact": "neg",
+      "text": "Suite du différend entre SkyAI et l'actionnaire Bastion Trading sur la trésorerie SOL."
+    }
+  ],
+  "breaking": [],
+  "generatedAt": "2026-10-15T09:17:21Z",
+  "updatedAt": "2026-10-15T09:17:21Z"
+}
