@@ -174,7 +174,12 @@
     "rss:53f58e1c11f8fb6d": 1792038694.4142687,
     "rss:4549dee3fc32f185": 1792038694.414269,
     "rss:3095705f763452ba": 1792038694.414269,
-    "rss:2a567af6b9442c2a": 1792038694.4142692
+    "rss:2a567af6b9442c2a": 1792038694.4142692,
+    "rss:bf5824326d0f85e7": 1792056078.3440924,
+    "rss:4bd23e939d5c802c": 1792056078.3440933,
+    "rss:9c95856dcc02bde3": 1792056078.344094,
+    "rss:3decc4e2366f88e0": 1792056078.3440943,
+    "rss:4950da19401d221a": 1792056078.3440945
   },
   "x_since": {},
   "recent": [
@@ -925,6 +930,61 @@
       "xRole": null,
       "cluster": "polygon-coinme-acquisition",
       "ts": 1792025721
+    },
+    {
+      "id": "rss:bf5824326d0f85e7",
+      "kind": "news",
+      "title": "BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt",
+      "url": "https://www.coindesk.com/markets/2026/10/15/blackrock-s-larry-fink-names-a-u-s-recession-trigger-and-its-tied-to-ai",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1792045078
+    },
+    {
+      "id": "rss:4bd23e939d5c802c",
+      "kind": "news",
+      "title": "Bitcoin drops below $81,000 as risk-off sentiment weighs on Asian equities",
+      "url": "https://www.theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1792039128
+    },
+    {
+      "id": "rss:9c95856dcc02bde3",
+      "kind": "news",
+      "title": "Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-outflow-btc-below-82k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1792049023
+    },
+    {
+      "id": "rss:3decc4e2366f88e0",
+      "kind": "news",
+      "title": "South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms",
+      "url": "https://cointelegraph.com/news/south-korea-cybersecurity-overhaul-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1792043541
+    },
+    {
+      "id": "rss:4950da19401d221a",
+      "kind": "news",
+      "title": "Australia seeks feedback on crypto platform rules ahead of 2027 rollout",
+      "url": "https://cointelegraph.com/news/australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1792040440
     }
   ],
   "digest_queue": [],
