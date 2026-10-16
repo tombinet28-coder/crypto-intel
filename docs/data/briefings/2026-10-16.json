@@ -602,6 +602,28 @@
   ],
   "breaking": [
     {
+      "id": "aave-governance:2026-10-16",
+      "level": "important",
+      "time": "20:45",
+      "title": "Risk Stewards : Changements des plafonds d'approvisionnement et d'emprunt sur Aave V3 / 2026.10.16",
+      "summary": "LlamaRisk recommande des modifications de paramètres pour Aave V3 basées sur le comportement des utilisateurs et la santé des positions, notamment des augmentations de plafond d'approvisionnement pour tETH en V3 Prime et des réductions en V3 Core.",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "Aave gouvernance",
+          "url": "https://governance.aave.com/t/direct-to-aip-asset-listing-syrupusdg-x-layer/25855"
+        },
+        {
+          "name": "Aave gouvernance",
+          "url": "https://governance.aave.com/t/risk-stewards-jaaa-reserve-parameter-update-on-aave-v3-horizon-2026-10-15/25854"
+        },
+        {
+          "name": "Aave gouvernance",
+          "url": "https://governance.aave.com/t/risk-stewards-cap-reductions-on-aave-v3-2026-10-15/25853"
+        }
+      ]
+    },
+    {
       "id": "farcaster-acquisition:2026-10-16",
       "level": "important",
       "time": "11:40",
@@ -671,5 +693,5 @@
     }
   ],
   "generatedAt": "2026-10-16T04:57:58Z",
-  "updatedAt": "2026-10-16T09:40:51Z"
+  "updatedAt": "2026-10-16T18:45:37Z"
 }
