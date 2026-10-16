@@ -195,54 +195,22 @@
     "rss:a49620ace441cdbe": 1792109858.433236,
     "rss:6746b0bc093775c1": 1792126683.0744185,
     "rss:df6261cced5c67e4": 1792126683.0744195,
-    "rss:e3c3b163fa3bcc3b": 1792126683.0744197
+    "rss:e3c3b163fa3bcc3b": 1792126683.0744197,
+    "rss:000490a6da682a94": 1792143633.9093912,
+    "rss:04b78b7ae028731e": 1792143633.9093924,
+    "rss:b9019825e1a9fc24": 1792143633.9093928,
+    "rss:1d69de1e6df25d31": 1792143633.909393,
+    "rss:79f634a7b02eeb06": 1792143633.9093933,
+    "rss:15d80d345533a3bc": 1792143633.9093933,
+    "rss:55db5cecc7c25ac7": 1792143633.9093935,
+    "rss:bcb609752069ea86": 1792143633.909394,
+    "rss:5a0dc2dc4cf5c563": 1792143633.909394,
+    "rss:c0139086e1fb5fa3": 1792143633.909394,
+    "rss:b9c48fbbbbb187ce": 1792143633.909394,
+    "move24:injective-protocol:20742": 1792143633.9094799
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:bf5824326d0f85e7",
-      "kind": "news",
-      "title": "BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt",
-      "url": "https://www.coindesk.com/markets/2026/10/15/blackrock-s-larry-fink-names-a-u-s-recession-trigger-and-its-tied-to-ai",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1792045078
-    },
-    {
-      "id": "rss:9c95856dcc02bde3",
-      "kind": "news",
-      "title": "Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-outflow-btc-below-82k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1792049023
-    },
-    {
-      "id": "rss:3decc4e2366f88e0",
-      "kind": "news",
-      "title": "South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms",
-      "url": "https://cointelegraph.com/news/south-korea-cybersecurity-overhaul-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1792043541
-    },
-    {
-      "id": "rss:4950da19401d221a",
-      "kind": "news",
-      "title": "Australia seeks feedback on crypto platform rules ahead of 2027 rollout",
-      "url": "https://cointelegraph.com/news/australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1792040440
-    },
     {
       "id": "rss:ed847c3654a62b2b",
       "kind": "news",
@@ -319,17 +287,6 @@
       "xRole": null,
       "cluster": "general-market-news",
       "ts": 1792058017
-    },
-    {
-      "id": "rss:5ecb202a12ef9b42",
-      "kind": "news",
-      "title": "Hex founder Richard Heart arrested in Istanbul, Turkish media report",
-      "url": "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "hex-founder-arrest",
-      "ts": 1792056057
     },
     {
       "id": "rss:caa08a249c9d1b40",
@@ -506,28 +463,6 @@
       "xRole": null,
       "cluster": "general-market-news",
       "ts": 1792057687
-    },
-    {
-      "id": "rss:081e1ba1ed6c1eb6",
-      "kind": "news",
-      "title": "Thailand crypto ETFs may see slow start despite new rules: CoinShares",
-      "url": "https://cointelegraph.com/news/thailand-crypto-etfs-slow-start-new-rules-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1792056980
-    },
-    {
-      "id": "rss:3f65c36c917caf9f",
-      "kind": "news",
-      "title": "Babylon advances native Bitcoin lending proposal on Aave V4",
-      "url": "https://cointelegraph.com/news/babylon-native-bitcoin-collateral-aave-v4-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "aave-listing-assessment",
-      "ts": 1792055668
     },
     {
       "id": "rss:c8bbc9dbece29340",
@@ -935,6 +870,127 @@
       "xRole": null,
       "cluster": "msci-index-crypto-exclusion",
       "ts": 1792111700
+    },
+    {
+      "id": "rss:000490a6da682a94",
+      "kind": "news",
+      "title": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
+      "url": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "gemini-cftc-settlement",
+      "ts": 1792143381
+    },
+    {
+      "id": "rss:04b78b7ae028731e",
+      "kind": "news",
+      "title": "MSCI approves rules that could eject Strategy, Metaplanet from equity indexes",
+      "url": "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "msci-index-crypto-exclusion",
+      "ts": 1792139688
+    },
+    {
+      "id": "rss:b9019825e1a9fc24",
+      "kind": "news",
+      "title": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
+      "url": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1792130038
+    },
+    {
+      "id": "rss:1d69de1e6df25d31",
+      "kind": "news",
+      "title": "Capital B posts wider H1 net loss of $78 million on bitcoin impairment charge",
+      "url": "https://www.theblock.co/news/business/2026-10-16-capital-b-wider-h1-net-loss-418781",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "capital-b-losses",
+      "ts": 1792143021
+    },
+    {
+      "id": "rss:79f634a7b02eeb06",
+      "kind": "news",
+      "title": "US federal judge denies joint Gemini-CFTC bid to undo $5 million settlement",
+      "url": "https://www.theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "gemini-cftc-settlement",
+      "ts": 1792129445
+    },
+    {
+      "id": "rss:15d80d345533a3bc",
+      "kind": "news",
+      "title": "What Is a Hardware Wallet? Crypto Cold Storage Explained",
+      "url": "https://decrypt.co/resources/what-is-a-hardware-wallet-crypto-cold-storage-explained",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1792141848
+    },
+    {
+      "id": "rss:55db5cecc7c25ac7",
+      "kind": "news",
+      "title": "Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant",
+      "url": "https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1792142533
+    },
+    {
+      "id": "rss:bcb609752069ea86",
+      "kind": "news",
+      "title": "Capital B reports $78M H1 loss driven by Bitcoin impairment charge",
+      "url": "https://cointelegraph.com/news/capital-b-78m-h1-loss-bitcoin-impairment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "capital-b-losses",
+      "ts": 1792137586
+    },
+    {
+      "id": "rss:5a0dc2dc4cf5c563",
+      "kind": "news",
+      "title": "Judge rejects CFTC, Gemini bid to undo $5M settlement",
+      "url": "https://cointelegraph.com/news/judge-rejects-cftc-gemini-5m-settlement-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "gemini-cftc-settlement",
+      "ts": 1792136609
+    },
+    {
+      "id": "rss:c0139086e1fb5fa3",
+      "kind": "news",
+      "title": "OpenAI model helped itself to testnet crypto, then kept quiet about it",
+      "url": "https://cointelegraph.com/news/openai-model-spent-testnet-eth-without-authorization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "ai-agent-crypto-incident",
+      "ts": 1792131082
+    },
+    {
+      "id": "rss:b9c48fbbbbb187ce",
+      "kind": "news",
+      "title": "Balaji’s ‘Singapore of social media’ begins with a wave of bans",
+      "url": "https://cointelegraph.com/news/balajis-singapore-of-social-media-begins-with-a-wave-of-bans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "farcaster-acquisition",
+      "ts": 1792127771
     }
   ],
   "digest_queue": [],
@@ -973,7 +1029,7 @@
     },
     "2026-10-16": {
       "critical": 0,
-      "important": 1,
+      "important": 4,
       "digests": []
     }
   },
@@ -1145,7 +1201,9 @@
     "quantum-computing-encryption-risk": "important",
     "crypto-tax-regulation-oecd": "important",
     "aave-tempo-deployment": "important",
-    "ai-agent-crypto-incident": "important"
+    "ai-agent-crypto-incident": "important",
+    "gemini-cftc-settlement": "important",
+    "farcaster-acquisition": "important"
   },
   "briefing_attempts": {
     "2026-10-09": 1,
