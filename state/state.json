@@ -1,10 +1,5 @@
 {
   "seen": {
-    "rss:54a03403fbf5d3a6": 1791860948.9524255,
-    "rss:9822bb90f7fa04d7": 1791860948.952429,
-    "rss:ce7f2332290fba3b": 1791860948.9524295,
-    "rss:80c6b787cf807ec5": 1791860948.9524298,
-    "rss:82eccde6e5020f46": 1791860948.95243,
     "rss:31f185b7d3636801": 1791889237.2755623,
     "rss:af6388ddad504015": 1791889237.2755632,
     "rss:9af5acea5c334ce7": 1791889237.2755637,
@@ -197,76 +192,13 @@
     "rss:e3f42d106eeb5016": 1792109858.4332354,
     "rss:6bfa0fee18e95809": 1792109858.4332356,
     "rss:112f77ffed6b730f": 1792109858.433236,
-    "rss:a49620ace441cdbe": 1792109858.433236
+    "rss:a49620ace441cdbe": 1792109858.433236,
+    "rss:6746b0bc093775c1": 1792126683.0744185,
+    "rss:df6261cced5c67e4": 1792126683.0744195,
+    "rss:e3c3b163fa3bcc3b": 1792126683.0744197
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:6e18f2fe0cefb4ab",
-      "kind": "news",
-      "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
-      "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1792038315
-    },
-    {
-      "id": "rss:cdcb0f4db35bc650",
-      "kind": "news",
-      "title": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
-      "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1792037636
-    },
-    {
-      "id": "rss:53f58e1c11f8fb6d",
-      "kind": "news",
-      "title": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
-      "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1792036665
-    },
-    {
-      "id": "rss:4549dee3fc32f185",
-      "kind": "news",
-      "title": "Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July",
-      "url": "https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1792034962
-    },
-    {
-      "id": "rss:3095705f763452ba",
-      "kind": "news",
-      "title": "VanEck seeks to withdraw application for Lido staked Ether ETF",
-      "url": "https://cointelegraph.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1792027312
-    },
-    {
-      "id": "rss:2a567af6b9442c2a",
-      "kind": "news",
-      "title": "Polygon gains US payments licenses after closing Coinme deal",
-      "url": "https://cointelegraph.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "polygon-coinme-acquisition",
-      "ts": 1792025721
-    },
     {
       "id": "rss:bf5824326d0f85e7",
       "kind": "news",
@@ -277,17 +209,6 @@
       "xRole": null,
       "cluster": "general-market-news",
       "ts": 1792045078
-    },
-    {
-      "id": "rss:4bd23e939d5c802c",
-      "kind": "news",
-      "title": "Bitcoin drops below $81,000 as risk-off sentiment weighs on Asian equities",
-      "url": "https://www.theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1792039128
     },
     {
       "id": "rss:9c95856dcc02bde3",
@@ -981,83 +902,42 @@
       "xRole": null,
       "cluster": "aave-tempo-deployment",
       "ts": 1792109046
+    },
+    {
+      "id": "rss:6746b0bc093775c1",
+      "kind": "news",
+      "title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
+      "url": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ai-agent-crypto-incident",
+      "ts": 1792124959
+    },
+    {
+      "id": "rss:df6261cced5c67e4",
+      "kind": "news",
+      "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
+      "url": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-market-news",
+      "ts": 1792124062
+    },
+    {
+      "id": "rss:e3c3b163fa3bcc3b",
+      "kind": "news",
+      "title": "MSCI adopts index exclusion rules that could oust Strategy",
+      "url": "https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "msci-index-crypto-exclusion",
+      "ts": 1792111700
     }
   ],
-  "digest_queue": [
-    {
-      "id": "msci-index-crypto-exclusion:2026-10-16",
-      "level": "important",
-      "time": "02:17",
-      "title": "MSCI risque d'exclure des firmes de trésorerie crypto de ses indices",
-      "summary": "Les nouvelles règles MSCI pour les sociétés non opérationnelles pourraient exclure Strategy, Metaplanet et SharpLink de ses indices. La liste définitive est attendue le 11 novembre.",
-      "assets": [
-        "STRATEGY",
-        "METAPLANET",
-        "SHARPLINK"
-      ],
-      "confidence": "likely",
-      "sources": [
-        {
-          "name": "The Block",
-          "url": "https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729"
-        }
-      ],
-      "digested": false
-    },
-    {
-      "id": "quantum-computing-encryption-risk:2026-10-16",
-      "level": "important",
-      "time": "02:17",
-      "title": "Google annonce une avancée majeure en calcul quantique menaçant le chiffrement (en attente de confirmation)",
-      "summary": "La puce Willow de Google a réduit les erreurs de 40x sur les 'états magiques', rapprochant les ordinateurs quantiques utiles capables de menacer le chiffrement actuel des cryptomonnaies.",
-      "assets": [
-        "BTC",
-        "ETH"
-      ],
-      "confidence": "likely",
-      "sources": [
-        {
-          "name": "Decrypt",
-          "url": "https://decrypt.co/381102/google-cracked-quantum-computing-biggest-bottlenecks"
-        }
-      ],
-      "digested": false
-    },
-    {
-      "id": "crypto-tax-regulation-oecd:2026-10-16",
-      "level": "important",
-      "time": "02:17",
-      "title": "L'Australie adopte le cadre OCDE de reporting fiscal crypto",
-      "summary": "L'Australie, parmi 77 juridictions, s'engage à adopter le CARF avec premiers échanges internationaux de données fiscales crypto prévus en 2028.",
-      "assets": [],
-      "confidence": "unconfirmed",
-      "sources": [
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
-      "digested": false
-    },
-    {
-      "id": "aave-tempo-deployment:2026-10-16",
-      "level": "important",
-      "time": "02:17",
-      "title": "Proposition de déploiement d'Aave V4 sur Tempo Mainnet",
-      "summary": "Un ARFC propose de déployer Aave Protocol V4 sur Tempo Mainnet, une blockchain Layer 1 construite pour les paiements, incubée par Stripe et Paradigm.",
-      "assets": [
-        "AAVE"
-      ],
-      "confidence": "confirmed",
-      "sources": [
-        {
-          "name": "Aave gouvernance",
-          "url": "https://governance.aave.com/t/arfc-aave-v4-deployment-on-tempo/25857"
-        }
-      ],
-      "digested": false
-    }
-  ],
+  "digest_queue": [],
   "sent": {
     "2026-10-10": {
       "critical": 0,
@@ -1093,7 +973,7 @@
     },
     "2026-10-16": {
       "critical": 0,
-      "important": 0,
+      "important": 1,
       "digests": []
     }
   },
@@ -1264,15 +1144,16 @@
     "msci-index-crypto-exclusion": "important",
     "quantum-computing-encryption-risk": "important",
     "crypto-tax-regulation-oecd": "important",
-    "aave-tempo-deployment": "important"
+    "aave-tempo-deployment": "important",
+    "ai-agent-crypto-incident": "important"
   },
   "briefing_attempts": {
-    "2026-10-08": 1,
     "2026-10-09": 1,
     "2026-10-10": 1,
     "2026-10-11": 1,
     "2026-10-12": 1,
     "2026-10-14": 1,
-    "2026-10-15": 2
+    "2026-10-15": 2,
+    "2026-10-16": 1
   }
 }
