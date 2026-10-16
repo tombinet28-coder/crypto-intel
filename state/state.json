@@ -1,22 +1,5 @@
 {
   "seen": {
-    "rss:1a4b07a70ed99c5c": 1791844472.966128,
-    "rss:c89c5a620c2dc0fe": 1791844472.966129,
-    "rss:f1ede1d5d7766617": 1791844472.9661298,
-    "rss:95ee7fa89ac15480": 1791844472.96613,
-    "rss:f1a06b912ceeed62": 1791844472.96613,
-    "rss:c792df29bdf1d609": 1791844472.9661303,
-    "rss:6700c14530e38bf6": 1791844472.9661303,
-    "rss:100f24240d80133b": 1791844472.9661305,
-    "rss:2b34e143e3a19c2d": 1791844472.9661305,
-    "rss:a04e4620a553948b": 1791844472.9661307,
-    "rss:3f4edcbc10ef8ad9": 1791844472.9661307,
-    "rss:d6e77b5b1c2339b4": 1791844472.9661307,
-    "rss:bbaa8008cd46e95a": 1791844472.966131,
-    "rss:24db041749ee46b1": 1791844472.9661312,
-    "rss:f7434a6c94db2d2b": 1791844472.9661312,
-    "rss:279b4fa555a5d65a": 1791844472.9661314,
-    "rss:d0e863682cd5aaaa": 1791844472.9661314,
     "rss:54a03403fbf5d3a6": 1791860948.9524255,
     "rss:9822bb90f7fa04d7": 1791860948.952429,
     "rss:ce7f2332290fba3b": 1791860948.9524295,
@@ -208,21 +191,16 @@
     "rss:ca094c61d78a55f7": 1792100662.691607,
     "rss:f7fdab16f6409f27": 1792100662.6916077,
     "rss:9339c9f42dd9f20d": 1792100662.691608,
-    "rss:1922a812c6aeada8": 1792100662.6916084
+    "rss:1922a812c6aeada8": 1792100662.6916084,
+    "rss:c759937ee57dcf12": 1792109858.433234,
+    "rss:d86f7ebb8ecf9c81": 1792109858.4332352,
+    "rss:e3f42d106eeb5016": 1792109858.4332354,
+    "rss:6bfa0fee18e95809": 1792109858.4332356,
+    "rss:112f77ffed6b730f": 1792109858.433236,
+    "rss:a49620ace441cdbe": 1792109858.433236
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:bf6483a07ef13ebc",
-      "kind": "news",
-      "title": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",
-      "url": "https://decrypt.co/380998/scientists-want-ai-cut-off-from-internet",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1792014364
-    },
     {
       "id": "rss:6e18f2fe0cefb4ab",
       "kind": "news",
@@ -937,17 +915,150 @@
       "xRole": null,
       "cluster": "binance-us-funding",
       "ts": 1792095671
+    },
+    {
+      "id": "rss:c759937ee57dcf12",
+      "kind": "news",
+      "title": "MSCI finalizes index rules that put Strategy, crypto treasury firms at risk of exclusion",
+      "url": "https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "msci-index-crypto-exclusion",
+      "ts": 1792102556
+    },
+    {
+      "id": "rss:d86f7ebb8ecf9c81",
+      "kind": "news",
+      "title": "Hidden Text, a Fake Mailbox: How Researchers Got Rogue AI Agents to Talk",
+      "url": "https://decrypt.co/381109/researchers-fleet-rouge-ai-agents-talk-alibaba",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ai-security-research",
+      "ts": 1792102563
+    },
+    {
+      "id": "rss:e3f42d106eeb5016",
+      "kind": "news",
+      "title": "Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks",
+      "url": "https://decrypt.co/381102/google-cracked-quantum-computing-biggest-bottlenecks",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "quantum-computing-encryption-risk",
+      "ts": 1792100764
+    },
+    {
+      "id": "rss:6bfa0fee18e95809",
+      "kind": "news",
+      "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
+      "url": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "crypto-tax-regulation-oecd",
+      "ts": 1792107259
+    },
+    {
+      "id": "rss:112f77ffed6b730f",
+      "kind": "news",
+      "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
+      "url": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "ledger-tampering-exploit",
+      "ts": 1792104178
+    },
+    {
+      "id": "rss:a49620ace441cdbe",
+      "kind": "news",
+      "title": "[ARFC] Aave V4 Deployment on Tempo",
+      "url": "https://governance.aave.com/t/arfc-aave-v4-deployment-on-tempo/25857",
+      "source": "Aave gouvernance",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "aave-tempo-deployment",
+      "ts": 1792109046
     }
   ],
-  "digest_queue": [],
-  "sent": {
-    "2026-10-09": {
-      "critical": 1,
-      "important": 13,
-      "digests": [
-        "18:30"
-      ]
+  "digest_queue": [
+    {
+      "id": "msci-index-crypto-exclusion:2026-10-16",
+      "level": "important",
+      "time": "02:17",
+      "title": "MSCI risque d'exclure des firmes de trésorerie crypto de ses indices",
+      "summary": "Les nouvelles règles MSCI pour les sociétés non opérationnelles pourraient exclure Strategy, Metaplanet et SharpLink de ses indices. La liste définitive est attendue le 11 novembre.",
+      "assets": [
+        "STRATEGY",
+        "METAPLANET",
+        "SHARPLINK"
+      ],
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729"
+        }
+      ],
+      "digested": false
     },
+    {
+      "id": "quantum-computing-encryption-risk:2026-10-16",
+      "level": "important",
+      "time": "02:17",
+      "title": "Google annonce une avancée majeure en calcul quantique menaçant le chiffrement (en attente de confirmation)",
+      "summary": "La puce Willow de Google a réduit les erreurs de 40x sur les 'états magiques', rapprochant les ordinateurs quantiques utiles capables de menacer le chiffrement actuel des cryptomonnaies.",
+      "assets": [
+        "BTC",
+        "ETH"
+      ],
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/381102/google-cracked-quantum-computing-biggest-bottlenecks"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "crypto-tax-regulation-oecd:2026-10-16",
+      "level": "important",
+      "time": "02:17",
+      "title": "L'Australie adopte le cadre OCDE de reporting fiscal crypto",
+      "summary": "L'Australie, parmi 77 juridictions, s'engage à adopter le CARF avec premiers échanges internationaux de données fiscales crypto prévus en 2028.",
+      "assets": [],
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "aave-tempo-deployment:2026-10-16",
+      "level": "important",
+      "time": "02:17",
+      "title": "Proposition de déploiement d'Aave V4 sur Tempo Mainnet",
+      "summary": "Un ARFC propose de déployer Aave Protocol V4 sur Tempo Mainnet, une blockchain Layer 1 construite pour les paiements, incubée par Stripe et Paradigm.",
+      "assets": [
+        "AAVE"
+      ],
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "Aave gouvernance",
+          "url": "https://governance.aave.com/t/arfc-aave-v4-deployment-on-tempo/25857"
+        }
+      ],
+      "digested": false
+    }
+  ],
+  "sent": {
     "2026-10-10": {
       "critical": 0,
       "important": 2,
@@ -978,6 +1089,11 @@
     "2026-10-15": {
       "critical": 0,
       "important": 5,
+      "digests": []
+    },
+    "2026-10-16": {
+      "critical": 0,
+      "important": 0,
       "digests": []
     }
   },
@@ -1144,7 +1260,11 @@
     "hex-founder-arrest": "important",
     "mastercard-stablecoin-integration": "important",
     "cbdc-regulation": "important",
-    "russia-crypto-regulation": "important"
+    "russia-crypto-regulation": "important",
+    "msci-index-crypto-exclusion": "important",
+    "quantum-computing-encryption-risk": "important",
+    "crypto-tax-regulation-oecd": "important",
+    "aave-tempo-deployment": "important"
   },
   "briefing_attempts": {
     "2026-10-08": 1,
