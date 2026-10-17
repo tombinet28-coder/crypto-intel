@@ -1,29 +1,5 @@
 {
   "seen": {
-    "rss:079d20ddfde0d0ed": 1791982989.0747683,
-    "rss:2ca77b6bc99e1471": 1791982989.0747697,
-    "rss:ee04c656c28a2185": 1791982989.0747702,
-    "rss:c62d60fa9f71db02": 1791982989.0747705,
-    "rss:c8f63acabba1d483": 1791982989.0747707,
-    "rss:d500000d9de0cd7d": 1791982989.074771,
-    "rss:1bfcee0b87fcb5e9": 1791982989.0747712,
-    "rss:a014fcd8f6f363ad": 1791982989.0747712,
-    "rss:6195aadc039fb953": 1791982989.0747714,
-    "rss:f68eb7ac2d8b9300": 1791982989.0747716,
-    "rss:6babb10b63b19cf4": 1791982989.074772,
-    "rss:b5faf3770564e37d": 1791982989.0747721,
-    "rss:43deee08364de602": 1791982989.0747721,
-    "rss:a42ffdf039c2c4ad": 1791982989.0747726,
-    "rss:3dbb7141958b960d": 1791982989.0747728,
-    "rss:93c3836e8965731c": 1791982989.074773,
-    "rss:c63a9f8e1bf5c6b9": 1791982989.0747733,
-    "rss:3ec086ff5a810afa": 1791982989.0747733,
-    "rss:2d6928d58f4bb913": 1791982989.0747736,
-    "rss:70e4aa506458fc3b": 1791982989.0747736,
-    "rss:432a9b1eae0b8d81": 1791982989.0747738,
-    "rss:e58d2d8c67b600d4": 1791982989.074774,
-    "rss:770b7922e1dfef64": 1791982989.0747743,
-    "rss:966d6531ba44a425": 1791982989.0747743,
     "rss:dd1501e965f34c93": 1792000644.751117,
     "rss:d3b391885f8e4c66": 1792000644.7511184,
     "rss:f3b53b98b76ce27c": 1792000644.751119,
@@ -192,120 +168,15 @@
     "rss:9713d0d47cb199d8": 1792213016.767243,
     "rss:13937726ecce9a54": 1792228352.6812649,
     "rss:a7dfcbd9835acc86": 1792228352.6812658,
-    "rss:2f7210966e832e3a": 1792228352.6812665
+    "rss:2f7210966e832e3a": 1792228352.6812665,
+    "rss:85d39d7f8f78ecce": 1792242512.290554,
+    "rss:765e6c4edece6b09": 1792242512.290556,
+    "rss:79868cab326bab80": 1792242512.2905564,
+    "rss:6253ec0f0eb264ac": 1792242512.2905567,
+    "move24:bitway:20743": 1792242512.2906606
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:000490a6da682a94",
-      "kind": "news",
-      "title": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
-      "url": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "gemini-cftc-settlement",
-      "ts": 1792143381
-    },
-    {
-      "id": "rss:1d69de1e6df25d31",
-      "kind": "news",
-      "title": "Capital B posts wider H1 net loss of $78 million on bitcoin impairment charge",
-      "url": "https://www.theblock.co/news/business/2026-10-16-capital-b-wider-h1-net-loss-418781",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "capital-b-losses",
-      "ts": 1792143021
-    },
-    {
-      "id": "rss:55db5cecc7c25ac7",
-      "kind": "news",
-      "title": "Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant",
-      "url": "https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1792142533
-    },
-    {
-      "id": "rss:36cfcf17b11f87c1",
-      "kind": "news",
-      "title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1792149300
-    },
-    {
-      "id": "rss:35d99220f9208af7",
-      "kind": "news",
-      "title": "Circle targets 40 new markets as stablecoin demand grows globally",
-      "url": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1792148075
-    },
-    {
-      "id": "rss:99ab16d933b77932",
-      "kind": "news",
-      "title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
-      "url": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "quantum-computing-encryption-risk",
-      "ts": 1792147946
-    },
-    {
-      "id": "rss:1c6c6bd539608257",
-      "kind": "news",
-      "title": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
-      "url": "https://www.coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1792147729
-    },
-    {
-      "id": "rss:9e381c55cf235454",
-      "kind": "news",
-      "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
-      "url": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1792147263
-    },
-    {
-      "id": "rss:b3f02691c24b9def",
-      "kind": "news",
-      "title": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
-      "url": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ledger-tampering-exploit",
-      "ts": 1792146270
-    },
-    {
-      "id": "rss:b9a8f3e79f5f4bb5",
-      "kind": "news",
-      "title": "Live updates: Bitcoin steady near $82,000 after Fed Chair Warsh's comments",
-      "url": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1792144094
-    },
     {
       "id": "rss:7dac925f47663d3c",
       "kind": "news",
@@ -316,83 +187,6 @@
       "xRole": null,
       "cluster": "general-market-news",
       "ts": 1792157467
-    },
-    {
-      "id": "rss:43c50bb0b475ec65",
-      "kind": "news",
-      "title": "OpenAI says research model spent another wallet’s testnet ETH without authorization on coding task",
-      "url": "https://www.theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ai-agent-crypto-incident",
-      "ts": 1792150494
-    },
-    {
-      "id": "rss:7b461613537dc866",
-      "kind": "news",
-      "title": "Visa Direct moves USDC prefunding into commercial production with Inyo Global",
-      "url": "https://www.theblock.co/news/business/2026-10-16-visa-direct-moves-usdc-prefunding-into-commercial-production-with-inyo-global-418802",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1792149912
-    },
-    {
-      "id": "rss:3fea1e8e8d514b6c",
-      "kind": "news",
-      "title": "Google demonstrates quantum computing breakthrough as observers weigh Q-day implications",
-      "url": "https://www.theblock.co/news/web3/2026-10-16-google-quantum-computing-breakthrough-418787",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "quantum-computing-encryption-risk",
-      "ts": 1792145612
-    },
-    {
-      "id": "rss:fdb3e5bc9b75a594",
-      "kind": "news",
-      "title": "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis",
-      "url": "https://decrypt.co/381141/scammer-lost-4-8m-in-bitcoin-to-tampered-ledger-wallets-chainalysis",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ledger-tampering-exploit",
-      "ts": 1792153338
-    },
-    {
-      "id": "rss:17418383e4e80307",
-      "kind": "news",
-      "title": "Morning Minute: Google Clears a Major Quantum Hurdle, Bitcoin Still Safe",
-      "url": "https://decrypt.co/381138/morning-minute-google-clears-a-major-quantum-hurdle-bitcoin-still-safe",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "quantum-computing-encryption-risk",
-      "ts": 1792151214
-    },
-    {
-      "id": "rss:3332205284f2f215",
-      "kind": "news",
-      "title": "OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task",
-      "url": "https://decrypt.co/381123/openai-model-used-testnet-ethereum-wallet-without-permission-to-finish-coding-task",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ai-agent-crypto-incident",
-      "ts": 1792147148
-    },
-    {
-      "id": "rss:132d5e3adee72202",
-      "kind": "news",
-      "title": "GTA 6 Trailer Features Meme Coin—And Solana Copycat Soars 2,900%",
-      "url": "https://decrypt.co/381122/gta-6-trailer-features-meme-coin-and-solana-copycat-soars-2900",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1792145766
     },
     {
       "id": "rss:31ea21679ff77b6c",
@@ -426,28 +220,6 @@
       "xRole": null,
       "cluster": "general-market-news",
       "ts": 1792157620
-    },
-    {
-      "id": "rss:1ad6d9c8fff9c5a8",
-      "kind": "news",
-      "title": "Solana’s Liu says Shanghai event postponed over registration surge",
-      "url": "https://cointelegraph.com/news/solana-shanghai-postponed-exceeding-event-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "sol-network-upgrade",
-      "ts": 1792149767
-    },
-    {
-      "id": "rss:9226c73768340ba1",
-      "kind": "news",
-      "title": "CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins",
-      "url": "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "tokenized-commodities-expansion",
-      "ts": 1792146438
     },
     {
       "id": "rss:e279809b5d052338",
@@ -684,7 +456,7 @@
     },
     "2026-10-17": {
       "critical": 0,
-      "important": 0,
+      "important": 1,
       "digests": []
     }
   },
