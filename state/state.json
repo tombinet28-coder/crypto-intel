@@ -148,11 +148,6 @@
   "recent": [],
   "digest_queue": [],
   "sent": {
-    "2026-10-11": {
-      "critical": 0,
-      "important": 3,
-      "digests": []
-    },
     "2026-10-12": {
       "critical": 0,
       "important": 8,
@@ -183,6 +178,11 @@
     "2026-10-17": {
       "critical": 0,
       "important": 1,
+      "digests": []
+    },
+    "2026-10-18": {
+      "critical": 0,
+      "important": 0,
       "digests": []
     }
   },
