@@ -1,14 +1,5 @@
 {
   "seen": {
-    "rss:d9dac2b65e0d8596": 1791963130.655705,
-    "rss:16f364943b495d8d": 1791963130.6557071,
-    "rss:eecfb8d2f6b303a9": 1791963130.6557076,
-    "rss:6d941332be78f29c": 1791963130.6557078,
-    "rss:429f8f6be8883f62": 1791963130.655708,
-    "rss:8e557d3a5c88903d": 1791963130.6557083,
-    "rss:7bd02f7a9d24a229": 1791963130.6557088,
-    "rss:c2a441cbf6d3d387": 1791963130.6557088,
-    "move24:bitway:20740": 1791963130.6558213,
     "rss:079d20ddfde0d0ed": 1791982989.0747683,
     "rss:2ca77b6bc99e1471": 1791982989.0747697,
     "rss:ee04c656c28a2185": 1791982989.0747702,
@@ -198,7 +189,10 @@
     "rss:707d2e9c593ebe99": 1792188074.568537,
     "rss:4a38b03d1a0d3280": 1792188074.568538,
     "rss:a133e2c3343dc20b": 1792188074.5685382,
-    "rss:9713d0d47cb199d8": 1792213016.767243
+    "rss:9713d0d47cb199d8": 1792213016.767243,
+    "rss:13937726ecce9a54": 1792228352.6812649,
+    "rss:a7dfcbd9835acc86": 1792228352.6812658,
+    "rss:2f7210966e832e3a": 1792228352.6812665
   },
   "x_since": {},
   "recent": [
@@ -214,28 +208,6 @@
       "ts": 1792143381
     },
     {
-      "id": "rss:04b78b7ae028731e",
-      "kind": "news",
-      "title": "MSCI approves rules that could eject Strategy, Metaplanet from equity indexes",
-      "url": "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "msci-index-crypto-exclusion",
-      "ts": 1792139688
-    },
-    {
-      "id": "rss:b9019825e1a9fc24",
-      "kind": "news",
-      "title": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
-      "url": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1792130038
-    },
-    {
       "id": "rss:1d69de1e6df25d31",
       "kind": "news",
       "title": "Capital B posts wider H1 net loss of $78 million on bitcoin impairment charge",
@@ -247,28 +219,6 @@
       "ts": 1792143021
     },
     {
-      "id": "rss:79f634a7b02eeb06",
-      "kind": "news",
-      "title": "US federal judge denies joint Gemini-CFTC bid to undo $5 million settlement",
-      "url": "https://www.theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "gemini-cftc-settlement",
-      "ts": 1792129445
-    },
-    {
-      "id": "rss:15d80d345533a3bc",
-      "kind": "news",
-      "title": "What Is a Hardware Wallet? Crypto Cold Storage Explained",
-      "url": "https://decrypt.co/resources/what-is-a-hardware-wallet-crypto-cold-storage-explained",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1792141848
-    },
-    {
       "id": "rss:55db5cecc7c25ac7",
       "kind": "news",
       "title": "Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant",
@@ -278,50 +228,6 @@
       "xRole": null,
       "cluster": "general-market-news",
       "ts": 1792142533
-    },
-    {
-      "id": "rss:bcb609752069ea86",
-      "kind": "news",
-      "title": "Capital B reports $78M H1 loss driven by Bitcoin impairment charge",
-      "url": "https://cointelegraph.com/news/capital-b-78m-h1-loss-bitcoin-impairment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "capital-b-losses",
-      "ts": 1792137586
-    },
-    {
-      "id": "rss:5a0dc2dc4cf5c563",
-      "kind": "news",
-      "title": "Judge rejects CFTC, Gemini bid to undo $5M settlement",
-      "url": "https://cointelegraph.com/news/judge-rejects-cftc-gemini-5m-settlement-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "gemini-cftc-settlement",
-      "ts": 1792136609
-    },
-    {
-      "id": "rss:c0139086e1fb5fa3",
-      "kind": "news",
-      "title": "OpenAI model helped itself to testnet crypto, then kept quiet about it",
-      "url": "https://cointelegraph.com/news/openai-model-spent-testnet-eth-without-authorization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "ai-agent-crypto-incident",
-      "ts": 1792131082
-    },
-    {
-      "id": "rss:b9c48fbbbbb187ce",
-      "kind": "news",
-      "title": "Balaji’s ‘Singapore of social media’ begins with a wave of bans",
-      "url": "https://cointelegraph.com/news/balajis-singapore-of-social-media-begins-with-a-wave-of-bans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "farcaster-acquisition",
-      "ts": 1792127771
     },
     {
       "id": "rss:36cfcf17b11f87c1",
@@ -962,6 +868,6 @@
     "2026-10-14": 1,
     "2026-10-15": 2,
     "2026-10-16": 1,
-    "2026-10-17": 1
+    "2026-10-17": 2
   }
 }
