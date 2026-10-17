@@ -1,14 +1,5 @@
 {
   "seen": {
-    "rss:19409389d8d9e991": 1791932692.2109892,
-    "rss:eeaaa643b25f8ad7": 1791932692.2109902,
-    "rss:b70292def3203d09": 1791932692.2109904,
-    "rss:77dfc160bd3365cf": 1791932692.2109907,
-    "rss:b7a81299b716b5c7": 1791932692.210991,
-    "rss:fbd947543d8525c8": 1791932692.2109911,
-    "rss:fe5efe689c8205ce": 1791932692.2109911,
-    "rss:3d3c869f46aa6162": 1791932692.2109914,
-    "rss:456d5fff387eccbe": 1791932692.2109914,
     "rss:bf50539552896c08": 1791942618.6224096,
     "rss:5839a6e29be01efd": 1791942618.6224105,
     "rss:cebc4e95b6bdee87": 1791942618.622411,
@@ -213,61 +204,6 @@
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:c759937ee57dcf12",
-      "kind": "news",
-      "title": "MSCI finalizes index rules that put Strategy, crypto treasury firms at risk of exclusion",
-      "url": "https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "msci-index-crypto-exclusion",
-      "ts": 1792102556
-    },
-    {
-      "id": "rss:d86f7ebb8ecf9c81",
-      "kind": "news",
-      "title": "Hidden Text, a Fake Mailbox: How Researchers Got Rogue AI Agents to Talk",
-      "url": "https://decrypt.co/381109/researchers-fleet-rouge-ai-agents-talk-alibaba",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ai-security-research",
-      "ts": 1792102563
-    },
-    {
-      "id": "rss:6bfa0fee18e95809",
-      "kind": "news",
-      "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
-      "url": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "crypto-tax-regulation-oecd",
-      "ts": 1792107259
-    },
-    {
-      "id": "rss:112f77ffed6b730f",
-      "kind": "news",
-      "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
-      "url": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "ledger-tampering-exploit",
-      "ts": 1792104178
-    },
-    {
-      "id": "rss:a49620ace441cdbe",
-      "kind": "news",
-      "title": "[ARFC] Aave V4 Deployment on Tempo",
-      "url": "https://governance.aave.com/t/arfc-aave-v4-deployment-on-tempo/25857",
-      "source": "Aave gouvernance",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "aave-tempo-deployment",
-      "ts": 1792109046
-    },
     {
       "id": "rss:6746b0bc093775c1",
       "kind": "news",
