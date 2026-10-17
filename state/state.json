@@ -173,76 +173,14 @@
     "rss:765e6c4edece6b09": 1792242512.290556,
     "rss:79868cab326bab80": 1792242512.2905564,
     "rss:6253ec0f0eb264ac": 1792242512.2905567,
-    "move24:bitway:20743": 1792242512.2906606
+    "move24:bitway:20743": 1792242512.2906606,
+    "rss:07341b89e9435d38": 1792255065.3218985,
+    "rss:262e2d8582e4b184": 1792255065.3219,
+    "rss:f629ef8b9a2452a0": 1792255065.3219004,
+    "rss:d730c127f764ddc4": 1792255065.3219006
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:7dac925f47663d3c",
-      "kind": "news",
-      "title": "How Ethereum Works",
-      "url": "https://www.theblock.co/learn/ethereum/how-ethereum-works-418525",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1792157467
-    },
-    {
-      "id": "rss:31ea21679ff77b6c",
-      "kind": "news",
-      "title": "Strategy conditionally declares daily dividends as STRC hovers below $100",
-      "url": "https://cointelegraph.com/news/strategy-daily-dividends-strc-hovers-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "solana-treasury-management",
-      "ts": 1792159863
-    },
-    {
-      "id": "rss:a1229b1eddb5f224",
-      "kind": "news",
-      "title": "Ledger’s early implant warnings deserved more action, Karpelès says",
-      "url": "https://cointelegraph.com/news/ledger-early-implant-warnings-mark-karpeles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "ledger-tampering-exploit",
-      "ts": 1792158695
-    },
-    {
-      "id": "rss:2dd7ee014ddd53c3",
-      "kind": "news",
-      "title": "Deutsche Bank prepares German crypto custody launch, eyes Asia: Report",
-      "url": "https://cointelegraph.com/news/deutsche-bank-crypto-custody-expansion-asia-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1792157620
-    },
-    {
-      "id": "rss:e279809b5d052338",
-      "kind": "news",
-      "title": "Risk Stewards: Cap Increases on Aave V4 / 2026.10.16",
-      "url": "https://governance.aave.com/t/risk-stewards-cap-increases-on-aave-v4-2026-10-16/25860",
-      "source": "Aave gouvernance",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "aave-governance",
-      "ts": 1792161896
-    },
-    {
-      "id": "rss:e3449494eb5af40b",
-      "kind": "news",
-      "title": "Big Tech's AI auditors will only see what they're shown",
-      "url": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ai-security-research",
-      "ts": 1792162702
-    },
     {
       "id": "rss:59b786b1031f91fb",
       "kind": "news",
@@ -253,17 +191,6 @@
       "xRole": null,
       "cluster": "mastercard-stablecoin-integration",
       "ts": 1792171289
-    },
-    {
-      "id": "rss:c290b0a13b67825f",
-      "kind": "news",
-      "title": "Circle details USDC revenue split, says $819 million went to partners and costs in H1 2026",
-      "url": "https://www.theblock.co/news/business/2026-10-16-circle-usdc-revenue-split-partners-418826",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "tokenized-commodities-expansion",
-      "ts": 1792162709
     },
     {
       "id": "rss:5c777f389cd504e5",
@@ -288,39 +215,6 @@
       "ts": 1792172886
     },
     {
-      "id": "rss:abc2d6aca2d43027",
-      "kind": "news",
-      "title": "CFTC Wants to Drop Gemini’s $5M Settlement. A Judge Just Said No",
-      "url": "https://decrypt.co/381149/cftc-wants-drop-gemini-5m-settlement-judge-said-no",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "gemini-cftc-settlement",
-      "ts": 1792168564
-    },
-    {
-      "id": "rss:5b7c5f1cc31d753b",
-      "kind": "news",
-      "title": "Bitcoin Bounces, But Where Does It Go Next? Here’s What the Charts Say",
-      "url": "https://decrypt.co/381150/bitcoin-price-rebounds-where-next-charts",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1792166765
-    },
-    {
-      "id": "rss:9f043e76c1bb9c77",
-      "kind": "news",
-      "title": "Three Canadian Armed Forces Members Charged in Kidnapping of Crypto Exchange Owner",
-      "url": "https://decrypt.co/381148/three-canadian-armed-forces-members-charged-in-kidnapping-of-crypto-exchange-owner",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1792165438
-    },
-    {
       "id": "rss:24743b3d50245df9",
       "kind": "news",
       "title": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
@@ -341,28 +235,6 @@
       "xRole": null,
       "cluster": "tokenized-commodities-expansion",
       "ts": 1792171305
-    },
-    {
-      "id": "rss:ad6318828056212c",
-      "kind": "news",
-      "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
-      "url": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "tokenized-commodities-expansion",
-      "ts": 1792165948
-    },
-    {
-      "id": "rss:cc36b5cf6d401802",
-      "kind": "news",
-      "title": "Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1792165543
     },
     {
       "id": "rss:d549d041d4260b5e",
