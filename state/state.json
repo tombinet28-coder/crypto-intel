@@ -1,8 +1,5 @@
 {
   "seen": {
-    "rss:bf50539552896c08": 1791942618.6224096,
-    "rss:5839a6e29be01efd": 1791942618.6224105,
-    "rss:cebc4e95b6bdee87": 1791942618.622411,
     "rss:d9dac2b65e0d8596": 1791963130.655705,
     "rss:16f364943b495d8d": 1791963130.6557071,
     "rss:eecfb8d2f6b303a9": 1791963130.6557076,
@@ -200,43 +197,11 @@
     "rss:65e131d330dd728c": 1792188074.5685358,
     "rss:707d2e9c593ebe99": 1792188074.568537,
     "rss:4a38b03d1a0d3280": 1792188074.568538,
-    "rss:a133e2c3343dc20b": 1792188074.5685382
+    "rss:a133e2c3343dc20b": 1792188074.5685382,
+    "rss:9713d0d47cb199d8": 1792213016.767243
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:6746b0bc093775c1",
-      "kind": "news",
-      "title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
-      "url": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ai-agent-crypto-incident",
-      "ts": 1792124959
-    },
-    {
-      "id": "rss:df6261cced5c67e4",
-      "kind": "news",
-      "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
-      "url": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1792124062
-    },
-    {
-      "id": "rss:e3c3b163fa3bcc3b",
-      "kind": "news",
-      "title": "MSCI adopts index exclusion rules that could oust Strategy",
-      "url": "https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "msci-index-crypto-exclusion",
-      "ts": 1792111700
-    },
     {
       "id": "rss:000490a6da682a94",
       "kind": "news",
@@ -991,12 +956,12 @@
     "aave-governance": "important"
   },
   "briefing_attempts": {
-    "2026-10-09": 1,
     "2026-10-10": 1,
     "2026-10-11": 1,
     "2026-10-12": 1,
     "2026-10-14": 1,
     "2026-10-15": 2,
-    "2026-10-16": 1
+    "2026-10-16": 1,
+    "2026-10-17": 1
   }
 }
