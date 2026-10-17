@@ -1,15 +1,5 @@
 {
   "seen": {
-    "rss:dcc84f91bba4e9df": 1792013707.6844943,
-    "rss:7d4a3448cb71f249": 1792013707.6844962,
-    "rss:0de720379603ec1c": 1792013707.6844966,
-    "rss:4b576f672e7b9fba": 1792013707.6844966,
-    "rss:9cf3418901cc3d65": 1792013707.6844969,
-    "rss:3a9eec6125be3c35": 1792013707.684497,
-    "rss:8b4c40dc2fdc9bd4": 1792013707.6844974,
-    "rss:043a2bf5f6f78168": 1792013707.6844976,
-    "rss:e4f781bb5131fcb3": 1792013707.6844976,
-    "rss:94f7e6b67dd41a08": 1792013707.6844978,
     "rss:bf6483a07ef13ebc": 1792022667.0061026,
     "rss:6e18f2fe0cefb4ab": 1792038694.4142673,
     "rss:cdcb0f4db35bc650": 1792038694.4142685,
@@ -151,44 +141,11 @@
     "rss:d730c127f764ddc4": 1792255065.3219006,
     "rss:a085272c190df593": 1792264492.334023,
     "rss:8919d13e6295a375": 1792264492.334024,
-    "rss:0173995c89cf43fc": 1792264492.3340244
+    "rss:0173995c89cf43fc": 1792264492.3340244,
+    "rss:56c8ce3d03f9fec5": 1792273277.4418802
   },
   "x_since": {},
-  "recent": [
-    {
-      "id": "rss:65e131d330dd728c",
-      "kind": "news",
-      "title": "Strive’s bitcoin buying spree earns 27% price target hike from TD Cowen",
-      "url": "https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-market-news",
-      "ts": 1792182177
-    },
-    {
-      "id": "rss:707d2e9c593ebe99",
-      "kind": "news",
-      "title": "Tesla Roadster Rocket Is the Cool 'Flying' Car You Can’t Have",
-      "url": "https://decrypt.co/381184/tesla-roadster-rocket-cool-flying-car-you-cant-have",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "non-crypto",
-      "ts": 1792181764
-    },
-    {
-      "id": "rss:4a38b03d1a0d3280",
-      "kind": "news",
-      "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
-      "url": "https://decrypt.co/381177/hackers-jailbreak-iphone-18-pro-survives-reboot",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "non-crypto",
-      "ts": 1792179364
-    }
-  ],
+  "recent": [],
   "digest_queue": [],
   "sent": {
     "2026-10-11": {
