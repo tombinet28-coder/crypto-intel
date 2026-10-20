@@ -1,6 +1,5 @@
 {
   "seen": {
-    "rss:56c8ce3d03f9fec5": 1792273277.4418802,
     "rss:a93a0edab8ec6e17": 1792297147.9415739,
     "rss:8e27774775959579": 1792314103.1692603,
     "rss:9f8942c173776d36": 1792314103.1692615,
@@ -153,7 +152,14 @@
     "rss:848972008615c3de": 1792528096.06658,
     "rss:1dc5ac5236979ca5": 1792528096.0665803,
     "rss:b2bf00dbe51f27bd": 1792528096.0665803,
-    "rss:2bd98814d1901e7e": 1792528096.0665805
+    "rss:2bd98814d1901e7e": 1792528096.0665805,
+    "rss:97dc65ff12df1e33": 1792538474.8134606,
+    "rss:16b75fbdcf704350": 1792538474.8134618,
+    "rss:45c765d731f6a76f": 1792538474.8134623,
+    "rss:660b5bc9203e7c14": 1792538474.8134625,
+    "rss:bc688dec6a9efab5": 1792538474.8134627,
+    "rss:9a0472e3609e0231": 1792538474.813463,
+    "rss:098d74a6b46130ab": 1792538474.813463
   },
   "x_since": {},
   "recent": [
@@ -783,17 +789,130 @@
       "xRole": null,
       "cluster": "crypto-shutdowns-2026",
       "ts": 1792526379
+    },
+    {
+      "id": "rss:97dc65ff12df1e33",
+      "kind": "news",
+      "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
+      "url": "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ai-agents-trading",
+      "ts": 1792530741
+    },
+    {
+      "id": "rss:16b75fbdcf704350",
+      "kind": "news",
+      "title": "People Are Vibe Coding the Ads Out of Their Smart TVs: Here's How",
+      "url": "https://decrypt.co/381456/vibe-coding-ads-out-smart-tvs-heres-how",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "unrelated-tech",
+      "ts": 1792534564
+    },
+    {
+      "id": "rss:45c765d731f6a76f",
+      "kind": "news",
+      "title": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
+      "url": "https://decrypt.co/381467/openai-buys-orchestra-bio-ai-agents-drug-development",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "unrelated-pharma",
+      "ts": 1792532764
+    },
+    {
+      "id": "rss:660b5bc9203e7c14",
+      "kind": "news",
+      "title": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
+      "url": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "jpmorgan-btc-outlook",
+      "ts": 1792530964
+    },
+    {
+      "id": "rss:bc688dec6a9efab5",
+      "kind": "news",
+      "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
+      "url": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "drift-exploit",
+      "ts": 1792529164
+    },
+    {
+      "id": "rss:9a0472e3609e0231",
+      "kind": "news",
+      "title": "Utah AG sues Kalshi, pursues profits from prediction market company",
+      "url": "https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "kalshi-lawsuit",
+      "ts": 1792531155
+    },
+    {
+      "id": "rss:098d74a6b46130ab",
+      "kind": "news",
+      "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
+      "url": "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "sec-crypto-regulation",
+      "ts": 1792528680
     }
   ],
-  "digest_queue": [],
-  "sent": {
-    "2026-10-14": {
-      "critical": 0,
-      "important": 9,
-      "digests": [
-        "12:30"
-      ]
+  "digest_queue": [
+    {
+      "id": "kalshi-lawsuit:2026-10-21",
+      "level": "important",
+      "time": "01:21",
+      "title": "L'Utah poursuit Kalshi, une plateforme de marché de prédiction",
+      "summary": "Le procureur général de l'Utah assimile Kalshi à un 'nuisance publique' causant un 'préjudice significatif et continu' aux résidents de l'État.",
+      "assets": [],
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-20-utah-likens-kalshi-back-alley-gambling-den-lawsuit-naming-susquehanna-firms-421442"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "digested": false
     },
+    {
+      "id": "sec-crypto-regulation:2026-10-21",
+      "level": "important",
+      "time": "01:21",
+      "title": "Bitwise et Hyperliquid demandent des changements de règles SEC",
+      "summary": "Les deux firmes cherchent des directives plus claires de la SEC sur la classification des actifs cryptographiques et le trading sur marché secondaire, alors que le délai de commentaires publics arrive à terme.",
+      "assets": [
+        "HYPE"
+      ],
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "digested": false
+    }
+  ],
+  "sent": {
     "2026-10-15": {
       "critical": 0,
       "important": 5,
@@ -822,6 +941,11 @@
     "2026-10-20": {
       "critical": 0,
       "important": 10,
+      "digests": []
+    },
+    "2026-10-21": {
+      "critical": 0,
+      "important": 0,
       "digests": []
     }
   },
@@ -1006,7 +1130,9 @@
     "swiss-btc-etf": "important",
     "drift-exploit": "important",
     "injective-korean-won": "important",
-    "mstr-bitcoin-treasury": "important"
+    "mstr-bitcoin-treasury": "important",
+    "kalshi-lawsuit": "important",
+    "sec-crypto-regulation": "important"
   },
   "briefing_attempts": {
     "2026-10-14": 1,
