@@ -1,8 +1,5 @@
 {
   "seen": {
-    "rss:13937726ecce9a54": 1792228352.6812649,
-    "rss:a7dfcbd9835acc86": 1792228352.6812658,
-    "rss:2f7210966e832e3a": 1792228352.6812665,
     "rss:85d39d7f8f78ecce": 1792242512.290554,
     "rss:765e6c4edece6b09": 1792242512.290556,
     "rss:79868cab326bab80": 1792242512.2905564,
@@ -111,10 +108,215 @@
     "rss:bf5898f1ef821023": 1792477890.7874184,
     "rss:b1a8243af2a01064": 1792477890.787419,
     "rss:a68dc285b80d8adc": 1792477890.787419,
-    "rss:90b7c335deec26aa": 1792477890.7874193
+    "rss:90b7c335deec26aa": 1792477890.7874193,
+    "rss:12043e279f28a043": 1792497699.4674406,
+    "rss:8d5cef5ad2d8254d": 1792497699.4674416,
+    "rss:a19bd9f1e2555a3c": 1792497699.4674423,
+    "rss:6f4bc2cf68bce42c": 1792497699.4674423,
+    "rss:e8ba23e5c9a6dabb": 1792497699.4674425,
+    "rss:bc5be6afab40fa6c": 1792497699.4674428,
+    "rss:7bef91eb9f71fc2f": 1792497699.467443,
+    "rss:58ea1f1aca45c53b": 1792497699.467443,
+    "rss:225d8f5fec2921cd": 1792497699.467443,
+    "rss:6427324194dd4baf": 1792497699.4674432,
+    "rss:80a356e067daf743": 1792497699.4674435,
+    "rss:38f295c1958c9a84": 1792497699.4674435,
+    "rss:452d52385f974783": 1792497699.4674437,
+    "rss:2322b64af086e36b": 1792497699.467444,
+    "rss:2a203cc51eb6e89e": 1792497699.467444,
+    "rss:d1f2d30ccb8d2ef4": 1792497699.4674442,
+    "rss:04d44927ae3269d0": 1792497699.4674442
   },
   "x_since": {},
-  "recent": [],
+  "recent": [
+    {
+      "id": "rss:12043e279f28a043",
+      "kind": "news",
+      "title": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
+      "url": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "france-stablecoin-tax",
+      "ts": 1792495500
+    },
+    {
+      "id": "rss:8d5cef5ad2d8254d",
+      "kind": "news",
+      "title": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-market-dynamics",
+      "ts": 1792494861
+    },
+    {
+      "id": "rss:a19bd9f1e2555a3c",
+      "kind": "news",
+      "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
+      "url": "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "jpmorgan-btc-outlook",
+      "ts": 1792494640
+    },
+    {
+      "id": "rss:6f4bc2cf68bce42c",
+      "kind": "news",
+      "title": "Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection",
+      "url": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-price-drop",
+      "ts": 1792491775
+    },
+    {
+      "id": "rss:e8ba23e5c9a6dabb",
+      "kind": "news",
+      "title": "Live updates: Market nervousness persists as the AI selloff deepens",
+      "url": "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ai-selloff-market",
+      "ts": 1792491259
+    },
+    {
+      "id": "rss:bc5be6afab40fa6c",
+      "kind": "news",
+      "title": "South Korean IPO slump adds to AI market jitters as Brent crude tops $111",
+      "url": "https://www.coindesk.com/markets/2026/10/20/south-korean-ipo-plunge-deepens-ai-market-jitters-as-brent-tops-usd111",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ai-selloff-market",
+      "ts": 1792488744
+    },
+    {
+      "id": "rss:7bef91eb9f71fc2f",
+      "kind": "news",
+      "title": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
+      "url": "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "blackrock-btc-etf-inflow",
+      "ts": 1792484641
+    },
+    {
+      "id": "rss:58ea1f1aca45c53b",
+      "kind": "news",
+      "title": "BlackRock’s IBIT Bitcoin ETF draws $665 million inflow, highest since October 2025",
+      "url": "https://www.theblock.co/news/markets/2026-10-20-blackrock-ibit-bitcoin-etf-665-million-421102",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "blackrock-btc-etf-inflow",
+      "ts": 1792479924
+    },
+    {
+      "id": "rss:225d8f5fec2921cd",
+      "kind": "news",
+      "title": "Mt. Gox Pushes Repayment Deadline to 2027 With $2.8B in Bitcoin Still to Distribute",
+      "url": "https://decrypt.co/381392/mt-gox-pushes-repayment-deadline-to-2027-with-2-8b-in-bitcoin-still-to-distribute",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "mtgox-repayment",
+      "ts": 1792493748
+    },
+    {
+      "id": "rss:6427324194dd4baf",
+      "kind": "news",
+      "title": "BlackRock Files for 'Buffer' Bitcoin ETF as IBIT Draws $665M in a Day",
+      "url": "https://decrypt.co/381385/blackrock-files-for-buffer-bitcoin-etf-as-ibit-draws-665m-in-a-day",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "blackrock-buffer-etf",
+      "ts": 1792487610
+    },
+    {
+      "id": "rss:80a356e067daf743",
+      "kind": "news",
+      "title": "Netflix FTX trailer was ‘enough to upset me’ in first 30 seconds: former FTX COO",
+      "url": "https://cointelegraph.com/news/netflix-ftx-trailer-upset-first-30-seconds-ftx-coo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "ftx-netflix",
+      "ts": 1792495380
+    },
+    {
+      "id": "rss:38f295c1958c9a84",
+      "kind": "news",
+      "title": "Kazakhstan court orders curbs on Coinbase, BingX and four others",
+      "url": "https://cointelegraph.com/news/kazakhstan-court-limits-coinbase-bingx-four?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "kazakhstan-exchange-curbs",
+      "ts": 1792494741
+    },
+    {
+      "id": "rss:452d52385f974783",
+      "kind": "news",
+      "title": "XRP 30-day exchange inflows pass 6B tokens as whales move to the sidelines",
+      "url": "https://cointelegraph.com/markets/xrp-30-day-exchange-inflows-pass-6b-tokens-as-whales-move-to-the-sidelines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "xrp-whale-movement",
+      "ts": 1792491658
+    },
+    {
+      "id": "rss:2322b64af086e36b",
+      "kind": "news",
+      "title": "Mt. Gox pushes creditor repayment deadline to 2027 in sixth extension",
+      "url": "https://cointelegraph.com/news/mt-gox-creditor-repayment-deadline-extended-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "mtgox-repayment",
+      "ts": 1792491613
+    },
+    {
+      "id": "rss:2a203cc51eb6e89e",
+      "kind": "news",
+      "title": "Bitget plans Thai crypto exchange acquisition weeks after $388M hack",
+      "url": "https://cointelegraph.com/news/bitget-plans-thai-crypto-exchange-acquisition-weeks-after-388m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "bitget-hack",
+      "ts": 1792490400
+    },
+    {
+      "id": "rss:d1f2d30ccb8d2ef4",
+      "kind": "news",
+      "title": "JPMorgan projects Bitcoin to outperform US stocks and gold over next decade",
+      "url": "https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "jpmorgan-btc-outlook",
+      "ts": 1792486467
+    },
+    {
+      "id": "rss:04d44927ae3269d0",
+      "kind": "news",
+      "title": "BlackRock files for third Bitcoin ETF, still no Solana or XRP",
+      "url": "https://cointelegraph.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "blackrock-buffer-etf",
+      "ts": 1792483977
+    }
+  ],
   "digest_queue": [],
   "sent": {
     "2026-10-14": {
@@ -151,7 +353,7 @@
     },
     "2026-10-20": {
       "critical": 0,
-      "important": 0,
+      "important": 5,
       "digests": []
     }
   },
@@ -326,7 +528,12 @@
     "ai-agent-crypto-incident": "important",
     "gemini-cftc-settlement": "important",
     "farcaster-acquisition": "important",
-    "aave-governance": "important"
+    "aave-governance": "important",
+    "jpmorgan-btc-outlook": "important",
+    "blackrock-btc-etf-inflow": "important",
+    "mtgox-repayment": "important",
+    "blackrock-buffer-etf": "important",
+    "kazakhstan-exchange-curbs": "important"
   },
   "briefing_attempts": {
     "2026-10-14": 1,
