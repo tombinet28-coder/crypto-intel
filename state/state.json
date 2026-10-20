@@ -1,8 +1,5 @@
 {
   "seen": {
-    "rss:a085272c190df593": 1792264492.334023,
-    "rss:8919d13e6295a375": 1792264492.334024,
-    "rss:0173995c89cf43fc": 1792264492.3340244,
     "rss:56c8ce3d03f9fec5": 1792273277.4418802,
     "rss:a93a0edab8ec6e17": 1792297147.9415739,
     "rss:8e27774775959579": 1792314103.1692603,
@@ -142,7 +139,21 @@
     "rss:cab2c30f2bb10ad8": 1792514997.5610058,
     "rss:d6c1715c06b06bf1": 1792514997.5610058,
     "rss:f5907297fdebef6b": 1792514997.561006,
-    "rss:c1eea0f60245b8e6": 1792514997.561006
+    "rss:c1eea0f60245b8e6": 1792514997.561006,
+    "rss:80f88c331230513b": 1792528096.0665765,
+    "rss:65f70192363378a6": 1792528096.0665777,
+    "rss:f1d8288e40627260": 1792528096.0665781,
+    "rss:355e23d99c6f59dc": 1792528096.0665784,
+    "rss:019554287b5f21f2": 1792528096.0665789,
+    "rss:4e2439d0ddf5b1c1": 1792528096.066579,
+    "rss:0a5dd4b4d7dcc77b": 1792528096.066579,
+    "rss:4ff4d539ce5fe671": 1792528096.0665793,
+    "rss:47489aaab9f2d390": 1792528096.0665798,
+    "rss:bcfc5a71a1a35e33": 1792528096.0665798,
+    "rss:848972008615c3de": 1792528096.06658,
+    "rss:1dc5ac5236979ca5": 1792528096.0665803,
+    "rss:b2bf00dbe51f27bd": 1792528096.0665803,
+    "rss:2bd98814d1901e7e": 1792528096.0665805
   },
   "x_since": {},
   "recent": [
@@ -618,6 +629,160 @@
       "xRole": null,
       "cluster": "aave-governance",
       "ts": 1792502083
+    },
+    {
+      "id": "rss:0a5dd4b4d7dcc77b",
+      "kind": "news",
+      "title": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
+      "url": "https://decrypt.co/381448/microsoft-alphabet-goldman-sachs-growing-list-objecting-tokenized-stocks",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "okx-tokenized-stocks",
+      "ts": 1792527364
+    },
+    {
+      "id": "rss:80f88c331230513b",
+      "kind": "news",
+      "title": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
+      "url": "https://www.coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "okx-tokenized-stocks",
+      "ts": 1792520789
+    },
+    {
+      "id": "rss:019554287b5f21f2",
+      "kind": "news",
+      "title": "JPMorgan issues first long-term bitcoin return forecast, projecting 10% annually",
+      "url": "https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "jpmorgan-btc-outlook",
+      "ts": 1792520068
+    },
+    {
+      "id": "rss:4ff4d539ce5fe671",
+      "kind": "news",
+      "title": "Swiss Regulator Approves First Retail Fund That Holds Bitcoin Directly",
+      "url": "https://decrypt.co/381446/swiss-regulator-first-retail-fund-holds-bitcoin-directly",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "swiss-btc-etf",
+      "ts": 1792524664
+    },
+    {
+      "id": "rss:47489aaab9f2d390",
+      "kind": "news",
+      "title": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
+      "url": "https://decrypt.co/381444/bitcoin-etfs-best-day-nearly-month-blackrock-does-most-buying",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "blackrock-btc-etf-inflow",
+      "ts": 1792521064
+    },
+    {
+      "id": "rss:2bd98814d1901e7e",
+      "kind": "news",
+      "title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
+      "url": "https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "injective-korean-won",
+      "ts": 1792514868
+    },
+    {
+      "id": "rss:b2bf00dbe51f27bd",
+      "kind": "news",
+      "title": "Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified",
+      "url": "https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "mstr-bitcoin-treasury",
+      "ts": 1792518000
+    },
+    {
+      "id": "rss:4e2439d0ddf5b1c1",
+      "kind": "news",
+      "title": "Bitcoin yield platform HoneyB developer raises $5 million at $30 million valuation",
+      "url": "https://www.theblock.co/news/deals/2026-10-20-bitcoin-yield-platform-honeyb-funding-valuation-421430",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "honeyb-funding",
+      "ts": 1792516307
+    },
+    {
+      "id": "rss:65f70192363378a6",
+      "kind": "news",
+      "title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
+      "url": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "coinbase-allegations",
+      "ts": 1792515751
+    },
+    {
+      "id": "rss:f1d8288e40627260",
+      "kind": "news",
+      "title": "Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close",
+      "url": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "sec-crypto-regulation",
+      "ts": 1792523994
+    },
+    {
+      "id": "rss:355e23d99c6f59dc",
+      "kind": "news",
+      "title": "Utah likens Kalshi to a ‘back-alley gambling den’ in lawsuit naming Susquehanna firms",
+      "url": "https://www.theblock.co/news/regulation/2026-10-20-utah-likens-kalshi-back-alley-gambling-den-lawsuit-naming-susquehanna-firms-421442",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "kalshi-lawsuit",
+      "ts": 1792523558
+    },
+    {
+      "id": "rss:bcfc5a71a1a35e33",
+      "kind": "news",
+      "title": "Bitcoin's Next Move: Here's What to Watch",
+      "url": "https://decrypt.co/381435/bitcoins-next-move-heres-what-to-watch",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-market-dynamics",
+      "ts": 1792518304
+    },
+    {
+      "id": "rss:848972008615c3de",
+      "kind": "news",
+      "title": "Zcash Leads Crypto Bounce, Surging 8.5% as Bitcoin Reclaims $83,000",
+      "url": "https://decrypt.co/381424/zcash-crypto-bounce-surging-bitcoin-reclaims",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-market-dynamics",
+      "ts": 1792515806
+    },
+    {
+      "id": "rss:1dc5ac5236979ca5",
+      "kind": "news",
+      "title": "Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?",
+      "url": "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "crypto-shutdowns-2026",
+      "ts": 1792526379
     }
   ],
   "digest_queue": [],
@@ -656,7 +821,7 @@
     },
     "2026-10-20": {
       "critical": 0,
-      "important": 8,
+      "important": 10,
       "digests": []
     }
   },
@@ -839,7 +1004,9 @@
     "kazakhstan-exchange-curbs": "important",
     "okx-tokenized-stocks": "important",
     "swiss-btc-etf": "important",
-    "drift-exploit": "important"
+    "drift-exploit": "important",
+    "injective-korean-won": "important",
+    "mstr-bitcoin-treasury": "important"
   },
   "briefing_attempts": {
     "2026-10-14": 1,
