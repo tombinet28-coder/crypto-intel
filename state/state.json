@@ -1,6 +1,5 @@
 {
   "seen": {
-    "rss:a93a0edab8ec6e17": 1792297147.9415739,
     "rss:8e27774775959579": 1792314103.1692603,
     "rss:9f8942c173776d36": 1792314103.1692615,
     "rss:a17dac2b33d08d95": 1792329031.4799702,
@@ -161,7 +160,15 @@
     "rss:9a0472e3609e0231": 1792538474.813463,
     "rss:098d74a6b46130ab": 1792538474.813463,
     "rss:fb66df8b98a8667d": 1792547848.1081054,
-    "rss:37e35553291488d7": 1792547848.1081069
+    "rss:37e35553291488d7": 1792547848.1081069,
+    "rss:226e2b27118e3c07": 1792568018.953959,
+    "rss:d08f987d6839db67": 1792568018.95396,
+    "rss:07b3ff05c6f1f6dd": 1792568018.9539602,
+    "rss:1a0d5c49e01299a6": 1792568018.9539607,
+    "rss:9112f5e3a5c90691": 1792568018.953961,
+    "rss:fe2b3fdd7790e0b9": 1792568018.9539611,
+    "rss:7edf3f95ba113dcc": 1792568018.9539611,
+    "move24:bitway:20747": 1792568018.9540434
   },
   "x_since": {},
   "recent": [
@@ -241,17 +248,6 @@
       "xRole": null,
       "cluster": "blackrock-btc-etf-inflow",
       "ts": 1792484641
-    },
-    {
-      "id": "rss:58ea1f1aca45c53b",
-      "kind": "news",
-      "title": "BlackRock’s IBIT Bitcoin ETF draws $665 million inflow, highest since October 2025",
-      "url": "https://www.theblock.co/news/markets/2026-10-20-blackrock-ibit-bitcoin-etf-665-million-421102",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "blackrock-btc-etf-inflow",
-      "ts": 1792479924
     },
     {
       "id": "rss:225d8f5fec2921cd",
@@ -890,6 +886,83 @@
       "xRole": null,
       "cluster": "qubic-hack-recovery",
       "ts": 1792538762
+    },
+    {
+      "id": "rss:226e2b27118e3c07",
+      "kind": "news",
+      "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
+      "url": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ripple-wall-street-tokenized-stocks",
+      "ts": 1792560357
+    },
+    {
+      "id": "rss:d08f987d6839db67",
+      "kind": "news",
+      "title": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
+      "url": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "solana-alpenglow-upgrade",
+      "ts": 1792557352
+    },
+    {
+      "id": "rss:07b3ff05c6f1f6dd",
+      "kind": "news",
+      "title": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
+      "url": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "emudhra-certificate-flaw",
+      "ts": 1792555918
+    },
+    {
+      "id": "rss:1a0d5c49e01299a6",
+      "kind": "news",
+      "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
+      "url": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-market-dynamics",
+      "ts": 1792555627
+    },
+    {
+      "id": "rss:9112f5e3a5c90691",
+      "kind": "news",
+      "title": "MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion",
+      "url": "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "moonpay-dunamu-collaboration",
+      "ts": 1792549808
+    },
+    {
+      "id": "rss:fe2b3fdd7790e0b9",
+      "kind": "news",
+      "title": "Malaysia central bank launches DLT platform for tokenized bonds",
+      "url": "https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "malaysia-central-bank-dlt",
+      "ts": 1792562189
+    },
+    {
+      "id": "rss:7edf3f95ba113dcc",
+      "kind": "news",
+      "title": "Tech giants rush to block 8 eMudhra certs that could enable fake sites",
+      "url": "https://cointelegraph.com/news/tech-giants-rush-to-block-flawed-emudhra-certs-that-could-enable-fake-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "emudhra-certificate-flaw",
+      "ts": 1792559700
     }
   ],
   "digest_queue": [
@@ -987,7 +1060,7 @@
     },
     "2026-10-21": {
       "critical": 0,
-      "important": 0,
+      "important": 5,
       "digests": []
     }
   },
@@ -1175,15 +1248,19 @@
     "mstr-bitcoin-treasury": "important",
     "kalshi-lawsuit": "important",
     "sec-crypto-regulation": "important",
-    "qubic-hack-recovery": "important"
+    "qubic-hack-recovery": "important",
+    "ripple-wall-street-tokenized-stocks": "important",
+    "solana-alpenglow-upgrade": "important",
+    "moonpay-dunamu-collaboration": "important",
+    "malaysia-central-bank-dlt": "important"
   },
   "briefing_attempts": {
-    "2026-10-14": 1,
     "2026-10-15": 2,
     "2026-10-16": 1,
     "2026-10-17": 2,
     "2026-10-18": 2,
     "2026-10-19": 1,
-    "2026-10-20": 1
+    "2026-10-20": 1,
+    "2026-10-21": 1
   }
 }
