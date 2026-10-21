@@ -159,7 +159,9 @@
     "rss:660b5bc9203e7c14": 1792538474.8134625,
     "rss:bc688dec6a9efab5": 1792538474.8134627,
     "rss:9a0472e3609e0231": 1792538474.813463,
-    "rss:098d74a6b46130ab": 1792538474.813463
+    "rss:098d74a6b46130ab": 1792538474.813463,
+    "rss:fb66df8b98a8667d": 1792547848.1081054,
+    "rss:37e35553291488d7": 1792547848.1081069
   },
   "x_since": {},
   "recent": [
@@ -866,6 +868,28 @@
       "xRole": null,
       "cluster": "sec-crypto-regulation",
       "ts": 1792528680
+    },
+    {
+      "id": "rss:fb66df8b98a8667d",
+      "kind": "news",
+      "title": "Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold",
+      "url": "https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "unrelated-tech",
+      "ts": 1792545554
+    },
+    {
+      "id": "rss:37e35553291488d7",
+      "kind": "news",
+      "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
+      "url": "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "qubic-hack-recovery",
+      "ts": 1792538762
     }
   ],
   "digest_queue": [
@@ -907,6 +931,24 @@
         {
           "name": "Cointelegraph",
           "url": "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "qubic-hack-recovery:2026-10-21",
+      "level": "important",
+      "time": "03:57",
+      "title": "Qubic redémarre après un hack de 1,4M$ et ouvre les réclamations",
+      "summary": "La blockchain Qubic a redémarré suite à un exploit de 1,4 million de dollars. Les validateurs du réseau ont approuvé un plan de récupération et ont ouvert une période de réclamations jusqu'au 1er mai 2027.",
+      "assets": [
+        "QUBIC"
+      ],
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
         }
       ],
       "digested": false
@@ -1132,7 +1174,8 @@
     "injective-korean-won": "important",
     "mstr-bitcoin-treasury": "important",
     "kalshi-lawsuit": "important",
-    "sec-crypto-regulation": "important"
+    "sec-crypto-regulation": "important",
+    "qubic-hack-recovery": "important"
   },
   "briefing_attempts": {
     "2026-10-14": 1,
