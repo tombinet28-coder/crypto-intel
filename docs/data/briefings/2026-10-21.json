@@ -1,0 +1,530 @@
+{
+  "date": "2026-10-21",
+  "edition": "06:30",
+  "tldr": [
+    {
+      "impact": "pos",
+      "text": "Le marché est au vert : BTC, ETH, SOL, HYPE, AAVE et PUMP progressent tous sur 24h, l'indice Fear & Greed passe de 55 à 63 (Greed)."
+    },
+    {
+      "impact": "neu",
+      "text": "Solana active aujourd'hui Alpenglow, sa plus grosse mise à jour depuis 2020 : la finalité des transactions doit passer de 12,8 secondes à ~150 millisecondes."
+    },
+    {
+      "impact": "pos",
+      "text": "BlackRock a dominé les flux ETF Bitcoin (plus gros jour en un mois) et JPMorgan publie sa première prévision à 10 ans sur le bitcoin : +10%/an en moyenne."
+    },
+    {
+      "impact": "neu",
+      "text": "Elon Musk confirme réfléchir à une fusion SpaceX-Tesla qui regrouperait plus de 30 000 BTC sous un même toit ; rien n'est signé."
+    },
+    {
+      "impact": "neg",
+      "text": "Le pirate du hack Drift (295M$ en avril) a transféré 61M$ en ETH vers Tornado Cash, il lui reste environ 194M$."
+    },
+    {
+      "impact": "neg",
+      "text": "La France a voté de justesse (38 voix contre 37) une taxe de 31,4% sur les conversions crypto vers stablecoins dès 2027 ; ce n'est pas encore définitif."
+    },
+    {
+      "impact": "neu",
+      "text": "Hyperliquid et Bitwise demandent à la SEC des règles plus claires sur la classification des tokens, pendant que la Fed se réunit le 28 octobre (statu quo attendu sur les taux)."
+    },
+    {
+      "impact": "neu",
+      "text": "Aave ajuste ses paramètres de risque sur USDT et plusieurs actifs, de la maintenance de routine sans signal d'alerte majeur."
+    }
+  ],
+  "news": [
+    {
+      "title": "Solana active Alpenglow, la plus grosse mise à jour de son histoire",
+      "impact": "pos",
+      "confidence": "confirmed",
+      "what": "La mise à jour de consensus Alpenglow passe en mainnet ce mercredi, remplaçant TowerBFT par un nouveau protocole appelé Votor.",
+      "why": "L'objectif est de réduire le temps de finalité des transactions d'environ 12,8 secondes à ~150 millisecondes, un changement présenté comme la plus grande refonte du cœur du protocole depuis le lancement en 2020.",
+      "assets": [
+        "SOL"
+      ],
+      "shortTerm": "Migration technique en un seul slot : risque de friction ou de ralentissement temporaire pendant la transition si des validateurs ne sont pas prêts.",
+      "longTerm": "Si la migration réussit, Solana se rapproche d'une finalité quasi instantanée, un argument pour les usages paiements et trading à haute fréquence.",
+      "sources": [
+        {
+          "name": "Solana Foundation",
+          "url": "https://solana.com/upgrades/alpenglow",
+          "publishedAt": "2026-10-20 00:00 UTC"
+        },
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
+          "publishedAt": "2026-10-21 04:35 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "BlackRock muscle les ETF Bitcoin, JPMorgan publie sa première prévision à 10 ans",
+      "impact": "pos",
+      "confidence": "confirmed",
+      "what": "Les ETF Bitcoin ont connu leur meilleure journée en un mois grâce aux achats de BlackRock (environ 665M$ sur IBIT), qui a aussi déposé un nouvel ETF Bitcoin \"Buffer\"/PBIT. En parallèle, JPMorgan a publié sa première prévision de rendement à long terme pour le bitcoin.",
+      "why": "C'est un signal de demande institutionnelle soutenue, et la prévision de JPMorgan (environ 10% de rendement annuel sur 10 ans, au-dessus des actions, obligations et de l'or) légitime le bitcoin comme actif de réserve à long terme pour les gérants traditionnels.",
+      "assets": [
+        "BTC"
+      ],
+      "shortTerm": "Peut soutenir le prix à court terme si les flux ETF restent positifs, mais la faiblesse des actions tech (AI selloff) pourrait limiter la demande.",
+      "longTerm": "Une prévision institutionnelle officielle de ce type peut influencer l'allocation de portefeuille des clients de gestion de fortune.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock",
+          "publishedAt": "2026-10-20 08:24 UTC"
+        },
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436",
+          "publishedAt": "2026-10-20 18:14 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "Elon Musk confirme réfléchir à une fusion SpaceX-Tesla, plus de 30 000 BTC en jeu",
+      "impact": "neu",
+      "confidence": "likely",
+      "what": "Musk a déclaré qu'une fusion entre SpaceX et Tesla était une \"bonne idée\", alors que les comités indépendants des deux sociétés n'ont pas encore trouvé d'accord sur les termes.",
+      "why": "Une fusion regrouperait les trésoreries bitcoin des deux entreprises (SpaceX ~18 712 BTC, Tesla ~11 509 BTC au 30 juin), soit plus de 30 000 BTC sous une seule structure, l'un des plus gros trésors d'entreprise au monde.",
+      "assets": [
+        "BTC"
+      ],
+      "shortTerm": "Aucun achat supplémentaire de bitcoin n'est impliqué par cette fusion ; l'effet prix direct devrait rester limité tant que rien n'est signé.",
+      "longTerm": "Si la fusion se concrétise, cela concentre une exposition bitcoin significative sous une entité cotée, avec des questions de gouvernance et de traitement comptable à la juste valeur.",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold",
+          "publishedAt": "2026-10-21 01:19 UTC"
+        },
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin",
+          "publishedAt": "2026-10-21 09:23 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "Le pirate de Drift Protocol transfère 61M$ vers Tornado Cash",
+      "impact": "neg",
+      "confidence": "confirmed",
+      "what": "Un wallet non identifié lié au piratage d'avril de Drift Protocol (295M$ perdus, attribué à un groupe nord-coréen) a envoyé environ 25 700 ETH (61M$) vers le mixeur sanctionné Tornado Cash, après deux mois d'inactivité.",
+      "why": "Cela complique la traçabilité et la récupération des fonds pour les victimes, alors que le programme de remboursement par tokens DFX vient tout juste de démarrer début octobre.",
+      "assets": [
+        "ETH",
+        "SOL"
+      ],
+      "shortTerm": "Pression négative marginale sur la confiance DeFi Solana, sans effet de prix direct attendu.",
+      "longTerm": "Rappelle le risque structurel des exploits DeFi et la difficulté de recouvrement pour les utilisateurs lésés.",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
+          "publishedAt": "2026-10-20 20:46 UTC"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/drift-exploiter-eth-tornado-cash",
+          "publishedAt": "2026-10-20 12:38 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "La France vote (de justesse) une taxe de 31,4% sur les conversions crypto vers stablecoins",
+      "impact": "neg",
+      "confidence": "confirmed",
+      "what": "L'Assemblée nationale a adopté le 16 octobre, par 38 voix contre 37 (25 abstentions), l'amendement I-3898 qui supprimerait le sursis d'imposition lors de la conversion de crypto vers des stablecoins conformes MiCA, dès janvier 2027.",
+      "why": "Actuellement, les échanges crypto-à-crypto sont fiscalement neutres en France jusqu'à la conversion en euros. Ce texte traiterait toute conversion vers un stablecoin comme une cession imposable, même sans sortie vers une banque.",
+      "assets": [],
+      "shortTerm": "Le texte n'est pas définitif : il doit encore passer un vote sur la partie recettes du budget, puis le Sénat ; le gouvernement s'y oppose pour l'instant.",
+      "longTerm": "Si elle est confirmée, la mesure pourrait pousser les investisseurs français vers la DeFi, le pair-à-pair ou des plateformes offshore, selon des acteurs du secteur.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy",
+          "publishedAt": "2026-10-20 11:25 UTC"
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/381413/french-lawmakers-back-stablecoin-swap-tax-by-just-one-vote",
+          "publishedAt": "2026-10-20 14:04 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "Bitwise et Hyperliquid demandent à la SEC des règles plus claires sur les tokens",
+      "impact": "pos",
+      "confidence": "likely",
+      "what": "Les deux firmes ont soumis des commentaires à la SEC dans le cadre de la consultation sur \"Regulation Crypto Assets\", réclamant une classification plus claire des actifs et des règles de trading secondaire, notamment pour les airdrops.",
+      "why": "Une clarification réglementaire réduirait l'incertitude juridique qui pèse sur les plateformes comme Hyperliquid et pourrait faciliter l'intégration d'acteurs traditionnels (SIFMA, AIMA ont aussi participé).",
+      "assets": [
+        "HYPE"
+      ],
+      "shortTerm": "Pas d'effet de prix immédiat, c'est une démarche réglementaire de fond.",
+      "longTerm": "Une issue favorable pourrait sécuriser le statut de HYPE et des tokens similaires aux États-Unis.",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
+          "publishedAt": "2026-10-20 19:19 UTC"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops",
+          "publishedAt": "2026-10-20 20:38 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "Aave ajuste ses paramètres de risque sur USDT et plusieurs actifs",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "what": "Les Risk Stewards d'Aave (LlamaRisk) ont abaissé l'utilisation optimale de USDT de 94% à 92% sur Aave V3 Core et réduit plusieurs plafonds de dépôt (USDe, LINK, rETH, WPOL).",
+      "why": "Ce sont des ajustements de routine pour sécuriser la liquidité et limiter le risque de concentration, pas un signal d'alerte sur le protocole.",
+      "assets": [
+        "AAVE"
+      ],
+      "shortTerm": "Légère hausse du taux d'emprunt variable USDT (environ +9 points de base), sans impact significatif attendu sur AAVE.",
+      "longTerm": "Illustre une gouvernance active et réactive, un point positif pour la gestion du risque à long terme du protocole.",
+      "sources": [
+        {
+          "name": "Aave Gouvernance",
+          "url": "https://governance.aave.com/t/risk-stewards-cap-reductions-and-usdt-irm-change-on-aave-v3-2026-10-19/25885",
+          "publishedAt": "2026-10-20 13:14 UTC"
+        }
+      ],
+      "singleSource": true
+    }
+  ],
+  "market": [
+    {
+      "symbol": "BTC",
+      "sentiment": "pos",
+      "driver": "Flux ETF positifs (BlackRock), prévision haussière de JPMorgan à 10 ans, et narrative spéculative autour d'une fusion SpaceX-Tesla qui concentrerait 30 000+ BTC.",
+      "events": [
+        "Biggest ETF inflow day in a month (BlackRock)",
+        "JPMorgan 10-year BTC return forecast ~10%/an",
+        "Spéculation fusion SpaceX-Tesla"
+      ],
+      "watch": [
+        "Niveau $83 000 (zone actuelle)",
+        "FOMC du 28 octobre (statu quo attendu, 3,75-4,00%)"
+      ],
+      "name": "Bitcoin",
+      "price": 83425,
+      "change24h": 2.49312,
+      "change7d": -0.3711,
+      "volume": 27618730975,
+      "asOf": "21/10 11:24",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "ETH",
+      "sentiment": "neu",
+      "driver": "Sorties nettes des ETF Ether qui dépassent 1 milliard de dollars en octobre, pendant que le marché reste nerveux sur les flux DeFi après le mouvement de fonds du hack Drift.",
+      "events": [
+        "Ether ETF outflows passent 1,1 Md$ en octobre",
+        "61M$ du hack Drift envoyés vers Tornado Cash en ETH"
+      ],
+      "watch": [
+        "Tendance des flux ETF Ether",
+        "Niveau $2 500"
+      ],
+      "name": "Ethereum",
+      "price": 2460.89,
+      "change24h": 3.28152,
+      "change7d": -2.2861,
+      "volume": 12022348374,
+      "asOf": "21/10 11:24",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "SOL",
+      "sentiment": "pos",
+      "driver": "Mise en service d'Alpenglow aujourd'hui, la plus grosse refonte de consensus de l'histoire de Solana, cible de finalité à 150 millisecondes.",
+      "events": [
+        "Activation mainnet Alpenglow (epoch 1064, ~13h20-15h00 UTC)"
+      ],
+      "watch": [
+        "Stabilité du réseau pendant et après la migration",
+        "Participation des validateurs au nouveau protocole Votor"
+      ],
+      "name": "Solana",
+      "price": 106.76,
+      "change24h": 2.53442,
+      "change7d": -0.7913,
+      "volume": 2580296033,
+      "asOf": "21/10 11:24",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "HYPE",
+      "sentiment": "neu",
+      "driver": "Demande de clarification réglementaire auprès de la SEC et unlock de tokens à venir début novembre.",
+      "events": [
+        "Bitwise et Hyperliquid déposent des commentaires à la SEC sur la classification des tokens",
+        "Intégration de Pump.fun comme infrastructure de futures perpétuels, source de volume additionnel"
+      ],
+      "watch": [
+        "Unlock prévu le 6 novembre (~9,9M HYPE, ~1% de l'offre totale, Core Contributors)"
+      ],
+      "name": "Hyperliquid",
+      "price": 81.2,
+      "change24h": 3.30353,
+      "change7d": -0.7326,
+      "volume": 865272579,
+      "asOf": "21/10 11:24",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "AAVE",
+      "sentiment": "neu",
+      "driver": "Ajustements de routine des paramètres de risque (USDT, plafonds de dépôt), activité de gouvernance normale sans catalyseur majeur identifié dans les dernières 24h.",
+      "events": [
+        "Changements de cap et IRM sur Aave V3 (USDT, USDe, LINK, rETH, WPOL)"
+      ],
+      "watch": [
+        "TVL du protocole (~18,2 Md$)",
+        "Évolution des taux stablecoins sur Aave V3/V4"
+      ],
+      "name": "Aave",
+      "price": 156.1,
+      "change24h": 5.1306,
+      "change7d": -3.0285,
+      "volume": 257154298,
+      "asOf": "21/10 11:24",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "PUMP",
+      "sentiment": "pos",
+      "driver": "Lancement de futures perpétuels via l'infrastructure Hyperliquid et revenus hebdomadaires élevés qui alimentent le programme de rachat-destruction de tokens.",
+      "events": [
+        "Lancement de perpétuels BTC/ETH avec effet de levier (17 octobre)",
+        "Revenu hebdomadaire d'environ 14-18M$, 3e position des protocoles générant le plus de revenus on-chain"
+      ],
+      "watch": [
+        "Soutenabilité du revenu si l'activité memecoin ralentit",
+        "Fin programmée du programme de buyback à 50% en avril 2027"
+      ],
+      "name": "Pump.fun",
+      "price": 0.00481827,
+      "change24h": 8.36212,
+      "change7d": -4.0645,
+      "volume": 193507553,
+      "asOf": "21/10 11:24",
+      "source": "CoinGecko"
+    }
+  ],
+  "x": [
+    {
+      "author": "Anza",
+      "handle": "@anza_xyz",
+      "time": "2026-10-13",
+      "asset": "SOL",
+      "sentiment": "pos",
+      "kind": "official",
+      "summary": "L'équipe cliente Anza annonce que l'activation mainnet d'Alpenglow est confirmée pour le 21 octobre, décrite comme 18 mois de préparation pour une migration en un seul slot.",
+      "why": "C'est la confirmation officielle du calendrier de la plus grosse mise à jour de consensus de l'histoire de Solana, information fiable car émise par l'équipe de développement principale."
+    },
+    {
+      "author": "Lookonchain",
+      "handle": "@lookonchain",
+      "time": "2026-10-20",
+      "asset": "ETH",
+      "sentiment": "neg",
+      "kind": "data",
+      "summary": "Le compte d'analyse on-chain rapporte qu'un wallet lié au hack Drift a déposé environ 25 700 ETH dans Tornado Cash en deux heures après deux mois d'inactivité.",
+      "why": "Donnée on-chain vérifiable, reprise ensuite par plusieurs médias spécialisés, mais le wallet reste non identifié nominativement."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Pump.fun (PUMP)",
+      "conviction": "spec",
+      "funding": "Non vérifié dans nos recherches actuelles",
+      "investors": "Non vérifié par une source officielle indépendante dans cette édition",
+      "team": "Équipe du projet non détaillée dans les sources consultées aujourd'hui",
+      "tech": "Plateforme de lancement de tokens (principalement memecoins) sur Solana, qui vient d'intégrer des futures perpétuels BTC/ETH via l'infrastructure de Hyperliquid.",
+      "tokenomics": "Offre totale de 1 000 milliards de PUMP ; environ 17 à 18% de l'offre déjà rachetée et détruite via un programme qui alloue 50% des revenus nets au buyback jusqu'en avril 2027.",
+      "catalysts": "Lancement des futures perpétuels (17 octobre), revenus hebdomadaires qui rivalisent avec ceux de Hyperliquid.",
+      "why": "Revenus réels et élevés provenant de l'activité de la plateforme, avec un mécanisme de rachat-destruction qui réduit mécaniquement l'offre en circulation.",
+      "risk": "Les détenteurs de PUMP n'ont aucun droit légal sur les revenus de la plateforme, le programme de buyback peut être modifié ou suspendu à tout moment, et le revenu dépend fortement des cycles spéculatifs sur les memecoins. Le tableau de bord des revenus du projet a aussi présenté des incohérences signalées par des médias spécialisés."
+    }
+  ],
+  "smartMoney": [],
+  "unlocks": [
+    {
+      "date": "2026-11-06",
+      "token": "HYPE",
+      "amount": "~9,92 millions HYPE",
+      "value": "~800M$ (au prix actuel)",
+      "pct": "~1% de l'offre totale",
+      "who": "Core Contributors (équipe/contributeurs historiques)",
+      "risk": "med",
+      "priority": true,
+      "confidence": "unconfirmed"
+    }
+  ],
+  "unlocksSource": {
+    "name": "Tokenomist.ai / CoinGecko",
+    "url": "https://tokenomist.ai/hyperliquid"
+  },
+  "regulation": [
+    {
+      "region": "France",
+      "title": "Taxe de 31,4% sur les conversions crypto vers stablecoins votée de justesse",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "summary": "L'Assemblée nationale a adopté l'amendement I-3898 par 38 voix contre 37, qui supprimerait le sursis d'imposition pour les conversions vers des stablecoins MiCA dès janvier 2027. Le texte doit encore franchir d'autres étapes parlementaires (vote du budget, Sénat) avant d'entrer en vigueur.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy"
+        },
+        {
+          "name": "Bloomingbit",
+          "url": "https://en.bloomingbit.io/feed/news/122573"
+        }
+      ]
+    },
+    {
+      "region": "États-Unis (SEC)",
+      "title": "Bitwise et Hyperliquid demandent des règles plus claires sur les actifs crypto",
+      "impact": "neu",
+      "confidence": "likely",
+      "summary": "Dans le cadre de la consultation publique sur Regulation Crypto Assets, les deux firmes ont demandé des directives plus claires sur la classification des tokens et le trading secondaire, aux côtés d'acteurs traditionnels comme SIFMA et AIMA.",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444"
+        }
+      ]
+    },
+    {
+      "region": "Suisse",
+      "title": "La FINMA approuve le premier ETF Bitcoin au comptant pour les particuliers",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "summary": "Le régulateur suisse FINMA a approuvé le premier fonds de détail détenant du bitcoin directement, ouvrant l'accès aux investisseurs particuliers suisses.",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-20-swiss-regulator-finma-approves-countrys-first-spot-bitcoin-etf-for-retail-investors-421127"
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/381446/swiss-regulator-first-retail-fund-holds-bitcoin-directly"
+        }
+      ]
+    },
+    {
+      "region": "Kazakhstan",
+      "title": "Un tribunal interdit à Coinbase et cinq autres plateformes d'opérer sans licence",
+      "impact": "neu",
+      "confidence": "likely",
+      "summary": "Un tribunal du centre financier international d'Astana a interdit à Coinbase, BingX et quatre autres plateformes de fournir des services crypto non licenciés dans la juridiction.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "title": "Réunion de la Fed le 27-28 octobre",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "date": "2026-10-28",
+      "summary": "Le prochain FOMC se tient les 27-28 octobre, décision annoncée le 28 à 14h ET. Le marché anticipe majoritairement un statu quo sur la fourchette 3,75-4,00%.",
+      "sources": [
+        {
+          "name": "Fed calendar (agrégateur)",
+          "url": "https://fedratecalc.com/fomc-meeting-schedule/october-2026/"
+        }
+      ]
+    },
+    {
+      "title": "Faiblesse des actions tech / IA pèse sur l'appétit au risque",
+      "impact": "neu",
+      "confidence": "likely",
+      "date": "2026-10-20",
+      "summary": "Le repli des valeurs de semi-conducteurs asiatiques et la chute des IPO sud-coréennes alimentent une nervosité plus large sur les marchés liés à l'IA, pendant que le Brent dépasse 111$.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/20/south-korean-ipo-plunge-deepens-ai-market-jitters-as-brent-tops-usd111"
+        }
+      ]
+    }
+  ],
+  "onchain": [
+    {
+      "metric": "TVL Ethereum",
+      "value": "~50,3 Md$",
+      "note": "Fourni par les données internes",
+      "source": "Données internes"
+    },
+    {
+      "metric": "TVL Hyperliquid (protocole)",
+      "value": "~6,9 Md$",
+      "note": "Fourni par les données internes",
+      "source": "Données internes"
+    },
+    {
+      "metric": "TVL Aave (protocole)",
+      "value": "~18,2 Md$",
+      "note": "Fourni par les données internes",
+      "source": "Données internes"
+    },
+    {
+      "metric": "Capitalisation totale stablecoins",
+      "value": "~304,2 Md$",
+      "note": "Fourni par les données internes",
+      "source": "Données internes"
+    },
+    {
+      "metric": "Volume DEX 24h",
+      "value": "~8,77 Md$",
+      "note": "Fourni par les données internes",
+      "source": "Données internes"
+    }
+  ],
+  "watchlist": [
+    {
+      "impact": "neu",
+      "text": "Suivre la stabilité de Solana dans les heures suivant l'activation d'Alpenglow (epoch 1064)."
+    },
+    {
+      "impact": "neg",
+      "text": "Surveiller si d'autres fonds du hack Drift (toujours ~194M$) sont envoyés vers Tornado Cash."
+    },
+    {
+      "impact": "neu",
+      "text": "Suite parlementaire en France : vote sur la partie recettes du budget puis passage au Sénat pour la taxe stablecoin."
+    },
+    {
+      "impact": "pos",
+      "text": "Décision de la Fed le 28 octobre : un statu quo est attendu mais le ton de Powell peut influencer le marché."
+    },
+    {
+      "impact": "neu",
+      "text": "Unlock HYPE du 6 novembre (~1% de l'offre totale, Core Contributors) à surveiller sur la liquidité et le prix."
+    }
+  ],
+  "breaking": [],
+  "generatedAt": "2026-10-21T09:29:13Z",
+  "updatedAt": "2026-10-21T09:29:13Z"
+}

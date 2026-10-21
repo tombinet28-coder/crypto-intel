@@ -1,7 +1,5 @@
 {
   "seen": {
-    "rss:8e27774775959579": 1792314103.1692603,
-    "rss:9f8942c173776d36": 1792314103.1692615,
     "rss:a17dac2b33d08d95": 1792329031.4799702,
     "rss:986b3b412c765f06": 1792329031.4799714,
     "rss:1be23956146fd4d4": 1792329031.479972,
@@ -239,17 +237,6 @@
       "ts": 1792488744
     },
     {
-      "id": "rss:7bef91eb9f71fc2f",
-      "kind": "news",
-      "title": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
-      "url": "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "blackrock-btc-etf-inflow",
-      "ts": 1792484641
-    },
-    {
       "id": "rss:225d8f5fec2921cd",
       "kind": "news",
       "title": "Mt. Gox Pushes Repayment Deadline to 2027 With $2.8B in Bitcoin Still to Distribute",
@@ -259,17 +246,6 @@
       "xRole": null,
       "cluster": "mtgox-repayment",
       "ts": 1792493748
-    },
-    {
-      "id": "rss:6427324194dd4baf",
-      "kind": "news",
-      "title": "BlackRock Files for 'Buffer' Bitcoin ETF as IBIT Draws $665M in a Day",
-      "url": "https://decrypt.co/381385/blackrock-files-for-buffer-bitcoin-etf-as-ibit-draws-665m-in-a-day",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "blackrock-buffer-etf",
-      "ts": 1792487610
     },
     {
       "id": "rss:80a356e067daf743",
@@ -325,28 +301,6 @@
       "xRole": null,
       "cluster": "bitget-hack",
       "ts": 1792490400
-    },
-    {
-      "id": "rss:d1f2d30ccb8d2ef4",
-      "kind": "news",
-      "title": "JPMorgan projects Bitcoin to outperform US stocks and gold over next decade",
-      "url": "https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "jpmorgan-btc-outlook",
-      "ts": 1792486467
-    },
-    {
-      "id": "rss:04d44927ae3269d0",
-      "kind": "news",
-      "title": "BlackRock files for third Bitcoin ETF, still no Solana or XRP",
-      "url": "https://cointelegraph.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "blackrock-buffer-etf",
-      "ts": 1792483977
     },
     {
       "id": "rss:bbb132a43bcd6752",
@@ -965,68 +919,7 @@
       "ts": 1792559700
     }
   ],
-  "digest_queue": [
-    {
-      "id": "kalshi-lawsuit:2026-10-21",
-      "level": "important",
-      "time": "01:21",
-      "title": "L'Utah poursuit Kalshi, une plateforme de marché de prédiction",
-      "summary": "Le procureur général de l'Utah assimile Kalshi à un 'nuisance publique' causant un 'préjudice significatif et continu' aux résidents de l'État.",
-      "assets": [],
-      "confidence": "likely",
-      "sources": [
-        {
-          "name": "The Block",
-          "url": "https://www.theblock.co/news/regulation/2026-10-20-utah-likens-kalshi-back-alley-gambling-den-lawsuit-naming-susquehanna-firms-421442"
-        },
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
-      "digested": false
-    },
-    {
-      "id": "sec-crypto-regulation:2026-10-21",
-      "level": "important",
-      "time": "01:21",
-      "title": "Bitwise et Hyperliquid demandent des changements de règles SEC",
-      "summary": "Les deux firmes cherchent des directives plus claires de la SEC sur la classification des actifs cryptographiques et le trading sur marché secondaire, alors que le délai de commentaires publics arrive à terme.",
-      "assets": [
-        "HYPE"
-      ],
-      "confidence": "likely",
-      "sources": [
-        {
-          "name": "The Block",
-          "url": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444"
-        },
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
-      "digested": false
-    },
-    {
-      "id": "qubic-hack-recovery:2026-10-21",
-      "level": "important",
-      "time": "03:57",
-      "title": "Qubic redémarre après un hack de 1,4M$ et ouvre les réclamations",
-      "summary": "La blockchain Qubic a redémarré suite à un exploit de 1,4 million de dollars. Les validateurs du réseau ont approuvé un plan de récupération et ont ouvert une période de réclamations jusqu'au 1er mai 2027.",
-      "assets": [
-        "QUBIC"
-      ],
-      "confidence": "unconfirmed",
-      "sources": [
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
-      "digested": false
-    }
-  ],
+  "digest_queue": [],
   "sent": {
     "2026-10-15": {
       "critical": 0,
@@ -1261,6 +1154,6 @@
     "2026-10-18": 2,
     "2026-10-19": 1,
     "2026-10-20": 1,
-    "2026-10-21": 1
+    "2026-10-21": 2
   }
 }
