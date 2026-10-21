@@ -1,11 +1,5 @@
 {
   "seen": {
-    "rss:a17dac2b33d08d95": 1792329031.4799702,
-    "rss:986b3b412c765f06": 1792329031.4799714,
-    "rss:1be23956146fd4d4": 1792329031.479972,
-    "rss:2af6b0e078431a13": 1792329031.4799721,
-    "rss:fc521871d05f5698": 1792329031.4799724,
-    "rss:5a8290564bc1b1a5": 1792329031.4799726,
     "rss:db9e4281791a2c2d": 1792342143.6309452,
     "rss:7c6297583bac741b": 1792342143.6309464,
     "rss:015676352cce50a8": 1792342143.6309466,
@@ -166,142 +160,39 @@
     "rss:9112f5e3a5c90691": 1792568018.953961,
     "rss:fe2b3fdd7790e0b9": 1792568018.9539611,
     "rss:7edf3f95ba113dcc": 1792568018.9539611,
-    "move24:bitway:20747": 1792568018.9540434
+    "move24:bitway:20747": 1792568018.9540434,
+    "rss:2f81cb3981351f19": 1792588194.9003983,
+    "rss:91c2fa178b8a656f": 1792588194.9003994,
+    "rss:7b1635758e8c2104": 1792588194.9004,
+    "rss:0f74cc2fe5e8e13e": 1792588194.9004002,
+    "rss:76dcd7489be39a02": 1792588194.9004076,
+    "rss:612cdd5f7aa21b1d": 1792588194.9004078,
+    "rss:8cfa159143220e9a": 1792588194.900408,
+    "rss:35844fc03d40b131": 1792588194.900408,
+    "rss:006ea01189bf983e": 1792588194.9004083,
+    "rss:771d8eeea6be3dfd": 1792588194.9004083,
+    "rss:69675d727bada915": 1792588194.9004085,
+    "rss:bcfdbb2b5241c382": 1792588194.9004085,
+    "rss:06d8f0c2d8b0e689": 1792588194.9004087,
+    "rss:a384661926b2810a": 1792588194.900409,
+    "rss:8c9d70d83fd207bd": 1792588194.900409,
+    "rss:120ece405ecb8565": 1792588194.9004095,
+    "rss:dd946379462af8b0": 1792588194.9004095,
+    "rss:b02bd5ae094814af": 1792588194.9004097,
+    "rss:bf64efd1b55c213e": 1792588194.9004097,
+    "rss:242764559ede929f": 1792588194.90041,
+    "rss:1d3105661375578a": 1792588194.90041,
+    "rss:cb9587acdf2e30a3": 1792588194.9004102,
+    "rss:5172256455f11dbb": 1792588194.9004102,
+    "rss:6c0661508e9c145f": 1792588194.9004104,
+    "rss:95799f9fc9d5a6ea": 1792588194.9004104,
+    "rss:5f6bf2a7b8693691": 1792588194.9004107,
+    "rss:f3cdd9df73765114": 1792588194.900411,
+    "rss:019246d1d68f1fcb": 1792588194.900411,
+    "rss:dd4074017808a3d5": 1792588194.9004111
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:12043e279f28a043",
-      "kind": "news",
-      "title": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
-      "url": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "france-stablecoin-tax",
-      "ts": 1792495500
-    },
-    {
-      "id": "rss:8d5cef5ad2d8254d",
-      "kind": "news",
-      "title": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-market-dynamics",
-      "ts": 1792494861
-    },
-    {
-      "id": "rss:a19bd9f1e2555a3c",
-      "kind": "news",
-      "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
-      "url": "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "jpmorgan-btc-outlook",
-      "ts": 1792494640
-    },
-    {
-      "id": "rss:6f4bc2cf68bce42c",
-      "kind": "news",
-      "title": "Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection",
-      "url": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-price-drop",
-      "ts": 1792491775
-    },
-    {
-      "id": "rss:e8ba23e5c9a6dabb",
-      "kind": "news",
-      "title": "Live updates: Market nervousness persists as the AI selloff deepens",
-      "url": "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ai-selloff-market",
-      "ts": 1792491259
-    },
-    {
-      "id": "rss:bc5be6afab40fa6c",
-      "kind": "news",
-      "title": "South Korean IPO slump adds to AI market jitters as Brent crude tops $111",
-      "url": "https://www.coindesk.com/markets/2026/10/20/south-korean-ipo-plunge-deepens-ai-market-jitters-as-brent-tops-usd111",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ai-selloff-market",
-      "ts": 1792488744
-    },
-    {
-      "id": "rss:225d8f5fec2921cd",
-      "kind": "news",
-      "title": "Mt. Gox Pushes Repayment Deadline to 2027 With $2.8B in Bitcoin Still to Distribute",
-      "url": "https://decrypt.co/381392/mt-gox-pushes-repayment-deadline-to-2027-with-2-8b-in-bitcoin-still-to-distribute",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "mtgox-repayment",
-      "ts": 1792493748
-    },
-    {
-      "id": "rss:80a356e067daf743",
-      "kind": "news",
-      "title": "Netflix FTX trailer was ‘enough to upset me’ in first 30 seconds: former FTX COO",
-      "url": "https://cointelegraph.com/news/netflix-ftx-trailer-upset-first-30-seconds-ftx-coo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "ftx-netflix",
-      "ts": 1792495380
-    },
-    {
-      "id": "rss:38f295c1958c9a84",
-      "kind": "news",
-      "title": "Kazakhstan court orders curbs on Coinbase, BingX and four others",
-      "url": "https://cointelegraph.com/news/kazakhstan-court-limits-coinbase-bingx-four?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "kazakhstan-exchange-curbs",
-      "ts": 1792494741
-    },
-    {
-      "id": "rss:452d52385f974783",
-      "kind": "news",
-      "title": "XRP 30-day exchange inflows pass 6B tokens as whales move to the sidelines",
-      "url": "https://cointelegraph.com/markets/xrp-30-day-exchange-inflows-pass-6b-tokens-as-whales-move-to-the-sidelines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "xrp-whale-movement",
-      "ts": 1792491658
-    },
-    {
-      "id": "rss:2322b64af086e36b",
-      "kind": "news",
-      "title": "Mt. Gox pushes creditor repayment deadline to 2027 in sixth extension",
-      "url": "https://cointelegraph.com/news/mt-gox-creditor-repayment-deadline-extended-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "mtgox-repayment",
-      "ts": 1792491613
-    },
-    {
-      "id": "rss:2a203cc51eb6e89e",
-      "kind": "news",
-      "title": "Bitget plans Thai crypto exchange acquisition weeks after $388M hack",
-      "url": "https://cointelegraph.com/news/bitget-plans-thai-crypto-exchange-acquisition-weeks-after-388m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "bitget-hack",
-      "ts": 1792490400
-    },
     {
       "id": "rss:bbb132a43bcd6752",
       "kind": "news",
@@ -323,17 +214,6 @@
       "xRole": null,
       "cluster": "kazakhstan-exchange-curbs",
       "ts": 1792503308
-    },
-    {
-      "id": "rss:2b435228d81017f3",
-      "kind": "news",
-      "title": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
-      "url": "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "okx-tokenized-stocks",
-      "ts": 1792500017
     },
     {
       "id": "rss:e51a48c9c95a9fa6",
@@ -391,28 +271,6 @@
       "ts": 1792504800
     },
     {
-      "id": "rss:46c6413884385ad2",
-      "kind": "news",
-      "title": "Stablecoins move over $400 million per hour on average as off-hours transfers dominate, Coinbase and The Block study finds",
-      "url": "https://www.theblock.co/news/web3/2026-10-20-stablecoins-move-400-million-per-hour-421111",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "stablecoin-volume-growth",
-      "ts": 1792501200
-    },
-    {
-      "id": "rss:15e801b2d04ff6ac",
-      "kind": "news",
-      "title": "Swiss regulator FINMA approves country’s first spot bitcoin ETF for retail investors",
-      "url": "https://www.theblock.co/news/regulation/2026-10-20-swiss-regulator-finma-approves-countrys-first-spot-bitcoin-etf-for-retail-investors-421127",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "swiss-btc-etf",
-      "ts": 1792498505
-    },
-    {
       "id": "rss:e8c463eb14fd4c0f",
       "kind": "news",
       "title": "The Midterms Are the First Real Test of Whether Markets Beat Pollsters",
@@ -455,17 +313,6 @@
       "xRole": null,
       "cluster": "france-stablecoin-tax",
       "ts": 1792505050
-    },
-    {
-      "id": "rss:48997d90a3694f64",
-      "kind": "news",
-      "title": "Morning Minute: Nine Blue Chip Companies Say No to Tokenized Stocks",
-      "url": "https://decrypt.co/381399/morning-minute-nine-blue-chip-companies-say-no-to-tokenized-stocks",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "okx-tokenized-stocks",
-      "ts": 1792498004
     },
     {
       "id": "rss:da7fcd8c9dcac89a",
@@ -512,50 +359,6 @@
       "ts": 1792503000
     },
     {
-      "id": "rss:bc105ed390b8597a",
-      "kind": "news",
-      "title": "FINMA approves Switzerland’s first Bitcoin ETF for retail investors",
-      "url": "https://cointelegraph.com/news/finma-approves-switzerlands-first-bitcoin-etf-retail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "swiss-btc-etf",
-      "ts": 1792501468
-    },
-    {
-      "id": "rss:9274d4f7dcec9eca",
-      "kind": "news",
-      "title": "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M",
-      "url": "https://cointelegraph.com/news/drift-exploiter-eth-tornado-cash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "drift-exploit",
-      "ts": 1792499908
-    },
-    {
-      "id": "rss:1dd634bd6a2ea224",
-      "kind": "news",
-      "title": "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
-      "url": "https://cointelegraph.com/news/tx-ustx-stablecoin-rwa-liquidity-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "ustx-stablecoin-launch",
-      "ts": 1792499400
-    },
-    {
-      "id": "rss:cab2c30f2bb10ad8",
-      "kind": "news",
-      "title": "Lloyds and Barclays among UK banks named in crypto transfer complaints, advocacy group says",
-      "url": "https://cointelegraph.com/news/uk-banks-crypto-transfer-complaints-stand-with-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "uk-banks-crypto",
-      "ts": 1792498424
-    },
-    {
       "id": "rss:d6c1715c06b06bf1",
       "kind": "news",
       "title": "SEC and AMF Announce Supervisory MOU To Enhance Cooperation for Investment Advisers and Investment Service Providers",
@@ -565,17 +368,6 @@
       "xRole": null,
       "cluster": "sec-amf-mou",
       "ts": 1792502716
-    },
-    {
-      "id": "rss:f5907297fdebef6b",
-      "kind": "news",
-      "title": "SEC, FSA Hold Autumn Financial Regulatory Dialogue",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-107-sec-fsa-hold-autumn-financial-regulatory-dialogue",
-      "source": "SEC (communiqués)",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "sec-fsa-dialogue",
-      "ts": 1792500660
     },
     {
       "id": "rss:c1eea0f60245b8e6",
