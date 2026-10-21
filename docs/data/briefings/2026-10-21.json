@@ -524,7 +524,104 @@
       "text": "Unlock HYPE du 6 novembre (~1% de l'offre totale, Core Contributors) à surveiller sur la liquidité et le prix."
     }
   ],
-  "breaking": [],
+  "breaking": [
+    {
+      "id": "emudhra-certificate-flaw:2026-10-21",
+      "level": "important",
+      "time": "20:13",
+      "title": "Les corrections d'eMudhra des géants tech pourraient laisser les bots crypto exposés",
+      "summary": "CertiK avertit que les bots de trading crypto et les applications d'échange peuvent rester exposés à la faille de certificat eMudhra car les correctifs du navigateur peuvent ne pas protéger tous les logiciels. Risque de sécurité persistant.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/tech-giants-rush-to-block-flawed-emudhra-certs-that-could-enable-fake-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/certik-warning-crypto-emudhra-flaw-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "id": "uk-defi-regulation:2026-10-21",
+      "level": "important",
+      "time": "20:13",
+      "title": "Le régulateur financier britannique ouvre des consultations sur les DeFi et les lois crypto",
+      "summary": "La FCA du Royaume-Uni lance des consultations quelques semaines après l'ouverture des demandes sous son nouveau régime de régulation crypto. Développement réglementaire significatif.",
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/uk-fca-consultations-defi-crypto-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "id": "cardano-eu-regulation:2026-10-21",
+      "level": "important",
+      "time": "20:13",
+      "title": "La Fondation Cardano exhorte l'UE à ne pas étendre MiCA aux DeFi et au staking",
+      "summary": "La Cardano Foundation appelle à une régulation basée sur les risques financiers et non la technologie, avertissant contre les règles qui se chevauchent. Positionnement réglementaire significatif.",
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "id": "php-critical-bugs:2026-10-21",
+      "level": "important",
+      "time": "20:13",
+      "title": "PHP en panique : deux failles critiques mettent 70% d'Internet en danger (en attente de confirmation)",
+      "summary": "Deux bugs critiques en PHP (langage d'une majorité du web) permettent une prise de contrôle de serveurs sans authentification. Risque critique pour l'infrastructure de nombreuses plateformes crypto.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/381519/php-panic-critical-bugs-70-percent-internet-risk-everyone-freaking-out"
+        }
+      ]
+    },
+    {
+      "id": "spacex-tesla-merger-btc:2026-10-21",
+      "level": "important",
+      "time": "20:13",
+      "title": "Une fusion SpaceX-Tesla créerait un géant du trésor Bitcoin",
+      "summary": "Musk a déclaré que les deux conseils d'administration étudient une fusion combinant 30 221 BTC (2,5 milliards $) de Tesla et SpaceX. Annonce institutionnelle importante affectant le trésor BTC.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth"
+        }
+      ]
+    },
+    {
+      "id": "stablecoin-regulation-occ:2026-10-21",
+      "level": "important",
+      "time": "20:13",
+      "title": "L'ABA accuse l'OCC de contourner le Congrès sur les récompenses stablecoin",
+      "summary": "L'American Bankers Association critique la décision de l'OCC de ne pas se prononcer sur les récompenses stablecoin tiers. Escalade du conflit bancaire-crypto sur la régulation.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-21-american-bankers-association-accuses-occ-undermining-congress-stablecoin-rewards-rule-421629"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    }
+  ],
   "generatedAt": "2026-10-21T09:29:13Z",
-  "updatedAt": "2026-10-21T09:29:13Z"
+  "updatedAt": "2026-10-21T18:14:32Z"
 }
