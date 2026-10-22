@@ -1,7 +1,5 @@
 {
   "seen": {
-    "rss:026f2d8016cdf23b": 1792368474.1924164,
-    "rss:732e6e5cc3627c74": 1792368474.1924176,
     "rss:57c37e4bb3dec1a1": 1792386781.9473736,
     "rss:e7f998f9bd741350": 1792386781.9473746,
     "rss:9eb1bdd88832a1e6": 1792386781.947375,
@@ -210,21 +208,12 @@
     "rss:005cdbd154f217cd": 1792619803.9861002,
     "rss:142a360a5893d297": 1792619803.9861002,
     "rss:21452969edd33a98": 1792619803.9861004,
-    "rss:043a2bf5f6f78168": 1792619803.9861004
+    "rss:043a2bf5f6f78168": 1792619803.9861004,
+    "rss:aa81b89ecbc3be24": 1792629375.341685,
+    "rss:2405188bb0071c5b": 1792629375.3416865
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:16b75fbdcf704350",
-      "kind": "news",
-      "title": "People Are Vibe Coding the Ads Out of Their Smart TVs: Here's How",
-      "url": "https://decrypt.co/381456/vibe-coding-ads-out-smart-tvs-heres-how",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "unrelated-tech",
-      "ts": 1792534564
-    },
     {
       "id": "rss:fb66df8b98a8667d",
       "kind": "news",
@@ -235,17 +224,6 @@
       "xRole": null,
       "cluster": "unrelated-tech",
       "ts": 1792545554
-    },
-    {
-      "id": "rss:37e35553291488d7",
-      "kind": "news",
-      "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
-      "url": "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "qubic-hack-recovery",
-      "ts": 1792538762
     },
     {
       "id": "rss:226e2b27118e3c07",
@@ -675,15 +653,51 @@
       "xRole": null,
       "cluster": "general-news-roundup",
       "ts": 1792613447
+    },
+    {
+      "id": "rss:aa81b89ecbc3be24",
+      "kind": "news",
+      "title": "Aerodrome and Velodrome merge to launch Aero across seven blockchain networks",
+      "url": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "aero-velodrome-merger",
+      "ts": 1792627200
+    },
+    {
+      "id": "rss:2405188bb0071c5b",
+      "kind": "news",
+      "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
+      "url": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "stablecoin-regulation-occ",
+      "ts": 1792619628
     }
   ],
-  "digest_queue": [],
+  "digest_queue": [
+    {
+      "id": "aero-velodrome-merger:2026-10-22",
+      "level": "important",
+      "time": "02:36",
+      "title": "Aerodrome et Velodrome fusionnent pour lancer Aero sur sept blockchains",
+      "summary": "Aerodrome et Velodrome ont fusionné pour lancer Aero sur Ethereum mainnet, Base, Robinhood Chain, Ink, OP Mainnet, Arc et Arbitrum. Cette expansion multi-chaîne représente une intégration significative du protocole d'échange décentralisé.",
+      "assets": [
+        "AERO"
+      ],
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514"
+        }
+      ],
+      "digested": false
+    }
+  ],
   "sent": {
-    "2026-10-15": {
-      "critical": 0,
-      "important": 5,
-      "digests": []
-    },
     "2026-10-16": {
       "critical": 0,
       "important": 5,
@@ -712,6 +726,11 @@
     "2026-10-21": {
       "critical": 0,
       "important": 11,
+      "digests": []
+    },
+    "2026-10-22": {
+      "critical": 0,
+      "important": 0,
       "digests": []
     }
   },
@@ -909,7 +928,8 @@
     "php-critical-bugs": "important",
     "cardano-eu-regulation": "important",
     "uk-defi-regulation": "important",
-    "emudhra-certificate-flaw": "important"
+    "emudhra-certificate-flaw": "important",
+    "aero-velodrome-merger": "important"
   },
   "briefing_attempts": {
     "2026-10-15": 2,
