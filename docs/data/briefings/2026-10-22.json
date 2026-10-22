@@ -1,0 +1,591 @@
+{
+  "date": "2026-10-22",
+  "edition": "06:30",
+  "tldr": [
+    {
+      "impact": "neu",
+      "text": "BTC recule sous $83 000 cette nuit malgré une semaine positive ; le marché digère les nouvelles d'hier plus vite qu'il ne monte."
+    },
+    {
+      "impact": "neu",
+      "text": "SpaceX et Tesla étudient une fusion qui réunirait plus de 30 000 BTC (environ 2,5 Md$) dans une seule entité ; rien n'est signé, un risque de revente existe si la société fusionnée a besoin de cash."
+    },
+    {
+      "impact": "pos",
+      "text": "Solana a activé Alpenglow, sa plus grosse mise à jour depuis 2020 : la finalité des transactions passe de 12,8 secondes à environ 150 millisecondes."
+    },
+    {
+      "impact": "neu",
+      "text": "Les ETF Bitcoin US ont attiré 1,08 Md$ en 3 jours, mais ce rythme reste bien inférieur à celui des vrais rallyes haussiers."
+    },
+    {
+      "impact": "neg",
+      "text": "Les ETF Ether US ont perdu plus de 1,08 Md$ depuis début octobre, leur pire mois de 2026."
+    },
+    {
+      "impact": "neg",
+      "text": "Le pirate du hack Drift (295 M$ volés en avril) a envoyé 109 M$ d'ETH vers le mixeur Tornado Cash en deux jours ; 138 M$ restent encore dans ses portefeuilles."
+    },
+    {
+      "impact": "pos",
+      "text": "Aave propose la mise à jour V3.8, une protection anti-réentrance pour renforcer la sécurité du protocole ; encore en phase de discussion (ARFC)."
+    },
+    {
+      "impact": "pos",
+      "text": "Aerodrome et Velodrome ont fusionné pour lancer Aero, une seule DEX déployée sur sept blockchains."
+    },
+    {
+      "impact": "neu",
+      "text": "La Fed se réunit les 27-28 octobre ; le marché anticipe très majoritairement un statu quo des taux après la hausse surprise de septembre."
+    },
+    {
+      "impact": "neu",
+      "text": "Unlocks à surveiller : HYPE vers le 6 novembre et PUMP le 14 novembre, deux événements qui peuvent augmenter l'offre disponible."
+    }
+  ],
+  "news": [
+    {
+      "title": "SpaceX et Tesla étudient une fusion qui réunirait plus de 30 000 BTC",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "what": "<cite index=\"21-1,21-2\">Des administrateurs indépendants de SpaceX et Tesla évaluent une fusion des deux sociétés dirigées par Elon Musk. Une fusion combinerait leurs avoirs en bitcoin dans une trésorerie de 30 221 BTC, bien qu'aucune condition de transaction n'ait été fixée.</cite> <cite index=\"20-1\">SpaceX détiendrait 18 712 bitcoins et Tesla 11 509 BTC.</cite>",
+      "why": "Il s'agirait d'une des plus grosses trésoreries d'entreprise en bitcoin au monde, mais <cite index=\"25-4\">une société fusionnée en manque de liquidités pourrait vendre une partie de ce bitcoin comme source de financement, ajoutant de l'offre à un actif déjà en baisse sur un an.</cite>",
+      "assets": [
+        "BTC"
+      ],
+      "shortTerm": "Effet surtout psychologique et médiatique ; aucune vente ni achat n'a eu lieu.",
+      "longTerm": "À surveiller si la fusion se concrétise et si l'entreprise combinée décide de garder, vendre ou acheter plus de BTC.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin",
+          "publishedAt": "2026-10-21 09:23 UTC"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/spacex-tesla-merger-consolidate-30-142400928.html",
+          "publishedAt": "2026-10-21 00:00 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "Solana active Alpenglow, sa plus grande mise à jour depuis 2020",
+      "impact": "pos",
+      "confidence": "confirmed",
+      "what": "<cite index=\"49-1,49-2\">L'upgrade de consensus Alpenglow est entrée en vigueur sur le mainnet de Solana mercredi, visant à réduire la finalité des transactions de 99%, à environ 150 millisecondes.</cite> <cite index=\"49-6\">Alpenglow remplace le modèle de consensus TowerBFT.</cite>",
+      "why": "C'est <cite index=\"54-5\">le changement de consensus le plus important depuis le lancement du réseau en 2020</cite>, ce qui pourrait rapprocher Solana des performances d'infrastructures Web2 pour les paiements et le trading.",
+      "assets": [
+        "SOL"
+      ],
+      "shortTerm": "Risque de 'sell the news' : les ETF SOL US enregistrent des sorties depuis début octobre selon plusieurs médias.",
+      "longTerm": "Si la finalité se stabilise réellement autour de 150ms, cela renforce l'argument technique de Solana face à la concurrence.",
+      "sources": [
+        {
+          "name": "Cointelegraph (via TradingView)",
+          "url": "https://www.tradingview.com/news/cointelegraph:c4010ad7d094b:0-solana-s-alpenglow-launches-on-mainnet-targets-99-faster-finality/",
+          "publishedAt": "2026-10-21 13:57 UTC"
+        },
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508",
+          "publishedAt": "2026-10-21 14:24 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "OCC finalise les règles stablecoin du GENIUS Act",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "what": "Le régulateur bancaire américain (OCC) a publié sa règle finale encadrant les émetteurs et la garde de stablecoins sous le GENIUS Act, avant l'échéance de janvier. L'American Bankers Association critique la règle, l'accusant de contourner le Congrès sur la question des rémunérations liées aux stablecoins.",
+      "why": "Ces règles clarifient le cadre légal des stablecoins aux États-Unis, un sujet clé pour tout l'écosystème (Tether, Circle, et les protocoles DeFi qui en dépendent).",
+      "assets": [],
+      "shortTerm": "Impact limité sur les prix à court terme, mais réduit l'incertitude réglementaire pour les émetteurs de stablecoins.",
+      "longTerm": "Si le désaccord avec les banques traditionnelles s'intensifie, cela pourrait retarder l'application de certaines règles ou provoquer des recours.",
+      "assets2": [],
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-21-occ-final-rule-implementing-trump-signed-genius-act-421470",
+          "publishedAt": "2026-10-21 11:01 UTC"
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/381502/occ-finalizes-genius-act-stablecoin-rules-ahead-of-january-deadline",
+          "publishedAt": "2026-10-21 11:52 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "Le pirate de Drift Protocol envoie 109 M$ d'ETH volés vers Tornado Cash",
+      "impact": "neg",
+      "confidence": "confirmed",
+      "what": "<cite index=\"29-3\">Des portefeuilles liés au hack de 295 M$ de Drift Protocol en avril ont envoyé 109 millions de dollars d'Ether vers Tornado Cash en deux jours, soit près de 37% des fonds volés.</cite> <cite index=\"29-1\">Ces portefeuilles détiennent encore 138 millions de dollars d'Ether.</cite>",
+      "why": "Cela montre que l'attaquant (lié à un groupe nord-coréen selon Mandiant) reprend le blanchiment des fonds volés plusieurs mois après le hack initial.",
+      "assets": [
+        "ETH",
+        "SOL"
+      ],
+      "shortTerm": "Mouvement surveillé par les analystes on-chain ; pas d'impact direct sur le prix d'ETH vu les volumes du marché, mais rappelle le risque sécuritaire sur Solana (Drift tourne sur Solana).",
+      "longTerm": "Les victimes attendent toujours une indemnisation complète via le programme de recouvrement DFX de Drift.",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days",
+          "publishedAt": "2026-10-21 10:13 UTC"
+        },
+        {
+          "name": "crypto.news",
+          "url": "https://crypto.news/drift-hacker-109m-eth-tornado-cash/",
+          "publishedAt": "2026-10-21 00:00 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "Les ETF Bitcoin attirent 1,08 Md$ en 3 jours, mais pas de quoi lancer un vrai rallye",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "what": "<cite index=\"68-5,68-6\">Les ETF bitcoin spot américains ont attiré plus d'1 milliard de dollars cette semaine, alors que les trois grands rallyes de Bitcoin depuis janvier 2024 coïncidaient avec des entrées nettes moyennes de plus de 200 millions de dollars par jour, contre environ 86 millions depuis le 1er juillet.</cite>",
+      "why": "Le retour des flux est positif, mais le rythme reste loin des niveaux historiquement associés aux grandes hausses de prix.",
+      "assets": [
+        "BTC"
+      ],
+      "shortTerm": "Soutien modéré au prix de BTC sans catalyseur suffisant pour une cassure franche à la hausse.",
+      "longTerm": "Une accélération durable des flux serait nécessaire pour confirmer une reprise plus forte.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
+          "publishedAt": "2026-10-22 04:41 UTC"
+        }
+      ],
+      "singleSource": true
+    },
+    {
+      "title": "Aave propose la mise à jour V3.8 pour se protéger des attaques par réentrance",
+      "impact": "pos",
+      "confidence": "confirmed",
+      "what": "<cite index=\"1-5,1-6,1-7\">Aave propose de passer à la version V3.8, une mise à jour non invasive centrée sur la sécurité. Les changements sont mineurs mais jugés utiles pour rendre le système plus robuste. Elle introduit un garde-fou anti-réentrance sur les opérations du Pool.</cite> <cite index=\"64-1\">Stani Kulechov a présenté la proposition le 21 octobre sur X, avec un lien vers la proposition de gouvernance.</cite>",
+      "why": "C'est une mesure préventive, <cite index=\"8-9\">la proposition n'identifie pas d'exploit actif ou de vulnérabilité nouvellement découverte ; elle est présentée comme une mesure préventive.</cite>",
+      "assets": [
+        "AAVE"
+      ],
+      "shortTerm": "Pas d'impact immédiat sur le prix, proposition encore en phase ARFC (discussion communautaire avant vote Snapshot).",
+      "longTerm": "Renforce la réputation de sécurité d'Aave, le plus gros protocole de prêt DeFi en TVL.",
+      "sources": [
+        {
+          "name": "Aave Gouvernance",
+          "url": "https://governance.aave.com/t/arfc-aave-v3-8/25891",
+          "publishedAt": "2026-10-21 17:06 UTC"
+        },
+        {
+          "name": "CryptoTimes",
+          "url": "https://www.cryptotimes.io/2026/10/22/aave-proposes-v3-8-upgrade-with-reentrancy-protection/",
+          "publishedAt": "2026-10-22 00:00 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "Aerodrome et Velodrome fusionnent pour lancer Aero sur sept blockchains",
+      "impact": "pos",
+      "confidence": "confirmed",
+      "what": "<cite index=\"76-1,76-7\">Aerodrome et Velodrome ont fusionné le 22 octobre 2026 pour former Aero, une couche de liquidité unifiée. Aero fonctionne désormais sur sept chaînes, dont Base et OP Mainnet.</cite> <cite index=\"76-6\">Les détenteurs d'AERO migrent 1:1, les détenteurs de VELO reçoivent un ratio de 1:0,044.</cite>",
+      "why": "Cela réunit les deux plus grosses DEX de Base et d'Optimism en une seule plateforme multi-chaînes, avec un partage de revenus aux stakers.",
+      "assets": [],
+      "shortTerm": "Migration technique en cours, période de transition pour les détenteurs de liquidité.",
+      "longTerm": "Si l'adoption suit, Aero pourrait capter plus de volume de trading on-chain qu'avant la fusion ; reste à prouver sur plusieurs mois.",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
+          "publishedAt": "2026-10-22 00:00 UTC"
+        },
+        {
+          "name": "KuCoin News",
+          "url": "https://www.kucoin.com/news/flash/aerodrome-and-velodrome-merge-as-aero-unify-aero-and-velo-tokenomics",
+          "publishedAt": "2026-10-22 02:06 UTC"
+        }
+      ],
+      "singleSource": false
+    }
+  ],
+  "market": [
+    {
+      "symbol": "BTC",
+      "sentiment": "neu",
+      "driver": "Flux ETF en amélioration mais insuffisants pour un vrai rallye, et discussions de fusion SpaceX/Tesla autour des 30 000 BTC qu'elles détiennent.",
+      "events": [
+        "ETF BTC +1,08 Md$ en 3 jours",
+        "SpaceX et Tesla annoncent étudier une fusion"
+      ],
+      "watch": [
+        "FOMC le 28 octobre",
+        "Niveau de $87,7K cité par Glassnode comme zone de vendeurs importants"
+      ],
+      "name": "Bitcoin",
+      "price": 82730,
+      "change24h": -0.11351,
+      "change7d": 2.5059,
+      "volume": 35999249825,
+      "asOf": "22/10 07:17",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "ETH",
+      "sentiment": "neg",
+      "driver": "Sorties d'ETF Ether qui dépassent 1 Md$ en octobre, et mouvements de fonds volés liés au hack Drift (sur Solana mais réglé en ETH).",
+      "events": [
+        "109 M$ d'ETH du hack Drift envoyés vers Tornado Cash",
+        "Sorties ETF Ether >1,08 Md$ en octobre"
+      ],
+      "watch": [
+        "Nouveaux transferts des 138 M$ d'ETH restants chez l'attaquant Drift",
+        "Inversion éventuelle des flux ETF"
+      ],
+      "name": "Ethereum",
+      "price": 2439.67,
+      "change24h": -0.28516,
+      "change7d": 3.6852,
+      "volume": 14401683409,
+      "asOf": "22/10 07:17",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "SOL",
+      "sentiment": "pos",
+      "driver": "Activation réussie d'Alpenglow, gros progrès technique sur la finalité des transactions.",
+      "events": [
+        "Alpenglow live le 21 octobre, finalité visée à 150ms"
+      ],
+      "watch": [
+        "Stabilisation de la finalité réelle autour de 150ms dans les prochains jours",
+        "Flux des ETF SOL"
+      ],
+      "name": "Solana",
+      "price": 105.1,
+      "change24h": -0.84273,
+      "change7d": 2.9795,
+      "volume": 2709760608,
+      "asOf": "22/10 07:17",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "HYPE",
+      "sentiment": "neu",
+      "driver": "Unlock mensuel attendu vers le 6 novembre, avec un historique de distributions discrétionnaires inférieures au maximum théorique.",
+      "events": [
+        "Prix en baisse de 2,6% sur 24h"
+      ],
+      "watch": [
+        "Unlock prévu vers le 6 novembre (~9,9M HYPE, montant exact discrétionnaire)",
+        "Suite des placements OTC type celui de 3,75M HYPE en octobre"
+      ],
+      "name": "Hyperliquid",
+      "price": 78.74,
+      "change24h": -2.62506,
+      "change7d": 0.5815,
+      "volume": 786340997,
+      "asOf": "22/10 07:17",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "AAVE",
+      "sentiment": "neu",
+      "driver": "Proposition de sécurité V3.8 en cours de discussion ; recherche Citi positionnant Aave comme 'protocole de mobilité du collatéral'.",
+      "events": [
+        "ARFC V3.8 publié le 21 octobre",
+        "Prix en baisse de 3,4% sur 24h"
+      ],
+      "watch": [
+        "Passage de V3.8 au vote Snapshot après audits Certora",
+        "Livestream Q3 d'Aave prévu aujourd'hui 22 octobre à 15h UTC"
+      ],
+      "name": "Aave",
+      "price": 149.79,
+      "change24h": -3.39835,
+      "change7d": 0.1777,
+      "volume": 233198354,
+      "asOf": "22/10 07:17",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "PUMP",
+      "sentiment": "neu",
+      "driver": "Hausse de 7 jours marquée (+13%), mais unlock important à venir mi-novembre.",
+      "events": [
+        "Prix +4% sur 24h, +13% sur 7 jours"
+      ],
+      "watch": [
+        "Unlock du 14 novembre : 10 Md PUMP (~41,4 M$, 2,83% de la capitalisation)"
+      ],
+      "name": "Pump.fun",
+      "price": 0.00493816,
+      "change24h": 3.97941,
+      "change7d": 13.2794,
+      "volume": 196085587,
+      "asOf": "22/10 07:17",
+      "source": "CoinGecko"
+    }
+  ],
+  "x": [
+    {
+      "author": "Stani Kulechov",
+      "handle": "@StaniKulechov",
+      "time": "2026-10-21",
+      "asset": "AAVE",
+      "sentiment": "pos",
+      "kind": "official",
+      "summary": "Annonce de la proposition Aave V3.8, décrite comme des améliorations mineures de sécurité (anti-réentrance).",
+      "why": "Vient directement du fondateur d'Aave Labs, confirmé par la publication officielle sur le forum de gouvernance."
+    },
+    {
+      "author": "Aave",
+      "handle": "@aave",
+      "time": "2026-10-21",
+      "asset": "AAVE",
+      "sentiment": "neu",
+      "kind": "official",
+      "summary": "Invitation à un livestream Q3 2026 le 22 octobre à 15h UTC, pour présenter le lancement des actions tokenisées sur Coinbase et les avancées de l'App Aave.",
+      "why": "Annonce officielle du compte du projet, événement à suivre aujourd'hui."
+    },
+    {
+      "author": "Onchain Lens",
+      "handle": "@OnchainLens",
+      "time": "2026-10-21",
+      "asset": "ETH",
+      "sentiment": "neg",
+      "kind": "data",
+      "summary": "Suivi on-chain des transferts de 44 510 ETH (~109 M$) du pirate de Drift vers Tornado Cash sur deux jours.",
+      "why": "Donnée on-chain reprise par plusieurs médias indépendants (Cointelegraph, TokenPost, crypto.news), donc fiable malgré l'origine d'un compte d'analyse tiers."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Aero (fusion Aerodrome + Velodrome)",
+      "conviction": "watch",
+      "funding": "Pas de levée privée ; fusion de deux tokens existants sans vente privée du nouveau token.",
+      "investors": "Communautaire (détenteurs d'AERO et VELO) ; développé par Dromos Labs.",
+      "team": "Dromos Labs, l'équipe à l'origine des deux protocoles d'origine (Aerodrome sur Base, Velodrome sur OP Mainnet).",
+      "tech": "Couche de liquidité unifiée sur sept chaînes (Base, Ethereum, OP Mainnet, Arbitrum, Arc, Ink, Robinhood Chain) avec routage cross-chain.",
+      "tokenomics": "AERO migre 1:1, VELO convertit à ~0,044 AERO ; répartition 94,5%/5,5% ; offre maximale de 2,127 Md de jetons.",
+      "catalysts": "Fusion effective depuis le 22 octobre ; nouvelles cotations attendues.",
+      "why": "Consolide deux des plus gros DEX de l'écosystème EVM en une seule plateforme multi-chaînes avec partage de revenus aux stakers.",
+      "risk": "Risques de migration technique, dilution potentielle pour les ex-détenteurs de VELO, concurrence intense entre DEX."
+    },
+    {
+      "name": "Dataline (ex-Tearline)",
+      "conviction": "spec",
+      "funding": "Levée de 10,6 M$ en seed, structurée en SAFE (conversion future en tokens).",
+      "investors": "Co-menée par Lattice et Dispersion Capital, avec Symbolic Capital, Coinbase Ventures, Anagram et Vlad Tenev (CEO de Robinhood) selon The Block.",
+      "team": "Fondé en 2025 après un hackathon BNB Chain IA, ex-Tearline.",
+      "tech": "Réseau de données décentralisé pour agents IA, données normalisées avec score de confiance ; revendique 19,4 millions de transactions on-chain traitées.",
+      "tokenomics": "Token DLINE pas encore lancé : offre totale d'1 milliard, 33% récompenses communautaires, 30% écosystème/fondation, 13% launchpad/liquidité, 12% équipe, 12% investisseurs.",
+      "catalysts": "ICO prévue via le système d'enchères CCA d'Uniswap avant la fin de l'année.",
+      "why": "Investisseurs identifiables et vérifiables, narratif IA x crypto en vogue.",
+      "risk": "Projet pré-token, ICO à venir sans détails de prix encore publiés ; peu d'historique on-chain vérifiable de manière indépendante."
+    }
+  ],
+  "smartMoney": [
+    {
+      "title": "Mouvements internes de trésorerie bitcoin de SpaceX",
+      "token": "BTC",
+      "amount": "1 215 BTC (~133 M$), dont 300 BTC et 915 BTC vers des adresses séparées",
+      "from": "Wallets attribués publiquement à SpaceX (selon Arkham Intelligence, suite à la divulgation dans son dossier d'introduction en bourse)",
+      "to": "Adresses internes non identifiées publiquement au-delà de SpaceX",
+      "confidence": "likely",
+      "interpretation": "Mouvement interne de gestion de trésorerie selon Arkham ; ni SpaceX ni Tesla n'ont signalé d'intention de vendre ou d'acheter plus de bitcoin.",
+      "sources": [
+        {
+          "name": "Coin Turk",
+          "url": "https://en.coin-turk.com/musk-explores-spacex-tesla-merger-combined-bitcoin-holdings-top-2-5-billion/"
+        }
+      ]
+    }
+  ],
+  "unlocks": [
+    {
+      "date": "2026-11-06",
+      "token": "HYPE",
+      "amount": "~9,92 millions de HYPE (montant réel historiquement inférieur à ce maximum théorique, décidé au cas par cas)",
+      "value": "~800 M$ au prix théorique maximal",
+      "pct": "~2% de l'offre en circulation",
+      "who": "Core Contributors",
+      "risk": "med",
+      "priority": true,
+      "confidence": "likely"
+    },
+    {
+      "date": "2026-11-14",
+      "token": "PUMP",
+      "amount": "10 milliards de PUMP",
+      "value": "~41,44 M$",
+      "pct": "2,83% de la capitalisation boursière",
+      "who": "Non précisé (schedule de vesting du projet)",
+      "risk": "low",
+      "priority": true,
+      "confidence": "likely"
+    },
+    {
+      "date": "2026-11-01",
+      "token": "ENA",
+      "amount": "275 015 625 ENA",
+      "value": "~56,9 M$",
+      "pct": "1,83% de l'offre totale, 2,05% de l'offre en circulation",
+      "who": "Investisseurs initiaux / core contributors",
+      "risk": "med",
+      "priority": false,
+      "confidence": "likely"
+    }
+  ],
+  "unlocksSource": {
+    "name": "Tokenomist.ai / cryptoticker.io / todayscrypto.news",
+    "url": "https://tokenomist.ai/hyperliquid"
+  },
+  "regulation": [
+    {
+      "region": "États-Unis",
+      "title": "L'OCC finalise les règles stablecoin du GENIUS Act",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "summary": "L'Office of the Comptroller of the Currency a publié sa règle finale sur les émetteurs et la garde de stablecoins avant l'échéance de janvier fixée par le GENIUS Act ; l'American Bankers Association conteste la règle sur la question des rémunérations.",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-21-occ-final-rule-implementing-trump-signed-genius-act-421470"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/occ-finalizes-genius-act-rules-stablecoin-issuers-custody"
+        }
+      ]
+    },
+    {
+      "region": "Union européenne",
+      "title": "La Cardano Foundation s'oppose à l'extension de MiCA au DeFi et au staking",
+      "impact": "neu",
+      "confidence": "likely",
+      "summary": "La fondation Cardano a publiquement demandé à l'UE de ne pas étendre les règles MiCA à la DeFi et au staking, dans le cadre de la consultation en cours.",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking"
+        }
+      ]
+    },
+    {
+      "region": "France",
+      "title": "La France propose une responsabilité des plateformes donnant accès à la DeFi",
+      "impact": "neg",
+      "confidence": "unconfirmed",
+      "summary": "Une proposition française viserait à rendre les plateformes d'échange responsables lorsqu'elles donnent accès à des protocoles DeFi ; information à confirmer, une seule source identifiée pour l'instant.",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/france-liability-crypto-exchange-defi-access"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "title": "Réunion de la Fed les 27-28 octobre",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "date": "2026-10-28",
+      "summary": "La Fed se réunit les 27 et 28 octobre, avec une décision de taux annoncée le 28 à 14h ET. Après une hausse surprise à 3,75%-4,00% en septembre (première hausse depuis 2023), le marché anticipe très majoritairement un statu quo cette fois-ci.",
+      "sources": [
+        {
+          "name": "PrimeRates",
+          "url": "https://primerates.com/primerate/fed-meeting-schedule/"
+        },
+        {
+          "name": "FedRateCalc",
+          "url": "https://fedratecalc.com/fomc-meeting-schedule/october-2026/"
+        }
+      ]
+    },
+    {
+      "title": "Le rendement du Trésor à 10 ans grimpe à ~5,15%",
+      "impact": "neg",
+      "confidence": "likely",
+      "date": "2026-10-21",
+      "summary": "La hausse des taux longs américains reflète des craintes inflationnistes persistantes après la hausse de taux de septembre, ce qui peut peser sur les actifs risqués comme les cryptomonnaies.",
+      "sources": [
+        {
+          "name": "PrimeRates",
+          "url": "https://primerates.com/primerate/fed-meeting-schedule/"
+        }
+      ]
+    }
+  ],
+  "onchain": [
+    {
+      "metric": "Fear & Greed Index",
+      "value": "68 (Greed)",
+      "note": "En hausse depuis 63 la veille, signe d'un regain d'appétit pour le risque.",
+      "source": "Données fournies"
+    },
+    {
+      "metric": "TVL Aave",
+      "value": "~18,18 Md$",
+      "note": "Confirme Aave comme premier protocole de prêt DeFi en valeur verrouillée.",
+      "source": "Données fournies"
+    },
+    {
+      "metric": "TVL Hyperliquid",
+      "value": "~8,42 Md$",
+      "note": "Activité soutenue malgré la baisse de prix récente.",
+      "source": "Données fournies"
+    },
+    {
+      "metric": "Stablecoins en circulation (total)",
+      "value": "~305,7 Md$",
+      "note": "Marché des stablecoins stable, contexte pertinent avec la finalisation des règles OCC/GENIUS Act.",
+      "source": "Données fournies"
+    }
+  ],
+  "watchlist": [
+    {
+      "impact": "neu",
+      "text": "Unlock HYPE attendu vers le 6 novembre (~800 M$ au maximum théorique, montant réel historiquement inférieur)."
+    },
+    {
+      "impact": "neu",
+      "text": "Unlock PUMP le 14 novembre (10 Md PUMP, ~41,4 M$, 2,83% de la capitalisation)."
+    },
+    {
+      "impact": "neu",
+      "text": "Décision de la Fed le 28 octobre, statu quo largement anticipé après la hausse de septembre."
+    },
+    {
+      "impact": "pos",
+      "text": "Stabilisation de la finalité de Solana (Alpenglow) autour de 150ms dans les prochains jours."
+    },
+    {
+      "impact": "neg",
+      "text": "Suivi des 138 M$ d'ETH restants chez le pirate de Drift Protocol, pouvant encore transiter vers Tornado Cash."
+    }
+  ],
+  "breaking": [
+    {
+      "id": "xrp-network-incident:2026-10-22",
+      "level": "important",
+      "time": "07:23",
+      "title": "Correctif du XRP Ledger reporté à novembre après baisse du soutien des validateurs",
+      "summary": "Un correctif de bug sur le XRP Ledger a été repoussé à novembre après que le soutien des validateurs ait chuté pendant deux heures, révélant des tensions dans le consensus réseau.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-10-22T05:23:17Z",
+  "updatedAt": "2026-10-22T05:23:27Z"
+}

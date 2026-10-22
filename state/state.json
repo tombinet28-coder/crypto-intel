@@ -1,11 +1,5 @@
 {
   "seen": {
-    "rss:57c37e4bb3dec1a1": 1792386781.9473736,
-    "rss:e7f998f9bd741350": 1792386781.9473746,
-    "rss:9eb1bdd88832a1e6": 1792386781.947375,
-    "rss:0db26729f98c472a": 1792386781.9473753,
-    "rss:8a7ed6b7e281f21d": 1792386781.9473755,
-    "move24:quack-ai:20745": 1792386781.9474752,
     "rss:e3c5f0afe4e9f65b": 1792408251.5414793,
     "rss:e043bf05ed51a5d1": 1792408251.5414808,
     "rss:4e3f041cfa464755": 1792408251.5414813,
@@ -210,21 +204,14 @@
     "rss:21452969edd33a98": 1792619803.9861004,
     "rss:043a2bf5f6f78168": 1792619803.9861004,
     "rss:aa81b89ecbc3be24": 1792629375.341685,
-    "rss:2405188bb0071c5b": 1792629375.3416865
+    "rss:2405188bb0071c5b": 1792629375.3416865,
+    "rss:fbe85391f202ab36": 1792646601.631324,
+    "rss:b7b0d5a929b6c05d": 1792646601.6313255,
+    "rss:fd366c9e5ec5546b": 1792646601.631326,
+    "rss:55bf3b61acc81d95": 1792646601.6313262
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:fb66df8b98a8667d",
-      "kind": "news",
-      "title": "Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold",
-      "url": "https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "unrelated-tech",
-      "ts": 1792545554
-    },
     {
       "id": "rss:226e2b27118e3c07",
       "kind": "news",
@@ -237,50 +224,6 @@
       "ts": 1792560357
     },
     {
-      "id": "rss:d08f987d6839db67",
-      "kind": "news",
-      "title": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
-      "url": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "solana-alpenglow-upgrade",
-      "ts": 1792557352
-    },
-    {
-      "id": "rss:07b3ff05c6f1f6dd",
-      "kind": "news",
-      "title": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
-      "url": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "emudhra-certificate-flaw",
-      "ts": 1792555918
-    },
-    {
-      "id": "rss:1a0d5c49e01299a6",
-      "kind": "news",
-      "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
-      "url": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-market-dynamics",
-      "ts": 1792555627
-    },
-    {
-      "id": "rss:9112f5e3a5c90691",
-      "kind": "news",
-      "title": "MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion",
-      "url": "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "moonpay-dunamu-collaboration",
-      "ts": 1792549808
-    },
-    {
       "id": "rss:fe2b3fdd7790e0b9",
       "kind": "news",
       "title": "Malaysia central bank launches DLT platform for tokenized bonds",
@@ -290,17 +233,6 @@
       "xRole": null,
       "cluster": "malaysia-central-bank-dlt",
       "ts": 1792562189
-    },
-    {
-      "id": "rss:7edf3f95ba113dcc",
-      "kind": "news",
-      "title": "Tech giants rush to block 8 eMudhra certs that could enable fake sites",
-      "url": "https://cointelegraph.com/news/tech-giants-rush-to-block-flawed-emudhra-certs-that-could-enable-fake-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "emudhra-certificate-flaw",
-      "ts": 1792559700
     },
     {
       "id": "rss:1a3f08ed80bb710b",
@@ -675,28 +607,53 @@
       "xRole": null,
       "cluster": "stablecoin-regulation-occ",
       "ts": 1792619628
-    }
-  ],
-  "digest_queue": [
+    },
     {
-      "id": "aero-velodrome-merger:2026-10-22",
-      "level": "important",
-      "time": "02:36",
-      "title": "Aerodrome et Velodrome fusionnent pour lancer Aero sur sept blockchains",
-      "summary": "Aerodrome et Velodrome ont fusionné pour lancer Aero sur Ethereum mainnet, Base, Robinhood Chain, Ink, OP Mainnet, Arc et Arbitrum. Cette expansion multi-chaîne représente une intégration significative du protocole d'échange décentralisé.",
-      "assets": [
-        "AERO"
-      ],
-      "confidence": "likely",
-      "sources": [
-        {
-          "name": "The Block",
-          "url": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514"
-        }
-      ],
-      "digested": false
+      "id": "rss:fbe85391f202ab36",
+      "kind": "news",
+      "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
+      "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-market-dynamics",
+      "ts": 1792644119
+    },
+    {
+      "id": "rss:b7b0d5a929b6c05d",
+      "kind": "news",
+      "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
+      "url": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "xrp-network-incident",
+      "ts": 1792643780
+    },
+    {
+      "id": "rss:fd366c9e5ec5546b",
+      "kind": "news",
+      "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
+      "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-market-dynamics",
+      "ts": 1792641094
+    },
+    {
+      "id": "rss:55bf3b61acc81d95",
+      "kind": "news",
+      "title": "PHP Foundation admits ‘structural failure’ delayed critical security fix",
+      "url": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "php-critical-bugs",
+      "ts": 1792629840
     }
   ],
+  "digest_queue": [],
   "sent": {
     "2026-10-16": {
       "critical": 0,
@@ -730,7 +687,7 @@
     },
     "2026-10-22": {
       "critical": 0,
-      "important": 0,
+      "important": 1,
       "digests": []
     }
   },
@@ -929,15 +886,16 @@
     "cardano-eu-regulation": "important",
     "uk-defi-regulation": "important",
     "emudhra-certificate-flaw": "important",
-    "aero-velodrome-merger": "important"
+    "aero-velodrome-merger": "important",
+    "xrp-network-incident": "important"
   },
   "briefing_attempts": {
-    "2026-10-15": 2,
     "2026-10-16": 1,
     "2026-10-17": 2,
     "2026-10-18": 2,
     "2026-10-19": 1,
     "2026-10-20": 1,
-    "2026-10-21": 2
+    "2026-10-21": 2,
+    "2026-10-22": 1
   }
 }
