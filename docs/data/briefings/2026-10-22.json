@@ -572,6 +572,56 @@
   ],
   "breaking": [
     {
+      "id": "south-korea-crypto-regulation:2026-10-22",
+      "level": "important",
+      "time": "12:34",
+      "title": "Le projet de loi crypto de Corée du Sud approche de l'achèvement",
+      "summary": "Le projet de loi sud-coréen visant à établir un cadre réglementaire pour les actifs numériques approche de l'achèvement, incluant des régimes de licence pour les échanges.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-22-south-koreas-crypto-bill-nears-completion-421880"
+        }
+      ]
+    },
+    {
+      "id": "starknet-independence:2026-10-22",
+      "level": "important",
+      "time": "12:34",
+      "title": "La communauté Starknet approuve la recherche pour devenir une Layer 1 post-quantique indépendante",
+      "summary": "La communauté Starknet a approuvé la recherche pour devenir une Layer 1 indépendante et résistante aux attaques quantiques, avec un whitepaper prévu en novembre.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-22-starknet-community-backs-independent-post-quantum-layer-1-421885"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "id": "china-btc-seizure:2026-10-22",
+      "level": "important",
+      "time": "12:34",
+      "title": "La Chine cherche à saisir 61 800 BTC liés à un fraude de 5,7 milliards de dollars",
+      "summary": "Les procureurs chinois demandent la saisie de 61 800 BTC saisis par le Royaume-Uni dans une affaire de fraude majeure.",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme"
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/381580/chinese-prosecutors-seek-to-confiscate-5-1b-in-bitcoin-seized-by-uk-in-qian-case"
+        }
+      ]
+    },
+    {
       "id": "xrp-network-incident:2026-10-22",
       "level": "important",
       "time": "07:23",
@@ -587,5 +637,5 @@
     }
   ],
   "generatedAt": "2026-10-22T05:23:17Z",
-  "updatedAt": "2026-10-22T05:23:27Z"
+  "updatedAt": "2026-10-22T10:34:26Z"
 }

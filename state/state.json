@@ -208,32 +208,24 @@
     "rss:fbe85391f202ab36": 1792646601.631324,
     "rss:b7b0d5a929b6c05d": 1792646601.6313255,
     "rss:fd366c9e5ec5546b": 1792646601.631326,
-    "rss:55bf3b61acc81d95": 1792646601.6313262
+    "rss:55bf3b61acc81d95": 1792646601.6313262,
+    "rss:9d1307c53ac4fdc9": 1792665246.2484431,
+    "rss:5d1b5004f4a053bc": 1792665246.2484443,
+    "rss:03664aa71534755f": 1792665246.2484446,
+    "rss:8421129057850d9f": 1792665246.248445,
+    "rss:19f3d7051ae720b4": 1792665246.2484453,
+    "rss:8dd90dbf693eccd2": 1792665246.2484455,
+    "rss:1a4bdb1170b5bbef": 1792665246.2484455,
+    "rss:b52888c9ab12cf45": 1792665246.2484457,
+    "rss:61cebec06b0a9879": 1792665246.2484457,
+    "rss:7a96127c5cfd022e": 1792665246.2484457,
+    "rss:ae655ca22e247fb5": 1792665246.248446,
+    "rss:f472c81275aae49f": 1792665246.248446,
+    "rss:81e012bc3d42a990": 1792665246.248446,
+    "rss:dd9f37507f320634": 1792665246.2484546
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:226e2b27118e3c07",
-      "kind": "news",
-      "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
-      "url": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ripple-wall-street-tokenized-stocks",
-      "ts": 1792560357
-    },
-    {
-      "id": "rss:fe2b3fdd7790e0b9",
-      "kind": "news",
-      "title": "Malaysia central bank launches DLT platform for tokenized bonds",
-      "url": "https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "malaysia-central-bank-dlt",
-      "ts": 1792562189
-    },
     {
       "id": "rss:1a3f08ed80bb710b",
       "kind": "news",
@@ -651,6 +643,160 @@
       "xRole": null,
       "cluster": "php-critical-bugs",
       "ts": 1792629840
+    },
+    {
+      "id": "rss:9d1307c53ac4fdc9",
+      "kind": "news",
+      "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
+      "url": "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-news-roundup",
+      "ts": 1792664308
+    },
+    {
+      "id": "rss:5d1b5004f4a053bc",
+      "kind": "news",
+      "title": "Live updates: Bitcoin’s round trip to $85,000 burns traders on both sides",
+      "url": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-market-dynamics",
+      "ts": 1792662866
+    },
+    {
+      "id": "rss:03664aa71534755f",
+      "kind": "news",
+      "title": "Asian stocks tumble, bitcoin retreats as China enters bear market",
+      "url": "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-market-dynamics",
+      "ts": 1792658948
+    },
+    {
+      "id": "rss:8421129057850d9f",
+      "kind": "news",
+      "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
+      "url": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "china-btc-seizure",
+      "ts": 1792650250
+    },
+    {
+      "id": "rss:19f3d7051ae720b4",
+      "kind": "news",
+      "title": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
+      "url": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "solana-alpenglow-upgrade",
+      "ts": 1792646698
+    },
+    {
+      "id": "rss:8dd90dbf693eccd2",
+      "kind": "news",
+      "title": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak",
+      "url": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-market-dynamics",
+      "ts": 1792662976
+    },
+    {
+      "id": "rss:1a4bdb1170b5bbef",
+      "kind": "news",
+      "title": "Starknet community overwhelmingly backs research into becoming an independent post-quantum Layer 1",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-22-starknet-community-backs-independent-post-quantum-layer-1-421885",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "starknet-independence",
+      "ts": 1792661520
+    },
+    {
+      "id": "rss:b52888c9ab12cf45",
+      "kind": "news",
+      "title": "Layer 2 Scaling Solutions",
+      "url": "https://www.theblock.co/learn/campus/layer-2-scaling-solutions-419685",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-news-roundup",
+      "ts": 1792660550
+    },
+    {
+      "id": "rss:61cebec06b0a9879",
+      "kind": "news",
+      "title": "South Korea’s crypto bill nears completion while tax debate intensifies: reports",
+      "url": "https://www.theblock.co/news/regulation/2026-10-22-south-koreas-crypto-bill-nears-completion-421880",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "south-korea-crypto-regulation",
+      "ts": 1792660317
+    },
+    {
+      "id": "rss:7a96127c5cfd022e",
+      "kind": "news",
+      "title": "Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Case",
+      "url": "https://decrypt.co/381580/chinese-prosecutors-seek-to-confiscate-5-1b-in-bitcoin-seized-by-uk-in-qian-case",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "china-btc-seizure",
+      "ts": 1792663782
+    },
+    {
+      "id": "rss:ae655ca22e247fb5",
+      "kind": "news",
+      "title": "Starknet voters back research into life beyond Ethereum",
+      "url": "https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "starknet-independence",
+      "ts": 1792661874
+    },
+    {
+      "id": "rss:f472c81275aae49f",
+      "kind": "news",
+      "title": "PHP flaw draws millions of exploit attempts, Cloudflare CEO warns",
+      "url": "https://cointelegraph.com/news/cloudflare-millions-exploit-attempts-php-vulnerability-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "php-critical-bugs",
+      "ts": 1792659962
+    },
+    {
+      "id": "rss:81e012bc3d42a990",
+      "kind": "news",
+      "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
+      "url": "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "btc-market-dynamics",
+      "ts": 1792654652
+    },
+    {
+      "id": "rss:dd9f37507f320634",
+      "kind": "news",
+      "title": "Move over memecoins: Crypto ‘meme games’ coming, bagholders and all",
+      "url": "https://cointelegraph.com/news/move-over-memecoins-crypto-meme-games-coming-bagholders-and-all?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "crypto-meme-games",
+      "ts": 1792647338
     }
   ],
   "digest_queue": [],
@@ -687,7 +833,7 @@
     },
     "2026-10-22": {
       "critical": 0,
-      "important": 1,
+      "important": 4,
       "digests": []
     }
   },
@@ -887,7 +1033,10 @@
     "uk-defi-regulation": "important",
     "emudhra-certificate-flaw": "important",
     "aero-velodrome-merger": "important",
-    "xrp-network-incident": "important"
+    "xrp-network-incident": "important",
+    "china-btc-seizure": "important",
+    "starknet-independence": "important",
+    "south-korea-crypto-regulation": "important"
   },
   "briefing_attempts": {
     "2026-10-16": 1,
