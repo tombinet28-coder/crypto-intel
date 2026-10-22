@@ -1,20 +1,5 @@
 {
   "seen": {
-    "rss:b0b647fa458651c7": 1792448198.0035102,
-    "rss:cffb6572d5084cdb": 1792448198.0035117,
-    "rss:090a5a74c2327a20": 1792448198.0035121,
-    "rss:425a8f36227db017": 1792448198.0035124,
-    "rss:bad50904c6ba7771": 1792448198.0035126,
-    "rss:c61609420f5ed3f8": 1792448198.0035129,
-    "rss:0fff59a9ae820e4b": 1792448198.003513,
-    "rss:a53115d100c1f72d": 1792448198.003513,
-    "rss:b75fa6b61606929a": 1792448198.0035133,
-    "rss:d82338e75034966f": 1792448198.0035133,
-    "rss:d04c98f86042953e": 1792448198.0035136,
-    "rss:217b73c27171fa9b": 1792448198.0035136,
-    "rss:da131b0e8832a470": 1792448198.0035138,
-    "rss:94eb35b6b8c80af8": 1792448198.0035138,
-    "rss:52af5a23bbe6a89b": 1792448198.0035143,
     "rss:1ee566d895d791c3": 1792477890.787417,
     "rss:bf5898f1ef821023": 1792477890.7874184,
     "rss:b1a8243af2a01064": 1792477890.787419,
@@ -211,65 +196,17 @@
     "rss:a7c627c96645a507": 1792697229.6008046,
     "rss:155a808b4f5d0ca0": 1792697229.6008048,
     "rss:78c201aaed8cd47d": 1792697229.6008048,
-    "rss:4f8b09cbac1af525": 1792697229.600805
+    "rss:4f8b09cbac1af525": 1792697229.600805,
+    "rss:d6f8e7695b8bb7d9": 1792708904.536134,
+    "rss:0e220e60fc74e65e": 1792708904.536135,
+    "rss:cf2d84116e987cec": 1792708904.5361354,
+    "rss:f7d8b1380a833c0f": 1792708904.5361357,
+    "rss:e6daf4724abd1b11": 1792708904.5361357,
+    "rss:78e45c00f46836ba": 1792708904.536136,
+    "move24:akedo:20748": 1792708904.536224
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:3254879a8c16facb",
-      "kind": "news",
-      "title": "Ken Griffin Says AI Is 'Almost Certainly' in a Bubble—And Compares GPUs to Airline Seats",
-      "url": "https://decrypt.co/381578/ken-griffin-ai-bubble-gpus-airline-seats",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "unrelated-tech",
-      "ts": 1792618262
-    },
-    {
-      "id": "rss:49522c9d6a1b9a4b",
-      "kind": "news",
-      "title": "Nvidia Unveils Its Full-Stack Blueprint to Contain and Monitor AI Agents",
-      "url": "https://decrypt.co/381570/nvidia-ai-agent-containment-tools-full-stack-blueprint",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "unrelated-tech",
-      "ts": 1792613762
-    },
-    {
-      "id": "rss:142a360a5893d297",
-      "kind": "news",
-      "title": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
-      "url": "https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "tether-latam-expansion",
-      "ts": 1792614367
-    },
-    {
-      "id": "rss:21452969edd33a98",
-      "kind": "news",
-      "title": "Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable",
-      "url": "https://cointelegraph.com/news/white-house-cybercrime-roundtable-donald-trump-crypto-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "trump-crypto-policy",
-      "ts": 1792613979
-    },
-    {
-      "id": "rss:043a2bf5f6f78168",
-      "kind": "news",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-news-roundup",
-      "ts": 1792613447
-    },
     {
       "id": "rss:aa81b89ecbc3be24",
       "kind": "news",
@@ -280,17 +217,6 @@
       "xRole": null,
       "cluster": "aero-velodrome-merger",
       "ts": 1792627200
-    },
-    {
-      "id": "rss:2405188bb0071c5b",
-      "kind": "news",
-      "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
-      "url": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "stablecoin-regulation-occ",
-      "ts": 1792619628
     },
     {
       "id": "rss:fbe85391f202ab36",
@@ -896,15 +822,116 @@
       "xRole": null,
       "cluster": "btc-market-dynamics",
       "ts": 1792686035
+    },
+    {
+      "id": "rss:d6f8e7695b8bb7d9",
+      "kind": "news",
+      "title": "Is the Internet Safe Again After the PHP Nightmare? What You Need to Know",
+      "url": "https://decrypt.co/381662/internet-safe-again-after-php-nightmare-what-you-need-know",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "php-critical-bugs",
+      "ts": 1792707706
+    },
+    {
+      "id": "rss:0e220e60fc74e65e",
+      "kind": "news",
+      "title": "ChatGPT Teaches Messi Chess—On a Board It Set Up Wrong, With an Opening That Loses in Four Moves",
+      "url": "https://decrypt.co/381644/chatgpt-messi-chess-board-wrong-loses-in-four-moves",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-news-roundup",
+      "ts": 1792701558
+    },
+    {
+      "id": "rss:cf2d84116e987cec",
+      "kind": "news",
+      "title": "a16z Drops Crypto From Its Name, Widens Bets to AI and Frontier Tech",
+      "url": "https://decrypt.co/381642/a16z-drops-crypto-widens-bets-ai-frontier-tech",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "a16z-crypto-rebranding",
+      "ts": 1792698362
+    },
+    {
+      "id": "rss:f7d8b1380a833c0f",
+      "kind": "news",
+      "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
+      "url": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "circle-usdc-politics",
+      "ts": 1792705158
+    },
+    {
+      "id": "rss:e6daf4724abd1b11",
+      "kind": "news",
+      "title": "Dune launches real-time data feeds covering 200 onchain trading venues",
+      "url": "https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "dune-data-feeds",
+      "ts": 1792701360
+    },
+    {
+      "id": "rss:78e45c00f46836ba",
+      "kind": "news",
+      "title": "Winklevoss PAC moves into Texas Senate race with $81K ad buy",
+      "url": "https://cointelegraph.com/news/winklevoss-pac-texas-senate-race-media-paxton-talarico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "crypto-politics-us",
+      "ts": 1792697393
     }
   ],
-  "digest_queue": [],
-  "sent": {
-    "2026-10-16": {
-      "critical": 0,
-      "important": 5,
-      "digests": []
+  "digest_queue": [
+    {
+      "id": "move24:akedo:20748",
+      "kind": "price",
+      "level": "important",
+      "title": "AKE +27.1 % en 24 h (rang 90)",
+      "summary": "Mouvement inhabituel dans le top 100 : cause à vérifier.",
+      "url": "https://www.coingecko.com/en/coins/akedo",
+      "source": "CoinGecko",
+      "tier": 1,
+      "assets": [
+        "AKE"
+      ],
+      "ts": 1792708904.5362167,
+      "time": "00:41",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "CoinGecko",
+          "url": "https://www.coingecko.com/en/coins/akedo"
+        }
+      ],
+      "digested": false
     },
+    {
+      "id": "a16z-crypto-rebranding:2026-10-23",
+      "level": "important",
+      "time": "00:41",
+      "title": "a16z retire « crypto » de son nom et élargit son périmètre",
+      "summary": "Andreessen Horowitz renomme son fonds crypto en a16z Frontier et élargit son focus à l'IA, aux machines autonomes et à la biologie, estimant que la ligne entre crypto et technologie quotidienne s'est brouillée.",
+      "assets": [],
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/381642/a16z-drops-crypto-widens-bets-ai-frontier-tech"
+        }
+      ],
+      "digested": false
+    }
+  ],
+  "sent": {
     "2026-10-17": {
       "critical": 0,
       "important": 1,
@@ -933,6 +960,11 @@
     "2026-10-22": {
       "critical": 0,
       "important": 9,
+      "digests": []
+    },
+    "2026-10-23": {
+      "critical": 0,
+      "important": 0,
       "digests": []
     }
   },
@@ -1140,7 +1172,8 @@
     "coinbase-compliance-issue": "important",
     "sofi-tokenized-deposit": "important",
     "ai-agents-banking-security": "important",
-    "coindcx-wallet-incident": "important"
+    "coindcx-wallet-incident": "important",
+    "a16z-crypto-rebranding": "important"
   },
   "briefing_attempts": {
     "2026-10-16": 1,
