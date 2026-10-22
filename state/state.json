@@ -1,25 +1,5 @@
 {
   "seen": {
-    "rss:e3c5f0afe4e9f65b": 1792408251.5414793,
-    "rss:e043bf05ed51a5d1": 1792408251.5414808,
-    "rss:4e3f041cfa464755": 1792408251.5414813,
-    "rss:2df21f901b776455": 1792408251.5414815,
-    "rss:c64c897461a31c35": 1792408251.5414815,
-    "rss:6477a57b7d5957eb": 1792408251.5414817,
-    "rss:f4130b5f26ea2ca0": 1792408251.541482,
-    "rss:3b80d5c0d4ff20f8": 1792408251.5414822,
-    "rss:55840dd076569a90": 1792408251.5414822,
-    "rss:54d46001c1b45553": 1792408251.5414824,
-    "rss:26be99927af5c98b": 1792408251.5414824,
-    "rss:5c8eb25e32e11552": 1792408251.5414827,
-    "rss:3a2fd4f344aa0fc7": 1792408251.5414827,
-    "rss:366627ac86615e7d": 1792408251.541483,
-    "rss:a5e263492c298334": 1792408251.541483,
-    "rss:b12af10aece509d9": 1792408251.5414832,
-    "rss:5057b1745de0262e": 1792408251.5414832,
-    "rss:ce82fc4c1d39e021": 1792408251.5414834,
-    "rss:be14b805243026e9": 1792408251.5414839,
-    "rss:58c593a3ed443b58": 1792408251.5414839,
     "rss:65a0d5fd90569c48": 1792431811.4209433,
     "rss:d48f89a23e7808b5": 1792431811.4209445,
     "rss:1864bbcfad87648e": 1792431811.420945,
@@ -222,7 +202,30 @@
     "rss:ae655ca22e247fb5": 1792665246.248446,
     "rss:f472c81275aae49f": 1792665246.248446,
     "rss:81e012bc3d42a990": 1792665246.248446,
-    "rss:dd9f37507f320634": 1792665246.2484546
+    "rss:dd9f37507f320634": 1792665246.2484546,
+    "rss:09e3de0be52632b1": 1792683357.0792692,
+    "rss:80c92b421aaf8381": 1792683357.0792704,
+    "rss:ce156c7f23bec1d4": 1792683357.0792708,
+    "rss:2c5f0e3deeecea3b": 1792683357.079271,
+    "rss:23c47853fb60904c": 1792683357.0792713,
+    "rss:ce3344e6aeddc73b": 1792683357.0792718,
+    "rss:7dfa9347aa122c29": 1792683357.0792718,
+    "rss:c30163ec2f4ffd73": 1792683357.079272,
+    "rss:6bda98d13f65bb88": 1792683357.0792723,
+    "rss:9f1734e35a0be8fd": 1792683357.0792723,
+    "rss:d1a558ed176add47": 1792683357.0792725,
+    "rss:61cd24ac041eaf17": 1792683357.0792725,
+    "rss:afc0718c7e28a47b": 1792683357.0792727,
+    "rss:094cd75e163d01ac": 1792683357.0792727,
+    "rss:e41aac555b49e4f9": 1792683357.079273,
+    "rss:887eb727380401cb": 1792683357.0792732,
+    "rss:d4b7ec504888a605": 1792683357.0792732,
+    "rss:049d44b2e536713a": 1792683357.0792735,
+    "rss:2f35782ba5627819": 1792683357.0792735,
+    "rss:88932bf7e00088f7": 1792683357.0792737,
+    "rss:4acc938df4054d59": 1792683357.0792737,
+    "rss:f8897aafa5999e0c": 1792683357.079274,
+    "rss:9d38fd4a52a762b1": 1792683357.079274
   },
   "x_since": {},
   "recent": [
@@ -236,39 +239,6 @@
       "xRole": null,
       "cluster": "trump-crypto-policy",
       "ts": 1792599824
-    },
-    {
-      "id": "rss:29151f5d5c077d51",
-      "kind": "news",
-      "title": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
-      "url": "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "data-sui-partnership",
-      "ts": 1792596166
-    },
-    {
-      "id": "rss:2f561857989e969f",
-      "kind": "news",
-      "title": "Bybit will look for big broker partnerships to take on Robinhood in the U.S.",
-      "url": "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "bybit-us-expansion",
-      "ts": 1792595362
-    },
-    {
-      "id": "rss:5c7eb195b47cc5cf",
-      "kind": "news",
-      "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "rwa-financing",
-      "ts": 1792594853
     },
     {
       "id": "rss:252d8ab1e64e6714",
@@ -291,28 +261,6 @@
       "xRole": null,
       "cluster": "dataline-ai-agents-ico",
       "ts": 1792601041
-    },
-    {
-      "id": "rss:b3239b6fa4791f62",
-      "kind": "news",
-      "title": "Grayscale expands in-kind subscriptions to 10 crypto ETFs and trusts",
-      "url": "https://www.theblock.co/news/markets/2026-10-21-grayscale-expands-in-kind-subscriptions-10-crypto-etfs-421559",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "grayscale-etf-expansion",
-      "ts": 1792595520
-    },
-    {
-      "id": "rss:6e8f4eb8323eaf6e",
-      "kind": "news",
-      "title": "Anza’s Alpenglow goes live on Solana, cutting finality to 150 milliseconds",
-      "url": "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "solana-alpenglow-upgrade",
-      "ts": 1792592679
     },
     {
       "id": "rss:ad7c242d0f9369a7",
@@ -359,39 +307,6 @@
       "ts": 1792597412
     },
     {
-      "id": "rss:0038e5ff9d27b90e",
-      "kind": "news",
-      "title": "PHP Panic: Two Critical Bugs Put 70% of the Internet at Risk, and Everyone Is Freaking Out",
-      "url": "https://decrypt.co/381519/php-panic-critical-bugs-70-percent-internet-risk-everyone-freaking-out",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "php-critical-bugs",
-      "ts": 1792596916
-    },
-    {
-      "id": "rss:2f329cc00390ae50",
-      "kind": "news",
-      "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
-      "url": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "solana-alpenglow-upgrade",
-      "ts": 1792592665
-    },
-    {
-      "id": "rss:f64ecb5c00f29102",
-      "kind": "news",
-      "title": "GTA 6 Trailer Features 'Dacity' Meme Coin—Here's What Traders Think It'll Do",
-      "url": "https://decrypt.co/381511/gta-6-trailer-features-dacity-meme-coin-heres-what-traders-think-itll-do",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "gta6-meme-coin",
-      "ts": 1792588564
-    },
-    {
       "id": "rss:23f46afb9cd83f1b",
       "kind": "news",
       "title": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
@@ -434,50 +349,6 @@
       "xRole": null,
       "cluster": "sec-crypto-regulation",
       "ts": 1792598966
-    },
-    {
-      "id": "rss:fa47802dd41f4be7",
-      "kind": "news",
-      "title": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "btc-market-dynamics",
-      "ts": 1792595597
-    },
-    {
-      "id": "rss:315ce41b451bea64",
-      "kind": "news",
-      "title": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality",
-      "url": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "solana-alpenglow-upgrade",
-      "ts": 1792591034
-    },
-    {
-      "id": "rss:7101f264f5c7dcda",
-      "kind": "news",
-      "title": "Big Tech’s eMudhra fixes may leave crypto bots exposed, CertiK warns",
-      "url": "https://cointelegraph.com/news/certik-warning-crypto-emudhra-flaw-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "emudhra-certificate-flaw",
-      "ts": 1792589499
-    },
-    {
-      "id": "rss:9e7faeacd85fadf5",
-      "kind": "news",
-      "title": "5 alternatives to Ledger to store your Bitcoin",
-      "url": "https://cointelegraph.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "btc-storage-alternatives",
-      "ts": 1792589400
     },
     {
       "id": "rss:0b7d9542d529b74f",
@@ -797,6 +668,259 @@
       "xRole": null,
       "cluster": "crypto-meme-games",
       "ts": 1792647338
+    },
+    {
+      "id": "rss:09e3de0be52632b1",
+      "kind": "news",
+      "title": "Crypto for Advisors: Stablecoins are ready for prime time",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "stablecoin-adoption",
+      "ts": 1792681111
+    },
+    {
+      "id": "rss:80c92b421aaf8381",
+      "kind": "news",
+      "title": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",
+      "url": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "fireblocks-visa-acquisition",
+      "ts": 1792679832
+    },
+    {
+      "id": "rss:ce156c7f23bec1d4",
+      "kind": "news",
+      "title": "Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence",
+      "url": "https://www.coindesk.com/news-analysis/2026/10/21/crypto-is-making-a-splash-in-u-s-elections-but-chiefly-in-jabs-about-industry-influence",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "crypto-politics-us",
+      "ts": 1792674000
+    },
+    {
+      "id": "rss:2c5f0e3deeecea3b",
+      "kind": "news",
+      "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
+      "url": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "eth-settlement-innovation",
+      "ts": 1792671269
+    },
+    {
+      "id": "rss:23c47853fb60904c",
+      "kind": "news",
+      "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-market-dynamics",
+      "ts": 1792668004
+    },
+    {
+      "id": "rss:ce3344e6aeddc73b",
+      "kind": "news",
+      "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
+      "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-market-dynamics",
+      "ts": 1792666204
+    },
+    {
+      "id": "rss:7dfa9347aa122c29",
+      "kind": "news",
+      "title": "Coinbase Ireland fined $3.6 million over customer fund segregation, oversight failures",
+      "url": "https://www.theblock.co/news/regulation/2026-10-22-coinbase-ireland-fined-3-6-million-over-customer-fund-segregation-oversight-failures-421943",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "coinbase-compliance-issue",
+      "ts": 1792677820
+    },
+    {
+      "id": "rss:c30163ec2f4ffd73",
+      "kind": "news",
+      "title": "Uniswap’s aggregator hooks go live on Ethereum, Base and Robinhood Chain",
+      "url": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "uniswap-innovation",
+      "ts": 1792677303
+    },
+    {
+      "id": "rss:6bda98d13f65bb88",
+      "kind": "news",
+      "title": "Fireblocks denies report of $2.5 billion acquisition talks with Visa",
+      "url": "https://www.theblock.co/news/deals/2026-10-22-visa-in-talks-acquire-crypto-custody-firm-fireblocks-around-2-5-billion-axios-421926",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "fireblocks-visa-acquisition",
+      "ts": 1792675674
+    },
+    {
+      "id": "rss:9f1734e35a0be8fd",
+      "kind": "news",
+      "title": "Dune launches onchain trading data feeds as tokenized markets expand",
+      "url": "https://www.theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "dune-data-feeds",
+      "ts": 1792670400
+    },
+    {
+      "id": "rss:d1a558ed176add47",
+      "kind": "news",
+      "title": "SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users",
+      "url": "https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "sofi-tokenized-deposit",
+      "ts": 1792670400
+    },
+    {
+      "id": "rss:61cd24ac041eaf17",
+      "kind": "news",
+      "title": "Major Banks Find Rogue AI Agents Inside Customer Accounts—And They’re 'Horrified'",
+      "url": "https://decrypt.co/381602/banks-rogue-ai-agents-inside-customer-accounts",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ai-agents-banking-security",
+      "ts": 1792682658
+    },
+    {
+      "id": "rss:afc0718c7e28a47b",
+      "kind": "news",
+      "title": "Trade Where You Read: Decrypt Brings Jupiter-Powered Trading to The Information Exchange",
+      "url": "https://decrypt.co/381593/trade-where-you-read-decrypt-brings-jupiter-powered-trading-to-the-information-exchange",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "decrypt-trading-integration",
+      "ts": 1792677888
+    },
+    {
+      "id": "rss:094cd75e163d01ac",
+      "kind": "news",
+      "title": "SoFi Launches Tokenized Deposit That Earns 4.4% and Converts to a Stablecoin",
+      "url": "https://decrypt.co/381174/sofi-launches-tokenized-deposit-that-earns-4-4-and-moves-like-a-stablecoin",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "sofi-tokenized-deposit",
+      "ts": 1792670463
+    },
+    {
+      "id": "rss:e41aac555b49e4f9",
+      "kind": "news",
+      "title": "Italy Busts Mafia 'Secret Bank' That Laundered Money Through Crypto, Seizes $24M",
+      "url": "https://decrypt.co/381589/italy-busts-mafia-secret-bank-that-laundered-money-through-crypto-seizes-24m",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "crypto-money-laundering",
+      "ts": 1792665913
+    },
+    {
+      "id": "rss:887eb727380401cb",
+      "kind": "news",
+      "title": "Fireblocks disputes report of $2.5B Visa acquisition talks",
+      "url": "https://cointelegraph.com/news/fireblocks-disputes-report-of-25b-visa-acquisition-talks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "fireblocks-visa-acquisition",
+      "ts": 1792680060
+    },
+    {
+      "id": "rss:d4b7ec504888a605",
+      "kind": "news",
+      "title": "CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions",
+      "url": "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "btc-hashrate-bullish",
+      "ts": 1792676554
+    },
+    {
+      "id": "rss:049d44b2e536713a",
+      "kind": "news",
+      "title": "Thailand SEC says several companies eye crypto ETFs, none has applied",
+      "url": "https://cointelegraph.com/news/thailand-sec-crypto-etf-applications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "thailand-crypto-etf",
+      "ts": 1792675257
+    },
+    {
+      "id": "rss:2f35782ba5627819",
+      "kind": "news",
+      "title": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds",
+      "url": "https://cointelegraph.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "sofi-tokenized-deposit",
+      "ts": 1792674825
+    },
+    {
+      "id": "rss:88932bf7e00088f7",
+      "kind": "news",
+      "title": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says",
+      "url": "https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "btc-etf-analysis",
+      "ts": 1792674000
+    },
+    {
+      "id": "rss:4acc938df4054d59",
+      "kind": "news",
+      "title": "The UK needs a workable route to regulated DeFi access",
+      "url": "https://cointelegraph.com/opinion/uk-crypto-rules-regulated-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "uk-defi-regulation",
+      "ts": 1792670400
+    },
+    {
+      "id": "rss:f8897aafa5999e0c",
+      "kind": "news",
+      "title": "CoinDCX admits ‘operational losses’ after $16M wallet transfers draw scrutiny",
+      "url": "https://cointelegraph.com/news/coindcx-suspicious-outflows-wallet-compromised-2025-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "coindcx-wallet-incident",
+      "ts": 1792666390
+    },
+    {
+      "id": "rss:9d38fd4a52a762b1",
+      "kind": "news",
+      "title": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls",
+      "url": "https://cointelegraph.com/markets/bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "btc-market-dynamics",
+      "ts": 1792665531
     }
   ],
   "digest_queue": [],
@@ -833,7 +957,7 @@
     },
     "2026-10-22": {
       "critical": 0,
-      "important": 4,
+      "important": 9,
       "digests": []
     }
   },
@@ -1036,7 +1160,12 @@
     "xrp-network-incident": "important",
     "china-btc-seizure": "important",
     "starknet-independence": "important",
-    "south-korea-crypto-regulation": "important"
+    "south-korea-crypto-regulation": "important",
+    "fireblocks-visa-acquisition": "important",
+    "coinbase-compliance-issue": "important",
+    "sofi-tokenized-deposit": "important",
+    "ai-agents-banking-security": "important",
+    "coindcx-wallet-incident": "important"
   },
   "briefing_attempts": {
     "2026-10-16": 1,

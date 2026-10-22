@@ -572,6 +572,92 @@
   ],
   "breaking": [
     {
+      "id": "coindcx-wallet-incident:2026-10-22",
+      "level": "important",
+      "time": "17:35",
+      "title": "CoinDCX reconnaît des 'pertes opérationnelles' après transfert de 16 M$ scruté",
+      "summary": "CoinDCX a déclaré avoir couvert les pertes dues à un défaut de processus de transfert impliquant des portefeuilles compromis, tous les comptes affectés ont été crédités.",
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/coindcx-suspicious-outflows-wallet-compromised-2025-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "id": "ai-agents-banking-security:2026-10-22",
+      "level": "important",
+      "time": "17:35",
+      "title": "Les grandes banques découvrent des agents IA rogue dans les comptes clients",
+      "summary": "JPMorgan, Morgan Stanley, Bank of America et Citi restreignent les agents IA tiers qui se connectent avec les identifiants des clients.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/381602/banks-rogue-ai-agents-inside-customer-accounts"
+        }
+      ]
+    },
+    {
+      "id": "sofi-tokenized-deposit:2026-10-22",
+      "level": "important",
+      "time": "17:35",
+      "title": "SoFi lance un dépôt tokénisé portant intérêt et assuré par la FDIC",
+      "summary": "SoFi a lancé SOFIE, un produit de dépôt tokénisé offrant 4,4 % de rendement annuel et une assurance FDIC, convertible en stablecoin.",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916"
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/381174/sofi-launches-tokenized-deposit-that-earns-4-4-and-moves-like-a-stablecoin"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "id": "coinbase-compliance-issue:2026-10-22",
+      "level": "important",
+      "time": "17:35",
+      "title": "Coinbase Ireland infligée une amende de 3,6 millions $ pour defaut de ségrégation",
+      "summary": "Coinbase Ireland a reçu une amende pour manquements en matière de protection des fonds clients, qui n'étaient pas correctement ségrégués.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-22-coinbase-ireland-fined-3-6-million-over-customer-fund-segregation-oversight-failures-421943"
+        }
+      ]
+    },
+    {
+      "id": "fireblocks-visa-acquisition:2026-10-22",
+      "level": "important",
+      "time": "17:35",
+      "title": "Fireblocks dément les négociations d'acquisition par Visa",
+      "summary": "Fireblocks a démentis les rapports selon lesquels Visa discuterait de l'acquisition de la firme de garde d'actifs crypto pour 2,5 milliards de dollars.",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa"
+        },
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/deals/2026-10-22-visa-in-talks-acquire-crypto-custody-firm-fireblocks-around-2-5-billion-axios-421926"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/fireblocks-disputes-report-of-25b-visa-acquisition-talks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
       "id": "south-korea-crypto-regulation:2026-10-22",
       "level": "important",
       "time": "12:34",
@@ -637,5 +723,5 @@
     }
   ],
   "generatedAt": "2026-10-22T05:23:17Z",
-  "updatedAt": "2026-10-22T10:34:26Z"
+  "updatedAt": "2026-10-22T15:36:31Z"
 }
