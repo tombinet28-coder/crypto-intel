@@ -1,0 +1,477 @@
+{
+  "date": "2026-10-23",
+  "edition": "06:30",
+  "tldr": [
+    {
+      "impact": "neg",
+      "text": "BTC repasse sous 82 000 $ : les ETF Bitcoin US ont perdu 635 M$ jeudi, effaçant trois jours d'entrées positives."
+    },
+    {
+      "impact": "neg",
+      "text": "Marché global \"risk-off\" : actions tech en baisse, pétrole au-dessus de 100 $, tensions géopolitiques (Iran) citées par les traders."
+    },
+    {
+      "impact": "neu",
+      "text": "La Fed se réunit le 28 octobre. Taux actuel 3,75-4,00 % après la hausse de septembre. Aucune nouvelle hausse n'est attendue avec certitude."
+    },
+    {
+      "impact": "neu",
+      "text": "Ethereum reporte le test de la mise à jour Glamsterdam sur le testnet Hoodi après une alerte sécurité sur des contrats existants. Pas de nouvelle date."
+    },
+    {
+      "impact": "neg",
+      "text": "CoinDCX (Inde) dément un piratage mais reconnaît une défaillance opérationnelle sur environ 16 M$ ; un enquêteur on-chain conteste sa version."
+    },
+    {
+      "impact": "neu",
+      "text": "a16z renomme son fonds crypto \"a16z Frontier\" et élargit son périmètre à l'IA, signe que les grands VC diversifient hors crypto pure."
+    },
+    {
+      "impact": "neg",
+      "text": "HYPE : un déblocage de jetons réservé aux contributeurs historiques arrive le 29 octobre, à surveiller comme source de pression vendeuse potentielle."
+    },
+    {
+      "impact": "neu",
+      "text": "AAVE n'a aucun jeton encore à débloquer (offre figée depuis 2020), mais le token suit la baisse générale du secteur DeFi (-7,6 % sur 7 jours)."
+    },
+    {
+      "impact": "pos",
+      "text": "HSBC lance RedCoin, un stablecoin en dollar de Hong Kong pour les particuliers : nouveau signal d'adoption institutionnelle des stablecoins."
+    }
+  ],
+  "news": [
+    {
+      "title": "Les ETF Bitcoin US perdent 635 M$ en un jour, pire sortie depuis juin",
+      "impact": "neg",
+      "confidence": "confirmed",
+      "what": "Les ETF Bitcoin spot américains ont enregistré 635,49 M$ de sorties nettes le 22 octobre, effaçant la quasi-totalité des entrées des trois jours précédents (environ 1,08 Md$). IBIT (BlackRock) a concentré 254 M$ de ces sorties.",
+      "why": "Ce retournement rapide montre que la demande institutionnelle reste fragile et suit les mouvements de prix plutôt que de les anticiper.",
+      "assets": [
+        "BTC"
+      ],
+      "shortTerm": "Pression vendeuse court terme sur BTC, surtout si les sorties se poursuivent vendredi.",
+      "longTerm": "Flux ETF toujours positifs sur un an (cumulés à plus de 57 Md$), donc pas un signal de rupture structurelle à ce stade.",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow",
+          "publishedAt": "2026-10-23 07:09 UTC"
+        },
+        {
+          "name": "TokenPost",
+          "url": "https://www.tokenpost.com/news/investing/38712",
+          "publishedAt": "2026-10-23 05:21 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "Ethereum reporte le test de Glamsterdam après une alerte sécurité",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "what": "Les développeurs ont annulé le déploiement sur le testnet Hoodi prévu le 26 octobre après que la société ChainSecurity a identifié un risque : deux propositions techniques (EIP-8037 et EIP-8038) pourraient modifier la façon dont certains contrats déjà déployés gèrent une transaction qui échoue, rendant certaines erreurs permanentes.",
+      "why": "Un report est un signe de prudence plutôt qu'un échec, mais il retarde le calendrier de la prochaine grosse mise à jour d'Ethereum et crée de l'incertitude sur la date du déploiement sur le réseau principal, envisagée début décembre.",
+      "assets": [
+        "ETH"
+      ],
+      "shortTerm": "Impact limité sur le prix, mais nervosité possible chez les développeurs DeFi qui dépendent du calendrier.",
+      "longTerm": "Si le correctif prend du retard, cela repousse les gains de capacité attendus d'Ethereum (règlement plus rapide, coûts réduits).",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
+          "publishedAt": "2026-10-23 04:59 UTC"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks",
+          "publishedAt": "2026-10-23 05:09 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "CoinDCX dément un piratage mais reconnaît une défaillance opérationnelle",
+      "impact": "neg",
+      "confidence": "confirmed",
+      "what": "Après qu'un enquêteur on-chain a signalé environ 16 M$ de sorties suspectes (en USDT et TRX) depuis des adresses liées à l'exchange indien CoinDCX, la plateforme a d'abord nié tout piratage, affirmant que les adresses concernées étaient abandonnées depuis juillet 2025. Elle a ensuite reconnu qu'un processus de collecte des dépôts avait échoué pendant un certain temps, provoquant une perte opérationnelle absorbée par l'entreprise.",
+      "why": "L'enquêteur ZachXBT conteste la version de CoinDCX, montrant qu'une des adresses a continué de recevoir des dépôts bien après la date annoncée. Le doute persiste sur l'ampleur réelle du problème.",
+      "assets": [],
+      "shortTerm": "Risque de perte de confiance ponctuelle sur CoinDCX, sans preuve de compromission des fonds actifs des utilisateurs.",
+      "longTerm": "Nouvel épisode qui s'ajoute au piratage de 44 M$ de juillet 2025 ; peut renforcer la pression réglementaire sur les exchanges indiens.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows",
+          "publishedAt": "2026-10-23 08:02 UTC"
+        },
+        {
+          "name": "crypto.news",
+          "url": "https://crypto.news/coindcx-denies-second-hack-claims-as-zachxbt-questions-wallet-activity/",
+          "publishedAt": "2026-10-22 09:27 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "a16z abandonne \"crypto\" de son nom et élargit son champ",
+      "impact": "neu",
+      "confidence": "likely",
+      "what": "Andreessen Horowitz a renommé son fonds crypto \"a16z Frontier\", élargissant son mandat vers l'IA, les machines autonomes et la biotechnologie.",
+      "why": "Le repositionnement d'un des plus gros investisseurs crypto en capital-risque peut refléter une diversification stratégique plutôt qu'un désaveu du secteur, mais mérite d'être suivi comme signal sur l'allocation future du capital-risque vers la crypto pure.",
+      "assets": [],
+      "shortTerm": "Aucun impact prix direct.",
+      "longTerm": "Pourrait réduire la part relative des financements early-stage dédiés aux projets crypto si la tendance se généralise chez d'autres VC.",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/381642/a16z-drops-crypto-widens-bets-ai-frontier-tech",
+          "publishedAt": "2026-10-22 19:46 UTC"
+        },
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech",
+          "publishedAt": "2026-10-22 18:30 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "Coinbase Ireland écope d'une amende de 3,6 M$",
+      "impact": "neg",
+      "confidence": "confirmed",
+      "what": "La banque centrale d'Irlande a infligé une amende de 3,6 M$ à Coinbase Ireland pour des manquements dans la protection des fonds clients et la supervision interne.",
+      "why": "Sanction mineure en montant mais elle rappelle que les filiales européennes de grands exchanges restent sous surveillance réglementaire rapprochée.",
+      "assets": [],
+      "shortTerm": "Impact négligeable sur le prix de BTC/marché global.",
+      "longTerm": "Peut peser sur l'image de conformité de Coinbase en Europe, dans un contexte de mise en œuvre de MiCA.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures",
+          "publishedAt": "2026-10-22 15:40 UTC"
+        },
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-22-coinbase-ireland-fined-3-6-million-over-customer-fund-segregation-oversight-failures-421943",
+          "publishedAt": "2026-10-22 14:03 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "HSBC lance RedCoin, un stablecoin en dollar de Hong Kong",
+      "impact": "pos",
+      "confidence": "confirmed",
+      "what": "HSBC a lancé RedCoin, un stablecoin adossé au dollar de Hong Kong, destiné aux clients particuliers pour les paiements.",
+      "why": "Une grande banque internationale qui émet son propre stablecoin pour le grand public est un signal fort d'adoption institutionnelle, dans un contexte où plusieurs pays d'Asie (Malaisie, Thaïlande, Singapour) développent aussi des ponts de stablecoins transfrontaliers.",
+      "assets": [],
+      "shortTerm": "Pas d'impact direct sur BTC/ETH, mais renforce le narratif \"stablecoins grand public\".",
+      "longTerm": "Peut accélérer la concurrence entre stablecoins bancaires régulés et stablecoins crypto-natifs comme USDT/USDC.",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018",
+          "publishedAt": "2026-10-23 04:03 UTC"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme",
+          "publishedAt": "2026-10-23 08:47 UTC"
+        }
+      ],
+      "singleSource": false
+    }
+  ],
+  "market": [
+    {
+      "symbol": "BTC",
+      "sentiment": "neg",
+      "driver": "Le marché est en mode \"risk-off\" : sorties ETF, actions tech en baisse, pétrole cher et réunion de la Fed le 28 octobre pèsent sur le sentiment.",
+      "events": [
+        "Sorties ETF de 635 M$ le 22/10, plus forte depuis juin",
+        "FOMC le 28 octobre, taux actuel 3,75-4,00 %"
+      ],
+      "watch": [
+        "Seuil de 80 470 $ (zone où les flux ETF ont historiquement tourné négatifs selon DWF Labs)",
+        "Décision Fed du 28 octobre"
+      ],
+      "name": "Bitcoin",
+      "price": 81678,
+      "change24h": -0.10854,
+      "change7d": -0.6407,
+      "volume": 26776829755,
+      "asOf": "23/10 11:23",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "ETH",
+      "sentiment": "neu",
+      "driver": "Le report du test Glamsterdam retarde la feuille de route technique, mais sans conséquence immédiate sur le réseau principal.",
+      "events": [
+        "Report du déploiement Hoodi (26/10 annulé)",
+        "Mainnet envisagé début décembre, non confirmé"
+      ],
+      "watch": [
+        "Nouvelle date de test Hoodi",
+        "Flux des ETF ETH, volatils ces derniers jours"
+      ],
+      "name": "Ethereum",
+      "price": 2401.44,
+      "change24h": 0.01064,
+      "change7d": -1.9729,
+      "volume": 11853827734,
+      "asOf": "23/10 11:23",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "SOL",
+      "sentiment": "neg",
+      "driver": "Solana suit la baisse générale des actifs DeFi et memecoins dans un marché averse au risque.",
+      "events": [
+        "Tokens DeFi parmi les plus touchés par la baisse du 22/10"
+      ],
+      "watch": [
+        "Volume et activité sur l'écosystème memecoin (lié à PUMP)"
+      ],
+      "name": "Solana",
+      "price": 104.38,
+      "change24h": 0.55063,
+      "change7d": -1.6115,
+      "volume": 2058706177,
+      "asOf": "23/10 11:23",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "HYPE",
+      "sentiment": "neg",
+      "driver": "Un déblocage de jetons réservés aux contributeurs historiques arrive le 29 octobre, ce qui peut créer une pression vendeuse ponctuelle.",
+      "events": [
+        "Prochain unlock : 29 octobre 2026, ~14,18M HYPE (1,4 % de l'offre totale) alloués aux \"Core Contributors\""
+      ],
+      "watch": [
+        "Réaction du prix autour du 29 octobre",
+        "Frais générés par la plateforme (3,64M$ sur 24h, signe d'activité soutenue)"
+      ],
+      "name": "Hyperliquid",
+      "price": 78.47,
+      "change24h": 0.53685,
+      "change7d": -3.142,
+      "volume": 723593659,
+      "asOf": "23/10 11:23",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "AAVE",
+      "sentiment": "neu",
+      "driver": "AAVE n'a plus aucun jeton à débloquer depuis 2020 (offre figée à 16M), donc pas de risque de dilution, mais le token suit la baisse sectorielle DeFi.",
+      "events": [
+        "Aucun unlock prévu",
+        "TVL du protocole à environ 18 Md$"
+      ],
+      "watch": [
+        "Impact indirect du report de Glamsterdam sur l'activité DeFi Ethereum",
+        "Niveau de support autour de 140-145 $"
+      ],
+      "name": "Aave",
+      "price": 148.61,
+      "change24h": 0.60233,
+      "change7d": -7.5709,
+      "volume": 215854037,
+      "asOf": "23/10 11:23",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "PUMP",
+      "sentiment": "neu",
+      "driver": "Le programme de rachat-destruction (50 % des revenus) continue de soutenir le token, et Pump.fun a lancé des contrats perpétuels le 17 octobre pour diversifier ses revenus.",
+      "events": [
+        "Lancement de perpétuels BTC/ETH via Hyperliquid (17/10)",
+        "Revenu hebdomadaire ~14,26M$ (semaine au 19/10), en légère baisse par rapport au pic d'octobre"
+      ],
+      "watch": [
+        "Évolution hebdomadaire des revenus et des rachats de jetons",
+        "Activité générale du secteur memecoin sur Solana"
+      ],
+      "name": "Pump.fun",
+      "price": 0.00461805,
+      "change24h": -2.42225,
+      "change7d": 1.9882,
+      "volume": 162247074,
+      "asOf": "23/10 11:23",
+      "source": "CoinGecko"
+    }
+  ],
+  "x": [
+    {
+      "author": "Sumit Gupta",
+      "handle": "@smtgpt",
+      "time": "2026-10-22",
+      "asset": "CoinDCX",
+      "sentiment": "neu",
+      "kind": "person",
+      "summary": "Le CEO de CoinDCX affirme que les anciens pirates de juillet 2025 réutilisent de vieilles adresses, qualifiant les nouvelles accusations de \"fausse alerte\".",
+      "why": "Déclaration officielle d'un dirigeant, mais intéressée : à mettre en balance avec les éléments apportés par l'enquêteur ZachXBT."
+    },
+    {
+      "author": "ZachXBT",
+      "handle": "@zachxbt",
+      "time": "2026-10-22",
+      "asset": "CoinDCX",
+      "sentiment": "neg",
+      "kind": "person",
+      "summary": "L'enquêteur on-chain conteste la version de CoinDCX en montrant qu'une adresse dite \"abandonnée\" a continué de recevoir des dépôts jusqu'en 2026.",
+      "why": "Analyse on-chain indépendante qui contredit la communication officielle de l'exchange ; à prendre comme élément factuel vérifiable, pas comme accusation définitive."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Akedo (AKE)",
+      "conviction": "risk",
+      "funding": "Non documenté publiquement avec précision dans les sources disponibles.",
+      "investors": "Une large part des jetons débloqués est allouée à des investisseurs privés (environ 70 % du dernier unlock mensuel selon un tracker spécialisé) ; aucune liste d'investisseurs vérifiée trouvée.",
+      "team": "Équipe peu documentée publiquement dans les sources consultées.",
+      "tech": "Plateforme de création de jeux assistée par IA, avec un mécanisme de burn de frais.",
+      "tokenomics": "Offre maximale de 100 milliards de jetons, seulement environ 22,8 milliards en circulation, ce qui donne une valorisation pleinement diluée environ 4 fois supérieure à la capitalisation actuelle. Un unlock mensuel d'environ 2,1 milliards de jetons a eu lieu le 21 octobre.",
+      "catalysts": "Prochains unlocks mensuels à surveiller ; absence de catalyseur produit confirmé derrière les récents mouvements de prix.",
+      "why": "Token très volatil avec de forts volumes, souvent cité comme plus gros gagnant/perdant du marché sur 24h, ce qui peut attirer l'attention des traders court terme.",
+      "risk": "Écart énorme entre offre en circulation et offre totale, unlocks réguliers détenus en grande partie par des investisseurs privés, et mouvements de prix sans catalyseur identifié : profil typique de forte volatilité et de risque de dilution."
+    }
+  ],
+  "smartMoney": [],
+  "unlocks": [
+    {
+      "date": "2026-10-29",
+      "token": "HYPE",
+      "amount": "14 175 778 HYPE",
+      "value": "environ 1,1 Md$ au prix actuel (estimation, à confirmer le jour J)",
+      "pct": "1,4 % de l'offre totale",
+      "who": "Core Contributors (équipe/contributeurs historiques)",
+      "risk": "med",
+      "priority": true,
+      "confidence": "likely"
+    }
+  ],
+  "unlocksSource": {
+    "name": "Tokenomist",
+    "url": "https://tokenomist.ai/hyperliquid"
+  },
+  "regulation": [
+    {
+      "region": "Irlande / UE",
+      "title": "Amende de 3,6 M$ contre Coinbase Ireland",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "summary": "La banque centrale d'Irlande sanctionne Coinbase Ireland pour des manquements dans la protection des fonds clients et la supervision interne.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures"
+        },
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-22-coinbase-ireland-fined-3-6-million-over-customer-fund-segregation-oversight-failures-421943"
+        }
+      ]
+    },
+    {
+      "region": "États-Unis",
+      "title": "Enquête sénatoriale démocrate sur des paiements de Tether",
+      "impact": "neu",
+      "confidence": "likely",
+      "summary": "Le principal enquêteur démocrate du Sénat américain examine des paiements de Tether à une société liée à Bo Hines, ce qui pourrait annoncer un contrôle accru sur les flux financiers de l'émetteur de stablecoin.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm"
+        }
+      ]
+    },
+    {
+      "region": "Suisse",
+      "title": "Premier ETF Bitcoin spot pour particuliers approuvé",
+      "impact": "neu",
+      "confidence": "unconfirmed",
+      "summary": "Un ETF Bitcoin spot de BIT Asset Management aurait reçu une approbation réglementaire et viserait un lancement sur SIX Swiss Exchange en novembre ; information basée sur une seule source secondaire à ce stade.",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "title": "Réunion de la Fed le 28 octobre",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "date": "2026-10-28",
+      "summary": "La Fed se réunit les 27-28 octobre. Le taux cible est actuellement de 3,75-4,00 % après la hausse de 25 points de base du 16 septembre. Le marché n'anticipe pas de certitude sur une nouvelle hausse à cette réunion.",
+      "sources": [
+        {
+          "name": "Admiral Markets",
+          "url": "https://admiralmarkets.com/analytics/traders-blog/fed-rate-decision-october-2026"
+        }
+      ]
+    },
+    {
+      "title": "Pétrole au-dessus de 100 $, tensions géopolitiques (Iran)",
+      "impact": "neu",
+      "confidence": "likely",
+      "date": "2026-10-22/23",
+      "summary": "La hausse du pétrole et des commentaires liés à l'Iran ont contribué à la baisse des actions et du Bitcoin ces derniers jours, dans un climat d'aversion au risque généralisée.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100"
+        }
+      ]
+    }
+  ],
+  "onchain": [
+    {
+      "metric": "Stablecoins, capitalisation totale",
+      "value": "~305 Md$",
+      "note": "Donnée fournie par le système, à titre de contexte de liquidité globale.",
+      "source": "Données internes"
+    },
+    {
+      "metric": "Volume DEX 24h",
+      "value": "~7,95 Md$",
+      "note": "Activité de trading décentralisé stable malgré le repli du marché.",
+      "source": "Données internes"
+    },
+    {
+      "metric": "Hashrate Bitcoin",
+      "value": "plus haut niveau depuis 7 mois",
+      "note": "Signal indirect de confiance des mineurs/institutions selon CryptoQuant, mais ne garantit pas un mouvement de prix.",
+      "source": "Cointelegraph"
+    }
+  ],
+  "watchlist": [
+    {
+      "impact": "neu",
+      "text": "Décision de la Fed le 28 octobre : impact possible sur le dollar et les actifs risqués."
+    },
+    {
+      "impact": "neg",
+      "text": "Unlock HYPE du 29 octobre (~1,4 % de l'offre, contributeurs historiques) : surveiller la pression vendeuse."
+    },
+    {
+      "impact": "neu",
+      "text": "Nouvelle date pour le test Glamsterdam d'Ethereum sur Hoodi, après le report du 26 octobre."
+    },
+    {
+      "impact": "neg",
+      "text": "Suite de l'affaire CoinDCX : les accusations de ZachXBT pourraient encore évoluer."
+    },
+    {
+      "impact": "pos",
+      "text": "Lancement effectif de l'ETF Bitcoin suisse en novembre, à confirmer officiellement."
+    }
+  ],
+  "breaking": [],
+  "generatedAt": "2026-10-23T09:28:00Z",
+  "updatedAt": "2026-10-23T09:28:00Z"
+}

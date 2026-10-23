@@ -1,10 +1,5 @@
 {
   "seen": {
-    "rss:1ee566d895d791c3": 1792477890.787417,
-    "rss:bf5898f1ef821023": 1792477890.7874184,
-    "rss:b1a8243af2a01064": 1792477890.787419,
-    "rss:a68dc285b80d8adc": 1792477890.787419,
-    "rss:90b7c335deec26aa": 1792477890.7874193,
     "rss:12043e279f28a043": 1792497699.4674406,
     "rss:8d5cef5ad2d8254d": 1792497699.4674416,
     "rss:a19bd9f1e2555a3c": 1792497699.4674423,
@@ -244,17 +239,6 @@
       "ts": 1792662866
     },
     {
-      "id": "rss:03664aa71534755f",
-      "kind": "news",
-      "title": "Asian stocks tumble, bitcoin retreats as China enters bear market",
-      "url": "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-market-dynamics",
-      "ts": 1792658948
-    },
-    {
       "id": "rss:8dd90dbf693eccd2",
       "kind": "news",
       "title": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak",
@@ -277,28 +261,6 @@
       "ts": 1792661520
     },
     {
-      "id": "rss:b52888c9ab12cf45",
-      "kind": "news",
-      "title": "Layer 2 Scaling Solutions",
-      "url": "https://www.theblock.co/learn/campus/layer-2-scaling-solutions-419685",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-news-roundup",
-      "ts": 1792660550
-    },
-    {
-      "id": "rss:61cebec06b0a9879",
-      "kind": "news",
-      "title": "South Korea’s crypto bill nears completion while tax debate intensifies: reports",
-      "url": "https://www.theblock.co/news/regulation/2026-10-22-south-koreas-crypto-bill-nears-completion-421880",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "south-korea-crypto-regulation",
-      "ts": 1792660317
-    },
-    {
       "id": "rss:7a96127c5cfd022e",
       "kind": "news",
       "title": "Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Case",
@@ -319,28 +281,6 @@
       "xRole": null,
       "cluster": "starknet-independence",
       "ts": 1792661874
-    },
-    {
-      "id": "rss:f472c81275aae49f",
-      "kind": "news",
-      "title": "PHP flaw draws millions of exploit attempts, Cloudflare CEO warns",
-      "url": "https://cointelegraph.com/news/cloudflare-millions-exploit-attempts-php-vulnerability-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "php-critical-bugs",
-      "ts": 1792659962
-    },
-    {
-      "id": "rss:81e012bc3d42a990",
-      "kind": "news",
-      "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
-      "url": "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "btc-market-dynamics",
-      "ts": 1792654652
     },
     {
       "id": "rss:09e3de0be52632b1",
@@ -959,106 +899,7 @@
       "ts": 1792730054
     }
   ],
-  "digest_queue": [
-    {
-      "id": "move24:akedo:20748",
-      "kind": "price",
-      "level": "important",
-      "title": "AKE +27.1 % en 24 h (rang 90)",
-      "summary": "Mouvement inhabituel dans le top 100 : cause à vérifier.",
-      "url": "https://www.coingecko.com/en/coins/akedo",
-      "source": "CoinGecko",
-      "tier": 1,
-      "assets": [
-        "AKE"
-      ],
-      "ts": 1792708904.5362167,
-      "time": "00:41",
-      "confidence": "confirmed",
-      "sources": [
-        {
-          "name": "CoinGecko",
-          "url": "https://www.coingecko.com/en/coins/akedo"
-        }
-      ],
-      "digested": false
-    },
-    {
-      "id": "a16z-crypto-rebranding:2026-10-23",
-      "level": "important",
-      "time": "00:41",
-      "title": "a16z retire « crypto » de son nom et élargit son périmètre",
-      "summary": "Andreessen Horowitz renomme son fonds crypto en a16z Frontier et élargit son focus à l'IA, aux machines autonomes et à la biologie, estimant que la ligne entre crypto et technologie quotidienne s'est brouillée.",
-      "assets": [],
-      "confidence": "likely",
-      "sources": [
-        {
-          "name": "Decrypt",
-          "url": "https://decrypt.co/381642/a16z-drops-crypto-widens-bets-ai-frontier-tech"
-        }
-      ],
-      "digested": false
-    },
-    {
-      "id": "move24:akedo:20749",
-      "kind": "price",
-      "level": "important",
-      "title": "AKE +36.2 % en 24 h (rang 89)",
-      "summary": "Mouvement inhabituel dans le top 100 : cause à vérifier.",
-      "url": "https://www.coingecko.com/en/coins/akedo",
-      "source": "CoinGecko",
-      "tier": 1,
-      "assets": [
-        "AKE"
-      ],
-      "ts": 1792718726.5319035,
-      "time": "03:25",
-      "confidence": "confirmed",
-      "sources": [
-        {
-          "name": "CoinGecko",
-          "url": "https://www.coingecko.com/en/coins/akedo"
-        }
-      ],
-      "digested": false
-    },
-    {
-      "id": "tether-investigation:2026-10-23",
-      "level": "important",
-      "time": "03:25",
-      "title": "Enquête sénatoriale démocrate sur les paiements Tether",
-      "summary": "Le principal enquêteur démocrate du Sénat américain examine les paiements de Tether à la société de Bo Hines, suggérant un scrutin réglementaire accru sur les flux financiers de l'émetteur de stablecoin.",
-      "assets": [
-        "USDT"
-      ],
-      "confidence": "likely",
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm"
-        }
-      ],
-      "digested": false
-    },
-    {
-      "id": "btc-etf-approvals:2026-10-23",
-      "level": "important",
-      "time": "03:25",
-      "title": "La Suisse approuve son premier ETF Bitcoin spot pour les particuliers",
-      "summary": "L'ETF Bitcoin de BIT Asset Management a reçu l'approbation réglementaire et devrait commencer à être négocié sur la SIX Swiss Exchange en novembre, marquant un jalon pour l'accès institutionnel au BTC en Suisse.",
-      "assets": [
-        "BTC"
-      ],
-      "confidence": "unconfirmed",
-      "sources": [
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
-      "digested": false
-    }
-  ],
+  "digest_queue": [],
   "sent": {
     "2026-10-17": {
       "critical": 0,
@@ -1316,6 +1157,6 @@
     "2026-10-20": 1,
     "2026-10-21": 2,
     "2026-10-22": 1,
-    "2026-10-23": 1
+    "2026-10-23": 2
   }
 }
