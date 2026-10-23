@@ -212,76 +212,29 @@
     "rss:64a418b711739163": 1792737018.1597502,
     "rss:a15cdca447e4d1f7": 1792737018.1597502,
     "rss:9ffd2d4418ea1797": 1792737018.1597505,
-    "rss:b6ed306a573354e8": 1792737018.1597507
+    "rss:b6ed306a573354e8": 1792737018.1597507,
+    "rss:874a74fab19a6e02": 1792756810.476561,
+    "rss:d71a18256f5fe77c": 1792756810.4765625,
+    "rss:6169539c1ffb3573": 1792756810.476563,
+    "rss:1c5ac2d5d38cb82a": 1792756810.4765632,
+    "rss:85fc56c51052f1a4": 1792756810.4765635,
+    "rss:568c5cce48f1977a": 1792756810.4765635,
+    "rss:941c1ff4da4ab28b": 1792756810.4765637,
+    "rss:59737c3eea6ed639": 1792756810.476564,
+    "rss:bf785b6c1c30b252": 1792756810.4765642,
+    "rss:672bac5bfd442d51": 1792756810.4765642,
+    "rss:26ff50e397771651": 1792756810.4765644,
+    "rss:1327bc427e4072f4": 1792756810.4765644,
+    "rss:76b334aa6eed608e": 1792756810.4765646,
+    "rss:048f1e2013548c55": 1792756810.4765646,
+    "rss:ae1cff04fdd85625": 1792756810.476565,
+    "rss:502d3b39fd7cf33e": 1792756810.476565,
+    "rss:c39c29e5ca1e0535": 1792756810.4765654,
+    "rss:70db50e2729f1e3d": 1792756810.4765654,
+    "rss:c2a4a8e25b8b33d2": 1792756810.4765654
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:9d1307c53ac4fdc9",
-      "kind": "news",
-      "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
-      "url": "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-news-roundup",
-      "ts": 1792664308
-    },
-    {
-      "id": "rss:5d1b5004f4a053bc",
-      "kind": "news",
-      "title": "Live updates: Bitcoin’s round trip to $85,000 burns traders on both sides",
-      "url": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-market-dynamics",
-      "ts": 1792662866
-    },
-    {
-      "id": "rss:8dd90dbf693eccd2",
-      "kind": "news",
-      "title": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak",
-      "url": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-market-dynamics",
-      "ts": 1792662976
-    },
-    {
-      "id": "rss:1a4bdb1170b5bbef",
-      "kind": "news",
-      "title": "Starknet community overwhelmingly backs research into becoming an independent post-quantum Layer 1",
-      "url": "https://www.theblock.co/news/ecosystems/2026-10-22-starknet-community-backs-independent-post-quantum-layer-1-421885",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "starknet-independence",
-      "ts": 1792661520
-    },
-    {
-      "id": "rss:7a96127c5cfd022e",
-      "kind": "news",
-      "title": "Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Case",
-      "url": "https://decrypt.co/381580/chinese-prosecutors-seek-to-confiscate-5-1b-in-bitcoin-seized-by-uk-in-qian-case",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "china-btc-seizure",
-      "ts": 1792663782
-    },
-    {
-      "id": "rss:ae655ca22e247fb5",
-      "kind": "news",
-      "title": "Starknet voters back research into life beyond Ethereum",
-      "url": "https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "starknet-independence",
-      "ts": 1792661874
-    },
     {
       "id": "rss:09e3de0be52632b1",
       "kind": "news",
@@ -327,28 +280,6 @@
       "ts": 1792671269
     },
     {
-      "id": "rss:23c47853fb60904c",
-      "kind": "news",
-      "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-market-dynamics",
-      "ts": 1792668004
-    },
-    {
-      "id": "rss:ce3344e6aeddc73b",
-      "kind": "news",
-      "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
-      "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-market-dynamics",
-      "ts": 1792666204
-    },
-    {
       "id": "rss:7dfa9347aa122c29",
       "kind": "news",
       "title": "Coinbase Ireland fined $3.6 million over customer fund segregation, oversight failures",
@@ -382,28 +313,6 @@
       "ts": 1792675674
     },
     {
-      "id": "rss:9f1734e35a0be8fd",
-      "kind": "news",
-      "title": "Dune launches onchain trading data feeds as tokenized markets expand",
-      "url": "https://www.theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "dune-data-feeds",
-      "ts": 1792670400
-    },
-    {
-      "id": "rss:d1a558ed176add47",
-      "kind": "news",
-      "title": "SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users",
-      "url": "https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "sofi-tokenized-deposit",
-      "ts": 1792670400
-    },
-    {
       "id": "rss:61cd24ac041eaf17",
       "kind": "news",
       "title": "Major Banks Find Rogue AI Agents Inside Customer Accounts—And They’re 'Horrified'",
@@ -435,17 +344,6 @@
       "xRole": null,
       "cluster": "sofi-tokenized-deposit",
       "ts": 1792670463
-    },
-    {
-      "id": "rss:e41aac555b49e4f9",
-      "kind": "news",
-      "title": "Italy Busts Mafia 'Secret Bank' That Laundered Money Through Crypto, Seizes $24M",
-      "url": "https://decrypt.co/381589/italy-busts-mafia-secret-bank-that-laundered-money-through-crypto-seizes-24m",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "crypto-money-laundering",
-      "ts": 1792665913
     },
     {
       "id": "rss:887eb727380401cb",
@@ -501,39 +399,6 @@
       "xRole": null,
       "cluster": "btc-etf-analysis",
       "ts": 1792674000
-    },
-    {
-      "id": "rss:4acc938df4054d59",
-      "kind": "news",
-      "title": "The UK needs a workable route to regulated DeFi access",
-      "url": "https://cointelegraph.com/opinion/uk-crypto-rules-regulated-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "uk-defi-regulation",
-      "ts": 1792670400
-    },
-    {
-      "id": "rss:f8897aafa5999e0c",
-      "kind": "news",
-      "title": "CoinDCX admits ‘operational losses’ after $16M wallet transfers draw scrutiny",
-      "url": "https://cointelegraph.com/news/coindcx-suspicious-outflows-wallet-compromised-2025-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "coindcx-wallet-incident",
-      "ts": 1792666390
-    },
-    {
-      "id": "rss:9d38fd4a52a762b1",
-      "kind": "news",
-      "title": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls",
-      "url": "https://cointelegraph.com/markets/bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "btc-market-dynamics",
-      "ts": 1792665531
     },
     {
       "id": "rss:ff8406666fc227af",
@@ -897,6 +762,215 @@
       "xRole": null,
       "cluster": "btc-security-policy-ai",
       "ts": 1792730054
+    },
+    {
+      "id": "rss:874a74fab19a6e02",
+      "kind": "news",
+      "title": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-market-dynamics",
+      "ts": 1792754553
+    },
+    {
+      "id": "rss:d71a18256f5fe77c",
+      "kind": "news",
+      "title": "Live updates: Bitcoin holds above $81,000 as the AI rout fades and oil climbs",
+      "url": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-market-dynamics",
+      "ts": 1792753981
+    },
+    {
+      "id": "rss:6169539c1ffb3573",
+      "kind": "news",
+      "title": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
+      "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-market-dynamics",
+      "ts": 1792752881
+    },
+    {
+      "id": "rss:1c5ac2d5d38cb82a",
+      "kind": "news",
+      "title": "Bitcoin appears to have decoupled from midterm cycle bottom history",
+      "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-market-dynamics",
+      "ts": 1792752789
+    },
+    {
+      "id": "rss:85fc56c51052f1a4",
+      "kind": "news",
+      "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
+      "url": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "hsbc-redcoin-stablecoin",
+      "ts": 1792750976
+    },
+    {
+      "id": "rss:568c5cce48f1977a",
+      "kind": "news",
+      "title": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
+      "url": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "stablecoin-adoption",
+      "ts": 1792745854
+    },
+    {
+      "id": "rss:941c1ff4da4ab28b",
+      "kind": "news",
+      "title": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
+      "url": "https://www.coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "coindcx-wallet-incident",
+      "ts": 1792742555
+    },
+    {
+      "id": "rss:59737c3eea6ed639",
+      "kind": "news",
+      "title": "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows",
+      "url": "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-etf-analysis",
+      "ts": 1792755585
+    },
+    {
+      "id": "rss:bf785b6c1c30b252",
+      "kind": "news",
+      "title": "New York seeks over $1.3 billion from NovaTech founders after couple fled the US",
+      "url": "https://www.theblock.co/news/regulation/2026-10-23-new-york-seeks-over-1-3-billion-from-novatech-founders-after-couple-fled-the-us-424453",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-news-roundup",
+      "ts": 1792750322
+    },
+    {
+      "id": "rss:672bac5bfd442d51",
+      "kind": "news",
+      "title": "South Korea to amend forex law to regulate stablecoins as payment instruments: report",
+      "url": "https://www.theblock.co/news/regulation/2026-10-23-south-korea-stablecoins-payment-instruments-424028",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "sec-crypto-regulation",
+      "ts": 1792749164
+    },
+    {
+      "id": "rss:26ff50e397771651",
+      "kind": "news",
+      "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
+      "url": "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "eth-glamsterdam-delay",
+      "ts": 1792756177
+    },
+    {
+      "id": "rss:1327bc427e4072f4",
+      "kind": "news",
+      "title": "Heatbit's $899 Water Heater Element Mines Bitcoin While It Heats Your Tank",
+      "url": "https://decrypt.co/381665/heatbits-899-water-heater-element-mines-bitcoin-while-it-heats-your-tank",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "general-news-roundup",
+      "ts": 1792752875
+    },
+    {
+      "id": "rss:76b334aa6eed608e",
+      "kind": "news",
+      "title": "Bitcoin in 'Wait and See Mode'—And That Might Be a Good Thing",
+      "url": "https://decrypt.co/381666/bitcoin-in-wait-and-see-mode-and-that-might-be-a-good-thing",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-market-dynamics",
+      "ts": 1792745735
+    },
+    {
+      "id": "rss:048f1e2013548c55",
+      "kind": "news",
+      "title": "Was crypto self-custody ever designed for beginners?",
+      "url": "https://cointelegraph.com/news/self-custody-crypto-beginners-mainstream-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-news-roundup",
+      "ts": 1792756067
+    },
+    {
+      "id": "rss:ae1cff04fdd85625",
+      "kind": "news",
+      "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
+      "url": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "cysic-exploit",
+      "ts": 1792750386
+    },
+    {
+      "id": "rss:502d3b39fd7cf33e",
+      "kind": "news",
+      "title": "Bybit secures first full Dubai license for spot trading services",
+      "url": "https://cointelegraph.com/news/bybit-first-full-dubai-spot-trading-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "general-news-roundup",
+      "ts": 1792749004
+    },
+    {
+      "id": "rss:c39c29e5ca1e0535",
+      "kind": "news",
+      "title": "HSBC launches Hong Kong dollar stablecoin for retail payments",
+      "url": "https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "hsbc-redcoin-stablecoin",
+      "ts": 1792745254
+    },
+    {
+      "id": "rss:70db50e2729f1e3d",
+      "kind": "news",
+      "title": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
+      "url": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "stablecoin-adoption",
+      "ts": 1792739753
+    },
+    {
+      "id": "rss:c2a4a8e25b8b33d2",
+      "kind": "news",
+      "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
+      "url": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "btc-etf-analysis",
+      "ts": 1792739379
     }
   ],
   "digest_queue": [],
@@ -933,7 +1007,7 @@
     },
     "2026-10-23": {
       "critical": 0,
-      "important": 4,
+      "important": 6,
       "digests": []
     }
   },
@@ -1148,7 +1222,9 @@
     "eth-glamsterdam-delay": "important",
     "hsbc-redcoin-stablecoin": "important",
     "chainlink-lgcns-won-stablecoin": "important",
-    "btc-security-policy-ai": "important"
+    "btc-security-policy-ai": "important",
+    "stablecoin-adoption": "important",
+    "cysic-exploit": "important"
   },
   "briefing_attempts": {
     "2026-10-17": 2,

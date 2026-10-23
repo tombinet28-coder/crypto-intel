@@ -471,7 +471,44 @@
       "text": "Lancement effectif de l'ETF Bitcoin suisse en novembre, à confirmer officiellement."
     }
   ],
-  "breaking": [],
+  "breaking": [
+    {
+      "id": "cysic-exploit:2026-10-23",
+      "level": "important",
+      "time": "14:00",
+      "title": "Exploit Cysic : 744 000 $ en ETH et BNB versés dans Tornado Cash",
+      "summary": "Un attaquant a exploité le bridge Cysic pour créer 10 millions de jetons sur BNB Smart Chain, puis a blanchi 744 000 $ en actifs numériques via Tornado Cash.",
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "id": "stablecoin-adoption:2026-10-23",
+      "level": "important",
+      "time": "14:00",
+      "title": "La Suède relance le débat sur l'e-krona face aux stablecoins",
+      "summary": "La banque centrale suédoise réactive la discussion autour de son projet de monnaie numérique de banque centrale, réagissant à la montée des stablecoins et de l'euro numérique.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time"
+        },
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    }
+  ],
   "generatedAt": "2026-10-23T09:28:00Z",
-  "updatedAt": "2026-10-23T09:28:00Z"
+  "updatedAt": "2026-10-23T12:00:38Z"
 }
