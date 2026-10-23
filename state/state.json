@@ -203,21 +203,15 @@
     "rss:f7d8b1380a833c0f": 1792708904.5361357,
     "rss:e6daf4724abd1b11": 1792708904.5361357,
     "rss:78e45c00f46836ba": 1792708904.536136,
-    "move24:akedo:20748": 1792708904.536224
+    "move24:akedo:20748": 1792708904.536224,
+    "rss:7e90e2a6c53a7220": 1792718726.5318198,
+    "rss:ffafe534ac32169c": 1792718726.5318208,
+    "rss:971c2896368cc48a": 1792718726.5318213,
+    "rss:2ae9f843b682032a": 1792718726.5318215,
+    "move24:akedo:20749": 1792718726.531912
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:aa81b89ecbc3be24",
-      "kind": "news",
-      "title": "Aerodrome and Velodrome merge to launch Aero across seven blockchain networks",
-      "url": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "aero-velodrome-merger",
-      "ts": 1792627200
-    },
     {
       "id": "rss:fbe85391f202ab36",
       "kind": "news",
@@ -250,17 +244,6 @@
       "xRole": null,
       "cluster": "btc-market-dynamics",
       "ts": 1792641094
-    },
-    {
-      "id": "rss:55bf3b61acc81d95",
-      "kind": "news",
-      "title": "PHP Foundation admits ‘structural failure’ delayed critical security fix",
-      "url": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "php-critical-bugs",
-      "ts": 1792629840
     },
     {
       "id": "rss:9d1307c53ac4fdc9",
@@ -888,6 +871,50 @@
       "xRole": null,
       "cluster": "crypto-politics-us",
       "ts": 1792697393
+    },
+    {
+      "id": "rss:7e90e2a6c53a7220",
+      "kind": "news",
+      "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+      "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "tether-investigation",
+      "ts": 1792709016
+    },
+    {
+      "id": "rss:ffafe534ac32169c",
+      "kind": "news",
+      "title": "Switzerland approves first spot Bitcoin ETF for retail investors",
+      "url": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "btc-etf-approvals",
+      "ts": 1792717175
+    },
+    {
+      "id": "rss:971c2896368cc48a",
+      "kind": "news",
+      "title": "Pentagon bans US forces from using military info to bet in prediction markets",
+      "url": "https://cointelegraph.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "prediction-markets-regulation",
+      "ts": 1792713042
+    },
+    {
+      "id": "rss:2ae9f843b682032a",
+      "kind": "news",
+      "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
+      "url": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "swiss-asia-crypto-ties",
+      "ts": 1792709422
     }
   ],
   "digest_queue": [
@@ -926,6 +953,65 @@
         {
           "name": "Decrypt",
           "url": "https://decrypt.co/381642/a16z-drops-crypto-widens-bets-ai-frontier-tech"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "move24:akedo:20749",
+      "kind": "price",
+      "level": "important",
+      "title": "AKE +36.2 % en 24 h (rang 89)",
+      "summary": "Mouvement inhabituel dans le top 100 : cause à vérifier.",
+      "url": "https://www.coingecko.com/en/coins/akedo",
+      "source": "CoinGecko",
+      "tier": 1,
+      "assets": [
+        "AKE"
+      ],
+      "ts": 1792718726.5319035,
+      "time": "03:25",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "CoinGecko",
+          "url": "https://www.coingecko.com/en/coins/akedo"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "tether-investigation:2026-10-23",
+      "level": "important",
+      "time": "03:25",
+      "title": "Enquête sénatoriale démocrate sur les paiements Tether",
+      "summary": "Le principal enquêteur démocrate du Sénat américain examine les paiements de Tether à la société de Bo Hines, suggérant un scrutin réglementaire accru sur les flux financiers de l'émetteur de stablecoin.",
+      "assets": [
+        "USDT"
+      ],
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "btc-etf-approvals:2026-10-23",
+      "level": "important",
+      "time": "03:25",
+      "title": "La Suisse approuve son premier ETF Bitcoin spot pour les particuliers",
+      "summary": "L'ETF Bitcoin de BIT Asset Management a reçu l'approbation réglementaire et devrait commencer à être négocié sur la SIX Swiss Exchange en novembre, marquant un jalon pour l'accès institutionnel au BTC en Suisse.",
+      "assets": [
+        "BTC"
+      ],
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
         }
       ],
       "digested": false
@@ -1173,7 +1259,9 @@
     "sofi-tokenized-deposit": "important",
     "ai-agents-banking-security": "important",
     "coindcx-wallet-incident": "important",
-    "a16z-crypto-rebranding": "important"
+    "a16z-crypto-rebranding": "important",
+    "tether-investigation": "important",
+    "btc-etf-approvals": "important"
   },
   "briefing_attempts": {
     "2026-10-16": 1,
