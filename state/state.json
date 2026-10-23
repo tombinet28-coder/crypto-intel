@@ -1,26 +1,5 @@
 {
   "seen": {
-    "rss:80f88c331230513b": 1792528096.0665765,
-    "rss:65f70192363378a6": 1792528096.0665777,
-    "rss:f1d8288e40627260": 1792528096.0665781,
-    "rss:355e23d99c6f59dc": 1792528096.0665784,
-    "rss:019554287b5f21f2": 1792528096.0665789,
-    "rss:4e2439d0ddf5b1c1": 1792528096.066579,
-    "rss:0a5dd4b4d7dcc77b": 1792528096.066579,
-    "rss:4ff4d539ce5fe671": 1792528096.0665793,
-    "rss:47489aaab9f2d390": 1792528096.0665798,
-    "rss:bcfc5a71a1a35e33": 1792528096.0665798,
-    "rss:848972008615c3de": 1792528096.06658,
-    "rss:1dc5ac5236979ca5": 1792528096.0665803,
-    "rss:b2bf00dbe51f27bd": 1792528096.0665803,
-    "rss:2bd98814d1901e7e": 1792528096.0665805,
-    "rss:97dc65ff12df1e33": 1792538474.8134606,
-    "rss:16b75fbdcf704350": 1792538474.8134618,
-    "rss:45c765d731f6a76f": 1792538474.8134623,
-    "rss:660b5bc9203e7c14": 1792538474.8134625,
-    "rss:bc688dec6a9efab5": 1792538474.8134627,
-    "rss:9a0472e3609e0231": 1792538474.813463,
-    "rss:098d74a6b46130ab": 1792538474.813463,
     "rss:fb66df8b98a8667d": 1792547848.1081054,
     "rss:37e35553291488d7": 1792547848.1081069,
     "rss:226e2b27118e3c07": 1792568018.953959,
@@ -215,65 +194,15 @@
     "rss:a6ab63dbe60c4356": 1792786794.9731627,
     "rss:157b40ca48df89d4": 1792786794.9731627,
     "rss:b604efb47b92092f": 1792786794.9731627,
-    "rss:5e72de6f7d54bd9d": 1792786794.973163
+    "rss:5e72de6f7d54bd9d": 1792786794.973163,
+    "rss:0085f5e35b837d67": 1792797955.9382648,
+    "rss:035780ef93e455a2": 1792797955.938266,
+    "rss:5e248f9cd718d737": 1792797955.9382663,
+    "rss:f2b34044004bb03d": 1792797955.9382665,
+    "rss:59eb055c3a18f9be": 1792797955.938267
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:d6f8e7695b8bb7d9",
-      "kind": "news",
-      "title": "Is the Internet Safe Again After the PHP Nightmare? What You Need to Know",
-      "url": "https://decrypt.co/381662/internet-safe-again-after-php-nightmare-what-you-need-know",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "php-critical-bugs",
-      "ts": 1792707706
-    },
-    {
-      "id": "rss:0e220e60fc74e65e",
-      "kind": "news",
-      "title": "ChatGPT Teaches Messi Chess—On a Board It Set Up Wrong, With an Opening That Loses in Four Moves",
-      "url": "https://decrypt.co/381644/chatgpt-messi-chess-board-wrong-loses-in-four-moves",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-news-roundup",
-      "ts": 1792701558
-    },
-    {
-      "id": "rss:f7d8b1380a833c0f",
-      "kind": "news",
-      "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
-      "url": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "circle-usdc-politics",
-      "ts": 1792705158
-    },
-    {
-      "id": "rss:e6daf4724abd1b11",
-      "kind": "news",
-      "title": "Dune launches real-time data feeds covering 200 onchain trading venues",
-      "url": "https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "dune-data-feeds",
-      "ts": 1792701360
-    },
-    {
-      "id": "rss:7e90e2a6c53a7220",
-      "kind": "news",
-      "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
-      "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "tether-investigation",
-      "ts": 1792709016
-    },
     {
       "id": "rss:ffafe534ac32169c",
       "kind": "news",
@@ -295,17 +224,6 @@
       "xRole": null,
       "cluster": "prediction-markets-regulation",
       "ts": 1792713042
-    },
-    {
-      "id": "rss:2ae9f843b682032a",
-      "kind": "news",
-      "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
-      "url": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "swiss-asia-crypto-ties",
-      "ts": 1792709422
     },
     {
       "id": "rss:140982d24e496e58",
@@ -911,15 +829,102 @@
       "xRole": null,
       "cluster": "aave-governance-risk",
       "ts": 1792775519
+    },
+    {
+      "id": "rss:0085f5e35b837d67",
+      "kind": "news",
+      "title": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
+      "url": "https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "israel-blockchain-sanctions",
+      "ts": 1792790163
+    },
+    {
+      "id": "rss:035780ef93e455a2",
+      "kind": "news",
+      "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
+      "url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "tokenized-stocks-okx-ice",
+      "ts": 1792791136
+    },
+    {
+      "id": "rss:5e248f9cd718d737",
+      "kind": "news",
+      "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
+      "url": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "irs-crypto-tax-penalties",
+      "ts": 1792788857
+    },
+    {
+      "id": "rss:f2b34044004bb03d",
+      "kind": "news",
+      "title": "Risk Stewards: Cap and IRM Changes on Aave V4 / 2026.10.23",
+      "url": "https://governance.aave.com/t/risk-stewards-cap-and-irm-changes-on-aave-v4-2026-10-23/25908",
+      "source": "Aave gouvernance",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "aave-governance-risk",
+      "ts": 1792790758
+    },
+    {
+      "id": "rss:59eb055c3a18f9be",
+      "kind": "news",
+      "title": "Babylon Native BTC on Aave Ethereum Assessments",
+      "url": "https://governance.aave.com/t/babylon-native-btc-on-aave-ethereum-assessments/25907",
+      "source": "Aave gouvernance",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "babylon-btc-aave-listing",
+      "ts": 1792788601
     }
   ],
-  "digest_queue": [],
-  "sent": {
-    "2026-10-17": {
-      "critical": 0,
-      "important": 1,
-      "digests": []
+  "digest_queue": [
+    {
+      "id": "israel-blockchain-sanctions:2026-10-24",
+      "level": "important",
+      "time": "01:25",
+      "title": "Netanyahu envisage un plan blockchain pour contourner les sanctions bancaires",
+      "summary": "Netanyahu a déclaré avoir demandé un plan blockchain au cas où les banques seraient frappées de sanctions, dans un contexte pré-électoral en Israël. Cette initiative vise à préparer le pays à d'éventuelles restrictions bancaires internationales.",
+      "assets": [],
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792"
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel"
+        }
+      ],
+      "digested": false
     },
+    {
+      "id": "tokenized-stocks-okx-ice:2026-10-24",
+      "level": "important",
+      "time": "01:25",
+      "title": "Wells Fargo et cinq autres s'opposent aux listings de titres tokenisés OKX-ICE",
+      "summary": "22 entreprises ont déposé des objections contre la plateforme de titres tokenisés proposée par le joint-venture OKX-ICE, dans le cadre de l'exemption d'innovation de la SEC. Cette opposition majeure ralentit l'adoption des titres tokenisés aux États-Unis.",
+      "assets": [],
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "digested": false
+    }
+  ],
+  "sent": {
     "2026-10-18": {
       "critical": 0,
       "important": 0,
@@ -948,6 +953,11 @@
     "2026-10-23": {
       "critical": 0,
       "important": 7,
+      "digests": []
+    },
+    "2026-10-24": {
+      "critical": 0,
+      "important": 0,
       "digests": []
     }
   },
@@ -1165,7 +1175,9 @@
     "btc-security-policy-ai": "important",
     "stablecoin-adoption": "important",
     "cysic-exploit": "important",
-    "initia-exploit": "important"
+    "initia-exploit": "important",
+    "israel-blockchain-sanctions": "important",
+    "tokenized-stocks-okx-ice": "important"
   },
   "briefing_attempts": {
     "2026-10-17": 2,
