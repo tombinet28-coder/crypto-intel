@@ -208,43 +208,19 @@
     "rss:ffafe534ac32169c": 1792718726.5318208,
     "rss:971c2896368cc48a": 1792718726.5318213,
     "rss:2ae9f843b682032a": 1792718726.5318215,
-    "move24:akedo:20749": 1792718726.531912
+    "move24:akedo:20749": 1792718726.531912,
+    "rss:140982d24e496e58": 1792737018.1597478,
+    "rss:5bb5df3f2308694a": 1792737018.159749,
+    "rss:d496f625ba9ffc2b": 1792737018.1597497,
+    "rss:5ff2381eb008dcfd": 1792737018.15975,
+    "rss:d57e215ecd7cbcc1": 1792737018.15975,
+    "rss:64a418b711739163": 1792737018.1597502,
+    "rss:a15cdca447e4d1f7": 1792737018.1597502,
+    "rss:9ffd2d4418ea1797": 1792737018.1597505,
+    "rss:b6ed306a573354e8": 1792737018.1597507
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:fbe85391f202ab36",
-      "kind": "news",
-      "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
-      "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-market-dynamics",
-      "ts": 1792644119
-    },
-    {
-      "id": "rss:b7b0d5a929b6c05d",
-      "kind": "news",
-      "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
-      "url": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "xrp-network-incident",
-      "ts": 1792643780
-    },
-    {
-      "id": "rss:fd366c9e5ec5546b",
-      "kind": "news",
-      "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
-      "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-market-dynamics",
-      "ts": 1792641094
-    },
     {
       "id": "rss:9d1307c53ac4fdc9",
       "kind": "news",
@@ -277,28 +253,6 @@
       "xRole": null,
       "cluster": "btc-market-dynamics",
       "ts": 1792658948
-    },
-    {
-      "id": "rss:8421129057850d9f",
-      "kind": "news",
-      "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
-      "url": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "china-btc-seizure",
-      "ts": 1792650250
-    },
-    {
-      "id": "rss:19f3d7051ae720b4",
-      "kind": "news",
-      "title": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
-      "url": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "solana-alpenglow-upgrade",
-      "ts": 1792646698
     },
     {
       "id": "rss:8dd90dbf693eccd2",
@@ -387,17 +341,6 @@
       "xRole": null,
       "cluster": "btc-market-dynamics",
       "ts": 1792654652
-    },
-    {
-      "id": "rss:dd9f37507f320634",
-      "kind": "news",
-      "title": "Move over memecoins: Crypto ‘meme games’ coming, bagholders and all",
-      "url": "https://cointelegraph.com/news/move-over-memecoins-crypto-meme-games-coming-bagholders-and-all?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "crypto-meme-games",
-      "ts": 1792647338
     },
     {
       "id": "rss:09e3de0be52632b1",
@@ -915,6 +858,105 @@
       "xRole": null,
       "cluster": "swiss-asia-crypto-ties",
       "ts": 1792709422
+    },
+    {
+      "id": "rss:140982d24e496e58",
+      "kind": "news",
+      "title": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
+      "url": "https://www.coindesk.com/markets/2026/10/23/polymarket-has-reportedly-fired-its-marketing-chief-also-a-close-friend-of-the-ceo",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "polymarket-internal",
+      "ts": 1792731679
+    },
+    {
+      "id": "rss:5bb5df3f2308694a",
+      "kind": "news",
+      "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
+      "url": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "eth-glamsterdam-delay",
+      "ts": 1792731574
+    },
+    {
+      "id": "rss:d496f625ba9ffc2b",
+      "kind": "news",
+      "title": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
+      "url": "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "cardano-defi-bet",
+      "ts": 1792730211
+    },
+    {
+      "id": "rss:5ff2381eb008dcfd",
+      "kind": "news",
+      "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+      "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-market-dynamics",
+      "ts": 1792725181
+    },
+    {
+      "id": "rss:d57e215ecd7cbcc1",
+      "kind": "news",
+      "title": "HSBC rolls out its first HKD stablecoin RedCoin to retail users",
+      "url": "https://www.theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "hsbc-redcoin-stablecoin",
+      "ts": 1792728189
+    },
+    {
+      "id": "rss:64a418b711739163",
+      "kind": "news",
+      "title": "Chainlink partners with LG CNS to drive Korean won stablecoin expansion",
+      "url": "https://www.theblock.co/news/business/2026-10-22-chainlink-partners-with-lg-cns-423993",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "chainlink-lgcns-won-stablecoin",
+      "ts": 1792723693
+    },
+    {
+      "id": "rss:a15cdca447e4d1f7",
+      "kind": "news",
+      "title": "Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities",
+      "url": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-slides-tech-stock-sell-off-423990",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-market-dynamics",
+      "ts": 1792722090
+    },
+    {
+      "id": "rss:9ffd2d4418ea1797",
+      "kind": "news",
+      "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
+      "url": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "eth-glamsterdam-delay",
+      "ts": 1792732181
+    },
+    {
+      "id": "rss:b6ed306a573354e8",
+      "kind": "news",
+      "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
+      "url": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "btc-security-policy-ai",
+      "ts": 1792730054
     }
   ],
   "digest_queue": [
@@ -1050,7 +1092,7 @@
     },
     "2026-10-23": {
       "critical": 0,
-      "important": 0,
+      "important": 4,
       "digests": []
     }
   },
@@ -1261,15 +1303,19 @@
     "coindcx-wallet-incident": "important",
     "a16z-crypto-rebranding": "important",
     "tether-investigation": "important",
-    "btc-etf-approvals": "important"
+    "btc-etf-approvals": "important",
+    "eth-glamsterdam-delay": "important",
+    "hsbc-redcoin-stablecoin": "important",
+    "chainlink-lgcns-won-stablecoin": "important",
+    "btc-security-policy-ai": "important"
   },
   "briefing_attempts": {
-    "2026-10-16": 1,
     "2026-10-17": 2,
     "2026-10-18": 2,
     "2026-10-19": 1,
     "2026-10-20": 1,
     "2026-10-21": 2,
-    "2026-10-22": 1
+    "2026-10-22": 1,
+    "2026-10-23": 1
   }
 }
