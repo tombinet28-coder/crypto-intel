@@ -473,6 +473,24 @@
   ],
   "breaking": [
     {
+      "id": "initia-exploit:2026-10-23",
+      "level": "important",
+      "time": "22:19",
+      "title": "Initia arrête son réseau après un incident de sécurité (en attente de confirmation)",
+      "summary": "Initia a suspendu son réseau après qu'un attaquant ait apparemment créé des tokens de façon non autorisée, avec environ 2,7 millions de dollars transférés vers Ethereum.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
       "id": "cysic-exploit:2026-10-23",
       "level": "important",
       "time": "14:00",
@@ -510,5 +528,5 @@
     }
   ],
   "generatedAt": "2026-10-23T09:28:00Z",
-  "updatedAt": "2026-10-23T12:00:38Z"
+  "updatedAt": "2026-10-23T20:20:11Z"
 }

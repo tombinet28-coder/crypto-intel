@@ -203,98 +203,22 @@
     "rss:cfffcf78405d3bf6": 1792774667.9705951,
     "rss:aa58f9f0ffa3676f": 1792774667.9705951,
     "rss:b74f7652e7222abe": 1792774667.9705951,
-    "rss:36b2311eea739dc2": 1792774667.9705954
+    "rss:36b2311eea739dc2": 1792774667.9705954,
+    "rss:d05f1c261a5f73ae": 1792786794.97316,
+    "rss:709f883d1314b9d3": 1792786794.973161,
+    "rss:cbcc79e89a1c7b19": 1792786794.9731615,
+    "rss:2a0427c5f980512b": 1792786794.9731617,
+    "rss:70dd2a65a17f1719": 1792786794.973162,
+    "rss:5d8e4440e663bed9": 1792786794.973162,
+    "rss:411b85e0b11be00b": 1792786794.9731622,
+    "rss:346edf2e7d317b48": 1792786794.9731624,
+    "rss:a6ab63dbe60c4356": 1792786794.9731627,
+    "rss:157b40ca48df89d4": 1792786794.9731627,
+    "rss:b604efb47b92092f": 1792786794.9731627,
+    "rss:5e72de6f7d54bd9d": 1792786794.973163
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:ff8406666fc227af",
-      "kind": "news",
-      "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
-      "url": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "unrelated-tech",
-      "ts": 1792693857
-    },
-    {
-      "id": "rss:1f0488d08ccc2213",
-      "kind": "news",
-      "title": "JPMorgan says crypto regulatory moves partly offset Clarity Act failure, but risks remain",
-      "url": "https://www.theblock.co/news/regulation/2026-10-22-jpmorgan-crypto-regulatory-moves-clarity-act-failure-risks-423473",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "sec-crypto-regulation",
-      "ts": 1792696461
-    },
-    {
-      "id": "rss:48179e4f13989a31",
-      "kind": "news",
-      "title": "Blockchain Association pushes for crypto tax clarity as broader bill stalls",
-      "url": "https://www.theblock.co/news/regulation/2026-10-22-blockchain-association-pushes-crypto-tax-clarity-broader-bill-stalls-423475",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "sec-crypto-regulation",
-      "ts": 1792695565
-    },
-    {
-      "id": "rss:2f54a3d56d14b788",
-      "kind": "news",
-      "title": "Meta Creates Non-Voting Stock to Fund AI Buildout, Keeping Zuckerberg in Control",
-      "url": "https://decrypt.co/381640/meta-non-voting-stock-fund-ai-buildout-zuckerberg-control",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "unrelated-tech",
-      "ts": 1792695962
-    },
-    {
-      "id": "rss:499c4a18bd2dc7f1",
-      "kind": "news",
-      "title": "Coinbase Fined Again in Ireland, This Time $3.6M Over Fund Safeguarding",
-      "url": "https://decrypt.co/381638/coinbase-fined-again-ireland-3-6m-fund-safeguarding",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "coinbase-compliance-issue",
-      "ts": 1792694163
-    },
-    {
-      "id": "rss:0e7637f73c333772",
-      "kind": "news",
-      "title": "Tesla's Profit Drops 43% as Musk Starts Building Robots and Plans to Sell Driverless Cabs",
-      "url": "https://decrypt.co/381624/teslas-profit-drops-musk-robots-driverless-cabs",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "unrelated-tech",
-      "ts": 1792692362
-    },
-    {
-      "id": "rss:20b3d5c4819ceced",
-      "kind": "news",
-      "title": "Oil Climbs Above $111 as AI Stocks Slide, Dragging the S&#038;P 500 and Global Markets With Them",
-      "url": "https://decrypt.co/381613/oil-climbs-above-111-as-ai-stocks-slide-dragging-the-sp-500-and-global-markets-with-them",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-market-dynamics",
-      "ts": 1792690418
-    },
-    {
-      "id": "rss:a7c627c96645a507",
-      "kind": "news",
-      "title": "Underdog taps zerohash to bring crypto deposits to prediction markets",
-      "url": "https://cointelegraph.com/news/underdog-taps-zerohash-to-bring-crypto-deposits-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-news-roundup",
-      "ts": 1792689889
-    },
     {
       "id": "rss:d6f8e7695b8bb7d9",
       "kind": "news",
@@ -318,17 +242,6 @@
       "ts": 1792701558
     },
     {
-      "id": "rss:cf2d84116e987cec",
-      "kind": "news",
-      "title": "a16z Drops Crypto From Its Name, Widens Bets to AI and Frontier Tech",
-      "url": "https://decrypt.co/381642/a16z-drops-crypto-widens-bets-ai-frontier-tech",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "a16z-crypto-rebranding",
-      "ts": 1792698362
-    },
-    {
       "id": "rss:f7d8b1380a833c0f",
       "kind": "news",
       "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
@@ -349,17 +262,6 @@
       "xRole": null,
       "cluster": "dune-data-feeds",
       "ts": 1792701360
-    },
-    {
-      "id": "rss:78e45c00f46836ba",
-      "kind": "news",
-      "title": "Winklevoss PAC moves into Texas Senate race with $81K ad buy",
-      "url": "https://cointelegraph.com/news/winklevoss-pac-texas-senate-race-media-paxton-talarico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "crypto-politics-us",
-      "ts": 1792697393
     },
     {
       "id": "rss:7e90e2a6c53a7220",
@@ -877,6 +779,138 @@
       "xRole": null,
       "cluster": "aave-governance-ptusde",
       "ts": 1792769570
+    },
+    {
+      "id": "rss:d05f1c261a5f73ae",
+      "kind": "news",
+      "title": "Netanyahu seeking blockchain plan to prepare for possible sanctions",
+      "url": "https://www.theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "israel-blockchain-sanctions",
+      "ts": 1792779355
+    },
+    {
+      "id": "rss:709f883d1314b9d3",
+      "kind": "news",
+      "title": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser",
+      "url": "https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "tether-investigation",
+      "ts": 1792777569
+    },
+    {
+      "id": "rss:cbcc79e89a1c7b19",
+      "kind": "news",
+      "title": "Initia halts network after security incident as attacker reportedly mints tokens",
+      "url": "https://www.theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "initia-exploit",
+      "ts": 1792775036
+    },
+    {
+      "id": "rss:2a0427c5f980512b",
+      "kind": "news",
+      "title": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm",
+      "url": "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "tether-investigation",
+      "ts": 1792786562
+    },
+    {
+      "id": "rss:70dd2a65a17f1719",
+      "kind": "news",
+      "title": "SpaceX Filing Gives Elon Musk the Final Word on Tesla Merger He Says He’s Staying Out Of",
+      "url": "https://decrypt.co/381753/spacex-filing-elon-musk-final-word-tesla-merger",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "unrelated-tech",
+      "ts": 1792784162
+    },
+    {
+      "id": "rss:5d8e4440e663bed9",
+      "kind": "news",
+      "title": "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks",
+      "url": "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "sec-crypto-regulation",
+      "ts": 1792781695
+    },
+    {
+      "id": "rss:411b85e0b11be00b",
+      "kind": "news",
+      "title": "How I Vibe Coded My Smart TV—And Claude Killed It",
+      "url": "https://decrypt.co/381717/how-vibe-coded-my-smart-tv-claude-killed-it",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "unrelated-tech",
+      "ts": 1792778009
+    },
+    {
+      "id": "rss:346edf2e7d317b48",
+      "kind": "news",
+      "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
+      "url": "https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-security-policy-ai",
+      "ts": 1792775763
+    },
+    {
+      "id": "rss:a6ab63dbe60c4356",
+      "kind": "news",
+      "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+      "url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "initia-exploit",
+      "ts": 1792780742
+    },
+    {
+      "id": "rss:157b40ca48df89d4",
+      "kind": "news",
+      "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
+      "url": "https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "tether-investigation",
+      "ts": 1792777332
+    },
+    {
+      "id": "rss:b604efb47b92092f",
+      "kind": "news",
+      "title": "[ARFC] Staking in Aavenomics 3.0 - do we want it?",
+      "url": "https://governance.aave.com/t/arfc-staking-in-aavenomics-3-0-do-we-want-it/25905",
+      "source": "Aave gouvernance",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "aave-governance-staking",
+      "ts": 1792779092
+    },
+    {
+      "id": "rss:5e72de6f7d54bd9d",
+      "kind": "news",
+      "title": "Risk Stewards: Cap and IRM Changes on Aave V3 / 2026.10.23",
+      "url": "https://governance.aave.com/t/risk-stewards-cap-and-irm-changes-on-aave-v3-2026-10-23/25904",
+      "source": "Aave gouvernance",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "aave-governance-risk",
+      "ts": 1792775519
     }
   ],
   "digest_queue": [],
@@ -913,7 +947,7 @@
     },
     "2026-10-23": {
       "critical": 0,
-      "important": 6,
+      "important": 7,
       "digests": []
     }
   },
@@ -1130,7 +1164,8 @@
     "chainlink-lgcns-won-stablecoin": "important",
     "btc-security-policy-ai": "important",
     "stablecoin-adoption": "important",
-    "cysic-exploit": "important"
+    "cysic-exploit": "important",
+    "initia-exploit": "important"
   },
   "briefing_attempts": {
     "2026-10-17": 2,
