@@ -1,0 +1,619 @@
+{
+  "date": "2026-10-24",
+  "edition": "06:30",
+  "tldr": [
+    {
+      "impact": "neg",
+      "text": "Marché globalement en repli : BTC sous 81 000$, ETH, SOL, HYPE, AAVE et PUMP tous dans le rouge sur 24h. Sentiment neutre (Fear & Greed à 51)."
+    },
+    {
+      "impact": "neg",
+      "text": "Les ETF Bitcoin US ont subi 636M$ de sorties nettes hier, effaçant les entrées de la veille."
+    },
+    {
+      "impact": "neg",
+      "text": "La blockchain Initia a été mise à l'arrêt après un exploit ayant permis de créer des tokens non garantis et d'extraire environ 2,6 à 2,7M$."
+    },
+    {
+      "impact": "neu",
+      "text": "a16z retire le mot « crypto » du nom de son fonds phare, rebaptisé « a16z Frontier », et élargit son mandat à l'IA et la robotique."
+    },
+    {
+      "impact": "neg",
+      "text": "AAVE recule d'environ 8% sur 7 jours, sous pression technique malgré une note positive de Citi et des débats de gouvernance en cours."
+    },
+    {
+      "impact": "neg",
+      "text": "Des unlocks HYPE importants sont attendus fin octobre / début novembre : source potentielle de pression vendeuse."
+    },
+    {
+      "impact": "neg",
+      "text": "Ethereum reporte le fork testnet de sa mise à jour Glamsterdam après la découverte d'un risque de sécurité lié au gas."
+    },
+    {
+      "impact": "neu",
+      "text": "Netanyahu dit avoir demandé un plan blockchain pour anticiper d'éventuelles sanctions bancaires visant Israël."
+    },
+    {
+      "impact": "neg",
+      "text": "Un sénateur américain interroge Tether sur des paiements versés à une société fondée par un ex-conseiller crypto de la Maison Blanche."
+    },
+    {
+      "impact": "neu",
+      "text": "Le prochain FOMC a lieu le 28 octobre ; le marché anticipe très majoritairement un statu quo après la hausse de septembre."
+    }
+  ],
+  "news": [
+    {
+      "title": "Les ETF Bitcoin US repassent en sorties nettes (-636M$)",
+      "impact": "neg",
+      "confidence": "confirmed",
+      "what": "Après une journée d'entrées, les ETF Bitcoin spot américains ont enregistré 636 millions de dollars de sorties nettes le 23 octobre, selon plusieurs médias spécialisés.",
+      "why": "Ce retournement rapide montre une nervosité institutionnelle à l'approche de la réunion de la Fed et dans un contexte de marché actions plus volatil (craintes sur l'IA).",
+      "assets": [
+        "BTC"
+      ],
+      "shortTerm": "Pression vendeuse supplémentaire possible sur BTC si les sorties se prolongent.",
+      "longTerm": "Un flux ETF durablement négatif pèserait sur la thèse d'adoption institutionnelle du Bitcoin.",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483",
+          "publishedAt": "2026-10-23 11:39 UTC"
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again",
+          "publishedAt": "2026-10-23 15:50 UTC"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow",
+          "publishedAt": "2026-10-23 07:09 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "Initia stoppe son réseau après un exploit de minting non autorisé (~2,6-2,7M$)",
+      "impact": "neg",
+      "confidence": "confirmed",
+      "what": "<cite index=\"2-3\">Initia halted its Layer 1 blockchain and connected rollups on October 23 after a security incident allowed an attacker to mint tokens without authorization and move approximately $2.7 million worth of assets out before the network was stopped.</cite> <cite index=\"2-4,2-5\">Initia co-founder Ezaan Mangalji said preliminary findings point to a previously unknown bug in the network's MoveVM implementation on the Cosmos SDK. The vulnerability allowed unauthorized token minting but did not apply to INIT, the blockchain's native token.</cite>",
+      "why": "Un bug permettant de créer de la valeur à partir de rien dans un protocole DeFi reste l'un des risques majeurs du secteur ; il rappelle la fragilité des ponts inter-chaînes.",
+      "assets": [
+        "ETH"
+      ],
+      "shortTerm": "Réseau Initia à l'arrêt, confiance des utilisateurs et validateurs affectée dans l'immédiat.",
+      "longTerm": "Si le montant final des pertes est confirmé important, cela pourrait peser durablement sur la valorisation et l'adoption d'Initia.",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755",
+          "publishedAt": "2026-10-23 17:03 UTC"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained",
+          "publishedAt": "2026-10-23 18:39 UTC"
+        },
+        {
+          "name": "KuCoin News (CoinDesk)",
+          "url": "https://www.kucoin.com/news/flash/initia-halted-after-exploit-hacker-mints-tokens-and-transfers-2-6m-to-ethereum",
+          "publishedAt": "2026-10-24"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "a16z retire « crypto » du nom de son fonds phare, devient « a16z Frontier »",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "what": "<cite index=\"15-11\">Andreessen Horowitz announced on Oct. 22 that it is renaming a16z Crypto to a16z Frontier and expanding the scope of its $2.2 billion fifth fund beyond crypto startups to companies developing emerging technologies and creating new markets.</cite> <cite index=\"18-6\">Ali Yahya, general partner and the first full-time member of the crypto team who joined the firm in 2017, has confirmed to investors that he will be leaving to found his own new company.</cite>",
+      "why": "a16z est l'un des plus gros financeurs historiques de l'écosystème crypto (Coinbase, Uniswap...). Ce changement de marque, 5 mois à peine après avoir promis un fonds « 100% crypto », est un signal de prudence des grands VC envers le secteur, même si la firme assure continuer à investir dans la crypto.",
+      "assets": [],
+      "shortTerm": "Impact limité sur les prix, mais alimente le narratif d'un essoufflement de l'enthousiasme VC pour la crypto pure.",
+      "longTerm": "Possible dilution du capital dédié aux startups crypto early-stage si les frontières d'investissement s'élargissent durablement vers l'IA.",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/381691/morning-minute-a16z-drops-crypto-from-its-fund",
+          "publishedAt": "2026-10-23 13:29 UTC"
+        },
+        {
+          "name": "CryptoSlate",
+          "url": "https://cryptoslate.com/a16z-reportedly-pivots-2-2b-fund-but-hides-its-next-play/",
+          "publishedAt": "2026-10-23"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "AAVE sous pression technique malgré une note positive de Citi",
+      "impact": "neg",
+      "confidence": "likely",
+      "what": "<cite index=\"54-2,54-3\">Aave is trading at $148.70 on Binance spot as of October 23, 2026, sitting below every short-to-medium-term moving average while a MACD histogram reading of zero suggests the prevailing selling pressure. Every short-to-medium-term moving average on the daily Binance spot chart is overhead.</cite> Dans le même temps, <cite index=\"48-1,48-2\">une note de Citi souligne l'importance de la mobilité du collatéral comme l'un des bénéfices clés de la tokenisation pour Aave, mais malgré cet avis positif, AAVE continue de peiner.</cite>",
+      "why": "AAVE cumule une faiblesse technique persistante avec des discussions de gouvernance actives (staking dans « Aavenomics 3.0 », évaluation du BTC natif de Babylon sur Aave Ethereum) qui pourraient changer la structure économique du protocole.",
+      "assets": [
+        "AAVE"
+      ],
+      "shortTerm": "Risque de poursuite de la baisse si le support technique autour de 142-148$ cède.",
+      "longTerm": "Les propositions de gouvernance sur le staking et l'intégration de BTC natif pourraient renforcer les revenus et l'utilité du protocole si elles sont adoptées.",
+      "sources": [
+        {
+          "name": "Blockchain.News",
+          "url": "https://blockchain.news/news/20261023-price-prediction-aave-bearish-ma-stack-pressures-148-handle",
+          "publishedAt": "2026-10-23"
+        },
+        {
+          "name": "24/7 Wall St.",
+          "url": "https://247wallst.com/investing/cryptocurrency/2026/10/20/citi-thinks-aave-could-become-the-go-to-lender-for-tokenized-assets-can-aave-recover-from-a-77-drop/",
+          "publishedAt": "2026-10-20"
+        },
+        {
+          "name": "Aave Governance Forum",
+          "url": "https://governance.aave.com/t/arfc-staking-in-aavenomics-3-0-do-we-want-it/25905",
+          "publishedAt": "2026-10-23 18:11 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "Ethereum reporte le testnet fork de Glamsterdam pour raison de sécurité",
+      "impact": "neg",
+      "confidence": "confirmed",
+      "what": "<cite index=\"76-5,76-6\">Ethereum developers have postponed the planned activation of the network's Glamsterdam upgrade on its Hoodi test network after security firm ChainSecurity found problems with how the upgrade changes gas. It has just been decided to delay the Glamsterdam hard fork on the Hoodi testnet because of security impacts identified.</cite> <cite index=\"76-1\">13 real-world examples ont déjà été identifiés et les projets concernés sont contactés.</cite>",
+      "why": "Glamsterdam est la prochaine grande mise à jour d'Ethereum ; un report du testnet remet en question le calendrier du déploiement mainnet initialement envisagé pour décembre.",
+      "assets": [
+        "ETH"
+      ],
+      "shortTerm": "Pas d'impact direct sur le prix, mais incertitude accrue sur le calendrier technique.",
+      "longTerm": "Si le mainnet glisse au-delà de décembre, cela retarde les améliorations de gestion du gas attendues par les développeurs.",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
+          "publishedAt": "2026-10-23 11:49 UTC"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks",
+          "publishedAt": "2026-10-23"
+        },
+        {
+          "name": "24/7 Wall St.",
+          "url": "https://247wallst.com/investing/cryptocurrency/2026/10/23/what-is-glamsterdam-and-why-did-ethereum-just-delay-its-testnet-launch/",
+          "publishedAt": "2026-10-23"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "Netanyahu envisage un plan blockchain face à d'éventuelles sanctions bancaires",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "what": "Netanyahu a déclaré avoir demandé un plan blockchain au cas où les banques israéliennes seraient frappées de sanctions internationales, dans un contexte pré-électoral.",
+      "why": "Un usage étatique de la blockchain comme filet de sécurité face à des sanctions bancaires serait un précédent géopolitique notable, même si la proposition reste à ce stade exploratoire.",
+      "assets": [],
+      "shortTerm": "Aucun impact de marché immédiat attendu, sujet encore au stade de la déclaration politique.",
+      "longTerm": "Si le plan se concrétise, cela pourrait renforcer le narratif de la crypto comme outil de contournement de sanctions, un sujet sensible pour les régulateurs occidentaux.",
+      "assets2": [],
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792",
+          "publishedAt": "2026-10-23 18:15 UTC"
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel",
+          "publishedAt": "2026-10-23 21:16 UTC"
+        }
+      ],
+      "singleSource": false
+    }
+  ],
+  "market": [
+    {
+      "symbol": "BTC",
+      "sentiment": "neg",
+      "driver": "Sorties ETF, approche du FOMC du 28 octobre et hausse du pétrole pèsent sur le sentiment risk-off.",
+      "events": [
+        "Sorties nettes ETF de 636M$ le 23/10",
+        "Bitcoin Core modifie sa politique de sécurité face aux bugs trouvables par IA"
+      ],
+      "watch": [
+        "FOMC 27-28 octobre",
+        "Support psychologique autour de 80 000$"
+      ],
+      "name": "Bitcoin",
+      "price": 80769,
+      "change24h": -1.14843,
+      "change7d": -0.9654,
+      "volume": 22515859167,
+      "asOf": "24/10 09:09",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "ETH",
+      "sentiment": "neg",
+      "driver": "Report du testnet Glamsterdam, qui ajoute de l'incertitude sur le calendrier technique, dans un marché globalement baissier.",
+      "events": [
+        "Report du fork testnet Hoodi pour raison de sécurité (gas)"
+      ],
+      "watch": [
+        "Nouvelle date de testnet",
+        "Support autour de 2 300$"
+      ],
+      "name": "Ethereum",
+      "price": 2378.1,
+      "change24h": -1.05038,
+      "change7d": -2.0944,
+      "volume": 8879747005,
+      "asOf": "24/10 09:09",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "SOL",
+      "sentiment": "neg",
+      "driver": "Faiblesse générale des altcoins et ralentissement de l'activité sur l'écosystème memecoin (Pump.fun) qui tourne sur Solana.",
+      "events": [],
+      "watch": [
+        "Support autour de 100$",
+        "Volume DEX sur Solana"
+      ],
+      "name": "Solana",
+      "price": 102.19,
+      "change24h": -2.20315,
+      "change7d": -2.6301,
+      "volume": 2225332326,
+      "asOf": "24/10 09:09",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "HYPE",
+      "sentiment": "neg",
+      "driver": "Unlocks de tokens attendus fin octobre / début novembre et sorties sur les ETF spot HYPE.",
+      "events": [
+        "Unlock annoncé autour du 29 octobre (~14,2M HYPE selon une estimation, soit ~2,6% de la capitalisation)",
+        "Unlock récurrent de contributeurs autour du 1er novembre (~6,4M HYPE)"
+      ],
+      "watch": [
+        "Dates d'unlock (29/10 et 01/11)",
+        "Flux des ETF spot HYPE"
+      ],
+      "name": "Hyperliquid",
+      "price": 76.59,
+      "change24h": -2.14972,
+      "change7d": -3.6971,
+      "volume": 773373160,
+      "asOf": "24/10 09:09",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "AAVE",
+      "sentiment": "neg",
+      "driver": "Faiblesse technique persistante et gouvernance active sur le staking (Aavenomics 3.0) et l'intégration de BTC natif de Babylon.",
+      "events": [
+        "Vote de gouvernance ARFC sur le staking Aavenomics 3.0",
+        "Évaluation de l'onboarding de Babylon native BTC sur Aave Ethereum",
+        "Ajustements de risk steward (caps, IRM) sur V3 et V4"
+      ],
+      "watch": [
+        "Support technique 142-148$",
+        "Issue des votes de gouvernance"
+      ],
+      "name": "Aave",
+      "price": 142.57,
+      "change24h": -4.61043,
+      "change7d": -8.313,
+      "volume": 167458245,
+      "asOf": "24/10 09:09",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "PUMP",
+      "sentiment": "neg",
+      "driver": "Le programme de rachat/burn de PUMP dépend directement des revenus de la plateforme, qui ont montré des signes de ralentissement.",
+      "events": [
+        "Revenu quotidien en recul de ~16% mi-octobre, impactant le montant des rachats",
+        "Unlock d'équipe évoqué pour octobre (~37,5M$, date précise non communiquée, source agrégateur peu fiable)"
+      ],
+      "watch": [
+        "Évolution du revenu journalier de la plateforme",
+        "Sentiment sur les memecoins Solana"
+      ],
+      "name": "Pump.fun",
+      "price": 0.00426612,
+      "change24h": -8.26121,
+      "change7d": -7.217,
+      "volume": 146492207,
+      "asOf": "24/10 09:09",
+      "source": "CoinGecko"
+    }
+  ],
+  "x": [
+    {
+      "author": "Initia",
+      "handle": "@initiaFDN",
+      "time": "2026-10-23 15:41 UTC",
+      "asset": "INIT",
+      "sentiment": "neg",
+      "kind": "official",
+      "summary": "Annonce officielle de la mise à l'arrêt du réseau L1 et des rollups suite à un incident de sécurité.",
+      "why": "Source directe et officielle confirmant l'incident avant les analyses des chercheurs en sécurité."
+    },
+    {
+      "author": "Spreek",
+      "handle": "non précisé",
+      "time": "2026-10-23",
+      "asset": "INIT",
+      "sentiment": "neg",
+      "kind": "data",
+      "summary": "Chercheur en sécurité blockchain ayant identifié en premier le minting non autorisé de tokens sur Initia.",
+      "why": "Analyse on-chain indépendante ayant permis de documenter l'ampleur de l'exploit avant la communication officielle complète."
+    },
+    {
+      "author": "Chris Dixon",
+      "handle": "a16z (managing partner)",
+      "time": "2026-10-22",
+      "asset": "",
+      "sentiment": "neu",
+      "kind": "person",
+      "summary": "A confirmé le changement de nom d'a16z crypto en a16z Frontier, présenté comme un élargissement et non un retrait de la crypto.",
+      "why": "Déclaration directe du dirigeant du fonds, à nuancer car c'est une communication officielle d'une partie prenante intéressée par le narratif."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Initia",
+      "conviction": "risk",
+      "funding": "Non vérifié dans cette édition",
+      "investors": "Non vérifié dans cette édition",
+      "team": "Co-fondateur identifié publiquement (Ezaan Mangalji) ayant communiqué sur l'incident",
+      "tech": "Blockchain L1 modulaire destinée à héberger des rollups (« Minitias ») basée sur Cosmos SDK avec une implémentation MoveVM.",
+      "tokenomics": "Token natif INIT non affecté par le bug selon l'équipe, mais confiance entamée sur les contrôles de mint.",
+      "catalysts": "Reprise du réseau, rapport final sur l'ampleur des pertes et mesures correctives annoncées.",
+      "why": "Illustre les risques persistants des implémentations de machines virtuelles custom dans les écosystèmes modulaires/rollups.",
+      "risk": "Faille critique ayant permis un minting non garanti ; confiance des validateurs et utilisateurs à reconstruire, ampleur exacte des pertes encore incertaine."
+    }
+  ],
+  "smartMoney": [
+    {
+      "title": "Franklin Templeton ajoute 150M$ de parts tokenisées sur XRP Ledger",
+      "token": "sgBENJI (fonds monétaire tokenisé)",
+      "amount": "~150M$ (portant le solde total à ~193M parts, ~200M$)",
+      "from": "Compte d'émission de Franklin Templeton",
+      "to": "wallet non identifié (partage les mêmes signataires que le compte émetteur)",
+      "confidence": "confirmed",
+      "interpretation": "Il s'agit d'une émission de parts d'un fonds monétaire régulé vers un portefeuille dont les signataires sont liés à Franklin Templeton elle-même ; il n'est pas possible de confirmer s'il s'agit d'un seul investisseur final ou de plusieurs clients regroupés dans un wallet omnibus.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet"
+        }
+      ]
+    }
+  ],
+  "unlocks": [
+    {
+      "date": "2026-10-29",
+      "token": "HYPE",
+      "amount": "~14,2M HYPE (chiffre contesté selon les sources, une autre estimation parle de 9,92M)",
+      "value": "~500-785M$ selon les sources (données non réconciliées)",
+      "pct": "~1,4% de l'offre totale / ~2,6% de la capitalisation selon une source",
+      "who": "Contributeurs historiques (core contributors) et insiders",
+      "risk": "high",
+      "priority": true,
+      "confidence": "unconfirmed"
+    },
+    {
+      "date": "2026-11-01",
+      "token": "HYPE",
+      "amount": "~6,43M HYPE",
+      "value": "~497M$ (estimation)",
+      "pct": "~0,64% de l'offre maximale",
+      "who": "Core contributors (vesting mensuel récurrent)",
+      "risk": "med",
+      "priority": true,
+      "confidence": "unconfirmed"
+    },
+    {
+      "date": "2026-10-31",
+      "token": "PUMP",
+      "amount": "Montant exact non confirmé",
+      "value": "~37,5M$ (estimation d'agrégateur)",
+      "pct": "~1,5% de la capitalisation",
+      "who": "Équipe",
+      "risk": "low",
+      "priority": false,
+      "confidence": "unconfirmed"
+    }
+  ],
+  "unlocksSource": {
+    "name": "Tokenomics.com / RootData / DefiLlama (données contradictoires entre trackers)",
+    "url": "https://app.tokenomics.com/tokenomics/hyperliquid/unlocks"
+  },
+  "regulation": [
+    {
+      "region": "US",
+      "title": "La SEC inscrit l'IA et la tokenisation comme risques systémiques prioritaires pour 2027",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "summary": "La SEC a publié ses priorités d'examen pour l'exercice fiscal 2027, incluant explicitement les risques liés à la « super intelligence » IA et à la tokenisation des actifs.",
+      "sources": [
+        {
+          "name": "SEC",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities"
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list"
+        }
+      ]
+    },
+    {
+      "region": "US",
+      "title": "Wells Fargo et cinq autres acteurs s'opposent aux listings de titres tokenisés OKX-ICE",
+      "impact": "neg",
+      "confidence": "unconfirmed",
+      "summary": "22 entreprises auraient déposé des objections contre la plateforme de titres tokenisés proposée par la coentreprise OKX-ICE dans le cadre d'une exemption d'innovation de la SEC, selon un seul média.",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice"
+        }
+      ]
+    },
+    {
+      "region": "US",
+      "title": "Un sénateur interroge Tether sur des paiements à un ex-conseiller crypto de la Maison Blanche",
+      "impact": "neg",
+      "confidence": "confirmed",
+      "summary": "Le sénateur Blumenthal demande des explications à Tether concernant des paiements versés à une société fondée par un ancien conseiller crypto de la Maison Blanche.",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785"
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser"
+        }
+      ]
+    },
+    {
+      "region": "Asie (Singapour, Malaisie, Thaïlande)",
+      "title": "Extension d'une initiative de stablecoin transfrontalier avec Ripple, Visa et Mastercard",
+      "impact": "pos",
+      "confidence": "confirmed",
+      "summary": "Les banques centrales de Singapour, Malaisie et Thaïlande étendent une initiative de stablecoin transfrontalier impliquant Ripple, Visa et Mastercard.",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push"
+        }
+      ]
+    },
+    {
+      "region": "Corée du Sud",
+      "title": "La Corée du Sud veut amender sa loi sur le change pour encadrer les stablecoins",
+      "impact": "neu",
+      "confidence": "likely",
+      "summary": "Séoul envisagerait d'amender sa loi sur le change afin de réguler les stablecoins comme instruments de paiement.",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-23-south-korea-stablecoins-payment-instruments-424028"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "title": "La Fed a relevé ses taux en septembre ; prochain FOMC le 27-28 octobre",
+      "impact": "neg",
+      "confidence": "confirmed",
+      "date": "2026-10-28",
+      "summary": "<cite index=\"35-5\">Les minutes de la réunion des 15-16 septembre, publiées le 7 octobre, ont montré que tous les participants ont soutenu la hausse d'un quart de point et que la quasi-totalité jugeait les risques d'inflation orientés à la hausse, laissant la porte ouverte à un nouveau resserrement.</cite> <cite index=\"34-1\">Au 23 octobre, le marché des taux anticipe très majoritairement un statu quo pour la réunion du 28 octobre, avec seulement 7,6% de probabilité implicite d'une nouvelle hausse.</cite>",
+      "sources": [
+        {
+          "name": "PrimeRates",
+          "url": "https://primerates.com/primerate/fed-meeting-schedule/"
+        },
+        {
+          "name": "RateProbability",
+          "url": "https://rateprobability.com/fed"
+        }
+      ]
+    },
+    {
+      "title": "Le pétrole au plus haut depuis 6 mois pèse sur le sentiment risque",
+      "impact": "neg",
+      "confidence": "likely",
+      "date": "2026-10-23",
+      "summary": "Le Brent a atteint son plus haut niveau depuis mars, contribuant à un climat plus prudent sur les actifs risqués, bitcoin inclus.",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march"
+        }
+      ]
+    }
+  ],
+  "onchain": [
+    {
+      "metric": "Fear & Greed Index",
+      "value": "51 (Neutre)",
+      "note": "Stable par rapport à hier (50).",
+      "source": "Alternative.me (donnée fournie)"
+    },
+    {
+      "metric": "TVL Ethereum",
+      "value": "~49,3 Md$",
+      "note": "Chaîne la plus utilisée pour la TVL parmi les actifs suivis.",
+      "source": "Données on-chain fournies"
+    },
+    {
+      "metric": "TVL Aave (protocole)",
+      "value": "~17,8 Md$",
+      "note": "Confirme la taille significative du protocole malgré la faiblesse du prix du token.",
+      "source": "Données on-chain fournies"
+    },
+    {
+      "metric": "TVL Hyperliquid (protocole)",
+      "value": "~8,3 Md$",
+      "note": "Frais générés sur 24h : ~2,52M$.",
+      "source": "Données on-chain fournies"
+    },
+    {
+      "metric": "Capitalisation totale des stablecoins",
+      "value": "~304,3 Md$",
+      "note": "Indicateur de liquidité disponible pour le marché crypto.",
+      "source": "Données on-chain fournies"
+    }
+  ],
+  "watchlist": [
+    {
+      "impact": "neu",
+      "text": "Décision de la Fed le 28 octobre : un statu quo est largement anticipé, toute surprise pourrait créer de la volatilité."
+    },
+    {
+      "impact": "neg",
+      "text": "Unlocks HYPE attendus autour du 29 octobre et du 1er novembre : surveiller la pression vendeuse potentielle."
+    },
+    {
+      "impact": "neg",
+      "text": "Suivi du rapport final d'Initia sur l'ampleur de l'exploit et la reprise du réseau."
+    },
+    {
+      "impact": "neu",
+      "text": "Issue du vote de gouvernance Aave sur le staking dans « Aavenomics 3.0 »."
+    },
+    {
+      "impact": "neu",
+      "text": "Suite donnée aux objections de Wells Fargo et autres contre les listings de titres tokenisés OKX-ICE."
+    }
+  ],
+  "breaking": [
+    {
+      "id": "ft-xrp-ledger-expansion:2026-10-24",
+      "level": "important",
+      "time": "09:15",
+      "title": "Franklin Templeton ajoute 150 millions de dollars en parts de fonds sur XRP Ledger",
+      "summary": "Franklin Templeton a augmenté son exposition au XRP Ledger en ajoutant 150 millions de dollars en parts de fonds, concentrées dans un seul portefeuille. Cette expansion institutionnelle marque une adoption croissante du réseau XRP par les grands gestionnaires d'actifs.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-10-24T07:15:19Z",
+  "updatedAt": "2026-10-24T07:15:25Z"
+}

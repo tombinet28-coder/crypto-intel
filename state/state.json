@@ -1,7 +1,5 @@
 {
   "seen": {
-    "rss:fb66df8b98a8667d": 1792547848.1081054,
-    "rss:37e35553291488d7": 1792547848.1081069,
     "rss:226e2b27118e3c07": 1792568018.953959,
     "rss:d08f987d6839db67": 1792568018.95396,
     "rss:07b3ff05c6f1f6dd": 1792568018.9539602,
@@ -199,109 +197,11 @@
     "rss:035780ef93e455a2": 1792797955.938266,
     "rss:5e248f9cd718d737": 1792797955.9382663,
     "rss:f2b34044004bb03d": 1792797955.9382665,
-    "rss:59eb055c3a18f9be": 1792797955.938267
+    "rss:59eb055c3a18f9be": 1792797955.938267,
+    "rss:7f5533f2e777c256": 1792826122.9184594
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:140982d24e496e58",
-      "kind": "news",
-      "title": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
-      "url": "https://www.coindesk.com/markets/2026/10/23/polymarket-has-reportedly-fired-its-marketing-chief-also-a-close-friend-of-the-ceo",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "polymarket-internal",
-      "ts": 1792731679
-    },
-    {
-      "id": "rss:5bb5df3f2308694a",
-      "kind": "news",
-      "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
-      "url": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "eth-glamsterdam-delay",
-      "ts": 1792731574
-    },
-    {
-      "id": "rss:d496f625ba9ffc2b",
-      "kind": "news",
-      "title": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
-      "url": "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "cardano-defi-bet",
-      "ts": 1792730211
-    },
-    {
-      "id": "rss:5ff2381eb008dcfd",
-      "kind": "news",
-      "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
-      "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-market-dynamics",
-      "ts": 1792725181
-    },
-    {
-      "id": "rss:d57e215ecd7cbcc1",
-      "kind": "news",
-      "title": "HSBC rolls out its first HKD stablecoin RedCoin to retail users",
-      "url": "https://www.theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "hsbc-redcoin-stablecoin",
-      "ts": 1792728189
-    },
-    {
-      "id": "rss:64a418b711739163",
-      "kind": "news",
-      "title": "Chainlink partners with LG CNS to drive Korean won stablecoin expansion",
-      "url": "https://www.theblock.co/news/business/2026-10-22-chainlink-partners-with-lg-cns-423993",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "chainlink-lgcns-won-stablecoin",
-      "ts": 1792723693
-    },
-    {
-      "id": "rss:a15cdca447e4d1f7",
-      "kind": "news",
-      "title": "Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities",
-      "url": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-slides-tech-stock-sell-off-423990",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-market-dynamics",
-      "ts": 1792722090
-    },
-    {
-      "id": "rss:9ffd2d4418ea1797",
-      "kind": "news",
-      "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
-      "url": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "eth-glamsterdam-delay",
-      "ts": 1792732181
-    },
-    {
-      "id": "rss:b6ed306a573354e8",
-      "kind": "news",
-      "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
-      "url": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "btc-security-policy-ai",
-      "ts": 1792730054
-    },
     {
       "id": "rss:874a74fab19a6e02",
       "kind": "news",
@@ -499,17 +399,6 @@
       "xRole": null,
       "cluster": "stablecoin-adoption",
       "ts": 1792739753
-    },
-    {
-      "id": "rss:c2a4a8e25b8b33d2",
-      "kind": "news",
-      "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
-      "url": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "btc-etf-analysis",
-      "ts": 1792739379
     },
     {
       "id": "rss:9f667d2fe6cc0ed7",
@@ -862,46 +751,20 @@
       "xRole": null,
       "cluster": "babylon-btc-aave-listing",
       "ts": 1792788601
-    }
-  ],
-  "digest_queue": [
-    {
-      "id": "israel-blockchain-sanctions:2026-10-24",
-      "level": "important",
-      "time": "01:25",
-      "title": "Netanyahu envisage un plan blockchain pour contourner les sanctions bancaires",
-      "summary": "Netanyahu a déclaré avoir demandé un plan blockchain au cas où les banques seraient frappées de sanctions, dans un contexte pré-électoral en Israël. Cette initiative vise à préparer le pays à d'éventuelles restrictions bancaires internationales.",
-      "assets": [],
-      "confidence": "confirmed",
-      "sources": [
-        {
-          "name": "The Block",
-          "url": "https://www.theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792"
-        },
-        {
-          "name": "Decrypt",
-          "url": "https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel"
-        }
-      ],
-      "digested": false
     },
     {
-      "id": "tokenized-stocks-okx-ice:2026-10-24",
-      "level": "important",
-      "time": "01:25",
-      "title": "Wells Fargo et cinq autres s'opposent aux listings de titres tokenisés OKX-ICE",
-      "summary": "22 entreprises ont déposé des objections contre la plateforme de titres tokenisés proposée par le joint-venture OKX-ICE, dans le cadre de l'exemption d'innovation de la SEC. Cette opposition majeure ralentit l'adoption des titres tokenisés aux États-Unis.",
-      "assets": [],
-      "confidence": "unconfirmed",
-      "sources": [
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
-      "digested": false
+      "id": "rss:7f5533f2e777c256",
+      "kind": "news",
+      "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+      "url": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ft-xrp-ledger-expansion",
+      "ts": 1792817143
     }
   ],
+  "digest_queue": [],
   "sent": {
     "2026-10-18": {
       "critical": 0,
@@ -935,7 +798,7 @@
     },
     "2026-10-24": {
       "critical": 0,
-      "important": 0,
+      "important": 1,
       "digests": []
     }
   },
@@ -1155,15 +1018,16 @@
     "cysic-exploit": "important",
     "initia-exploit": "important",
     "israel-blockchain-sanctions": "important",
-    "tokenized-stocks-okx-ice": "important"
+    "tokenized-stocks-okx-ice": "important",
+    "ft-xrp-ledger-expansion": "important"
   },
   "briefing_attempts": {
-    "2026-10-17": 2,
     "2026-10-18": 2,
     "2026-10-19": 1,
     "2026-10-20": 1,
     "2026-10-21": 2,
     "2026-10-22": 1,
-    "2026-10-23": 2
+    "2026-10-23": 2,
+    "2026-10-24": 1
   }
 }
