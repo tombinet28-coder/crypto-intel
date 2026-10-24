@@ -1,13 +1,5 @@
 {
   "seen": {
-    "rss:226e2b27118e3c07": 1792568018.953959,
-    "rss:d08f987d6839db67": 1792568018.95396,
-    "rss:07b3ff05c6f1f6dd": 1792568018.9539602,
-    "rss:1a0d5c49e01299a6": 1792568018.9539607,
-    "rss:9112f5e3a5c90691": 1792568018.953961,
-    "rss:fe2b3fdd7790e0b9": 1792568018.9539611,
-    "rss:7edf3f95ba113dcc": 1792568018.9539611,
-    "move24:bitway:20747": 1792568018.9540434,
     "rss:2f81cb3981351f19": 1792588194.9003983,
     "rss:91c2fa178b8a656f": 1792588194.9003994,
     "rss:7b1635758e8c2104": 1792588194.9004,
@@ -198,208 +190,13 @@
     "rss:5e248f9cd718d737": 1792797955.9382663,
     "rss:f2b34044004bb03d": 1792797955.9382665,
     "rss:59eb055c3a18f9be": 1792797955.938267,
-    "rss:7f5533f2e777c256": 1792826122.9184594
+    "rss:7f5533f2e777c256": 1792826122.9184594,
+    "rss:ea43bed0597f16fa": 1792843895.6403446,
+    "rss:6747c33ef5ebecf3": 1792843895.6403456,
+    "rss:0bcc72414470c22b": 1792843895.6403458
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:874a74fab19a6e02",
-      "kind": "news",
-      "title": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-market-dynamics",
-      "ts": 1792754553
-    },
-    {
-      "id": "rss:d71a18256f5fe77c",
-      "kind": "news",
-      "title": "Live updates: Bitcoin holds above $81,000 as the AI rout fades and oil climbs",
-      "url": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-market-dynamics",
-      "ts": 1792753981
-    },
-    {
-      "id": "rss:6169539c1ffb3573",
-      "kind": "news",
-      "title": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
-      "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-market-dynamics",
-      "ts": 1792752881
-    },
-    {
-      "id": "rss:1c5ac2d5d38cb82a",
-      "kind": "news",
-      "title": "Bitcoin appears to have decoupled from midterm cycle bottom history",
-      "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-market-dynamics",
-      "ts": 1792752789
-    },
-    {
-      "id": "rss:85fc56c51052f1a4",
-      "kind": "news",
-      "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
-      "url": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "hsbc-redcoin-stablecoin",
-      "ts": 1792750976
-    },
-    {
-      "id": "rss:568c5cce48f1977a",
-      "kind": "news",
-      "title": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
-      "url": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "stablecoin-adoption",
-      "ts": 1792745854
-    },
-    {
-      "id": "rss:941c1ff4da4ab28b",
-      "kind": "news",
-      "title": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
-      "url": "https://www.coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "coindcx-wallet-incident",
-      "ts": 1792742555
-    },
-    {
-      "id": "rss:59737c3eea6ed639",
-      "kind": "news",
-      "title": "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows",
-      "url": "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-etf-analysis",
-      "ts": 1792755585
-    },
-    {
-      "id": "rss:bf785b6c1c30b252",
-      "kind": "news",
-      "title": "New York seeks over $1.3 billion from NovaTech founders after couple fled the US",
-      "url": "https://www.theblock.co/news/regulation/2026-10-23-new-york-seeks-over-1-3-billion-from-novatech-founders-after-couple-fled-the-us-424453",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-news-roundup",
-      "ts": 1792750322
-    },
-    {
-      "id": "rss:672bac5bfd442d51",
-      "kind": "news",
-      "title": "South Korea to amend forex law to regulate stablecoins as payment instruments: report",
-      "url": "https://www.theblock.co/news/regulation/2026-10-23-south-korea-stablecoins-payment-instruments-424028",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "sec-crypto-regulation",
-      "ts": 1792749164
-    },
-    {
-      "id": "rss:26ff50e397771651",
-      "kind": "news",
-      "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
-      "url": "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "eth-glamsterdam-delay",
-      "ts": 1792756177
-    },
-    {
-      "id": "rss:1327bc427e4072f4",
-      "kind": "news",
-      "title": "Heatbit's $899 Water Heater Element Mines Bitcoin While It Heats Your Tank",
-      "url": "https://decrypt.co/381665/heatbits-899-water-heater-element-mines-bitcoin-while-it-heats-your-tank",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "general-news-roundup",
-      "ts": 1792752875
-    },
-    {
-      "id": "rss:76b334aa6eed608e",
-      "kind": "news",
-      "title": "Bitcoin in 'Wait and See Mode'—And That Might Be a Good Thing",
-      "url": "https://decrypt.co/381666/bitcoin-in-wait-and-see-mode-and-that-might-be-a-good-thing",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-market-dynamics",
-      "ts": 1792745735
-    },
-    {
-      "id": "rss:048f1e2013548c55",
-      "kind": "news",
-      "title": "Was crypto self-custody ever designed for beginners?",
-      "url": "https://cointelegraph.com/news/self-custody-crypto-beginners-mainstream-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-news-roundup",
-      "ts": 1792756067
-    },
-    {
-      "id": "rss:ae1cff04fdd85625",
-      "kind": "news",
-      "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
-      "url": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "cysic-exploit",
-      "ts": 1792750386
-    },
-    {
-      "id": "rss:502d3b39fd7cf33e",
-      "kind": "news",
-      "title": "Bybit secures first full Dubai license for spot trading services",
-      "url": "https://cointelegraph.com/news/bybit-first-full-dubai-spot-trading-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "general-news-roundup",
-      "ts": 1792749004
-    },
-    {
-      "id": "rss:c39c29e5ca1e0535",
-      "kind": "news",
-      "title": "HSBC launches Hong Kong dollar stablecoin for retail payments",
-      "url": "https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "hsbc-redcoin-stablecoin",
-      "ts": 1792745254
-    },
-    {
-      "id": "rss:70db50e2729f1e3d",
-      "kind": "news",
-      "title": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
-      "url": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "stablecoin-adoption",
-      "ts": 1792739753
-    },
     {
       "id": "rss:9f667d2fe6cc0ed7",
       "kind": "news",
@@ -410,17 +207,6 @@
       "xRole": null,
       "cluster": "prediction-markets-expansion",
       "ts": 1792763936
-    },
-    {
-      "id": "rss:3ca18cb27b3d024e",
-      "kind": "news",
-      "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
-      "url": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-security-policy-ai",
-      "ts": 1792757033
     },
     {
       "id": "rss:074b3e9f2185315d",
@@ -762,6 +548,39 @@
       "xRole": null,
       "cluster": "ft-xrp-ledger-expansion",
       "ts": 1792817143
+    },
+    {
+      "id": "rss:ea43bed0597f16fa",
+      "kind": "news",
+      "title": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
+      "url": "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "sec-crypto-regulation",
+      "ts": 1792843200
+    },
+    {
+      "id": "rss:6747c33ef5ebecf3",
+      "kind": "news",
+      "title": "Global Dollar (USDG) on Aave Arbitrum Assessments",
+      "url": "https://governance.aave.com/t/global-dollar-usdg-on-aave-arbitrum-assessments/25912",
+      "source": "Aave gouvernance",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "aave-governance-risk",
+      "ts": 1792836593
+    },
+    {
+      "id": "rss:0bcc72414470c22b",
+      "kind": "news",
+      "title": "Question regarding Acier's alleged misrepresentation and deception of investors",
+      "url": "https://governance.aave.com/t/question-regarding-aciers-alleged-misrepresentation-and-deception-of-investors/25911",
+      "source": "Aave gouvernance",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "aave-governance-risk",
+      "ts": 1792830044
     }
   ],
   "digest_queue": [],
