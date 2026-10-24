@@ -159,39 +159,6 @@
   "x_since": {},
   "recent": [
     {
-      "id": "rss:2a0427c5f980512b",
-      "kind": "news",
-      "title": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm",
-      "url": "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "tether-investigation",
-      "ts": 1792786562
-    },
-    {
-      "id": "rss:70dd2a65a17f1719",
-      "kind": "news",
-      "title": "SpaceX Filing Gives Elon Musk the Final Word on Tesla Merger He Says He’s Staying Out Of",
-      "url": "https://decrypt.co/381753/spacex-filing-elon-musk-final-word-tesla-merger",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "unrelated-tech",
-      "ts": 1792784162
-    },
-    {
-      "id": "rss:0085f5e35b837d67",
-      "kind": "news",
-      "title": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
-      "url": "https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "israel-blockchain-sanctions",
-      "ts": 1792790163
-    },
-    {
       "id": "rss:035780ef93e455a2",
       "kind": "news",
       "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
@@ -201,39 +168,6 @@
       "xRole": null,
       "cluster": "tokenized-stocks-okx-ice",
       "ts": 1792791136
-    },
-    {
-      "id": "rss:5e248f9cd718d737",
-      "kind": "news",
-      "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
-      "url": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "irs-crypto-tax-penalties",
-      "ts": 1792788857
-    },
-    {
-      "id": "rss:f2b34044004bb03d",
-      "kind": "news",
-      "title": "Risk Stewards: Cap and IRM Changes on Aave V4 / 2026.10.23",
-      "url": "https://governance.aave.com/t/risk-stewards-cap-and-irm-changes-on-aave-v4-2026-10-23/25908",
-      "source": "Aave gouvernance",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "aave-governance-risk",
-      "ts": 1792790758
-    },
-    {
-      "id": "rss:59eb055c3a18f9be",
-      "kind": "news",
-      "title": "Babylon Native BTC on Aave Ethereum Assessments",
-      "url": "https://governance.aave.com/t/babylon-native-btc-on-aave-ethereum-assessments/25907",
-      "source": "Aave gouvernance",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "babylon-btc-aave-listing",
-      "ts": 1792788601
     },
     {
       "id": "rss:7f5533f2e777c256",
