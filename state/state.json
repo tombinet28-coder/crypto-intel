@@ -204,28 +204,6 @@
   "x_since": {},
   "recent": [
     {
-      "id": "rss:ffafe534ac32169c",
-      "kind": "news",
-      "title": "Switzerland approves first spot Bitcoin ETF for retail investors",
-      "url": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "btc-etf-approvals",
-      "ts": 1792717175
-    },
-    {
-      "id": "rss:971c2896368cc48a",
-      "kind": "news",
-      "title": "Pentagon bans US forces from using military info to bet in prediction markets",
-      "url": "https://cointelegraph.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "prediction-markets-regulation",
-      "ts": 1792713042
-    },
-    {
       "id": "rss:140982d24e496e58",
       "kind": "news",
       "title": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
