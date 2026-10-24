@@ -1,13 +1,5 @@
 {
   "seen": {
-    "rss:036527c52a9ba95b": 1792619803.9860985,
-    "rss:3254879a8c16facb": 1792619803.9860995,
-    "rss:49522c9d6a1b9a4b": 1792619803.9860997,
-    "rss:453dd880b357f879": 1792619803.9861,
-    "rss:005cdbd154f217cd": 1792619803.9861002,
-    "rss:142a360a5893d297": 1792619803.9861002,
-    "rss:21452969edd33a98": 1792619803.9861004,
-    "rss:043a2bf5f6f78168": 1792619803.9861004,
     "rss:aa81b89ecbc3be24": 1792629375.341685,
     "rss:2405188bb0071c5b": 1792629375.3416865,
     "rss:fbe85391f202ab36": 1792646601.631324,
@@ -158,17 +150,6 @@
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:035780ef93e455a2",
-      "kind": "news",
-      "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
-      "url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "tokenized-stocks-okx-ice",
-      "ts": 1792791136
-    },
     {
       "id": "rss:7f5533f2e777c256",
       "kind": "news",
@@ -370,11 +351,6 @@
   ],
   "digest_queue": [],
   "sent": {
-    "2026-10-18": {
-      "critical": 0,
-      "important": 0,
-      "digests": []
-    },
     "2026-10-19": {
       "critical": 0,
       "important": 2,
@@ -403,6 +379,11 @@
     "2026-10-24": {
       "critical": 0,
       "important": 1,
+      "digests": []
+    },
+    "2026-10-25": {
+      "critical": 0,
+      "important": 0,
       "digests": []
     }
   },
