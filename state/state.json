@@ -1,19 +1,5 @@
 {
   "seen": {
-    "rss:ff8406666fc227af": 1792697229.6008012,
-    "rss:82809c8e301f4a28": 1792697229.600803,
-    "rss:1f0488d08ccc2213": 1792697229.6008034,
-    "rss:48179e4f13989a31": 1792697229.6008036,
-    "rss:2f54a3d56d14b788": 1792697229.6008039,
-    "rss:499c4a18bd2dc7f1": 1792697229.600804,
-    "rss:0e7637f73c333772": 1792697229.600804,
-    "rss:20b3d5c4819ceced": 1792697229.6008043,
-    "rss:a13b39c5258ccb9a": 1792697229.6008043,
-    "rss:bc73a3bcedc86ca5": 1792697229.6008046,
-    "rss:a7c627c96645a507": 1792697229.6008046,
-    "rss:155a808b4f5d0ca0": 1792697229.6008048,
-    "rss:78c201aaed8cd47d": 1792697229.6008048,
-    "rss:4f8b09cbac1af525": 1792697229.600805,
     "rss:d6f8e7695b8bb7d9": 1792708904.536134,
     "rss:0e220e60fc74e65e": 1792708904.536135,
     "rss:cf2d84116e987cec": 1792708904.5361354,
@@ -110,21 +96,11 @@
     "rss:d37fddecc3cb6bc4": 1792949774.193835,
     "rss:b61fce8eadd43ee0": 1792949774.1938353,
     "rss:2034bd41ea2cb159": 1792949774.1938355,
-    "rss:b2377b769c0aca0a": 1792949774.1938357
+    "rss:b2377b769c0aca0a": 1792949774.1938357,
+    "rss:9d2ad0b63bb372b9": 1792958146.63931
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:5bb4754027fdbde6",
-      "kind": "news",
-      "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
-      "url": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-liquidation-event",
-      "ts": 1792863876
-    },
     {
       "id": "rss:48b8a283902efb8f",
       "kind": "news",
@@ -201,6 +177,17 @@
       "xRole": null,
       "cluster": "ecb-digital-euro",
       "ts": 1792941060
+    },
+    {
+      "id": "rss:9d2ad0b63bb372b9",
+      "kind": "news",
+      "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’",
+      "url": "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "coindcx-breach",
+      "ts": 1792953981
     }
   ],
   "digest_queue": [],
@@ -237,7 +224,7 @@
     },
     "2026-10-25": {
       "critical": 0,
-      "important": 4,
+      "important": 5,
       "digests": []
     }
   },
@@ -462,7 +449,8 @@
     "uk-crypto-banking-restrictions": "important",
     "netanyahu-blockchain-sanctions": "important",
     "keystone-breach": "important",
-    "ecb-digital-euro": "important"
+    "ecb-digital-euro": "important",
+    "coindcx-breach": "important"
   },
   "briefing_attempts": {
     "2026-10-19": 1,
