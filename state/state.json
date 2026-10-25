@@ -1,9 +1,5 @@
 {
   "seen": {
-    "rss:fbe85391f202ab36": 1792646601.631324,
-    "rss:b7b0d5a929b6c05d": 1792646601.6313255,
-    "rss:fd366c9e5ec5546b": 1792646601.631326,
-    "rss:55bf3b61acc81d95": 1792646601.6313262,
     "rss:9d1307c53ac4fdc9": 1792665246.2484431,
     "rss:5d1b5004f4a053bc": 1792665246.2484443,
     "rss:03664aa71534755f": 1792665246.2484446,
@@ -149,17 +145,6 @@
   "x_since": {},
   "recent": [
     {
-      "id": "rss:7f5533f2e777c256",
-      "kind": "news",
-      "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
-      "url": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ft-xrp-ledger-expansion",
-      "ts": 1792817143
-    },
-    {
       "id": "rss:ea43bed0597f16fa",
       "kind": "news",
       "title": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
@@ -180,17 +165,6 @@
       "xRole": null,
       "cluster": "aave-governance-risk",
       "ts": 1792836593
-    },
-    {
-      "id": "rss:0bcc72414470c22b",
-      "kind": "news",
-      "title": "Question regarding Acier's alleged misrepresentation and deception of investors",
-      "url": "https://governance.aave.com/t/question-regarding-aciers-alleged-misrepresentation-and-deception-of-investors/25911",
-      "source": "Aave gouvernance",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "aave-governance-risk",
-      "ts": 1792830044
     },
     {
       "id": "rss:df6d79ad7991b718",
@@ -605,12 +579,12 @@
     "ft-xrp-ledger-expansion": "important"
   },
   "briefing_attempts": {
-    "2026-10-18": 2,
     "2026-10-19": 1,
     "2026-10-20": 1,
     "2026-10-21": 2,
     "2026-10-22": 1,
     "2026-10-23": 2,
-    "2026-10-24": 1
+    "2026-10-24": 1,
+    "2026-10-25": 1
   }
 }
