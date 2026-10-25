@@ -1,19 +1,5 @@
 {
   "seen": {
-    "rss:9d1307c53ac4fdc9": 1792665246.2484431,
-    "rss:5d1b5004f4a053bc": 1792665246.2484443,
-    "rss:03664aa71534755f": 1792665246.2484446,
-    "rss:8421129057850d9f": 1792665246.248445,
-    "rss:19f3d7051ae720b4": 1792665246.2484453,
-    "rss:8dd90dbf693eccd2": 1792665246.2484455,
-    "rss:1a4bdb1170b5bbef": 1792665246.2484455,
-    "rss:b52888c9ab12cf45": 1792665246.2484457,
-    "rss:61cebec06b0a9879": 1792665246.2484457,
-    "rss:7a96127c5cfd022e": 1792665246.2484457,
-    "rss:ae655ca22e247fb5": 1792665246.248446,
-    "rss:f472c81275aae49f": 1792665246.248446,
-    "rss:81e012bc3d42a990": 1792665246.248446,
-    "rss:dd9f37507f320634": 1792665246.2484546,
     "rss:09e3de0be52632b1": 1792683357.0792692,
     "rss:80c92b421aaf8381": 1792683357.0792704,
     "rss:ce156c7f23bec1d4": 1792683357.0792708,
@@ -140,32 +126,12 @@
     "rss:d9bb4b4d2153a521": 1792868263.2633314,
     "rss:5bb4754027fdbde6": 1792868263.2633324,
     "rss:eed3aa9dbd8e3f58": 1792868263.2633326,
-    "rss:1406f5c70f6458db": 1792868263.263333
+    "rss:1406f5c70f6458db": 1792868263.263333,
+    "rss:48b8a283902efb8f": 1792936400.9736516,
+    "rss:bb7856f815960d76": 1792936400.973653
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:ea43bed0597f16fa",
-      "kind": "news",
-      "title": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
-      "url": "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "sec-crypto-regulation",
-      "ts": 1792843200
-    },
-    {
-      "id": "rss:6747c33ef5ebecf3",
-      "kind": "news",
-      "title": "Global Dollar (USDG) on Aave Arbitrum Assessments",
-      "url": "https://governance.aave.com/t/global-dollar-usdg-on-aave-arbitrum-assessments/25912",
-      "source": "Aave gouvernance",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "aave-governance-risk",
-      "ts": 1792836593
-    },
     {
       "id": "rss:df6d79ad7991b718",
       "kind": "news",
@@ -266,17 +232,6 @@
       "ts": 1792854062
     },
     {
-      "id": "rss:d749b32e132c0e24",
-      "kind": "news",
-      "title": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
-      "url": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "stablecoin-adoption",
-      "ts": 1792846862
-    },
-    {
       "id": "rss:d9bb4b4d2153a521",
       "kind": "news",
       "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
@@ -319,6 +274,28 @@
       "xRole": null,
       "cluster": "unrelated-tech",
       "ts": 1792861262
+    },
+    {
+      "id": "rss:48b8a283902efb8f",
+      "kind": "news",
+      "title": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
+      "url": "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "uk-crypto-banking-restrictions",
+      "ts": 1792933200
+    },
+    {
+      "id": "rss:bb7856f815960d76",
+      "kind": "news",
+      "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
+      "url": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "netanyahu-blockchain-sanctions",
+      "ts": 1792928520
     }
   ],
   "digest_queue": [],
@@ -355,7 +332,7 @@
     },
     "2026-10-25": {
       "critical": 0,
-      "important": 0,
+      "important": 2,
       "digests": []
     }
   },
@@ -576,7 +553,9 @@
     "initia-exploit": "important",
     "israel-blockchain-sanctions": "important",
     "tokenized-stocks-okx-ice": "important",
-    "ft-xrp-ledger-expansion": "important"
+    "ft-xrp-ledger-expansion": "important",
+    "uk-crypto-banking-restrictions": "important",
+    "netanyahu-blockchain-sanctions": "important"
   },
   "briefing_attempts": {
     "2026-10-19": 1,
