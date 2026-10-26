@@ -474,6 +474,52 @@
   ],
   "breaking": [
     {
+      "id": "hyperliquid-regulation:2026-10-26",
+      "level": "important",
+      "time": "20:10",
+      "title": "Hyperliquid : Payward (parent de Kraken) premier déployeur HIP-3 régulé par la CFTC",
+      "summary": "Hyperliquid annonce que Payward sera le premier déployeur HIP-3 régulé par la CFTC, une étape vers les contrats perpétuels américains réglementés.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/markets/2026-10-26-hyperliquid-payward-kraken-cftc-regulated-hip-3-deployer-431787"
+        }
+      ]
+    },
+    {
+      "id": "stablecoin-regulation:2026-10-26",
+      "level": "important",
+      "time": "20:10",
+      "title": "L'OCC exhorte les banques communautaires à entrer sur le marché des stablecoins",
+      "summary": "Le Bureau du contrôleur de la monnaie encourage les petites banques à participer au marché des paiements en stablecoins, une mesure réglementaire significative.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market"
+        },
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields"
+        }
+      ]
+    },
+    {
+      "id": "move24:bitway:20752",
+      "level": "important",
+      "time": "20:10",
+      "title": "BTW -32.0 % en 24 h (rang 56)",
+      "summary": "Mouvement inhabituel dans le top 100 : cause à vérifier.",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "CoinGecko",
+          "url": "https://www.coingecko.com/en/coins/bitway"
+        }
+      ]
+    },
+    {
       "id": "solana-hong-kong:2026-10-26",
       "level": "important",
       "time": "07:03",
@@ -503,5 +549,5 @@
     }
   ],
   "generatedAt": "2026-10-26T06:03:30Z",
-  "updatedAt": "2026-10-26T06:03:45Z"
+  "updatedAt": "2026-10-26T19:11:17Z"
 }
