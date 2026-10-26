@@ -1,10 +1,5 @@
 {
   "seen": {
-    "rss:7e90e2a6c53a7220": 1792718726.5318198,
-    "rss:ffafe534ac32169c": 1792718726.5318208,
-    "rss:971c2896368cc48a": 1792718726.5318213,
-    "rss:2ae9f843b682032a": 1792718726.5318215,
-    "move24:akedo:20749": 1792718726.531912,
     "rss:140982d24e496e58": 1792737018.1597478,
     "rss:5bb5df3f2308694a": 1792737018.159749,
     "rss:d496f625ba9ffc2b": 1792737018.1597497,
@@ -92,7 +87,15 @@
     "rss:b2377b769c0aca0a": 1792949774.1938357,
     "rss:9d2ad0b63bb372b9": 1792958146.63931,
     "rss:e54e8e34b9aa8fe5": 1792975176.5439794,
-    "rss:cb664b50b0f888d3": 1792975176.543981
+    "rss:cb664b50b0f888d3": 1792975176.543981,
+    "rss:c3859884fb76269f": 1792994613.7154527,
+    "rss:128bbb42a21b9700": 1792994613.7154539,
+    "rss:225db51341cd59b3": 1792994613.715454,
+    "rss:6f9bb62e3bfc0cb0": 1792994613.7154546,
+    "rss:043a2bf5f6f78168": 1792994613.7154548,
+    "rss:07bb4c90d71ba3a2": 1792994613.715455,
+    "rss:fca4c031bc6d9993": 1792994613.715455,
+    "rss:77947d5a8ac9ae5d": 1792994613.7154553
   },
   "x_since": {},
   "recent": [
@@ -205,6 +208,94 @@
       "xRole": null,
       "cluster": "eth-security-incidents",
       "ts": 1792968520
+    },
+    {
+      "id": "rss:c3859884fb76269f",
+      "kind": "news",
+      "title": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
+      "url": "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "coindcx-breach",
+      "ts": 1792993157
+    },
+    {
+      "id": "rss:128bbb42a21b9700",
+      "kind": "news",
+      "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
+      "url": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-wallet-bug",
+      "ts": 1792991720
+    },
+    {
+      "id": "rss:225db51341cd59b3",
+      "kind": "news",
+      "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
+      "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-price-movement",
+      "ts": 1792989422
+    },
+    {
+      "id": "rss:6f9bb62e3bfc0cb0",
+      "kind": "news",
+      "title": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
+      "url": "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "musk-ai-neoclouds",
+      "ts": 1792984299
+    },
+    {
+      "id": "rss:043a2bf5f6f78168",
+      "kind": "news",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "daily-digest",
+      "ts": 1792993484
+    },
+    {
+      "id": "rss:07bb4c90d71ba3a2",
+      "kind": "news",
+      "title": "Musk warns over 200 AI neoclouds face ‘guppy-level death’",
+      "url": "https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "musk-ai-neoclouds",
+      "ts": 1792991613
+    },
+    {
+      "id": "rss:fca4c031bc6d9993",
+      "kind": "news",
+      "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
+      "url": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "solana-hong-kong",
+      "ts": 1792984886
+    },
+    {
+      "id": "rss:77947d5a8ac9ae5d",
+      "kind": "news",
+      "title": "Keystone says website breach exposed hardware wallet buyers’ addresses",
+      "url": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "keystone-breach",
+      "ts": 1792981444
     }
   ],
   "digest_queue": [],
@@ -241,7 +332,7 @@
     },
     "2026-10-26": {
       "critical": 0,
-      "important": 0,
+      "important": 2,
       "digests": []
     }
   },
@@ -467,15 +558,17 @@
     "netanyahu-blockchain-sanctions": "important",
     "keystone-breach": "important",
     "ecb-digital-euro": "important",
-    "coindcx-breach": "important"
+    "coindcx-breach": "important",
+    "btc-wallet-bug": "important",
+    "solana-hong-kong": "important"
   },
   "briefing_attempts": {
-    "2026-10-19": 1,
     "2026-10-20": 1,
     "2026-10-21": 2,
     "2026-10-22": 1,
     "2026-10-23": 2,
     "2026-10-24": 1,
-    "2026-10-25": 1
+    "2026-10-25": 1,
+    "2026-10-26": 1
   }
 }

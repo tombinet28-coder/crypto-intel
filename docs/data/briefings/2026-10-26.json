@@ -1,0 +1,507 @@
+{
+  "date": "2026-10-26",
+  "edition": "06:30",
+  "tldr": [
+    {
+      "impact": "neg",
+      "text": "BTC repasse sous les 80 000$ cette nuit, les traders réduisent le risque avant la décision de la Fed du 28 octobre (taux actuellement à 3,75-4%, un maintien est largement anticipé)."
+    },
+    {
+      "impact": "neg",
+      "text": "Le portefeuille Bitcoin Electrum avait une faille exploitée : des serveurs malveillants ont piégé des utilisateurs pendant l'augmentation de frais (RBF). Le correctif 4.8.3 est sorti, mettez à jour."
+    },
+    {
+      "impact": "neg",
+      "text": "CoinDCX (grand exchange indien) confirme une perte de 16 M$ après que son PDG ait d'abord qualifié les alertes de 'fausse alerte' sur X. La confiance est écornée."
+    },
+    {
+      "impact": "neg",
+      "text": "AAVE a cassé plusieurs supports techniques cette semaine (-10,7% sur 7 jours), avec un gros portefeuille ayant déplacé 22,8 M$ vers des exchanges."
+    },
+    {
+      "impact": "pos",
+      "text": "Hong Kong désigne Solana Company (cotée au Nasdaq) 'entreprise stratégique', avec des validateurs SOL prévus dans la ville — signal positif pour l'écosystème Solana en Asie."
+    },
+    {
+      "impact": "neg",
+      "text": "HYPE doit faire face à un déblocage de jetons important le 6 novembre (~760 M$ pour les contributeurs principaux), à surveiller de près."
+    },
+    {
+      "impact": "neg",
+      "text": "Keystone (fabricant de hardware wallets) confirme une fuite de données clients malgré une promesse de suppression."
+    },
+    {
+      "impact": "neu",
+      "text": "L'indice Fear & Greed reste neutre à 50 (contre 54 hier), signe d'indécision générale du marché."
+    }
+  ],
+  "news": [
+    {
+      "title": "Bitcoin repasse sous 80 000$ avant la réunion de la Fed",
+      "impact": "neg",
+      "confidence": "likely",
+      "what": "Bitcoin est passé sous le seuil des 80 000$ cette nuit, les traders réduisant leur exposition au risque à l'approche de la réunion du FOMC des 27-28 octobre.",
+      "why": "La décision de taux de la Fed du 28 octobre est le principal catalyseur macro de la semaine pour tous les actifs à risque, crypto incluse.",
+      "assets": [
+        "BTC"
+      ],
+      "shortTerm": "Volatilité probable autour de l'annonce du 28 octobre à 20h (heure de Paris). Le marché anticipe très majoritairement un maintien des taux.",
+      "longTerm": "Un ton plus restrictif de la Fed (si l'inflation reste jugée trop élevée) pourrait peser sur la liquidité crypto ; un ton plus accommodant serait un soutien.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
+          "publishedAt": "2026-10-26 04:37 UTC"
+        },
+        {
+          "name": "TradingKey",
+          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262237588-fomc-october-2026-preview-fed-policy-and-us-stocks-tradingkey",
+          "publishedAt": "2026-10-25 00:00 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "Faille dans le wallet Bitcoin Electrum : des fonds volés via la fonction d'augmentation de frais",
+      "impact": "neg",
+      "confidence": "confirmed",
+      "what": "Une faille dans Electrum permettait à des serveurs malveillants de substituer une fausse transaction en attente ; si l'utilisateur augmentait les frais (Replace-By-Fee), il signait sans le savoir un paiement vers l'attaquant. Au moins un vol de fonds a été confirmé.",
+      "why": "Electrum est l'un des plus anciens et plus utilisés wallets Bitcoin. La faille touchait toutes les versions antérieures à la 4.8.3 et montre un risque structurel lié aux serveurs tiers non vérifiés.",
+      "assets": [
+        "BTC"
+      ],
+      "shortTerm": "Pas d'impact prix attendu, mais rappel de prudence pour les détenteurs de BTC en wallet logiciel.",
+      "longTerm": "Renforce l'argument en faveur des wallets matériels et des nœuds personnels plutôt que des serveurs tiers par défaut.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
+          "publishedAt": "2026-10-26 05:15 UTC"
+        },
+        {
+          "name": "crypto.news",
+          "url": "https://crypto.news/electrum-wallet-bitcoin-theft-security-flaw-4-8-3/",
+          "publishedAt": "2026-10-26 00:00 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "CoinDCX confirme une perte de 16 M$ après avoir démenti un piratage",
+      "impact": "neg",
+      "confidence": "confirmed",
+      "what": "L'exchange indien CoinDCX a confirmé une perte d'environ 16 M$ (15,99M USDT) liée à un échec de son système automatique de transfert de fonds depuis des portefeuilles 'retirés' compromis lors d'un piratage de 2025. Le PDG Sumit Gupta avait qualifié les premières alertes de 'fausse alerte' sur X avant cette confirmation.",
+      "why": "Le revirement du PDG après un démenti public pose un problème de crédibilité et de transparence pour l'un des plus grands exchanges d'Inde, un marché crypto en forte croissance.",
+      "assets": [],
+      "shortTerm": "Risque de retraits accrus chez CoinDCX ; l'analyste on-chain ZachXBT avait conseillé aux utilisateurs de retirer leurs fonds.",
+      "longTerm": "Pourrait accélérer la pression réglementaire sur les exchanges indiens concernant la gestion des portefeuilles et la divulgation des incidents.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet",
+          "publishedAt": "2026-10-26 05:39 UTC"
+        },
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617",
+          "publishedAt": "2026-10-25 18:46 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "AAVE casse ses supports techniques, un gros portefeuille bouge 22,8 M$",
+      "impact": "neg",
+      "confidence": "confirmed",
+      "what": "AAVE est tombé sous $140 puis vers $135, prolongeant une semaine difficile (le jeton évoluait au-dessus de $154 début octobre). Un portefeuille institutionnel non identifié a déplacé 156 690 AAVE (22,8 M$), dont 62 000 envoyés vers des exchanges.",
+      "why": "La baisse intervient malgré l'expansion des marchés de prêt institutionnels d'Aave (RLUSD, PYUSD, OUSD), ce qui montre une déconnexion entre croissance du protocole et prix du jeton.",
+      "assets": [
+        "AAVE"
+      ],
+      "shortTerm": "Support surveillé autour de $130-132 ; une cassure ouvrirait la voie vers $108-110 selon certains modèles techniques (non garantis).",
+      "longTerm": "Si la pression de vente de gros portefeuilles persiste, la confiance du marché pourrait rester fragile malgré les développements produits.",
+      "sources": [
+        {
+          "name": "AMBCrypto (via KuCoin)",
+          "url": "https://www.kucoin.com/news/flash/aave-whale-moves-22-8m-in-tokens-as-price-drops-near-140-support",
+          "publishedAt": "2026-10-24 22:11 UTC"
+        },
+        {
+          "name": "Coinpaper",
+          "url": "https://coinpaper.com/37817/aave-price-drops-6-as-de-fi-token-breaks-key-support-despite-new-lending-markets",
+          "publishedAt": "2026-10-24 19:50 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "Hong Kong désigne Solana Company (Nasdaq: HSDT) entreprise stratégique",
+      "impact": "pos",
+      "confidence": "confirmed",
+      "what": "Le gouvernement de Hong Kong a désigné Solana Company, société cotée au Nasdaq, comme 'entreprise stratégique' via son programme OASES. L'entreprise va établir son siège Asie-Pacifique et des opérations de validateurs Solana à Hong Kong.",
+      "why": "C'est une reconnaissance officielle d'une entité liée à l'écosystème Solana par un régulateur majeur d'Asie, dans un contexte où Hong Kong développe activement son cadre réglementaire pour les actifs numériques.",
+      "assets": [
+        "SOL"
+      ],
+      "shortTerm": "Impact direct limité sur le prix de SOL, mais renforce la narrative d'adoption institutionnelle en Asie.",
+      "longTerm": "Pourrait faciliter d'autres partenariats institutionnels et le staking SOL régulé en Asie-Pacifique.",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise",
+          "publishedAt": "2026-10-26 03:21 UTC"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://uk.investing.com/news/stock-market-news/solana-company-designated-strategic-enterprise-by-hong-kong-93CH-4925138",
+          "publishedAt": "2026-10-22 00:00 UTC"
+        }
+      ],
+      "singleSource": false
+    },
+    {
+      "title": "Keystone confirme une fuite de données clients",
+      "impact": "neg",
+      "confidence": "confirmed",
+      "what": "Le fabricant de wallets matériels Keystone a confirmé qu'une faille sur son site a exposé des adresses et données de clients que l'entreprise avait promis de supprimer.",
+      "why": "La confiance dans les fabricants de hardware wallets repose sur la protection des données ; une fuite de ce type expose les clients à du phishing ciblé.",
+      "assets": [],
+      "shortTerm": "Clients Keystone invités à rester vigilants face aux tentatives de phishing ciblées.",
+      "longTerm": "Pourrait inciter les fabricants de wallets à revoir leurs pratiques de rétention de données.",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/business/2026-10-25-keystone-customers-say-breach-exposed-data-the-hardware-wallet-maker-promised-to-delete-431613",
+          "publishedAt": "2026-10-25 15:56 UTC"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses",
+          "publishedAt": "2026-10-26 02:24 UTC"
+        }
+      ],
+      "singleSource": false
+    }
+  ],
+  "market": [
+    {
+      "symbol": "BTC",
+      "sentiment": "neg",
+      "driver": "Positionnement prudent avant la décision de taux de la Fed du 28 octobre, plus inquiétudes sécurité (faille Electrum, incident CoinDCX).",
+      "events": [
+        "Passage sous 80 000$ cette nuit",
+        "Faille Electrum corrigée (RBF)",
+        "ETF BTC : fin d'une série de deux semaines de sorties nettes malgré un repli en fin de semaine"
+      ],
+      "watch": [
+        "Décision FOMC le 28/10 à 20h (heure de Paris)",
+        "Support psychologique à 80 000$"
+      ],
+      "name": "Bitcoin",
+      "price": 80138,
+      "change24h": -0.49265,
+      "change7d": -2.9687,
+      "volume": 17977034890,
+      "asOf": "26/10 06:58",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "ETH",
+      "sentiment": "neg",
+      "driver": "Corrélation forte avec BTC dans un contexte de réduction de risque avant la Fed ; pas de catalyseur ETH spécifique fort cette nuit.",
+      "events": [
+        "Mentions d'un sauvetage du fork 'Glamsterdam' assisté par des agents IA (développement technique mineur, à confirmer)"
+      ],
+      "watch": [
+        "Support autour de 2 300$",
+        "Réaction à la décision Fed"
+      ],
+      "name": "Ethereum",
+      "price": 2323.41,
+      "change24h": -1.16013,
+      "change7d": -4.2821,
+      "volume": 8044145412,
+      "asOf": "26/10 06:58",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "SOL",
+      "sentiment": "pos",
+      "driver": "Nouvelle positive d'adoption institutionnelle en Asie (Hong Kong/Solana Company) qui contraste avec la baisse générale du marché.",
+      "events": [
+        "Hong Kong désigne Solana Company entreprise stratégique",
+        "Mise en place de validateurs SOL prévue à Hong Kong"
+      ],
+      "watch": [
+        "Niveau des 100$ (psychologique)",
+        "Impact éventuel sur les flux de staking institutionnel"
+      ],
+      "name": "Solana",
+      "price": 101.28,
+      "change24h": -0.60325,
+      "change7d": -3.7905,
+      "volume": 1811647712,
+      "asOf": "26/10 06:58",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "HYPE",
+      "sentiment": "neg",
+      "driver": "Déblocage de jetons majeur attendu le 6 novembre (contributeurs principaux), contrebalancé par un programme de rachat d'actions élargi à 100 M$ par Hyperliquid Strategies.",
+      "events": [
+        "Hyperliquid Strategies porte son programme de rachat d'actions de 30 à 100 M$",
+        "Le PDG du CME exprime des inquiétudes réglementaires sur l'absence de KYC"
+      ],
+      "watch": [
+        "Déblocage du 6 novembre (~9,92M HYPE, ~760 M$ selon projection)",
+        "Support autour de 75$"
+      ],
+      "name": "Hyperliquid",
+      "price": 76.68,
+      "change24h": 0.54406,
+      "change7d": -4.6482,
+      "volume": 570808206,
+      "asOf": "26/10 06:58",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "AAVE",
+      "sentiment": "neg",
+      "driver": "Cassure technique et mouvement d'un gros portefeuille vers des exchanges, malgré l'expansion des marchés de prêt institutionnels.",
+      "events": [
+        "Chute de plus de 10% sur 7 jours",
+        "Portefeuille non identifié a transféré 22,8 M$ en AAVE",
+        "Proposition de collatéral liée au déblocage d'actions SpaceX en discussion chez LlamaRisk"
+      ],
+      "watch": [
+        "Support à $130-132",
+        "Suivi des flux vers les exchanges"
+      ],
+      "name": "Aave",
+      "price": 135.55,
+      "change24h": -0.98104,
+      "change7d": -10.7408,
+      "volume": 164290483,
+      "asOf": "26/10 06:58",
+      "source": "CoinGecko"
+    },
+    {
+      "symbol": "PUMP",
+      "sentiment": "neu",
+      "driver": "Le programme de rachat/burn (50% des revenus) reste le principal soutien du prix, mais les revenus quotidiens de la plateforme ont ralenti ces dernières semaines.",
+      "events": [
+        "Intégration Monad pour achats directs en USDC",
+        "Concurrence accrue (FOMO lance un bridge rival)",
+        "79% des tokens lancés sur Pump.fun ne tradent qu'un seul jour, selon une étude"
+      ],
+      "watch": [
+        "Évolution des revenus quotidiens de la plateforme",
+        "Support autour de $0.004"
+      ],
+      "name": "Pump.fun",
+      "price": 0.00421581,
+      "change24h": -0.96551,
+      "change7d": -5.5813,
+      "volume": 84514233,
+      "asOf": "26/10 06:58",
+      "source": "CoinGecko"
+    }
+  ],
+  "x": [
+    {
+      "author": "Sumit Gupta",
+      "handle": "@sumitg",
+      "time": "2026-10-21 (approx.)",
+      "asset": "Exchanges",
+      "sentiment": "neg",
+      "kind": "official",
+      "summary": "Le PDG de CoinDCX a qualifié les premières alertes de sorties suspectes de 'fausse alerte' sur X.",
+      "why": "Ce démenti a ensuite été contredit par la confirmation officielle d'une perte de 16 M$, ce qui pose un problème de crédibilité pour les communications de l'exchange."
+    },
+    {
+      "author": "ZachXBT",
+      "handle": "@zachxbt",
+      "time": "2026-10-2x",
+      "asset": "Exchanges",
+      "sentiment": "neg",
+      "kind": "data",
+      "summary": "L'analyste on-chain a contesté la version de CoinDCX, signalant qu'au moins une des adresses visées était encore active en 2026, et a conseillé aux utilisateurs de retirer leurs fonds.",
+      "why": "Une alerte d'un analyste on-chain reconnu ajoute du poids aux doutes sur la transparence de l'exchange, même si elle reste à confirmer dans le détail technique."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Ethena (ENA)",
+      "conviction": "watch",
+      "funding": "Levées historiques importantes (plusieurs centaines de millions $) ; tokenomics révisée en 2026.",
+      "investors": "Investisseurs seed historiques rachetés par la Fondation Ethena dans le cadre de la refonte tokenomics (accord confirmé par la Fondation elle-même).",
+      "team": "Équipe fondatrice identifiable autour du protocole de dollar synthétique USDe.",
+      "tech": "Protocole de stablecoin synthétique (USDe) avec extension récente vers les perpétuels sur actions tokenisées via un partenariat avec Binance.",
+      "tokenomics": "Fin programmée des déblocages mensuels VC (accélérés en un seul événement début octobre 2026) ; mécanisme de 'fee switch' prévoyant jusqu'à 95% des revenus nets en rachats d'ENA une fois certains seuils d'offre d'USDe atteints (seuil pas encore atteint au 25/10).",
+      "catalysts": "Franchissement du seuil d'offre d'USDe qui activerait les rachats automatiques ; croissance de l'adoption de bStocks avec Binance.",
+      "why": "Refonte tokenomics qui réduit la pression de vente des investisseurs historiques et lie la valeur du jeton aux revenus du protocole.",
+      "risk": "Le mécanisme de rachat reste conditionné à la croissance de l'offre d'USDe, qui n'a pas encore atteint le seuil d'activation ; forte volatilité residuelle et dépendance à la demande de stablecoins synthétiques."
+    }
+  ],
+  "smartMoney": [
+    {
+      "title": "Portefeuille non identifié déplace 22,8 M$ d'AAVE vers des exchanges",
+      "token": "AAVE",
+      "amount": "156 690 AAVE (~22,8 M$), dont 62 000 envoyés vers des exchanges",
+      "from": "Wallet non identifié (qualifié d'« institutionnel » par Lookonchain, sans preuve publique d'identité)",
+      "to": "Exchanges (plateformes non précisées)",
+      "confidence": "unconfirmed",
+      "interpretation": "Un dépôt vers des exchanges suggère une intention de vente possible, mais ce n'est pas confirmé ; ce type de mouvement peut aussi précéder un simple rééquilibrage de portefeuille.",
+      "sources": [
+        {
+          "name": "AMBCrypto (via KuCoin)",
+          "url": "https://www.kucoin.com/news/flash/aave-whale-moves-22-8m-in-tokens-as-price-drops-near-140-support"
+        }
+      ]
+    }
+  ],
+  "unlocks": [
+    {
+      "date": "2026-11-06",
+      "token": "HYPE",
+      "amount": "~9,92 millions HYPE (projection)",
+      "value": "~760-765 M$ (projection)",
+      "pct": "~1% de l'offre totale / ~2% de l'offre en circulation",
+      "who": "Contributeurs principaux (Core Contributors)",
+      "risk": "high",
+      "priority": true,
+      "confidence": "likely"
+    }
+  ],
+  "unlocksSource": {
+    "name": "Tokenomist",
+    "url": "https://tokenomist.ai/hyperliquid"
+  },
+  "regulation": [
+    {
+      "region": "Royaume-Uni",
+      "title": "Les banques britanniques visées par plus de 10 000 plaintes en 3 mois",
+      "impact": "neg",
+      "confidence": "likely",
+      "summary": "Des utilisateurs se plaignent de restrictions bancaires liées à des transactions crypto, soulevant des questions sur l'accès bancaire pour les détenteurs de crypto au Royaume-Uni.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions"
+        }
+      ]
+    },
+    {
+      "region": "États-Unis",
+      "title": "Wells Fargo, Cisco et Intuit s'opposent aux actions tokenisées",
+      "impact": "neg",
+      "confidence": "likely",
+      "summary": "Six nouvelles entreprises, dont Wells Fargo, Cisco et Intuit, ont exprimé leur opposition à la tokenisation de leurs actions, un frein potentiel à l'expansion des actions tokenisées sur la blockchain.",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/381784/wells-fargo-cisco-intuit-more-companies-object-tokenized-stocks"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "title": "Réunion du FOMC les 27-28 octobre : un maintien des taux largement anticipé",
+      "impact": "neu",
+      "confidence": "confirmed",
+      "date": "2026-10-27/28",
+      "summary": "La Fed se réunit les 27 et 28 octobre, avec une décision attendue le 28 à 14h ET (20h heure de Paris). Le marché anticipe à environ 90,6% un maintien des taux dans la fourchette actuelle de 3,75-4%, après une hausse de 25 points de base en septembre.",
+      "sources": [
+        {
+          "name": "TradingKey",
+          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262237588-fomc-october-2026-preview-fed-policy-and-us-stocks-tradingkey"
+        },
+        {
+          "name": "FedRateCalc",
+          "url": "https://fedratecalc.com/fomc-meeting-schedule/october-2026/"
+        }
+      ]
+    }
+  ],
+  "onchain": [
+    {
+      "metric": "Fear & Greed Index",
+      "value": "50 (Neutral)",
+      "note": "En baisse par rapport à 54 hier, signe d'une indécision croissante du marché.",
+      "source": "Données fournies"
+    },
+    {
+      "metric": "TVL Ethereum",
+      "value": "~48,4 Md$",
+      "note": "Chaîne la plus utilisée par la valeur totale verrouillée parmi les cryptos prioritaires.",
+      "source": "Données fournies"
+    },
+    {
+      "metric": "TVL AAVE (protocole)",
+      "value": "~17,6 Md$",
+      "note": "Reste élevé malgré la chute du prix du jeton AAVE, confirmant la déconnexion entre usage du protocole et prix.",
+      "source": "Données fournies"
+    },
+    {
+      "metric": "Frais 24h HYPE",
+      "value": "~1,73 M$",
+      "note": "Alimente le programme de rachat de HYPE évoqué dans les dernières actualités.",
+      "source": "Données fournies"
+    }
+  ],
+  "watchlist": [
+    {
+      "impact": "neu",
+      "text": "Décision de la Fed le 28 octobre (20h heure de Paris) : impact possible sur tout le marché crypto."
+    },
+    {
+      "impact": "neg",
+      "text": "Déblocage HYPE du 6 novembre (~760 M$ en projection) : surveiller si le montant réellement réclamé est inférieur, comme souvent par le passé."
+    },
+    {
+      "impact": "neg",
+      "text": "Suites de l'affaire CoinDCX : remboursements, réaction des utilisateurs, et éventuelle enquête réglementaire en Inde."
+    },
+    {
+      "impact": "neg",
+      "text": "Adoption du correctif Electrum 4.8.3 : vérifier si d'autres vols sont signalés avant que les utilisateurs ne migrent."
+    },
+    {
+      "impact": "neg",
+      "text": "AAVE : réaction au support $130-132 et suivi des mouvements de gros portefeuilles vers les exchanges."
+    }
+  ],
+  "breaking": [
+    {
+      "id": "solana-hong-kong:2026-10-26",
+      "level": "important",
+      "time": "07:03",
+      "title": "Hong Kong désigne Solana Company comme entreprise stratégique",
+      "summary": "La société Solana cotée au Nasdaq a reçu une désignation d'entreprise stratégique à Hong Kong et prévoit d'établir des opérations de validateur Solana dans la région.",
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "id": "btc-wallet-bug:2026-10-26",
+      "level": "important",
+      "time": "07:03",
+      "title": "Bug du portefeuille Bitcoin permettait aux serveurs malveillants de voler des fonds",
+      "summary": "Une vulnérabilité dans un portefeuille Bitcoin permettait à des serveurs malveillants de voler des fonds lorsque les utilisateurs tentaient d'accélérer les paiements. Ce bug a été découvert et corrigé.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-10-26T06:03:30Z",
+  "updatedAt": "2026-10-26T06:03:45Z"
+}
