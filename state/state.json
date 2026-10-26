@@ -1,12 +1,5 @@
 {
   "seen": {
-    "rss:d6f8e7695b8bb7d9": 1792708904.536134,
-    "rss:0e220e60fc74e65e": 1792708904.536135,
-    "rss:cf2d84116e987cec": 1792708904.5361354,
-    "rss:f7d8b1380a833c0f": 1792708904.5361357,
-    "rss:e6daf4724abd1b11": 1792708904.5361357,
-    "rss:78e45c00f46836ba": 1792708904.536136,
-    "move24:akedo:20748": 1792708904.536224,
     "rss:7e90e2a6c53a7220": 1792718726.5318198,
     "rss:ffafe534ac32169c": 1792718726.5318208,
     "rss:971c2896368cc48a": 1792718726.5318213,
@@ -97,7 +90,9 @@
     "rss:b61fce8eadd43ee0": 1792949774.1938353,
     "rss:2034bd41ea2cb159": 1792949774.1938355,
     "rss:b2377b769c0aca0a": 1792949774.1938357,
-    "rss:9d2ad0b63bb372b9": 1792958146.63931
+    "rss:9d2ad0b63bb372b9": 1792958146.63931,
+    "rss:e54e8e34b9aa8fe5": 1792975176.5439794,
+    "rss:cb664b50b0f888d3": 1792975176.543981
   },
   "x_since": {},
   "recent": [
@@ -188,15 +183,32 @@
       "xRole": null,
       "cluster": "coindcx-breach",
       "ts": 1792953981
+    },
+    {
+      "id": "rss:e54e8e34b9aa8fe5",
+      "kind": "news",
+      "title": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin",
+      "url": "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "anchorpoint-retail-stablecoin",
+      "ts": 1792973609
+    },
+    {
+      "id": "rss:cb664b50b0f888d3",
+      "kind": "news",
+      "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
+      "url": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "eth-security-incidents",
+      "ts": 1792968520
     }
   ],
   "digest_queue": [],
   "sent": {
-    "2026-10-19": {
-      "critical": 0,
-      "important": 2,
-      "digests": []
-    },
     "2026-10-20": {
       "critical": 0,
       "important": 10,
@@ -225,6 +237,11 @@
     "2026-10-25": {
       "critical": 0,
       "important": 5,
+      "digests": []
+    },
+    "2026-10-26": {
+      "critical": 0,
+      "important": 0,
       "digests": []
     }
   },
