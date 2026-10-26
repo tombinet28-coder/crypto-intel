@@ -1,17 +1,5 @@
 {
   "seen": {
-    "rss:d05f1c261a5f73ae": 1792786794.97316,
-    "rss:709f883d1314b9d3": 1792786794.973161,
-    "rss:cbcc79e89a1c7b19": 1792786794.9731615,
-    "rss:2a0427c5f980512b": 1792786794.9731617,
-    "rss:70dd2a65a17f1719": 1792786794.973162,
-    "rss:5d8e4440e663bed9": 1792786794.973162,
-    "rss:411b85e0b11be00b": 1792786794.9731622,
-    "rss:346edf2e7d317b48": 1792786794.9731624,
-    "rss:a6ab63dbe60c4356": 1792786794.9731627,
-    "rss:157b40ca48df89d4": 1792786794.9731627,
-    "rss:b604efb47b92092f": 1792786794.9731627,
-    "rss:5e72de6f7d54bd9d": 1792786794.973163,
     "rss:0085f5e35b837d67": 1792797955.9382648,
     "rss:035780ef93e455a2": 1792797955.938266,
     "rss:5e248f9cd718d737": 1792797955.9382663,
@@ -96,7 +84,20 @@
     "rss:22f45ca753f3d7cd": 1793041834.5451727,
     "rss:b622de8a01964bcc": 1793041834.545173,
     "rss:64212919dc96ca07": 1793041834.545173,
-    "move24:bitway:20752": 1793041834.5452662
+    "move24:bitway:20752": 1793041834.5452662,
+    "rss:bb9e81a26c53fe3a": 1793056654.3626993,
+    "rss:3584e4c1179e07a6": 1793056654.3627005,
+    "rss:34f48eaf83917f41": 1793056654.3627007,
+    "rss:893cde68fa6060a4": 1793056654.3627007,
+    "rss:4cdeec5404e841f3": 1793056654.362701,
+    "rss:4b6a9dee387e3a06": 1793056654.3627014,
+    "rss:f73f74d471743472": 1793056654.3627014,
+    "rss:89177d5b45005840": 1793056654.3627014,
+    "rss:96f0b108bf065b61": 1793056654.3627017,
+    "rss:73ae7e4637445e21": 1793056654.362702,
+    "rss:997046fc18a7bb54": 1793056654.3627021,
+    "rss:c6b928b3b012d50d": 1793056654.3627021,
+    "move24:quack-ai:20752": 1793056654.3627937
   },
   "x_since": {},
   "recent": [
@@ -110,17 +111,6 @@
       "xRole": null,
       "cluster": "anchorpoint-retail-stablecoin",
       "ts": 1792973609
-    },
-    {
-      "id": "rss:cb664b50b0f888d3",
-      "kind": "news",
-      "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
-      "url": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "eth-security-incidents",
-      "ts": 1792968520
     },
     {
       "id": "rss:c3859884fb76269f",
@@ -682,15 +672,190 @@
       "xRole": null,
       "cluster": "prediction-markets-outlook",
       "ts": 1793020361
+    },
+    {
+      "id": "rss:bb9e81a26c53fe3a",
+      "kind": "news",
+      "title": "CZ pitches BNB Chain’s role in AI as BNB Standard rings Nasdaq bell",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-26-cz-pitches-bnb-chains-role-ai-bnb-standard-rings-nasdaq-bell-431790",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "bnb-ai-expansion",
+      "ts": 1793043827
+    },
+    {
+      "id": "rss:3584e4c1179e07a6",
+      "kind": "news",
+      "title": "Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
+      "url": "https://decrypt.co/381889/canada-draft-stablecoin-rules-redemption-fees-ban-yield",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "stablecoin-regulation",
+      "ts": 1793052963
+    },
+    {
+      "id": "rss:34f48eaf83917f41",
+      "kind": "news",
+      "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
+      "url": "https://decrypt.co/381883/openai-launches-gpt-6-1-terra-half-good-half-price",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "normal",
+      "ts": 1793051162
+    },
+    {
+      "id": "rss:893cde68fa6060a4",
+      "kind": "news",
+      "title": "Unitree Stock Jumps as Investors Bet Chatbot AI Will Finally Give Robots a Brain",
+      "url": "https://decrypt.co/381871/unitree-stock-jumps-investors-bet-chatbot-ai-robots-brain",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "normal",
+      "ts": 1793049363
+    },
+    {
+      "id": "rss:4cdeec5404e841f3",
+      "kind": "news",
+      "title": "NBA Embraces the CFTC on Prediction Markets as the NFL Fights It in Court",
+      "url": "https://decrypt.co/381864/nba-cftc-prediction-markets-nfl-fights-court",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "sports-prediction-markets",
+      "ts": 1793046963
+    },
+    {
+      "id": "rss:4b6a9dee387e3a06",
+      "kind": "news",
+      "title": "South Korea Arrests Seven in First Big AI-Assisted Hacking Case",
+      "url": "https://decrypt.co/381862/south-korea-arrests-seven-first-big-ai-hacking-case",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "normal",
+      "ts": 1793045162
+    },
+    {
+      "id": "rss:f73f74d471743472",
+      "kind": "news",
+      "title": "AI Agents Found a Way Into Anthropic's Business Systems in Under 12 Hours",
+      "url": "https://decrypt.co/381860/ai-agents-hack-anthropic-business-systems-12-hours",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "normal",
+      "ts": 1793043062
+    },
+    {
+      "id": "rss:89177d5b45005840",
+      "kind": "news",
+      "title": "US OCC calls on community banks to become payment stablecoin issuers",
+      "url": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "stablecoin-regulation",
+      "ts": 1793050710
+    },
+    {
+      "id": "rss:96f0b108bf065b61",
+      "kind": "news",
+      "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs",
+      "url": "https://cointelegraph.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "normal",
+      "ts": 1793049812
+    },
+    {
+      "id": "rss:73ae7e4637445e21",
+      "kind": "news",
+      "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
+      "url": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "stablecoin-regulation",
+      "ts": 1793044060
+    },
+    {
+      "id": "rss:997046fc18a7bb54",
+      "kind": "news",
+      "title": "Tether America USD (USAT) on Aave Avalanche Assessments",
+      "url": "https://governance.aave.com/t/tether-america-usd-usat-on-aave-avalanche-assessments/25927",
+      "source": "Aave gouvernance",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "normal",
+      "ts": 1793046709
+    },
+    {
+      "id": "rss:c6b928b3b012d50d",
+      "kind": "news",
+      "title": "Risk Stewards: Cap Increases on Aave V4 / 2026.10.26",
+      "url": "https://governance.aave.com/t/risk-stewards-cap-increases-on-aave-v4-2026-10-26/25926",
+      "source": "Aave gouvernance",
+      "tier": 1,
+      "xRole": null,
+      "cluster": "normal",
+      "ts": 1793043754
     }
   ],
-  "digest_queue": [],
-  "sent": {
-    "2026-10-20": {
-      "critical": 0,
-      "important": 10,
-      "digests": []
+  "digest_queue": [
+    {
+      "id": "move24:quack-ai:20752",
+      "kind": "price",
+      "level": "important",
+      "title": "Q +256.8 % en 24 h (rang 77)",
+      "summary": "Mouvement inhabituel dans le top 100 : cause à vérifier.",
+      "url": "https://www.coingecko.com/en/coins/quack-ai",
+      "source": "CoinGecko",
+      "tier": 1,
+      "assets": [
+        "Q"
+      ],
+      "ts": 1793056654.3627794,
+      "time": "00:17",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "CoinGecko",
+          "url": "https://www.coingecko.com/en/coins/quack-ai"
+        }
+      ],
+      "digested": false
     },
+    {
+      "id": "sports-prediction-markets:2026-10-27",
+      "level": "important",
+      "time": "00:17",
+      "title": "La NBA s'aligne avec la CFTC sur les marchés de prédiction",
+      "summary": "L'accord, suivant les ententes similaires avec MLB et NHL, établit un partage d'informations pour prévenir le délit d'initié lors de la migration vers des venues régulées par la CFTC.",
+      "assets": [],
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks"
+        },
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-26-nba-cftc-memorandum-of-understanding-prediction-markets-kalshi-polymarket-431764"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "digested": false
+    }
+  ],
+  "sent": {
     "2026-10-21": {
       "critical": 0,
       "important": 11,
@@ -719,6 +884,11 @@
     "2026-10-26": {
       "critical": 1,
       "important": 5,
+      "digests": []
+    },
+    "2026-10-27": {
+      "critical": 0,
+      "important": 0,
       "digests": []
     }
   },
@@ -948,7 +1118,8 @@
     "btc-wallet-bug": "critical",
     "solana-hong-kong": "important",
     "stablecoin-regulation": "important",
-    "hyperliquid-regulation": "important"
+    "hyperliquid-regulation": "important",
+    "sports-prediction-markets": "important"
   },
   "briefing_attempts": {
     "2026-10-20": 1,
