@@ -1,19 +1,5 @@
 {
   "seen": {
-    "rss:df6d79ad7991b718": 1792858337.9888408,
-    "rss:14cdf5b43829db24": 1792858337.9888418,
-    "rss:5d8aed6b88bfe626": 1792858337.9888422,
-    "rss:96e263edf8737c32": 1792858337.9888425,
-    "rss:652beee0d14a471c": 1792858337.988843,
-    "rss:ee7b92ab4c10da3e": 1792858337.988843,
-    "rss:940e55205b44222d": 1792858337.9888432,
-    "rss:01765e01090b8e3c": 1792858337.9888432,
-    "rss:aa731226c3b8e867": 1792858337.9888434,
-    "rss:d749b32e132c0e24": 1792858337.9888437,
-    "rss:d9bb4b4d2153a521": 1792868263.2633314,
-    "rss:5bb4754027fdbde6": 1792868263.2633324,
-    "rss:eed3aa9dbd8e3f58": 1792868263.2633326,
-    "rss:1406f5c70f6458db": 1792868263.263333,
     "rss:48b8a283902efb8f": 1792936400.9736516,
     "rss:bb7856f815960d76": 1792936400.973653,
     "rss:12098990027f6760": 1792949774.1938336,
@@ -130,219 +116,30 @@
     "rss:1a223102cc9b3ede": 1793112753.244611,
     "rss:4b7fff0ca0c499d2": 1793112753.244611,
     "rss:d41add7b4440a679": 1793112753.244611,
-    "rss:5b672ff01764a14f": 1793112753.244611
+    "rss:5b672ff01764a14f": 1793112753.244611,
+    "rss:1bc8f2450a54a80a": 1793131240.0528708,
+    "rss:bf24e34bbed59140": 1793131240.0528724,
+    "rss:c9ac2f19c712045a": 1793131240.0528731,
+    "rss:71b1d394fd44bacd": 1793131240.0528734,
+    "rss:af125f1f2bbfd7ae": 1793131240.0528736,
+    "rss:d93dbc90866d33ff": 1793131240.052874,
+    "rss:9d92a3695a55bd02": 1793131240.0528743,
+    "rss:6ebf2ef243dc26b4": 1793131240.0528743,
+    "rss:678324b148b33f58": 1793131240.0528746,
+    "rss:db32aadaabbc5d4c": 1793131240.0528746,
+    "rss:a1b3ef285e343ecb": 1793131240.0528748,
+    "rss:e54f56c5ef4debea": 1793131240.0528748,
+    "rss:40cfc564e1c73dab": 1793131240.052875,
+    "rss:3d17bc5de69b2d8c": 1793131240.052875,
+    "rss:c4191bedcdd2b1e1": 1793131240.0528753,
+    "rss:96da450a21a53109": 1793131240.0528753,
+    "rss:55d098e481d64d52": 1793131240.0528755,
+    "rss:8c3d732be9ea5575": 1793131240.0528755,
+    "rss:83e63efc125bc0f8": 1793131240.0528758,
+    "rss:c2f8f8107bb3a482": 1793131240.0528758
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:07a1360d15f0bb17",
-      "kind": "news",
-      "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
-      "url": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "corporate-btc-treasury",
-      "ts": 1793030712
-    },
-    {
-      "id": "rss:3052ae9d360ffbef",
-      "kind": "news",
-      "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
-      "url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "sports-prediction-markets",
-      "ts": 1793030395
-    },
-    {
-      "id": "rss:e7d3b515f574ef4b",
-      "kind": "news",
-      "title": "OCC calls on community banks to enter the stablecoin payments market",
-      "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "stablecoin-regulation",
-      "ts": 1793029551
-    },
-    {
-      "id": "rss:6c681ba96abc2f72",
-      "kind": "news",
-      "title": "Hyperliquid says Kraken parent Payward to be first CFTC-regulated HIP-3 deployer",
-      "url": "https://www.theblock.co/news/markets/2026-10-26-hyperliquid-payward-kraken-cftc-regulated-hip-3-deployer-431787",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "hyperliquid-regulation",
-      "ts": 1793038877
-    },
-    {
-      "id": "rss:0d274756cc63a25f",
-      "kind": "news",
-      "title": "Y Combinator-backed Mochatrade raises $5.5 million to offer US stock perpetuals to Indian traders",
-      "url": "https://www.theblock.co/news/deals/2026-10-26-y-combinator-mochatrade-funding-crypto-431775",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "normal",
-      "ts": 1793037302
-    },
-    {
-      "id": "rss:1998fb4245f6b943",
-      "kind": "news",
-      "title": "Prediction markets and derivatives drive Bernstein’s crypto stock outlook for Coinbase, Robinhood and Circle",
-      "url": "https://www.theblock.co/news/markets/2026-10-26-prediction-markets-derivatives-drive-bernstein-crypto-stock-outlook-coinbase-robinhood-circle-431750",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "prediction-markets-outlook",
-      "ts": 1793032603
-    },
-    {
-      "id": "rss:afd5d0d4b3311936",
-      "kind": "news",
-      "title": "NBA becomes third league to sign CFTC prediction market pact, taps Kalshi and Polymarket",
-      "url": "https://www.theblock.co/news/regulation/2026-10-26-nba-cftc-memorandum-of-understanding-prediction-markets-kalshi-polymarket-431764",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "sports-prediction-markets",
-      "ts": 1793032057
-    },
-    {
-      "id": "rss:379521bfcfe0d9d7",
-      "kind": "news",
-      "title": "Why Prediction Markets Got the Brazilian Election So Wrong",
-      "url": "https://decrypt.co/381858/why-prediction-markets-got-brazilian-election-wrong",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "normal",
-      "ts": 1793040363
-    },
-    {
-      "id": "rss:75b0134f2bafaa87",
-      "kind": "news",
-      "title": "SpaceX Locks Up $40 Billion for AI Chips as Musk Warns Most Neoclouds Will Die",
-      "url": "https://decrypt.co/381848/spacex-40-billion-ai-chips-elon-musk-warns-most-neoclouds-will-die",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "musk-ai-neoclouds",
-      "ts": 1793038562
-    },
-    {
-      "id": "rss:90fd822f543402a4",
-      "kind": "news",
-      "title": "Bitcoin Wallet Fixes Critical Flaw That Redirected Funds to Attackers",
-      "url": "https://decrypt.co/381844/bitcoin-wallet-flaw-trick-users-paying-attackers",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-wallet-bug",
-      "ts": 1793036481
-    },
-    {
-      "id": "rss:68cae43637cbd13e",
-      "kind": "news",
-      "title": "India’s CoinDCX Confirms $16 Million Loss Days After CEO Called It a ‘False Alarm’",
-      "url": "https://decrypt.co/381834/india-coindcx-confirms-16-million-loss-ceo-called-false-alarm",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "coindcx-breach",
-      "ts": 1793032563
-    },
-    {
-      "id": "rss:a49c1e383e4ae5fe",
-      "kind": "news",
-      "title": "Brazil’s Stock Market Crashes After Lula’s Upset Victory",
-      "url": "https://decrypt.co/381828/brazil-stock-market-crashes-lula-upset-victory",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "normal",
-      "ts": 1793030691
-    },
-    {
-      "id": "rss:959a37d2864f49c4",
-      "kind": "news",
-      "title": "Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks",
-      "url": "https://decrypt.co/381826/tom-lee-bitmine-keeps-buying-ethereum-share-buybacks",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "corporate-btc-treasury",
-      "ts": 1793028963
-    },
-    {
-      "id": "rss:701850cb92b97de8",
-      "kind": "news",
-      "title": "'Privacy Horror’: Researcher Uncovers Extent of Samsung Smart TV User Tracking",
-      "url": "https://decrypt.co/381801/privacy-horror-researcher-uncovers-extent-of-samsung-smart-tv-user-tracking",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "normal",
-      "ts": 1793026802
-    },
-    {
-      "id": "rss:24138e62748b44b2",
-      "kind": "news",
-      "title": "AI company Anthropic announces IPO, expected as early as November",
-      "url": "https://cointelegraph.com/news/anthropic-artificial-intelligence-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "anthropic-ipo",
-      "ts": 1793040161
-    },
-    {
-      "id": "rss:ee237e51979fbb0b",
-      "kind": "news",
-      "title": "NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal",
-      "url": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "sports-prediction-markets",
-      "ts": 1793036769
-    },
-    {
-      "id": "rss:e5fb3e087d8a62ee",
-      "kind": "news",
-      "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
-      "url": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "normal",
-      "ts": 1793031489
-    },
-    {
-      "id": "rss:90da64e5567bf56d",
-      "kind": "news",
-      "title": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
-      "url": "https://cointelegraph.com/news/sp-dow-jones-partners-with-kalshi-to-bring-financial-benchmarks-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "prediction-markets-outlook",
-      "ts": 1793030055
-    },
-    {
-      "id": "rss:bb9e81a26c53fe3a",
-      "kind": "news",
-      "title": "CZ pitches BNB Chain’s role in AI as BNB Standard rings Nasdaq bell",
-      "url": "https://www.theblock.co/news/ecosystems/2026-10-26-cz-pitches-bnb-chains-role-ai-bnb-standard-rings-nasdaq-bell-431790",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "bnb-ai-expansion",
-      "ts": 1793043827
-    },
     {
       "id": "rss:3584e4c1179e07a6",
       "kind": "news",
@@ -399,17 +196,6 @@
       "ts": 1793045162
     },
     {
-      "id": "rss:f73f74d471743472",
-      "kind": "news",
-      "title": "AI Agents Found a Way Into Anthropic's Business Systems in Under 12 Hours",
-      "url": "https://decrypt.co/381860/ai-agents-hack-anthropic-business-systems-12-hours",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "normal",
-      "ts": 1793043062
-    },
-    {
       "id": "rss:89177d5b45005840",
       "kind": "news",
       "title": "US OCC calls on community banks to become payment stablecoin issuers",
@@ -432,17 +218,6 @@
       "ts": 1793049812
     },
     {
-      "id": "rss:73ae7e4637445e21",
-      "kind": "news",
-      "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
-      "url": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "stablecoin-regulation",
-      "ts": 1793044060
-    },
-    {
       "id": "rss:997046fc18a7bb54",
       "kind": "news",
       "title": "Tether America USD (USAT) on Aave Avalanche Assessments",
@@ -452,17 +227,6 @@
       "xRole": null,
       "cluster": "normal",
       "ts": 1793046709
-    },
-    {
-      "id": "rss:c6b928b3b012d50d",
-      "kind": "news",
-      "title": "Risk Stewards: Cap Increases on Aave V4 / 2026.10.26",
-      "url": "https://governance.aave.com/t/risk-stewards-cap-increases-on-aave-v4-2026-10-26/25926",
-      "source": "Aave gouvernance",
-      "tier": 1,
-      "xRole": null,
-      "cluster": "normal",
-      "ts": 1793043754
     },
     {
       "id": "rss:e253bfe5467b2607",
@@ -903,6 +667,226 @@
       "xRole": null,
       "cluster": "bloom-bot-exploit",
       "ts": 1793092057
+    },
+    {
+      "id": "rss:1bc8f2450a54a80a",
+      "kind": "news",
+      "title": "U.S. agency hits Utah with lawsuit to shield Kalshi's ability to offer betting there",
+      "url": "https://www.coindesk.com/policy/2026/10/27/u-s-agency-hits-utah-with-lawsuit-to-shield-kalshi-s-ability-to-offer-betting-there",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "prediction-markets-oversight",
+      "ts": 1793128079
+    },
+    {
+      "id": "rss:bf24e34bbed59140",
+      "kind": "news",
+      "title": "Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans",
+      "url": "https://www.coindesk.com/business/2026/10/27/intel-oracle-ibm-join-growing-list-of-firms-objecting-to-okx-ice-tokenized-stock-plans",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "tokenized-stocks-battle",
+      "ts": 1793124782
+    },
+    {
+      "id": "rss:c9ac2f19c712045a",
+      "kind": "news",
+      "title": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
+      "url": "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "stablecoin-regulation",
+      "ts": 1793120347
+    },
+    {
+      "id": "rss:71b1d394fd44bacd",
+      "kind": "news",
+      "title": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
+      "url": "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ripple-trust-bank",
+      "ts": 1793118929
+    },
+    {
+      "id": "rss:af125f1f2bbfd7ae",
+      "kind": "news",
+      "title": "CFTC sues Utah as battle over prediction market regulation intensifies",
+      "url": "https://www.theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "prediction-markets-oversight",
+      "ts": 1793127106
+    },
+    {
+      "id": "rss:d93dbc90866d33ff",
+      "kind": "news",
+      "title": "Crypto.com and OG.com launch US crypto perps with up to 5x leverage",
+      "url": "https://www.theblock.co/news/markets/2026-10-27-crypto-com-og-com-launch-us-crypto-perps-up-to-5x-leverage-431902",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "normal",
+      "ts": 1793120830
+    },
+    {
+      "id": "rss:9d92a3695a55bd02",
+      "kind": "news",
+      "title": "Canton-based trading platform Cancore raises $7.2 million at $60 million token valuation",
+      "url": "https://www.theblock.co/news/deals/2026-10-27-canton-based-trading-platform-cancore-raises-7-2-million-60-million-token-valuation-431906",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "normal",
+      "ts": 1793120350
+    },
+    {
+      "id": "rss:6ebf2ef243dc26b4",
+      "kind": "news",
+      "title": "SoFi discloses 503,000 crypto products as gross crypto revenue hits $162 million",
+      "url": "https://www.theblock.co/news/markets/2026-10-27-sofi-discloses-503000-crypto-products-as-gross-crypto-revenue-hits-162-million-431897",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "normal",
+      "ts": 1793115332
+    },
+    {
+      "id": "rss:678324b148b33f58",
+      "kind": "news",
+      "title": "Ripple, BNY explore using the XRP Ledger to finance approved invoices",
+      "url": "https://www.theblock.co/news/business/2026-10-27-ripple-bny-explore-using-xrp-ledger-finance-approved-invoices-431891",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "normal",
+      "ts": 1793113272
+    },
+    {
+      "id": "rss:db32aadaabbc5d4c",
+      "kind": "news",
+      "title": "Anchorage Positions Itself as Custody Backbone of US-Mexico Stablecoin Corridor",
+      "url": "https://decrypt.co/381988/anchorage-custody-backbone-us-mexico-stablecoin-corridor",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "normal",
+      "ts": 1793130362
+    },
+    {
+      "id": "rss:a1b3ef285e343ecb",
+      "kind": "news",
+      "title": "AI Agents Are Creating a New Layer of Cybersecurity Spending",
+      "url": "https://decrypt.co/381987/ai-agents-creating-new-layer-cybersecurity-spending",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "normal",
+      "ts": 1793128563
+    },
+    {
+      "id": "rss:e54f56c5ef4debea",
+      "kind": "news",
+      "title": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
+      "url": "https://decrypt.co/381998/intel-oracle-ibm-join-objections-okx-ice-tokenized-stock-total-26",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "tokenized-stocks-battle",
+      "ts": 1793126762
+    },
+    {
+      "id": "rss:40cfc564e1c73dab",
+      "kind": "news",
+      "title": "Bitcoin Wallet Maker Keystone Pulls Devices as Stolen Key Opens Door to Fakes",
+      "url": "https://decrypt.co/381983/bitcoin-wallet-keystone-devices-destroyed-stolen-key",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "keystone-breach",
+      "ts": 1793124962
+    },
+    {
+      "id": "rss:3d17bc5de69b2d8c",
+      "kind": "news",
+      "title": "Circle Pushes Deeper Into Latin America With USDC Settlement in Colombia",
+      "url": "https://decrypt.co/381982/circle-pushes-deeper-latin-america-usdc-settlement-colombia",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "normal",
+      "ts": 1793123118
+    },
+    {
+      "id": "rss:c4191bedcdd2b1e1",
+      "kind": "news",
+      "title": "A $3M Hedge, a Midterm Test and Retail's Rise: Prediction Markets at NEXTPredict",
+      "url": "https://decrypt.co/381955/a-3m-hedge-a-midterm-test-and-retails-rise-prediction-markets-at-nextpredict",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "prediction-markets-outlook",
+      "ts": 1793120024
+    },
+    {
+      "id": "rss:96da450a21a53109",
+      "kind": "news",
+      "title": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
+      "url": "https://decrypt.co/381956/opena-eth-false-crypto-twitter-has-questions",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "normal",
+      "ts": 1793119993
+    },
+    {
+      "id": "rss:55d098e481d64d52",
+      "kind": "news",
+      "title": "CFTC sues Utah to block action against prediction markets",
+      "url": "https://cointelegraph.com/news/cftc-lawsuit-utah-action-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "prediction-markets-oversight",
+      "ts": 1793128919
+    },
+    {
+      "id": "rss:8c3d732be9ea5575",
+      "kind": "news",
+      "title": "Majority of Americans want candidates who support US-based financial technology: Poll",
+      "url": "https://cointelegraph.com/news/us-voters-candidates-support-financial-technology-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "normal",
+      "ts": 1793124480
+    },
+    {
+      "id": "rss:83e63efc125bc0f8",
+      "kind": "news",
+      "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
+      "url": "https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "tokenized-stocks-onchain-expansion",
+      "ts": 1793119035
+    },
+    {
+      "id": "rss:c2f8f8107bb3a482",
+      "kind": "news",
+      "title": "USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko",
+      "url": "https://cointelegraph.com/news/usdc-overtakes-usdt-euro-stablecoin-trading-mica-kaiko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "stablecoin-regulation",
+      "ts": 1793116798
     }
   ],
   "digest_queue": [
@@ -927,7 +911,7 @@
           "url": "https://www.coingecko.com/en/coins/quack-ai"
         }
       ],
-      "digested": false
+      "digested": true
     },
     {
       "id": "sports-prediction-markets:2026-10-27",
@@ -951,7 +935,7 @@
           "url": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
         }
       ],
-      "digested": false
+      "digested": true
     },
     {
       "id": "move24:bitway:20753",
@@ -974,7 +958,7 @@
           "url": "https://www.coingecko.com/en/coins/bitway"
         }
       ],
-      "digested": false
+      "digested": true
     },
     {
       "id": "move24:quack-ai:20753",
@@ -997,7 +981,7 @@
           "url": "https://www.coingecko.com/en/coins/quack-ai"
         }
       ],
-      "digested": false
+      "digested": true
     },
     {
       "id": "ripple-trust-bank:2026-10-27",
@@ -1013,7 +997,7 @@
           "url": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
         }
       ],
-      "digested": false
+      "digested": true
     }
   ],
   "sent": {
@@ -1050,7 +1034,9 @@
     "2026-10-27": {
       "critical": 1,
       "important": 7,
-      "digests": []
+      "digests": [
+        "18:30"
+      ]
     }
   },
   "alerted": {
