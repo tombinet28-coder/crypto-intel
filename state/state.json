@@ -1,8 +1,5 @@
 {
   "seen": {
-    "rss:ea43bed0597f16fa": 1792843895.6403446,
-    "rss:6747c33ef5ebecf3": 1792843895.6403456,
-    "rss:0bcc72414470c22b": 1792843895.6403458,
     "rss:df6d79ad7991b718": 1792858337.9888408,
     "rss:14cdf5b43829db24": 1792858337.9888418,
     "rss:5d8aed6b88bfe626": 1792858337.9888422,
@@ -106,142 +103,37 @@
     "rss:a981244b2ea5c87f": 1793089450.394352,
     "rss:cef8ed5dbdd24d41": 1793089450.3943522,
     "rss:c77e0a9aec4ab4f0": 1793089450.3943524,
-    "rss:ed1ec635bd13c5a9": 1793089450.3943527
+    "rss:ed1ec635bd13c5a9": 1793089450.3943527,
+    "rss:a9f5d030670fb69a": 1793112753.2446077,
+    "rss:13f51a69f95827a8": 1793112753.2446084,
+    "rss:d2da5b70efe2bef2": 1793112753.2446089,
+    "rss:6b2837be0f862b00": 1793112753.244609,
+    "rss:3aae13badaee7660": 1793112753.2446094,
+    "rss:63878664dc1ecb0a": 1793112753.2446094,
+    "rss:d19d3a4e53f1e950": 1793112753.2446094,
+    "rss:b1b914e55cbbb869": 1793112753.2446096,
+    "rss:98978948ee7897a5": 1793112753.2446096,
+    "rss:177b4201edfdd458": 1793112753.2446098,
+    "rss:3c4fd6bb7026f9ae": 1793112753.2446098,
+    "rss:97b1c0305bf49c38": 1793112753.24461,
+    "rss:e46acd42c351f67d": 1793112753.24461,
+    "rss:dbd84af69a4d50f6": 1793112753.24461,
+    "rss:30c10b4521ea70e9": 1793112753.2446103,
+    "rss:eb593e840d3dae20": 1793112753.2446103,
+    "rss:603e55c79c73153c": 1793112753.2446103,
+    "rss:4da1cf6a0327aabd": 1793112753.2446105,
+    "rss:31f007e3bff68706": 1793112753.2446105,
+    "rss:e24b25aa6e4765f2": 1793112753.2446105,
+    "rss:5c37abb262c566e4": 1793112753.2446108,
+    "rss:4a9bcc880f76a793": 1793112753.2446108,
+    "rss:ffab211434d7c884": 1793112753.2446108,
+    "rss:1a223102cc9b3ede": 1793112753.244611,
+    "rss:4b7fff0ca0c499d2": 1793112753.244611,
+    "rss:d41add7b4440a679": 1793112753.244611,
+    "rss:5b672ff01764a14f": 1793112753.244611
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:a684c187eadaeb26",
-      "kind": "news",
-      "title": "A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/26/a-usd68-million-bitcoin-bet-is-targeting-a-post-midterm-election-breakout-to-usd90-000",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-price-movement",
-      "ts": 1793015587
-    },
-    {
-      "id": "rss:6c5dd4219384795c",
-      "kind": "news",
-      "title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
-      "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-price-movement",
-      "ts": 1793013873
-    },
-    {
-      "id": "rss:b16905578c4eee11",
-      "kind": "news",
-      "title": "Live news: Bitcoin barely holding $80,000 ahead of Fed on Wednesday, tech earnings this week",
-      "url": "https://www.coindesk.com/tech/2026/10/26/live-news-brent-crude-slides-below-usd110-as-iran-deal-hopes-grow-and-brazil-stocks-sink",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-price-movement",
-      "ts": 1793012731
-    },
-    {
-      "id": "rss:6adc7071f1d0f452",
-      "kind": "news",
-      "title": "Calpers pulls back from big tech as AI jitters deepen neocloud sell-off",
-      "url": "https://www.coindesk.com/markets/2026/10/26/calpers-pulls-back-from-big-tech-as-ai-jitters-deepen-neocloud-sell-off",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "musk-ai-neoclouds",
-      "ts": 1793010780
-    },
-    {
-      "id": "rss:15e97e9fd60d7edb",
-      "kind": "news",
-      "title": "Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead",
-      "url": "https://www.coindesk.com/markets/2026/10/26/fed-ecb-and-boj-interest-rate-decisions-coinbase-earnings-crypto-week-ahead",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-price-movement",
-      "ts": 1793006087
-    },
-    {
-      "id": "rss:153c84fefd45b627",
-      "kind": "news",
-      "title": "Aviva Investors, Ripple launch tokenized share class of $29 billion sterling fund on XRP Ledger",
-      "url": "https://www.theblock.co/news/business/2026-10-26-aviva-investors-ripple-tokenized-share-class-sterling-fund-xrp-ledger-431712",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "tokenized-stocks-okx-ice",
-      "ts": 1793014452
-    },
-    {
-      "id": "rss:6eb94a587c7fb4e0",
-      "kind": "news",
-      "title": "South Korea weighs fourth delay of crypto gains tax, eyes 2029 start: report",
-      "url": "https://www.theblock.co/news/regulation/2026-10-26-south-korea-weighs-fourth-delay-crypto-tax-431649",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "normal",
-      "ts": 1793009162
-    },
-    {
-      "id": "rss:21d4460d3134fbbd",
-      "kind": "news",
-      "title": "Morning Minute: Bitcoin Breaks Below $80,000 as Iran Fears Hit the Weekend",
-      "url": "https://decrypt.co/381797/morning-minute-bitcoin-breaks-below-80000-as-iran-fears-hit-the-weekend",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-price-movement",
-      "ts": 1793016972
-    },
-    {
-      "id": "rss:4edbc4efec591207",
-      "kind": "news",
-      "title": "Israel's Central Bank Rebukes Netanyahu Plan to Use Crypto to Dodge Sanctions",
-      "url": "https://decrypt.co/381789/israels-central-bank-rebukes-netanyahu-plan-to-use-crypto-to-dodge-sanctions",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "netanyahu-blockchain-sanctions",
-      "ts": 1793014448
-    },
-    {
-      "id": "rss:940840bd2777855c",
-      "kind": "news",
-      "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
-      "url": "https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "tokenized-stocks-okx-ice",
-      "ts": 1793014767
-    },
-    {
-      "id": "rss:e4fa6b8e1e7274e9",
-      "kind": "news",
-      "title": "BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week",
-      "url": "https://cointelegraph.com/markets/btc-price-risks-80k-loss-into-fomc-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "btc-price-movement",
-      "ts": 1793011795
-    },
-    {
-      "id": "rss:f55b8be6f277dd26",
-      "kind": "news",
-      "title": "Securitize’s tokenized stock value halves as Circle widens lead",
-      "url": "https://cointelegraph.com/markets/securitizes-tokenized-stock-circle-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "tokenized-stocks-okx-ice",
-      "ts": 1793010301
-    },
     {
       "id": "rss:07a1360d15f0bb17",
       "kind": "news",
@@ -274,39 +166,6 @@
       "xRole": null,
       "cluster": "stablecoin-regulation",
       "ts": 1793029551
-    },
-    {
-      "id": "rss:e14548e162aa5015",
-      "kind": "news",
-      "title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
-      "url": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "normal",
-      "ts": 1793026267
-    },
-    {
-      "id": "rss:98142ecf4a46a5a8",
-      "kind": "news",
-      "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
-      "url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "stablecoin-regulation",
-      "ts": 1793024621
-    },
-    {
-      "id": "rss:55bace365eafed1a",
-      "kind": "news",
-      "title": "AI giant Anthropic files for blockbuster IPO",
-      "url": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "anthropic-ipo",
-      "ts": 1793020929
     },
     {
       "id": "rss:6c681ba96abc2f72",
@@ -351,39 +210,6 @@
       "xRole": null,
       "cluster": "sports-prediction-markets",
       "ts": 1793032057
-    },
-    {
-      "id": "rss:18a28407ad94761c",
-      "kind": "news",
-      "title": "Tom Lee insists ‘crypto bull market is underway’ as Bitmine adds 10,452 ETH",
-      "url": "https://www.theblock.co/news/business/2026-10-26-tom-lee-insists-crypto-bull-market-is-underway-as-bitmine-adds-10452-eth-431743",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "corporate-btc-treasury",
-      "ts": 1793023979
-    },
-    {
-      "id": "rss:2eb44283ef6a43b9",
-      "kind": "news",
-      "title": "Strategy pauses bitcoin buys, repurchases $205 million of STRC preferred shares",
-      "url": "https://www.theblock.co/news/business/2026-10-26-strategy-pauses-bitcoin-buys-repurchases-205-million-of-strc-preferred-shares-431699",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "corporate-btc-treasury",
-      "ts": 1793020994
-    },
-    {
-      "id": "rss:117a21acaebe6ee1",
-      "kind": "news",
-      "title": "Strive closes in on second-largest corporate bitcoin treasury with $511 million purchase",
-      "url": "https://www.theblock.co/news/business/2026-10-26-strive-closes-in-second-largest-corporate-bitcoin-treasury-511-million-purchase-431729",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "corporate-btc-treasury",
-      "ts": 1793020748
     },
     {
       "id": "rss:379521bfcfe0d9d7",
@@ -463,28 +289,6 @@
       "ts": 1793026802
     },
     {
-      "id": "rss:f60593e19b78d668",
-      "kind": "news",
-      "title": "Anthropic Makes IPO Filing Public, Plans Nasdaq Listing Under ‘ANT’",
-      "url": "https://decrypt.co/381818/anthropic-makes-ipo-filing-public-plans-nasdaq-listing-under-ant",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "anthropic-ipo",
-      "ts": 1793022622
-    },
-    {
-      "id": "rss:fb66dbbd3c03f7a5",
-      "kind": "news",
-      "title": "Strategy Pauses Bitcoin Buying, Spends $205M Buying Back STRC",
-      "url": "https://decrypt.co/381811/strategy-pauses-bitcoin-buying-spends-205m-buying-back-strc",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "corporate-btc-treasury",
-      "ts": 1793021078
-    },
-    {
       "id": "rss:24138e62748b44b2",
       "kind": "news",
       "title": "AI company Anthropic announces IPO, expected as early as November",
@@ -527,39 +331,6 @@
       "xRole": null,
       "cluster": "prediction-markets-outlook",
       "ts": 1793030055
-    },
-    {
-      "id": "rss:22f45ca753f3d7cd",
-      "kind": "news",
-      "title": "PHP flaw shows AI ‘vulnerability apocalypse’ is on schedule: Immunefi CEO",
-      "url": "https://cointelegraph.com/news/php-flaw-ai-vulnerability-apocalypse-immunefi-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "normal",
-      "ts": 1793024722
-    },
-    {
-      "id": "rss:b622de8a01964bcc",
-      "kind": "news",
-      "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
-      "url": "https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "corporate-btc-treasury",
-      "ts": 1793021258
-    },
-    {
-      "id": "rss:64212919dc96ca07",
-      "kind": "news",
-      "title": "HOOD’s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein",
-      "url": "https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "prediction-markets-outlook",
-      "ts": 1793020361
     },
     {
       "id": "rss:bb9e81a26c53fe3a",
@@ -835,6 +606,303 @@
       "xRole": null,
       "cluster": "redotpay-ipo",
       "ts": 1793075211
+    },
+    {
+      "id": "rss:a9f5d030670fb69a",
+      "kind": "news",
+      "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
+      "url": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "tokenized-stocks-onchain-expansion",
+      "ts": 1793110870
+    },
+    {
+      "id": "rss:13f51a69f95827a8",
+      "kind": "news",
+      "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock",
+      "url": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "tokenized-stocks-onchain-expansion",
+      "ts": 1793109600
+    },
+    {
+      "id": "rss:d2da5b70efe2bef2",
+      "kind": "news",
+      "title": "Bitcoin miners' move into AI is creating a new market for trading computing power",
+      "url": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-miners-ai-expansion",
+      "ts": 1793106830
+    },
+    {
+      "id": "rss:6b2837be0f862b00",
+      "kind": "news",
+      "title": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-price-movement",
+      "ts": 1793102439
+    },
+    {
+      "id": "rss:3aae13badaee7660",
+      "kind": "news",
+      "title": "Live updates: Bitcoin holds near $80,000 as AI buildout draws investor attention and capital",
+      "url": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-price-movement",
+      "ts": 1793101250
+    },
+    {
+      "id": "rss:63878664dc1ecb0a",
+      "kind": "news",
+      "title": "Japan's top yen stablecoin falls short of its target in a disappointing first year",
+      "url": "https://www.coindesk.com/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "stablecoin-japan-performance",
+      "ts": 1793101072
+    },
+    {
+      "id": "rss:d19d3a4e53f1e950",
+      "kind": "news",
+      "title": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
+      "url": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-price-movement",
+      "ts": 1793100765
+    },
+    {
+      "id": "rss:b1b914e55cbbb869",
+      "kind": "news",
+      "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
+      "url": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "keystone-breach",
+      "ts": 1793099634
+    },
+    {
+      "id": "rss:98978948ee7897a5",
+      "kind": "news",
+      "title": "Investor who called for AI pivot in 2023 says bitcoin is going to $57,000",
+      "url": "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-price-movement",
+      "ts": 1793098671
+    },
+    {
+      "id": "rss:177b4201edfdd458",
+      "kind": "news",
+      "title": "Now is the time to accumulate bitcoin, Galaxy says",
+      "url": "https://www.coindesk.com/markets/2026/10/27/now-is-the-time-to-accumulate-bitcoin-galaxy-says",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-price-movement",
+      "ts": 1793094166
+    },
+    {
+      "id": "rss:3c4fd6bb7026f9ae",
+      "kind": "news",
+      "title": "Galaxy Digital swings to $323 million quarterly profit, announces new $200 million share buyback",
+      "url": "https://www.theblock.co/news/business/2026-10-27-galaxy-digital-323-million-quarterly-profit-new-200-million-share-buyback-431860",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "galaxy-earnings-buyback",
+      "ts": 1793111962
+    },
+    {
+      "id": "rss:97b1c0305bf49c38",
+      "kind": "news",
+      "title": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
+      "url": "https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-miners-ai-expansion",
+      "ts": 1793111528
+    },
+    {
+      "id": "rss:e46acd42c351f67d",
+      "kind": "news",
+      "title": "Crypto Market Structure Explained",
+      "url": "https://www.theblock.co/learn/campus/crypto-market-structure-explained-426489",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "educational-content",
+      "ts": 1793110448
+    },
+    {
+      "id": "rss:dbd84af69a4d50f6",
+      "kind": "news",
+      "title": "Zcash co-founder proposes ending grants subsidy, citing $125 million treasury",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-27-zcash-co-founder-proposes-ending-grants-subsidy-citing-125-million-treasury-431847",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "zcash-grants-proposal",
+      "ts": 1793102717
+    },
+    {
+      "id": "rss:30c10b4521ea70e9",
+      "kind": "news",
+      "title": "Ark Invest buys $5.2 million of Circle shares, sells $15.9 million of its own Bitcoin ETF as BTC grinds lower",
+      "url": "https://www.theblock.co/news/markets/2026-10-27-ark-invest-buys-5-2-million-of-circle-shares-sells-15-9-million-of-its-own-bitcoin-etf-as-btc-grinds-lower-431838",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ark-invest-rebalancing",
+      "ts": 1793098654
+    },
+    {
+      "id": "rss:eb593e840d3dae20",
+      "kind": "news",
+      "title": "McDonald's McRib Doesn't Actually Boost Bitcoin's Price, Sorry Everyone",
+      "url": "https://decrypt.co/381909/mcdonalds-mcrib-doesnt-actually-boost-bitcoins-price-sorry-everyone",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "market-analysis",
+      "ts": 1793111462
+    },
+    {
+      "id": "rss:603e55c79c73153c",
+      "kind": "news",
+      "title": "Polymarket Has Investigated 'Dozens' of Midterm Election Bets: Report",
+      "url": "https://decrypt.co/381936/polymarket-has-investigated-dozens-of-midterm-election-bets-report",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "prediction-markets-oversight",
+      "ts": 1793109178
+    },
+    {
+      "id": "rss:4da1cf6a0327aabd",
+      "kind": "news",
+      "title": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push",
+      "url": "https://decrypt.co/381847/bitcoin-mining-firm-luxor-raises-16-million-ai-compute",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-miners-ai-expansion",
+      "ts": 1793106068
+    },
+    {
+      "id": "rss:31f007e3bff68706",
+      "kind": "news",
+      "title": "Morning Minute: Tokenized Stock Battle Looms Over Robinhood’s Earnings Call",
+      "url": "https://decrypt.co/381907/morning-minute-tokenized-stock-battle-looms-over-robinhoods-earnings-call",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "tokenized-stocks-battle",
+      "ts": 1793105998
+    },
+    {
+      "id": "rss:e24b25aa6e4765f2",
+      "kind": "news",
+      "title": "Why This Team of Ninjas Is Tripling Down on Mining Bitcoin",
+      "url": "https://decrypt.co/381906/why-this-team-of-ninjas-is-tripling-down-on-mining-bitcoin",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "btc-mining-expansion",
+      "ts": 1793101611
+    },
+    {
+      "id": "rss:5c37abb262c566e4",
+      "kind": "news",
+      "title": "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
+      "url": "https://decrypt.co/381899/ripple-wins-final-occ-approval-for-trust-bank-behind-2-6b-rlusd-stablecoin",
+      "source": "Decrypt",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ripple-trust-bank",
+      "ts": 1793096206
+    },
+    {
+      "id": "rss:4a9bcc880f76a793",
+      "kind": "news",
+      "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
+      "url": "https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "crypto-vs-ai-performance",
+      "ts": 1793107800
+    },
+    {
+      "id": "rss:ffab211434d7c884",
+      "kind": "news",
+      "title": "Hayes details FLOP’s AI compute derivatives vision after selling his altcoins",
+      "url": "https://cointelegraph.com/news/hayes-flop-ai-compute-vision-selling-altcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "ai-compute-derivatives",
+      "ts": 1793106070
+    },
+    {
+      "id": "rss:1a223102cc9b3ede",
+      "kind": "news",
+      "title": "Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence",
+      "url": "https://cointelegraph.com/news/luxor-raises-16m-ai-bitcoin-miner-convergence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "btc-miners-ai-expansion",
+      "ts": 1793106060
+    },
+    {
+      "id": "rss:4b7fff0ca0c499d2",
+      "kind": "news",
+      "title": "Bitcoin price analysis sees ‘strong rally’ as old coins become dormant",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-analysis-sees-strong-rally-as-old-coins-become-dormant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "btc-price-movement",
+      "ts": 1793103504
+    },
+    {
+      "id": "rss:d41add7b4440a679",
+      "kind": "news",
+      "title": "Zcash co-founder calls to stop funding ‘over $125M’ grants program",
+      "url": "https://cointelegraph.com/news/zcash-co-founder-ending-zcg-funding-125m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "zcash-grants-proposal",
+      "ts": 1793095231
+    },
+    {
+      "id": "rss:5b672ff01764a14f",
+      "kind": "news",
+      "title": "Bloom bot hackers loot $953K faster than you can microwave popcorn",
+      "url": "https://cointelegraph.com/news/bloom-bot-hackers-953k-faster-popcorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "bloom-bot-exploit",
+      "ts": 1793092057
     }
   ],
   "digest_queue": [
@@ -980,8 +1048,8 @@
       "digests": []
     },
     "2026-10-27": {
-      "critical": 0,
-      "important": 1,
+      "critical": 1,
+      "important": 7,
       "digests": []
     }
   },
@@ -1213,8 +1281,14 @@
     "stablecoin-regulation": "important",
     "hyperliquid-regulation": "important",
     "sports-prediction-markets": "important",
-    "ripple-trust-bank": "important",
-    "ethereum-glamsterdam-bug": "important"
+    "ripple-trust-bank": "critical",
+    "ethereum-glamsterdam-bug": "important",
+    "tokenized-stocks-onchain-expansion": "important",
+    "btc-miners-ai-expansion": "important",
+    "zcash-grants-proposal": "important",
+    "prediction-markets-oversight": "important",
+    "tokenized-stocks-battle": "important",
+    "bloom-bot-exploit": "important"
   },
   "briefing_attempts": {
     "2026-10-21": 2,
