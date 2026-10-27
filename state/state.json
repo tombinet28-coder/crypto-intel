@@ -1,6 +1,5 @@
 {
   "seen": {
-    "rss:7f5533f2e777c256": 1792826122.9184594,
     "rss:ea43bed0597f16fa": 1792843895.6403446,
     "rss:6747c33ef5ebecf3": 1792843895.6403456,
     "rss:0bcc72414470c22b": 1792843895.6403458,
@@ -97,98 +96,20 @@
     "rss:7c02360a8ab51790": 1793067744.397113,
     "rss:4594570b69253822": 1793067744.3971133,
     "move24:bitway:20753": 1793067744.397196,
-    "move24:quack-ai:20753": 1793067744.3972144
+    "move24:quack-ai:20753": 1793067744.3972144,
+    "rss:b56d47ca791fcb85": 1793089450.394349,
+    "rss:f53e2dc2d784a00a": 1793089450.3943503,
+    "rss:b4341a401c7132a6": 1793089450.3943508,
+    "rss:58b1d41456044f7f": 1793089450.394351,
+    "rss:fce9940106ecc6b5": 1793089450.3943517,
+    "rss:52799aecf3b2409c": 1793089450.394352,
+    "rss:a981244b2ea5c87f": 1793089450.394352,
+    "rss:cef8ed5dbdd24d41": 1793089450.3943522,
+    "rss:c77e0a9aec4ab4f0": 1793089450.3943524,
+    "rss:ed1ec635bd13c5a9": 1793089450.3943527
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:c3859884fb76269f",
-      "kind": "news",
-      "title": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
-      "url": "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "coindcx-breach",
-      "ts": 1792993157
-    },
-    {
-      "id": "rss:128bbb42a21b9700",
-      "kind": "news",
-      "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
-      "url": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-wallet-bug",
-      "ts": 1792991720
-    },
-    {
-      "id": "rss:225db51341cd59b3",
-      "kind": "news",
-      "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
-      "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "btc-price-movement",
-      "ts": 1792989422
-    },
-    {
-      "id": "rss:6f9bb62e3bfc0cb0",
-      "kind": "news",
-      "title": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
-      "url": "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "musk-ai-neoclouds",
-      "ts": 1792984299
-    },
-    {
-      "id": "rss:043a2bf5f6f78168",
-      "kind": "news",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "daily-digest",
-      "ts": 1792993484
-    },
-    {
-      "id": "rss:07bb4c90d71ba3a2",
-      "kind": "news",
-      "title": "Musk warns over 200 AI neoclouds face ‘guppy-level death’",
-      "url": "https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "musk-ai-neoclouds",
-      "ts": 1792991613
-    },
-    {
-      "id": "rss:fca4c031bc6d9993",
-      "kind": "news",
-      "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
-      "url": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "solana-hong-kong",
-      "ts": 1792984886
-    },
-    {
-      "id": "rss:77947d5a8ac9ae5d",
-      "kind": "news",
-      "title": "Keystone says website breach exposed hardware wallet buyers’ addresses",
-      "url": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "keystone-breach",
-      "ts": 1792981444
-    },
     {
       "id": "rss:a684c187eadaeb26",
       "kind": "news",
@@ -243,17 +164,6 @@
       "xRole": null,
       "cluster": "btc-price-movement",
       "ts": 1793006087
-    },
-    {
-      "id": "rss:655213fe8d75b1cd",
-      "kind": "news",
-      "title": "Over 11 million bitcoin has no known owner. Here's what it means",
-      "url": "https://www.coindesk.com/markets/2026/10/26/over-11-million-btc-can-t-be-linked-to-any-known-owner-even-after-wall-street-buying",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "normal",
-      "ts": 1792999104
     },
     {
       "id": "rss:153c84fefd45b627",
@@ -331,17 +241,6 @@
       "xRole": null,
       "cluster": "tokenized-stocks-okx-ice",
       "ts": 1793010301
-    },
-    {
-      "id": "rss:bbdc28aa6b708678",
-      "kind": "news",
-      "title": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
-      "url": "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "btc-etf-flows",
-      "ts": 1793002849
     },
     {
       "id": "rss:07a1360d15f0bb17",
@@ -826,6 +725,116 @@
       "xRole": null,
       "cluster": "ripple-trust-bank",
       "ts": 1793059601
+    },
+    {
+      "id": "rss:b56d47ca791fcb85",
+      "kind": "news",
+      "title": "Solana bug reports now cost 1 SOL as AI floods security teams with spam",
+      "url": "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "solana-spam-security",
+      "ts": 1793087044
+    },
+    {
+      "id": "rss:f53e2dc2d784a00a",
+      "kind": "news",
+      "title": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
+      "url": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ethereum-glamsterdam-bug",
+      "ts": 1793084996
+    },
+    {
+      "id": "rss:b4341a401c7132a6",
+      "kind": "news",
+      "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
+      "url": "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "zcash-grants-proposal",
+      "ts": 1793081681
+    },
+    {
+      "id": "rss:58b1d41456044f7f",
+      "kind": "news",
+      "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
+      "url": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
+      "source": "CoinDesk",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ripple-trust-bank",
+      "ts": 1793075329
+    },
+    {
+      "id": "rss:a981244b2ea5c87f",
+      "kind": "news",
+      "title": "Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight",
+      "url": "https://www.theblock.co/news/regulation/2026-10-26-ripple-gains-final-occ-approval-rlusd-431810",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "ripple-trust-bank",
+      "ts": 1793068098
+    },
+    {
+      "id": "rss:fce9940106ecc6b5",
+      "kind": "news",
+      "title": "Circle faces up to 20% revenue risk from AI agents, Mizuho says",
+      "url": "https://www.theblock.co/news/business/2026-10-27-mizuho-cuts-circle-price-target-431826",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "circle-ai-revenue-risk",
+      "ts": 1793082514
+    },
+    {
+      "id": "rss:52799aecf3b2409c",
+      "kind": "news",
+      "title": "StoneX lifts Strive price target 34% as new stock offering bolsters bitcoin strategy",
+      "url": "https://www.theblock.co/news/business/2026-10-26-stonex-lifts-strive-price-target-431818",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "strive-bitcoin-treasury",
+      "ts": 1793073487
+    },
+    {
+      "id": "rss:cef8ed5dbdd24d41",
+      "kind": "news",
+      "title": "Binance files for Brazil crypto license ahead of Friday deadline",
+      "url": "https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "binance-brazil-license",
+      "ts": 1793088261
+    },
+    {
+      "id": "rss:c77e0a9aec4ab4f0",
+      "kind": "news",
+      "title": "Bitcoin ETFs claw back $110M after $774M exit",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "btc-etf-flows",
+      "ts": 1793086537
+    },
+    {
+      "id": "rss:ed1ec635bd13c5a9",
+      "kind": "news",
+      "title": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
+      "url": "https://cointelegraph.com/news/redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "redotpay-ipo",
+      "ts": 1793075211
     }
   ],
   "digest_queue": [
@@ -972,7 +981,7 @@
     },
     "2026-10-27": {
       "critical": 0,
-      "important": 0,
+      "important": 1,
       "digests": []
     }
   },
@@ -1204,15 +1213,16 @@
     "stablecoin-regulation": "important",
     "hyperliquid-regulation": "important",
     "sports-prediction-markets": "important",
-    "ripple-trust-bank": "important"
+    "ripple-trust-bank": "important",
+    "ethereum-glamsterdam-bug": "important"
   },
   "briefing_attempts": {
-    "2026-10-20": 1,
     "2026-10-21": 2,
     "2026-10-22": 1,
     "2026-10-23": 2,
     "2026-10-24": 1,
     "2026-10-25": 1,
-    "2026-10-26": 1
+    "2026-10-26": 1,
+    "2026-10-27": 1
   }
 }
