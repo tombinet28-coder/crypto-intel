@@ -1,10 +1,5 @@
 {
   "seen": {
-    "rss:0085f5e35b837d67": 1792797955.9382648,
-    "rss:035780ef93e455a2": 1792797955.938266,
-    "rss:5e248f9cd718d737": 1792797955.9382663,
-    "rss:f2b34044004bb03d": 1792797955.9382665,
-    "rss:59eb055c3a18f9be": 1792797955.938267,
     "rss:7f5533f2e777c256": 1792826122.9184594,
     "rss:ea43bed0597f16fa": 1792843895.6403446,
     "rss:6747c33ef5ebecf3": 1792843895.6403456,
@@ -97,21 +92,15 @@
     "rss:73ae7e4637445e21": 1793056654.362702,
     "rss:997046fc18a7bb54": 1793056654.3627021,
     "rss:c6b928b3b012d50d": 1793056654.3627021,
-    "move24:quack-ai:20752": 1793056654.3627937
+    "move24:quack-ai:20752": 1793056654.3627937,
+    "rss:e253bfe5467b2607": 1793067744.3971121,
+    "rss:7c02360a8ab51790": 1793067744.397113,
+    "rss:4594570b69253822": 1793067744.3971133,
+    "move24:bitway:20753": 1793067744.397196,
+    "move24:quack-ai:20753": 1793067744.3972144
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:e54e8e34b9aa8fe5",
-      "kind": "news",
-      "title": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin",
-      "url": "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "anchorpoint-retail-stablecoin",
-      "ts": 1792973609
-    },
     {
       "id": "rss:c3859884fb76269f",
       "kind": "news",
@@ -804,6 +793,39 @@
       "xRole": null,
       "cluster": "normal",
       "ts": 1793043754
+    },
+    {
+      "id": "rss:e253bfe5467b2607",
+      "kind": "news",
+      "title": "BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins",
+      "url": "https://www.theblock.co/news/business/2026-10-26-blackrock-sbi-startale-mou-431642",
+      "source": "The Block",
+      "tier": 2,
+      "xRole": null,
+      "cluster": "tokenized-stocks-okx-ice",
+      "ts": 1793062800
+    },
+    {
+      "id": "rss:7c02360a8ab51790",
+      "kind": "news",
+      "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
+      "url": "https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "keystone-breach",
+      "ts": 1793066103
+    },
+    {
+      "id": "rss:4594570b69253822",
+      "kind": "news",
+      "title": "Ripple wins final US approval for national trust bank",
+      "url": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "tier": 3,
+      "xRole": null,
+      "cluster": "ripple-trust-bank",
+      "ts": 1793059601
     }
   ],
   "digest_queue": [
@@ -850,6 +872,68 @@
         {
           "name": "Cointelegraph",
           "url": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "move24:bitway:20753",
+      "kind": "price",
+      "level": "important",
+      "title": "BTW -26.0 % en 24 h (rang 51)",
+      "summary": "Mouvement inhabituel dans le top 100 : cause à vérifier.",
+      "url": "https://www.coingecko.com/en/coins/bitway",
+      "source": "CoinGecko",
+      "tier": 1,
+      "assets": [
+        "BTW"
+      ],
+      "ts": 1793067744.3971696,
+      "time": "03:22",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "CoinGecko",
+          "url": "https://www.coingecko.com/en/coins/bitway"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "move24:quack-ai:20753",
+      "kind": "price",
+      "level": "important",
+      "title": "Q +308.4 % en 24 h (rang 73)",
+      "summary": "Mouvement inhabituel dans le top 100 : cause à vérifier.",
+      "url": "https://www.coingecko.com/en/coins/quack-ai",
+      "source": "CoinGecko",
+      "tier": 1,
+      "assets": [
+        "Q"
+      ],
+      "ts": 1793067744.397183,
+      "time": "03:22",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "CoinGecko",
+          "url": "https://www.coingecko.com/en/coins/quack-ai"
+        }
+      ],
+      "digested": false
+    },
+    {
+      "id": "ripple-trust-bank:2026-10-27",
+      "level": "important",
+      "time": "03:22",
+      "title": "Ripple obtient l'approbation finale américaine pour créer une banque de confiance nationale",
+      "summary": "Ripple a reçu l'autorisation définitive pour exploiter une banque de confiance nationale, ce qui lui permettra de gérer les réserves adossant son stablecoin RLUSD et de fournir des services de garde d'actifs numériques. Ceci valide le modèle réglementaire de Ripple aux États-Unis.",
+      "assets": [],
+      "confidence": "unconfirmed",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
         }
       ],
       "digested": false
@@ -1119,7 +1203,8 @@
     "solana-hong-kong": "important",
     "stablecoin-regulation": "important",
     "hyperliquid-regulation": "important",
-    "sports-prediction-markets": "important"
+    "sports-prediction-markets": "important",
+    "ripple-trust-bank": "important"
   },
   "briefing_attempts": {
     "2026-10-20": 1,
