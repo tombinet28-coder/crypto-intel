@@ -146,43 +146,18 @@
     "rss:75d67c65d8c9b3af": 1793144576.7128668,
     "rss:6fe0e169b31eed7c": 1793144576.712867,
     "rss:e18a6a6249e44893": 1793144576.7128673,
-    "rss:c07fa9c25d785955": 1793144576.7128675
+    "rss:c07fa9c25d785955": 1793144576.7128675,
+    "rss:2cc5194e3bbf22b8": 1793165194.8741462,
+    "rss:44995bd9317234ef": 1793165194.8741474,
+    "rss:7191f5213989363e": 1793165194.874148,
+    "rss:0618414c5d918e11": 1793165194.8741481,
+    "rss:a8df74f7d1fdf283": 1793165194.8741484,
+    "rss:746f77847f0fba88": 1793165194.8741486,
+    "rss:390b16142873d92e": 1793165194.8741488,
+    "move24:bitway:20754": 1793165194.8742657
   },
   "x_since": {},
   "recent": [
-    {
-      "id": "rss:e253bfe5467b2607",
-      "kind": "news",
-      "title": "BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins",
-      "url": "https://www.theblock.co/news/business/2026-10-26-blackrock-sbi-startale-mou-431642",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "tokenized-stocks-okx-ice",
-      "ts": 1793062800
-    },
-    {
-      "id": "rss:7c02360a8ab51790",
-      "kind": "news",
-      "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
-      "url": "https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "keystone-breach",
-      "ts": 1793066103
-    },
-    {
-      "id": "rss:4594570b69253822",
-      "kind": "news",
-      "title": "Ripple wins final US approval for national trust bank",
-      "url": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "ripple-trust-bank",
-      "ts": 1793059601
-    },
     {
       "id": "rss:b56d47ca791fcb85",
       "kind": "news",
@@ -217,28 +192,6 @@
       "ts": 1793081681
     },
     {
-      "id": "rss:58b1d41456044f7f",
-      "kind": "news",
-      "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
-      "url": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ripple-trust-bank",
-      "ts": 1793075329
-    },
-    {
-      "id": "rss:a981244b2ea5c87f",
-      "kind": "news",
-      "title": "Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight",
-      "url": "https://www.theblock.co/news/regulation/2026-10-26-ripple-gains-final-occ-approval-rlusd-431810",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "ripple-trust-bank",
-      "ts": 1793068098
-    },
-    {
       "id": "rss:fce9940106ecc6b5",
       "kind": "news",
       "title": "Circle faces up to 20% revenue risk from AI agents, Mizuho says",
@@ -248,17 +201,6 @@
       "xRole": null,
       "cluster": "circle-ai-revenue-risk",
       "ts": 1793082514
-    },
-    {
-      "id": "rss:52799aecf3b2409c",
-      "kind": "news",
-      "title": "StoneX lifts Strive price target 34% as new stock offering bolsters bitcoin strategy",
-      "url": "https://www.theblock.co/news/business/2026-10-26-stonex-lifts-strive-price-target-431818",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "strive-bitcoin-treasury",
-      "ts": 1793073487
     },
     {
       "id": "rss:cef8ed5dbdd24d41",
@@ -281,17 +223,6 @@
       "xRole": null,
       "cluster": "btc-etf-flows",
       "ts": 1793086537
-    },
-    {
-      "id": "rss:ed1ec635bd13c5a9",
-      "kind": "news",
-      "title": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
-      "url": "https://cointelegraph.com/news/redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "redotpay-ipo",
-      "ts": 1793075211
     },
     {
       "id": "rss:a9f5d030670fb69a",
@@ -920,6 +851,29 @@
         }
       ],
       "digested": true
+    },
+    {
+      "id": "move24:bitway:20754",
+      "kind": "price",
+      "level": "important",
+      "title": "BTW +35.0 % en 24 h (rang 41)",
+      "summary": "Mouvement inhabituel dans le top 100 : cause à vérifier.",
+      "url": "https://www.coingecko.com/en/coins/bitway",
+      "source": "CoinGecko",
+      "tier": 1,
+      "assets": [
+        "BTW"
+      ],
+      "ts": 1793165194.874212,
+      "time": "06:26",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "name": "CoinGecko",
+          "url": "https://www.coingecko.com/en/coins/bitway"
+        }
+      ],
+      "digested": false
     }
   ],
   "sent": {
@@ -1199,12 +1153,12 @@
     "bloom-bot-exploit": "important"
   },
   "briefing_attempts": {
-    "2026-10-21": 2,
     "2026-10-22": 1,
     "2026-10-23": 2,
     "2026-10-24": 1,
     "2026-10-25": 1,
     "2026-10-26": 1,
-    "2026-10-27": 1
+    "2026-10-27": 1,
+    "2026-10-28": 1
   }
 }
