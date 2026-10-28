@@ -1,11 +1,5 @@
 {
   "seen": {
-    "rss:12098990027f6760": 1792949774.1938336,
-    "rss:d37fddecc3cb6bc4": 1792949774.193835,
-    "rss:b61fce8eadd43ee0": 1792949774.1938353,
-    "rss:2034bd41ea2cb159": 1792949774.1938355,
-    "rss:b2377b769c0aca0a": 1792949774.1938357,
-    "rss:9d2ad0b63bb372b9": 1792958146.63931,
     "rss:e54e8e34b9aa8fe5": 1792975176.5439794,
     "rss:cb664b50b0f888d3": 1792975176.543981,
     "rss:c3859884fb76269f": 1792994613.7154527,
@@ -196,121 +190,25 @@
     "rss:1c04b9ab2cdaef11": 1793207998.7187555,
     "rss:33f5738240e3f749": 1793207998.7187555,
     "rss:95916d2212d64d44": 1793207998.7187557,
-    "rss:9658921b2ce295e2": 1793207998.7187557
+    "rss:9658921b2ce295e2": 1793207998.7187557,
+    "rss:f64d7448dae8c66f": 1793224393.863645,
+    "rss:272a613f2d4e4d48": 1793224393.8636463,
+    "rss:d5793047b3cf1129": 1793224393.8636467,
+    "rss:c32109048767c524": 1793224393.863647,
+    "rss:e708110a861bc83d": 1793224393.8636475,
+    "rss:12a1e39bb96c1c72": 1793224393.8636475,
+    "rss:69e0c1e8a9a7d3b1": 1793224393.8636477,
+    "rss:a66f0e16f79c9352": 1793224393.863648,
+    "rss:1481d7233b46690e": 1793224393.863648,
+    "rss:f79a0a3682c4ce11": 1793224393.8636482,
+    "rss:918a8d06285b082c": 1793224393.8636482,
+    "rss:8557a209ec803fdf": 1793224393.8636484,
+    "rss:20c49b8598809b46": 1793224393.8636484,
+    "rss:2bf2553370526976": 1793224393.8636487,
+    "rss:5c86e403528934cd": 1793224393.8636487
   },
   "x_since": {},
-  "recent": [
-    {
-      "id": "rss:1bc8f2450a54a80a",
-      "kind": "news",
-      "title": "U.S. agency hits Utah with lawsuit to shield Kalshi's ability to offer betting there",
-      "url": "https://www.coindesk.com/policy/2026/10/27/u-s-agency-hits-utah-with-lawsuit-to-shield-kalshi-s-ability-to-offer-betting-there",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "prediction-markets-oversight",
-      "ts": 1793128079
-    },
-    {
-      "id": "rss:bf24e34bbed59140",
-      "kind": "news",
-      "title": "Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans",
-      "url": "https://www.coindesk.com/business/2026/10/27/intel-oracle-ibm-join-growing-list-of-firms-objecting-to-okx-ice-tokenized-stock-plans",
-      "source": "CoinDesk",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "tokenized-stocks-battle",
-      "ts": 1793124782
-    },
-    {
-      "id": "rss:af125f1f2bbfd7ae",
-      "kind": "news",
-      "title": "CFTC sues Utah as battle over prediction market regulation intensifies",
-      "url": "https://www.theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922",
-      "source": "The Block",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "prediction-markets-oversight",
-      "ts": 1793127106
-    },
-    {
-      "id": "rss:db32aadaabbc5d4c",
-      "kind": "news",
-      "title": "Anchorage Positions Itself as Custody Backbone of US-Mexico Stablecoin Corridor",
-      "url": "https://decrypt.co/381988/anchorage-custody-backbone-us-mexico-stablecoin-corridor",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "normal",
-      "ts": 1793130362
-    },
-    {
-      "id": "rss:a1b3ef285e343ecb",
-      "kind": "news",
-      "title": "AI Agents Are Creating a New Layer of Cybersecurity Spending",
-      "url": "https://decrypt.co/381987/ai-agents-creating-new-layer-cybersecurity-spending",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "normal",
-      "ts": 1793128563
-    },
-    {
-      "id": "rss:e54f56c5ef4debea",
-      "kind": "news",
-      "title": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
-      "url": "https://decrypt.co/381998/intel-oracle-ibm-join-objections-okx-ice-tokenized-stock-total-26",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "tokenized-stocks-battle",
-      "ts": 1793126762
-    },
-    {
-      "id": "rss:40cfc564e1c73dab",
-      "kind": "news",
-      "title": "Bitcoin Wallet Maker Keystone Pulls Devices as Stolen Key Opens Door to Fakes",
-      "url": "https://decrypt.co/381983/bitcoin-wallet-keystone-devices-destroyed-stolen-key",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "keystone-breach",
-      "ts": 1793124962
-    },
-    {
-      "id": "rss:3d17bc5de69b2d8c",
-      "kind": "news",
-      "title": "Circle Pushes Deeper Into Latin America With USDC Settlement in Colombia",
-      "url": "https://decrypt.co/381982/circle-pushes-deeper-latin-america-usdc-settlement-colombia",
-      "source": "Decrypt",
-      "tier": 2,
-      "xRole": null,
-      "cluster": "normal",
-      "ts": 1793123118
-    },
-    {
-      "id": "rss:55d098e481d64d52",
-      "kind": "news",
-      "title": "CFTC sues Utah to block action against prediction markets",
-      "url": "https://cointelegraph.com/news/cftc-lawsuit-utah-action-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "prediction-markets-oversight",
-      "ts": 1793128919
-    },
-    {
-      "id": "rss:8c3d732be9ea5575",
-      "kind": "news",
-      "title": "Majority of Americans want candidates who support US-based financial technology: Poll",
-      "url": "https://cointelegraph.com/news/us-voters-candidates-support-financial-technology-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "tier": 3,
-      "xRole": null,
-      "cluster": "normal",
-      "ts": 1793124480
-    }
-  ],
+  "recent": [],
   "digest_queue": [
     {
       "id": "move24:quack-ai:20752",
